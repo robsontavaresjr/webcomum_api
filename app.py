@@ -8,5 +8,10 @@ api = Flask(__name__)
 def get_companies():
   return json.dumps(companies)
 
+@api.route('/genericos', methods=['GET'])
+def get_genericos():
+    f=open('inicio_genericos.json', 'r')
+    return json.dumps(f.read())
+
 if __name__ == '__main__':
     api.run()
