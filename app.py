@@ -7,7 +7,7 @@ import pandas as pd
 app = FlaskAPI(__name__)
 
 
-@app.route('/example/')
+@app.route('/')
 def example():
     return {'hello': 'world'}
 
