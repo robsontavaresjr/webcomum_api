@@ -11,7 +11,7 @@ def get_companies():
 @api.route('/genericos', methods=['GET'])
 def get_genericos():
     with open('inicio_genericos.json') as data_file:
-        data = json.load(data_file)
+        data = json.dump(data_file)
     return data
 
 if __name__ == '__main__':
