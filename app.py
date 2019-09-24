@@ -1,16 +1,12 @@
-import os
+from flask import Flask, json
 
-from flask_api import FlaskAPI
-import pandas as pd
+companies = [{"id": 1, "name": "Company One"}, {"id": 2, "name": "Company Two"}]
 
+api = Flask(__name__)
 
-app = FlaskAPI(__name__)
+@api.route('/companies', methods=['GET'])
+def get_companies():
+  return json.dumps(companies)
 
-
-@app.route('/')
-def example():
-    return {'hello': 'world'}
-
-if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 5000))
-    app.run(host='0.0.0.0', port=port)
+if __name__ == '__main__':
+    api.run()
