@@ -10,8 +10,9 @@ def get_companies():
 
 @api.route('/genericos', methods=['GET'])
 def get_genericos():
-    f=open('inicio_genericos.json', 'r')
-    return json.dumps(f.read())
+    with open('inicio_genericos.json') as data_file:
+        data = json.load(data_file)
+    return data
 
 if __name__ == '__main__':
     api.run()
