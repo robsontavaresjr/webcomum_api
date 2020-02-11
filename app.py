@@ -30,7 +30,7 @@ def get_ganho():
 def get_otc():
     with open('inicio_farmacia_familia.json', 'r', encoding='utf-8') as data_file:
         data = json.loads(data_file.read())
-    return str(data)\
+    return str(data)
 
 @api.route('/P29hbnVvLXNhZGlkbmV2X3NlZGFkaW51', methods=['GET'])
 def get_vendas():
