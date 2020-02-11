@@ -46,42 +46,42 @@ def get_vendas():
 
 
 @api.route('/29tb3NPc01haW9yZXM=', methods=['GET'])
-def get_vendas():
+def get_campanha():
     with open('inicio_campanha.json', 'r', encoding='utf-8') as data_file:
         data = json.loads(data_file.read())
     return str(data)
 
 
 @api.route('/T0Nhb0h1bWFub0ZvaUFQcmFpYQ===', methods=['GET'])
-def get_vendas():
+def get_lab_campanha():
     with open('lab_inicio_campanha.json', 'r', encoding='utf-8') as data_file:
         data = json.loads(data_file.read())
     return str(data)
 
 
 @api.route('/VGFDaGVnYW5kb09BbG1vY28=', methods=['GET'])
-def get_vendas():
+def get_lab_ganhos():
     with open('lab_inicio_ganhos.json', 'r', encoding='utf-8') as data_file:
         data = json.loads(data_file.read())
     return str(data)
 
 
 @api.route('/TWV1VGVsZW1vdmVsQ2FpdURlbnRyb0RhU2FuaXRh=', methods=['GET'])
-def get_vendas():
+def get_lab_parceria():
     with open('lab_parceria.json', 'r', encoding='utf-8') as data_file:
         data = json.loads(data_file.read())
     return str(data)
 
 
 @api.route('/T0NhbGVuZGFyaW9NYXJjb3VVbWFWaWFnZW1QYXJhUm9tYQ==', methods=['GET'])
-def get_vendas():
+def get_lab_parceria_otc():
     with open('lab_parceria_otc.json', 'r', encoding='utf-8') as data_file:
         data = json.loads(data_file.read())
     return str(data)
 
 
 @api.route('/T0VzY3JpdG9yaW9FRGVNYWx1Y29z', methods=['GET'])
-def get_vendas():
+def get_lab_parceria_genericos():
     with open('lab_parceria_otc.json', 'r', encoding='utf-8') as data_file:
         data = json.loads(data_file.read())
     return str(data)
