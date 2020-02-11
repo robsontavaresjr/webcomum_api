@@ -4,9 +4,11 @@ companies = [{"id": 1, "name": "Company One"}, {"id": 2, "name": "Company Two"}]
 
 api = Flask(__name__)
 
+
 @api.route('/', methods=['GET'])
 def get_companies():
-  return json.dumps(companies)
+    return json.dumps(companies)
+
 
 @api.route('/b3Ryb3BfaHRsYWVoX29wdXJnX3NvY2lyZW5lZw==', methods=['GET'])
 def get_genericos():
@@ -14,11 +16,13 @@ def get_genericos():
         data = json.loads(data_file.read())
     return str(data)
 
+
 @api.route('/ZXRpY29zX2dydXBvX2hlYWx0aF9wb3J0bw==', methods=['GET'])
 def get_eticos():
     with open('inicio_eticos.json', 'r', encoding='utf-8') as data_file:
         data = json.loads(data_file.read())
     return str(data)
+
 
 @api.route('/YXMgZmFybWFjaWFzIHRhbyByaWNhcw==', methods=['GET'])
 def get_ganho():
@@ -26,11 +30,13 @@ def get_ganho():
         data = json.loads(data_file.read())
     return str(data)
 
+
 @api.route('/YXNldWd1dHJvcCBhaWxpbWFmIGxhbm9pY2lkYXJ0IGFkIGFpY2FtcmFm', methods=['GET'])
 def get_otc():
     with open('inicio_farmacia_familia.json', 'r', encoding='utf-8') as data_file:
         data = json.loads(data_file.read())
     return str(data)
+
 
 @api.route('/P29hbnVvLXNhZGlkbmV2X3NlZGFkaW51', methods=['GET'])
 def get_vendas():
@@ -38,7 +44,8 @@ def get_vendas():
         data = json.loads(data_file.read())
     return str(data)
 
-@api.route('/U29tb3NPc01haW9yZXM=', methods=['GET'])
+
+@api.route('/29tb3NPc01haW9yZXM=', methods=['GET'])
 def get_vendas():
     with open('inicio_campanha.json', 'r', encoding='utf-8') as data_file:
         data = json.loads(data_file.read())
@@ -78,7 +85,6 @@ def get_vendas():
     with open('lab_parceria_otc.json', 'r', encoding='utf-8') as data_file:
         data = json.loads(data_file.read())
     return str(data)
-
 
 
 if __name__ == '__main__':
