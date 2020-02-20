@@ -1,229 +1,14 @@
 [
   {
     "data": "20200219",
-    "lab": "Alfasigma Portugal",
+    "lab": "Bluepharma",
     "0": [
       {
-        "q_lab_sellout": 23203.0,
-        "pvp_lab_sellout": 258549.762043059,
-        "quota": 0.1,
-        "sellin": 0
-      }
-    ]
-  },
-  {
-    "data": "20200219",
-    "lab": "Bial",
-    "0": [
-      {
-        "q_lab_sellout": 672804.0,
-        "pvp_lab_sellout": 11313089.5902335,
-        "quota": 0.1,
-        "sellin": 0
-      }
-    ]
-  },
-  {
-    "data": "20200219",
-    "lab": "Ferraz Lynce",
-    "0": [
-      {
-        "q_lab_sellout": 128.0,
-        "pvp_lab_sellout": 638.685,
-        "quota": 0.1,
-        "sellin": 0
-      }
-    ]
-  },
-  {
-    "data": "20200219",
-    "lab": "Generis",
-    "0": [
-      {
-        "q_lab_sellout": 36328131.0,
-        "pvp_lab_sellout": 211424808.967193,
-        "quota": 0.1,
-        "sellin": 0
-      }
-    ]
-  },
-  {
-    "data": "20200219",
-    "lab": "GlaxoSmithKline",
-    "0": [
-      {
-        "q_lab_sellout": 1543717.0,
-        "pvp_lab_sellout": 23939539.6174513,
-        "quota": 0.1,
-        "sellin": 0
-      }
-    ]
-  },
-  {
-    "data": "20200219",
-    "lab": "Grupo Italfarmaco",
-    "0": [
-      {
-        "q_lab_sellout": 124381.0,
-        "pvp_lab_sellout": 1094421.4125912,
-        "quota": 0.1,
-        "sellin": 0
-      }
-    ]
-  },
-  {
-    "data": "20200219",
-    "lab": "Jaba Recordati",
-    "0": [
-      {
-        "q_lab_sellout": 430976.0,
-        "pvp_lab_sellout": 4569126.9815631,
-        "quota": 0.1,
-        "sellin": 0
-      }
-    ]
-  },
-  {
-    "data": "20200219",
-    "lab": "Korangi",
-    "0": [
-      {
-        "q_lab_sellout": 41.0,
-        "pvp_lab_sellout": 192.09,
-        "quota": 0.1,
-        "sellin": 0
-      }
-    ]
-  },
-  {
-    "data": "20200219",
-    "lab": "Krka",
-    "0": [
-      {
-        "q_lab_sellout": 440362.0,
-        "pvp_lab_sellout": 4169359.98400151,
-        "quota": 0.1,
-        "sellin": 0
-      }
-    ]
-  },
-  {
-    "data": "20200219",
-    "lab": "Laboratórios Atral",
-    "0": [
-      {
-        "q_lab_sellout": 258770.0,
-        "pvp_lab_sellout": 1802174.16586088,
-        "quota": 0.1,
-        "sellin": 0
-      }
-    ]
-  },
-  {
-    "data": "20200219",
-    "lab": "MSD",
-    "0": [
-      {
-        "q_lab_sellout": 2644160.0,
-        "pvp_lab_sellout": 42231106.7370931,
-        "quota": 0.1,
-        "sellin": 0
-      }
-    ]
-  },
-  {
-    "data": "20200219",
-    "lab": "Medinfar",
-    "0": [
-      {
-        "q_lab_sellout": 105121.0,
-        "pvp_lab_sellout": 2533893.99031781,
-        "quota": 0.1,
-        "sellin": 0
-      }
-    ]
-  },
-  {
-    "data": "20200219",
-    "lab": "Menarini",
-    "0": [
-      {
-        "q_lab_sellout": 19660.0,
-        "pvp_lab_sellout": 199257.202560282,
-        "quota": 0.1,
-        "sellin": 0
-      }
-    ]
-  },
-  {
-    "data": "20200219",
-    "lab": "Mylan",
-    "0": [
-      {
-        "q_lab_sellout": 15146547.0,
-        "pvp_lab_sellout": 100643169.564877,
-        "quota": 0.1,
-        "sellin": 0
-      }
-    ]
-  },
-  {
-    "data": "20200219",
-    "lab": "Perrigo",
-    "0": [
-      {
-        "q_lab_sellout": 981.0,
-        "pvp_lab_sellout": 3371.097742315,
-        "quota": 0.1,
-        "sellin": 0
-      }
-    ]
-  },
-  {
-    "data": "20200219",
-    "lab": "Pfizer",
-    "0": [
-      {
-        "q_lab_sellout": 1669014.0,
-        "pvp_lab_sellout": 18746244.4959603,
-        "quota": 0.1,
-        "sellin": 0
-      }
-    ]
-  },
-  {
-    "data": "20200219",
-    "lab": "Pierre Fabre Dermo-Cosmétique",
-    "0": [
-      {
-        "q_lab_sellout": 65.0,
-        "pvp_lab_sellout": 1752.4,
-        "quota": 0.1,
-        "sellin": 0
-      }
-    ]
-  },
-  {
-    "data": "20200219",
-    "lab": "Pierre Fabre Médicament",
-    "0": [
-      {
-        "q_lab_sellout": 2.0,
-        "pvp_lab_sellout": 61.28,
-        "quota": 0.1,
-        "sellin": 0
-      }
-    ]
-  },
-  {
-    "data": "20200219",
-    "lab": "Reckitt Benckiser",
-    "0": [
-      {
-        "q_lab_sellout": 0.0,
-        "pvp_lab_sellout": 0.0,
-        "quota": 0.1,
-        "sellin": 0
+        "q_lab_sellout": 9850.0,
+        "pvp_lab_sellout": 71082.425191781,
+        "sellin": 17294.38,
+        "quota": 0.0479925123,
+        "obj_barra_quota": 0.6250975118
       }
     ]
   },
@@ -232,22 +17,24 @@
     "lab": "Sandoz",
     "0": [
       {
-        "q_lab_sellout": 1706562.0,
-        "pvp_lab_sellout": 13118619.5877227,
-        "quota": 0.1,
-        "sellin": 0
+        "q_lab_sellout": 15465.0,
+        "pvp_lab_sellout": 106779.541606293,
+        "sellin": 31371.0,
+        "quota": 0.0563854041,
+        "obj_barra_quota": 0.8335490499
       }
     ]
   },
   {
     "data": "20200219",
-    "lab": "Teva",
+    "lab": "ToLife",
     "0": [
       {
-        "q_lab_sellout": 29081251.0,
-        "pvp_lab_sellout": 188218812.481455,
-        "quota": 0.1,
-        "sellin": 0
+        "q_lab_sellout": 22142.0,
+        "pvp_lab_sellout": 174525.613076457,
+        "sellin": 58701.0499999998,
+        "quota": 0.1029740766,
+        "obj_barra_quota": 0.4855591006
       }
     ]
   }
