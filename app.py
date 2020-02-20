@@ -84,8 +84,13 @@ def get_lab_parceria_otc():
 def get_lab_parceria_genericos():
     with open('lab_parceria_genericos.json', 'r', encoding='utf-8') as data_file:
         data = json.loads(data_file.read())
-    return str(data)
+    return str(data)\
 
+@api.route('/Y3VsdXMgYmViZWRvcnVtIERvbWludXMgbm9uIGhhYmV0', methods=['GET'])
+def get_lab_parceria_otc_planograma():
+    with open('lab_parceria_otc_planograma.json', 'r', encoding='utf-8') as data_file:
+        data = json.loads(data_file.read())
+    return str(data)
 
 if __name__ == '__main__':
     api.run()

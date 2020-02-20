@@ -1,79 +1,30 @@
-[
-  {
-    "data": "20200217",
-    "lab": "Biocodex",
-    "0": [
-      {
-        "quantidade": 54.0,
-        "cobertura": 0.3362831858,
-        "sellout": 1467.16
-      }
-    ]
+{
+  "Biocodex": {
+    "ano_passado": "[{\"quantidade\":0.0,\"sellout\":0.0,\"cobertura\":0.5},{\"quantidade\":41.0,\"sellout\":1130.82,\"cobertura\":0.5}]",
+    "ano_corrente": "[{\"quantidade\":0.0,\"sellout\":0.0,\"cobertura\":0.5},{\"quantidade\":41.0,\"sellout\":1130.82,\"cobertura\":0.5}]"
   },
-  {
-    "data": "20200217",
-    "lab": "Generis",
-    "0": [
-      {
-        "quantidade": 113491.0,
-        "cobertura": 1.0,
-        "sellout": 688189.84827706
-      }
-    ]
+  "Generis": {
+    "ano_passado": "[{\"quantidade\":108860.0,\"sellout\":673148.784636441,\"cobertura\":1.0},{\"quantidade\":102863.0,\"sellout\":599075.954625044,\"cobertura\":1.0}]",
+    "ano_corrente": "[{\"quantidade\":108860.0,\"sellout\":673148.784636441,\"cobertura\":1.0},{\"quantidade\":102863.0,\"sellout\":599075.954625044,\"cobertura\":1.0}]"
   },
-  {
-    "data": "20200217",
-    "lab": "Jaba Recordati",
-    "0": [
-      {
-        "quantidade": 18440.0,
-        "cobertura": 1.0,
-        "sellout": 197413.830687332
-      }
-    ]
+  "Jaba Recordati": {
+    "ano_passado": "[{\"quantidade\":18777.0,\"sellout\":200915.950576131,\"cobertura\":1.0},{\"quantidade\":17189.0,\"sellout\":187133.798428614,\"cobertura\":1.0}]",
+    "ano_corrente": "[{\"quantidade\":18777.0,\"sellout\":200915.950576131,\"cobertura\":1.0},{\"quantidade\":17189.0,\"sellout\":187133.798428614,\"cobertura\":1.0}]"
   },
-  {
-    "data": "20200217",
-    "lab": "Medinfar",
-    "0": [
-      {
-        "quantidade": 13861.0,
-        "cobertura": 1.0,
-        "sellout": 211911.592892006
-      }
-    ]
+  "Medinfar": {
+    "ano_passado": "[{\"quantidade\":15349.0,\"sellout\":221192.102058718,\"cobertura\":1.0},{\"quantidade\":12945.0,\"sellout\":197416.715698643,\"cobertura\":1.0}]",
+    "ano_corrente": "[{\"quantidade\":15349.0,\"sellout\":221192.102058718,\"cobertura\":1.0},{\"quantidade\":12945.0,\"sellout\":197416.715698643,\"cobertura\":1.0}]"
   },
-  {
-    "data": "20200217",
-    "lab": "Perrigo",
-    "0": [
-      {
-        "quantidade": 17198.0,
-        "cobertura": 1.0,
-        "sellout": 178372.382301882
-      }
-    ]
+  "Perrigo": {
+    "ano_passado": "[{\"quantidade\":19485.0,\"sellout\":190317.023757989,\"cobertura\":1.0},{\"quantidade\":14362.0,\"sellout\":146671.042170199,\"cobertura\":1.0}]",
+    "ano_corrente": "[{\"quantidade\":19485.0,\"sellout\":190317.023757989,\"cobertura\":1.0},{\"quantidade\":14362.0,\"sellout\":146671.042170199,\"cobertura\":1.0}]"
   },
-  {
-    "data": "20200217",
-    "lab": "Reckitt Benckiser",
-    "0": [
-      {
-        "quantidade": 16226.0,
-        "cobertura": 0.9911504425,
-        "sellout": 136430.01105967
-      }
-    ]
+  "Reckitt Benckiser": {
+    "ano_passado": "[{\"quantidade\":17135.0,\"sellout\":142017.233842692,\"cobertura\":1.0},{\"quantidade\":14638.0,\"sellout\":121104.08013176,\"cobertura\":1.0}]",
+    "ano_corrente": "[{\"quantidade\":17135.0,\"sellout\":142017.233842692,\"cobertura\":1.0},{\"quantidade\":14638.0,\"sellout\":121104.08013176,\"cobertura\":1.0}]"
   },
-  {
-    "data": "20200217",
-    "lab": "Teva",
-    "0": [
-      {
-        "quantidade": 139649.0,
-        "cobertura": 1.0,
-        "sellout": 924857.601979487
-      }
-    ]
+  "Teva": {
+    "ano_passado": "[{\"quantidade\":142164.0,\"sellout\":939956.300338464,\"cobertura\":1.0},{\"quantidade\":123054.0,\"sellout\":791028.792427782,\"cobertura\":1.0}]",
+    "ano_corrente": "[{\"quantidade\":142164.0,\"sellout\":939956.300338464,\"cobertura\":1.0},{\"quantidade\":123054.0,\"sellout\":791028.792427782,\"cobertura\":1.0}]"
   }
-]
+}
