@@ -92,5 +92,12 @@ def get_lab_parceria_otc_planograma():
         data = json.loads(data_file.read())
     return str(data)
 
+@api.route('/b3MgYnVnYWxob3MgZGlzdGluZ3VlbSBzZSBkYXMgYm9sb3Rhcw==', methods=['GET'])
+def get_lab_parceria_eticos():
+    with open('lab_parceria_eticos.json', 'r', encoding='utf-8') as data_file:
+        data = json.loads(data_file.read())
+    return str(data)
+
+
 if __name__ == '__main__':
     api.run()

@@ -1,6 +1,28 @@
 [
   {
     "data": "20200219",
+    "lab": "Alfasigma Portugal",
+    "0": [
+      {
+        "sellin": 7064.7827188887,
+        "sellout_esse_ano": 60624.2110114434,
+        "sellout": 493401.948299215
+      }
+    ]
+  },
+  {
+    "data": "20200219",
+    "lab": "Bial",
+    "0": [
+      {
+        "sellin": 13153.9422448471,
+        "sellout_esse_ano": 378952.4571331,
+        "sellout": 3330591.92440897
+      }
+    ]
+  },
+  {
+    "data": "20200219",
     "lab": "Biocodex",
     "0": [
       {
@@ -12,12 +34,78 @@
   },
   {
     "data": "20200219",
+    "lab": "Biowell Europe Lda",
+    "0": [
+      {
+        "sellin": 7038.7963345543,
+        "sellout_esse_ano": 2987.7933333333,
+        "sellout": 43554.7908927482
+      }
+    ]
+  },
+  {
+    "data": "20200219",
+    "lab": "Cuidafarma Lda",
+    "0": [
+      {
+        "sellin": 0.0,
+        "sellout_esse_ano": 16913.22,
+        "sellout": 69662.6199999999
+      }
+    ]
+  },
+  {
+    "data": "20200219",
+    "lab": "Ferraz Lynce",
+    "0": [
+      {
+        "sellin": 6265.9532264957,
+        "sellout_esse_ano": 23191.6542191513,
+        "sellout": 183755.566732178
+      }
+    ]
+  },
+  {
+    "data": "20200219",
+    "lab": "GSK Consumer Healthcare",
+    "0": [
+      {
+        "sellin": 142040.0672990748,
+        "sellout_esse_ano": 304714.802999736,
+        "sellout": 2615607.43180224
+      }
+    ]
+  },
+  {
+    "data": "20200219",
     "lab": "Generis",
     "0": [
       {
         "sellin": 0.0,
-        "sellout_esse_ano": 599075.95462504,
-        "sellout": 5003786.56986784
+        "sellout_esse_ano": 599075.954625039,
+        "sellout": 5003786.56986769
+      }
+    ]
+  },
+  {
+    "data": "20200219",
+    "lab": "GlaxoSmithKline",
+    "0": [
+      {
+        "sellin": 22828.8367965452,
+        "sellout_esse_ano": 434076.133677404,
+        "sellout": 3310035.09465184
+      }
+    ]
+  },
+  {
+    "data": "20200219",
+    "lab": "Grupo Italfarmaco",
+    "0": [
+      {
+        "sellin": 25561.2782165384,
+        "sellout_esse_ano": 128565.926345658,
+        "sellout": 1000638.56776269
       }
     ]
   },
@@ -28,7 +116,51 @@
       {
         "sellin": 38085.4069025,
         "sellout_esse_ano": 187133.798428613,
-        "sellout": 1542162.10860295
+        "sellout": 1542162.10860294
+      }
+    ]
+  },
+  {
+    "data": "20200219",
+    "lab": "Korangi",
+    "0": [
+      {
+        "sellin": 6111.4555997325,
+        "sellout_esse_ano": 19229.9201160252,
+        "sellout": 156640.103982236
+      }
+    ]
+  },
+  {
+    "data": "20200219",
+    "lab": "Krka",
+    "0": [
+      {
+        "sellin": 0.0,
+        "sellout_esse_ano": 80621.7631211963,
+        "sellout": 969737.276676732
+      }
+    ]
+  },
+  {
+    "data": "20200219",
+    "lab": "Laboratórios Atral",
+    "0": [
+      {
+        "sellin": 18185.6115394732,
+        "sellout_esse_ano": 126597.579143057,
+        "sellout": 852484.626324199
+      }
+    ]
+  },
+  {
+    "data": "20200219",
+    "lab": "MSD",
+    "0": [
+      {
+        "sellin": 0.0,
+        "sellout_esse_ano": 629047.867238689,
+        "sellout": 4974743.60033625
       }
     ]
   },
@@ -39,7 +171,29 @@
       {
         "sellin": 40072.4636982375,
         "sellout_esse_ano": 197416.715698644,
-        "sellout": 1589185.01380977
+        "sellout": 1589185.01380975
+      }
+    ]
+  },
+  {
+    "data": "20200219",
+    "lab": "Menarini",
+    "0": [
+      {
+        "sellin": 2894.9870987928,
+        "sellout_esse_ano": 48312.8177987094,
+        "sellout": 436926.994927699
+      }
+    ]
+  },
+  {
+    "data": "20200219",
+    "lab": "Mylan",
+    "0": [
+      {
+        "sellin": 155403.4816666667,
+        "sellout_esse_ano": 722531.530618117,
+        "sellout": 5767172.9994479
       }
     ]
   },
@@ -49,8 +203,85 @@
     "0": [
       {
         "sellin": 82723.5642478909,
-        "sellout_esse_ano": 146671.042170198,
+        "sellout_esse_ano": 146671.042170199,
         "sellout": 1154842.1691863
+      }
+    ]
+  },
+  {
+    "data": "20200219",
+    "lab": "Pfizer",
+    "0": [
+      {
+        "sellin": 36035.5074068802,
+        "sellout_esse_ano": 324060.949782678,
+        "sellout": 2399606.61920471
+      }
+    ]
+  },
+  {
+    "data": "20200219",
+    "lab": "Pfizer Consumer Healthcare",
+    "0": [
+      {
+        "sellin": 6988.14,
+        "sellout_esse_ano": 32372.119717738,
+        "sellout": 337476.965148358
+      }
+    ]
+  },
+  {
+    "data": "20200219",
+    "lab": "Phytoderm",
+    "0": [
+      {
+        "sellin": 16937.3113975593,
+        "sellout_esse_ano": 41812.9727328343,
+        "sellout": 338013.244938903
+      }
+    ]
+  },
+  {
+    "data": "20200219",
+    "lab": "Pierre Fabre Dermo-Cosmétique",
+    "0": [
+      {
+        "sellin": 25147.0135579921,
+        "sellout_esse_ano": 185175.505320041,
+        "sellout": 1947663.55112184
+      }
+    ]
+  },
+  {
+    "data": "20200219",
+    "lab": "Pierre Fabre Médicament",
+    "0": [
+      {
+        "sellin": 0.0,
+        "sellout_esse_ano": 15415.6262387418,
+        "sellout": 196690.504150629
+      }
+    ]
+  },
+  {
+    "data": "20200219",
+    "lab": "Procter & Gamble",
+    "0": [
+      {
+        "sellin": 12629.5331806498,
+        "sellout_esse_ano": 45176.2275669102,
+        "sellout": 318467.201900856
+      }
+    ]
+  },
+  {
+    "data": "20200219",
+    "lab": "Procter & Gamble Health",
+    "0": [
+      {
+        "sellin": 0.0,
+        "sellout_esse_ano": 0.0,
+        "sellout": 0.0
       }
     ]
   },
@@ -61,7 +292,18 @@
       {
         "sellin": 70135.6580118497,
         "sellout_esse_ano": 121104.08013176,
-        "sellout": 878851.889283113
+        "sellout": 878851.889283094
+      }
+    ]
+  },
+  {
+    "data": "20200219",
+    "lab": "Sandoz",
+    "0": [
+      {
+        "sellin": 0.0,
+        "sellout_esse_ano": 148347.665922307,
+        "sellout": 1186337.67924745
       }
     ]
   },
@@ -71,8 +313,30 @@
     "0": [
       {
         "sellin": 0.0,
-        "sellout_esse_ano": 791028.792427779,
-        "sellout": 6933160.42987982
+        "sellout_esse_ano": 791028.792427777,
+        "sellout": 6933160.42987986
+      }
+    ]
+  },
+  {
+    "data": "20200219",
+    "lab": "Uriach-Theralab",
+    "0": [
+      {
+        "sellin": 10492.4631109446,
+        "sellout_esse_ano": 24164.6889134302,
+        "sellout": 275071.945604085
+      }
+    ]
+  },
+  {
+    "data": "20200219",
+    "lab": "Vemedia Consumer Health",
+    "0": [
+      {
+        "sellin": 19946.8016122479,
+        "sellout_esse_ano": 27456.8752710487,
+        "sellout": 274272.399433378
       }
     ]
   }
