@@ -1,56 +1,56 @@
 [
   {
-    "data": "20200615",
+    "data": "20200617",
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "q_lab_sellout": 87654.0,
-        "pvp_lab_sellout": 1429153.60518639,
-        "sellin": 654910.000000003
+        "q_lab_sellout": 88655.0,
+        "pvp_lab_sellout": 1447194.74898224,
+        "sellin": 657776.250000003
       }
     ]
   },
   {
-    "data": "20200615",
+    "data": "20200617",
     "lab": "MSD",
     "0": [
       {
-        "q_lab_sellout": 129791.0,
-        "pvp_lab_sellout": 2229243.16422321,
-        "sellin": 1020888.5
+        "q_lab_sellout": 131478.0,
+        "pvp_lab_sellout": 2260668.37240874,
+        "sellin": 1026810.38
       }
     ]
   },
   {
-    "data": "20200615",
+    "data": "20200617",
     "lab": "Medinfar",
     "0": [
       {
-        "q_lab_sellout": 16347.0,
-        "pvp_lab_sellout": 430351.374141026,
-        "sellin": 198308.569999999
+        "q_lab_sellout": 16542.0,
+        "pvp_lab_sellout": 435160.144141026,
+        "sellin": 199420.129999999
       }
     ]
   },
   {
-    "data": "20200615",
+    "data": "20200617",
     "lab": "Mylan",
     "0": [
       {
-        "q_lab_sellout": 159960.0,
-        "pvp_lab_sellout": 1072769.65082228,
-        "sellin": 512540.910000001
+        "q_lab_sellout": 161948.0,
+        "pvp_lab_sellout": 1086287.7073182,
+        "sellin": 515277.070000002
       }
     ]
   },
   {
-    "data": "20200615",
+    "data": "20200617",
     "lab": "Pfizer",
     "0": [
       {
-        "q_lab_sellout": 98536.0,
-        "pvp_lab_sellout": 1021903.12532116,
-        "sellin": 537299.449999999
+        "q_lab_sellout": 99806.0,
+        "pvp_lab_sellout": 1034096.31561746,
+        "sellin": 540230.83
       }
     ]
   }
