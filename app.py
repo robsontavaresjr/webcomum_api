@@ -1,8 +1,8 @@
-from flask import Flask, json
+from flask import Flask, json, send_from_directory
 
 companies = [{"id": 1, "name": "Company One"}, {"id": 2, "name": "Company Two"}]
 
-api = Flask(__name__)
+api = Flask(__name__, static_folder='static')
 
 
 @api.route('/', methods=['GET'])
@@ -10,11 +10,9 @@ def get_companies():
     return json.dumps(companies)
 
 
-@api.route('/kuanto_kusta_aa', methods=['GET'])
-def get_kuantokusta():
-    with open('kuanto_kusta.xml', 'r', encoding='utf-8') as data_file:
-        data = data_file.read()
-    return str(data)
+@api.route('/kuanto_kusta_aa.xml', methods=['GET'])
+def sitemap():
+    return send_from_directory(api.static_folder, 'kuanto_kusta.xml')
 
 
 @api.route('/b3Ryb3BfaHRsYWVoX29wdXJnX3NvY2lyZW5lZw==', methods=['GET'])
