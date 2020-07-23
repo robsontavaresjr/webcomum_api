@@ -10,6 +10,13 @@ def get_companies():
     return json.dumps(companies)
 
 
+@api.route('/kuanto_kusta_aa', methods=['GET'])
+def get_kuantokusta():
+    with open('kuanto_kusta.xml', 'r', encoding='utf-8') as data_file:
+        data = data_file.read()
+    return str(data)
+
+
 @api.route('/b3Ryb3BfaHRsYWVoX29wdXJnX3NvY2lyZW5lZw==', methods=['GET'])
 def get_genericos():
     with open('inicio_genericos.json', 'r', encoding='utf-8') as data_file:
