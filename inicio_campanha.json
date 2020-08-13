@@ -1,6 +1,6 @@
 [
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 1554,
     "cod_api": 1,
     "0": [
@@ -8,12 +8,12 @@
         "quantidade": 6,
         "sellout": 70.94,
         "rentabilidade": 32.072,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 1627,
     "cod_api": 1,
     "0": [
@@ -21,12 +21,12 @@
         "quantidade": 1,
         "sellout": 11.9,
         "rentabilidade": 3.88,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 1651,
     "cod_api": 1,
     "0": [
@@ -34,38 +34,38 @@
         "quantidade": 1,
         "sellout": 13.2,
         "rentabilidade": 4.56,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 1708,
     "cod_api": 1,
     "0": [
       {
-        "quantidade": 2,
-        "sellout": 22.44,
-        "rentabilidade": 8.942,
-        "n_farmacias": 73
+        "quantidade": 3,
+        "sellout": 34.39,
+        "rentabilidade": 13.752,
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 1759,
     "cod_api": 1,
     "0": [
       {
-        "quantidade": 1,
-        "sellout": 15.25,
-        "rentabilidade": 5.31,
-        "n_farmacias": 73
+        "quantidade": 2,
+        "sellout": 27.5,
+        "rentabilidade": 9.58,
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 2062,
     "cod_api": 1,
     "0": [
@@ -73,12 +73,12 @@
         "quantidade": 5,
         "sellout": 62.1,
         "rentabilidade": 20.84,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 2569,
     "cod_api": 1,
     "0": [
@@ -86,12 +86,12 @@
         "quantidade": 3,
         "sellout": 41.65,
         "rentabilidade": 16.19,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 3948,
     "cod_api": 1,
     "0": [
@@ -99,12 +99,12 @@
         "quantidade": 1,
         "sellout": 12.0,
         "rentabilidade": 5.6,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 3972,
     "cod_api": 1,
     "0": [
@@ -112,12 +112,12 @@
         "quantidade": 1,
         "sellout": 10.85,
         "rentabilidade": 4.71,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 4251,
     "cod_api": 1,
     "0": [
@@ -125,12 +125,12 @@
         "quantidade": 1,
         "sellout": 11.25,
         "rentabilidade": 3.93,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 4570,
     "cod_api": 1,
     "0": [
@@ -138,51 +138,64 @@
         "quantidade": 1,
         "sellout": 13.42,
         "rentabilidade": 4.736,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 4901,
     "cod_api": 1,
     "0": [
       {
-        "quantidade": 2,
-        "sellout": 24.5,
-        "rentabilidade": 9.29,
-        "n_farmacias": 73
+        "quantidade": 3,
+        "sellout": 35.8,
+        "rentabilidade": 13.55,
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 5100,
     "cod_api": 1,
     "0": [
       {
-        "quantidade": 1,
-        "sellout": 13.95,
-        "rentabilidade": 5.55,
-        "n_farmacias": 73
+        "quantidade": 2,
+        "sellout": 25.9,
+        "rentabilidade": 10.42,
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 5150,
     "cod_api": 1,
     "0": [
       {
         "quantidade": 2,
         "sellout": 28.4,
-        "rentabilidade": 10.72,
-        "n_farmacias": 73
+        "rentabilidade": 11.3,
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
+    "codigo": 5266,
+    "cod_api": 1,
+    "0": [
+      {
+        "quantidade": 3,
+        "sellout": 35.7,
+        "rentabilidade": 13.8825,
+        "n_farmacias": 77
+      }
+    ]
+  },
+  {
+    "data": "20200812",
     "codigo": 5320,
     "cod_api": 1,
     "0": [
@@ -190,25 +203,25 @@
         "quantidade": 6,
         "sellout": 71.05,
         "rentabilidade": 30.65,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 5347,
     "cod_api": 1,
     "0": [
       {
         "quantidade": 1,
-        "sellout": 11.65,
-        "rentabilidade": 4.25,
-        "n_farmacias": 73
+        "sellout": 12.46,
+        "rentabilidade": 2.368,
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 5355,
     "cod_api": 1,
     "0": [
@@ -216,12 +229,12 @@
         "quantidade": 7,
         "sellout": 75.35,
         "rentabilidade": 22.26,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 5363,
     "cod_api": 1,
     "0": [
@@ -229,12 +242,12 @@
         "quantidade": 4,
         "sellout": 59.04,
         "rentabilidade": 20.312,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 5622,
     "cod_api": 1,
     "0": [
@@ -242,25 +255,25 @@
         "quantidade": 2,
         "sellout": 21.125,
         "rentabilidade": 5.68,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 7080,
     "cod_api": 1,
     "0": [
       {
-        "quantidade": 3,
-        "sellout": 39.28,
-        "rentabilidade": 14.824,
-        "n_farmacias": 73
+        "quantidade": 4,
+        "sellout": 51.27,
+        "rentabilidade": 19.276,
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 7714,
     "cod_api": 1,
     "0": [
@@ -268,25 +281,25 @@
         "quantidade": 1,
         "sellout": 11.49,
         "rentabilidade": 4.052,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 7846,
     "cod_api": 1,
     "0": [
       {
-        "quantidade": 11,
-        "sellout": 126.11,
-        "rentabilidade": 36.968,
-        "n_farmacias": 73
+        "quantidade": 12,
+        "sellout": 132.9775,
+        "rentabilidade": 45.202,
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 7943,
     "cod_api": 1,
     "0": [
@@ -294,51 +307,51 @@
         "quantidade": 2,
         "sellout": 27.15,
         "rentabilidade": 10.9,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 8109,
     "cod_api": 1,
     "0": [
       {
         "quantidade": 3,
-        "sellout": 38.0,
-        "rentabilidade": 12.08,
-        "n_farmacias": 73
+        "sellout": 36.49,
+        "rentabilidade": 11.382,
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 8990,
     "cod_api": 1,
     "0": [
       {
-        "quantidade": 10,
-        "sellout": 119.12,
-        "rentabilidade": 43.746,
-        "n_farmacias": 73
+        "quantidade": 12,
+        "sellout": 143.78,
+        "rentabilidade": 52.804,
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 9300,
     "cod_api": 1,
     "0": [
       {
-        "quantidade": 1,
-        "sellout": 11.95,
-        "rentabilidade": 4.03,
-        "n_farmacias": 73
+        "quantidade": 2,
+        "sellout": 23.45,
+        "rentabilidade": 8.3,
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 10162,
     "cod_api": 1,
     "0": [
@@ -346,12 +359,12 @@
         "quantidade": 1,
         "sellout": 12.67,
         "rentabilidade": 2.846,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 10413,
     "cod_api": 1,
     "0": [
@@ -359,12 +372,12 @@
         "quantidade": 1,
         "sellout": 11.9,
         "rentabilidade": 4.38,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 10456,
     "cod_api": 1,
     "0": [
@@ -372,12 +385,12 @@
         "quantidade": 2,
         "sellout": 24.6,
         "rentabilidade": 9.4,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 11525,
     "cod_api": 1,
     "0": [
@@ -385,12 +398,12 @@
         "quantidade": 3,
         "sellout": 34.73,
         "rentabilidade": 17.244,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 11827,
     "cod_api": 1,
     "0": [
@@ -398,12 +411,12 @@
         "quantidade": 2,
         "sellout": 25.27,
         "rentabilidade": 11.126,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 11967,
     "cod_api": 1,
     "0": [
@@ -411,12 +424,12 @@
         "quantidade": 1,
         "sellout": 12.95,
         "rentabilidade": 5.34,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 12041,
     "cod_api": 1,
     "0": [
@@ -424,12 +437,12 @@
         "quantidade": 2,
         "sellout": 24.4,
         "rentabilidade": 9.63,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 13226,
     "cod_api": 1,
     "0": [
@@ -437,12 +450,12 @@
         "quantidade": 1,
         "sellout": 11.35,
         "rentabilidade": 4.01,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 13234,
     "cod_api": 1,
     "0": [
@@ -450,12 +463,12 @@
         "quantidade": 1,
         "sellout": 10.7,
         "rentabilidade": 4.03,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 14087,
     "cod_api": 1,
     "0": [
@@ -463,38 +476,38 @@
         "quantidade": 7,
         "sellout": 92.45,
         "rentabilidade": 34.82,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 14702,
     "cod_api": 1,
     "0": [
       {
-        "quantidade": 5,
-        "sellout": 66.64,
-        "rentabilidade": 25.902,
-        "n_farmacias": 73
+        "quantidade": 8,
+        "sellout": 100.65,
+        "rentabilidade": 38.4,
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 15121,
     "cod_api": 1,
     "0": [
       {
-        "quantidade": 6,
-        "sellout": 73.0,
-        "rentabilidade": 30.13,
-        "n_farmacias": 73
+        "quantidade": 7,
+        "sellout": 86.0,
+        "rentabilidade": 35.0,
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 15245,
     "cod_api": 1,
     "0": [
@@ -502,12 +515,12 @@
         "quantidade": 2,
         "sellout": 26.45,
         "rentabilidade": 9.53,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 16624,
     "cod_api": 1,
     "0": [
@@ -515,12 +528,12 @@
         "quantidade": 3,
         "sellout": 38.31,
         "rentabilidade": 16.518,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 16829,
     "cod_api": 1,
     "0": [
@@ -528,64 +541,64 @@
         "quantidade": 3,
         "sellout": 34.95,
         "rentabilidade": 12.03,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 17132,
     "cod_api": 1,
     "0": [
       {
-        "quantidade": 1,
-        "sellout": 13.0,
-        "rentabilidade": 5.33,
-        "n_farmacias": 73
+        "quantidade": 2,
+        "sellout": 26.0,
+        "rentabilidade": 10.66,
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 18066,
     "cod_api": 1,
     "0": [
       {
         "quantidade": 1,
-        "sellout": 11.35,
-        "rentabilidade": 4.01,
-        "n_farmacias": 73
+        "sellout": 12.99,
+        "rentabilidade": 5.612,
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 18309,
     "cod_api": 1,
     "0": [
       {
-        "quantidade": 4,
-        "sellout": 46.76,
-        "rentabilidade": 15.808,
-        "n_farmacias": 73
+        "quantidade": 5,
+        "sellout": 60.38,
+        "rentabilidade": 22.214,
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 19143,
     "cod_api": 1,
     "0": [
       {
-        "quantidade": 1,
-        "sellout": 13.9,
-        "rentabilidade": 5.12,
-        "n_farmacias": 73
+        "quantidade": 2,
+        "sellout": 26.76,
+        "rentabilidade": 8.088,
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 19348,
     "cod_api": 1,
     "0": [
@@ -593,12 +606,25 @@
         "quantidade": 5,
         "sellout": 55.75,
         "rentabilidade": 18.83,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
+    "codigo": 20389,
+    "cod_api": 1,
+    "0": [
+      {
+        "quantidade": 7,
+        "sellout": 77.0730598086,
+        "rentabilidade": 29.344476555,
+        "n_farmacias": 77
+      }
+    ]
+  },
+  {
+    "data": "20200812",
     "codigo": 21083,
     "cod_api": 1,
     "0": [
@@ -606,12 +632,12 @@
         "quantidade": 1,
         "sellout": 10.55,
         "rentabilidade": 3.45,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 21393,
     "cod_api": 1,
     "0": [
@@ -619,12 +645,12 @@
         "quantidade": 3,
         "sellout": 34.48,
         "rentabilidade": 11.524,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 22322,
     "cod_api": 1,
     "0": [
@@ -632,12 +658,12 @@
         "quantidade": 4,
         "sellout": 54.9,
         "rentabilidade": 20.86,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 22470,
     "cod_api": 1,
     "0": [
@@ -645,38 +671,38 @@
         "quantidade": 2,
         "sellout": 25.0,
         "rentabilidade": 9.33,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 22675,
     "cod_api": 1,
     "0": [
       {
-        "quantidade": 1,
-        "sellout": 11.65,
-        "rentabilidade": 4.25,
-        "n_farmacias": 73
+        "quantidade": 3,
+        "sellout": 35.275,
+        "rentabilidade": 13.83,
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 22896,
     "cod_api": 1,
     "0": [
       {
-        "quantidade": 1,
-        "sellout": 12.7,
-        "rentabilidade": 4.63,
-        "n_farmacias": 73
+        "quantidade": 2,
+        "sellout": 24.2,
+        "rentabilidade": 8.54,
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 23329,
     "cod_api": 1,
     "0": [
@@ -684,12 +710,12 @@
         "quantidade": 3,
         "sellout": 34.86,
         "rentabilidade": 9.738,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 23825,
     "cod_api": 1,
     "0": [
@@ -697,12 +723,12 @@
         "quantidade": 1,
         "sellout": 12.4,
         "rentabilidade": 2.96,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 24104,
     "cod_api": 1,
     "0": [
@@ -710,38 +736,38 @@
         "quantidade": 2,
         "sellout": 26.45,
         "rentabilidade": 9.41,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 24422,
     "cod_api": 1,
     "0": [
       {
-        "quantidade": 5,
-        "sellout": 71.25,
-        "rentabilidade": 33.1,
-        "n_farmacias": 73
+        "quantidade": 6,
+        "sellout": 83.3,
+        "rentabilidade": 38.83,
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 24430,
     "cod_api": 1,
     "0": [
       {
-        "quantidade": 3,
-        "sellout": 38.95,
-        "rentabilidade": 14.02,
-        "n_farmacias": 73
+        "quantidade": 4,
+        "sellout": 48.55,
+        "rentabilidade": 16.88,
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 24813,
     "cod_api": 1,
     "0": [
@@ -749,12 +775,25 @@
         "quantidade": 3,
         "sellout": 37.74,
         "rentabilidade": 13.212,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
+    "codigo": 24821,
+    "cod_api": 1,
+    "0": [
+      {
+        "quantidade": 1,
+        "sellout": 12.99,
+        "rentabilidade": 4.392,
+        "n_farmacias": 77
+      }
+    ]
+  },
+  {
+    "data": "20200812",
     "codigo": 25526,
     "cod_api": 1,
     "0": [
@@ -762,12 +801,12 @@
         "quantidade": 2,
         "sellout": 25.75,
         "rentabilidade": 10.0,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 25631,
     "cod_api": 1,
     "0": [
@@ -775,12 +814,12 @@
         "quantidade": 1,
         "sellout": 10.95,
         "rentabilidade": 3.81,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 26026,
     "cod_api": 1,
     "0": [
@@ -788,12 +827,12 @@
         "quantidade": 2,
         "sellout": 21.8,
         "rentabilidade": 7.29,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 26662,
     "cod_api": 1,
     "0": [
@@ -801,12 +840,25 @@
         "quantidade": 2,
         "sellout": 23.96,
         "rentabilidade": 9.278,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
+    "codigo": 26670,
+    "cod_api": 1,
+    "0": [
+      {
+        "quantidade": 1,
+        "sellout": 9.95,
+        "rentabilidade": 2.89,
+        "n_farmacias": 77
+      }
+    ]
+  },
+  {
+    "data": "20200812",
     "codigo": 26778,
     "cod_api": 1,
     "0": [
@@ -814,25 +866,25 @@
         "quantidade": 1,
         "sellout": 12.95,
         "rentabilidade": 4.36,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 26824,
     "cod_api": 1,
     "0": [
       {
         "quantidade": 1,
-        "sellout": 11.9,
-        "rentabilidade": 4.38,
-        "n_farmacias": 73
+        "sellout": 11.875,
+        "rentabilidade": 4.97,
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 26999,
     "cod_api": 1,
     "0": [
@@ -840,12 +892,12 @@
         "quantidade": 1,
         "sellout": 12.2,
         "rentabilidade": 4.62,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 27006,
     "cod_api": 1,
     "0": [
@@ -853,12 +905,12 @@
         "quantidade": 3,
         "sellout": 36.35,
         "rentabilidade": 15.18,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 27073,
     "cod_api": 1,
     "0": [
@@ -866,12 +918,12 @@
         "quantidade": 7,
         "sellout": 85.75,
         "rentabilidade": 22.99,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 27111,
     "cod_api": 1,
     "0": [
@@ -879,12 +931,12 @@
         "quantidade": 2,
         "sellout": 23.5,
         "rentabilidade": 8.45,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 27219,
     "cod_api": 1,
     "0": [
@@ -892,12 +944,12 @@
         "quantidade": 2,
         "sellout": 30.6,
         "rentabilidade": 12.48,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 27480,
     "cod_api": 1,
     "0": [
@@ -905,25 +957,25 @@
         "quantidade": 4,
         "sellout": 47.15,
         "rentabilidade": 17.16,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 34100,
     "cod_api": 1,
     "0": [
       {
-        "quantidade": 7,
-        "sellout": 83.75,
-        "rentabilidade": 29.27,
-        "n_farmacias": 73
+        "quantidade": 8,
+        "sellout": 94.7,
+        "rentabilidade": 33.5,
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 34134,
     "cod_api": 1,
     "0": [
@@ -931,12 +983,12 @@
         "quantidade": 1,
         "sellout": 11.72,
         "rentabilidade": 4.306,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   },
   {
-    "data": "20200811",
+    "data": "20200812",
     "codigo": 34150,
     "cod_api": 1,
     "0": [
@@ -944,7 +996,7 @@
         "quantidade": 1,
         "sellout": 15.1,
         "rentabilidade": 6.08,
-        "n_farmacias": 73
+        "n_farmacias": 77
       }
     ]
   }
