@@ -27,7 +27,7 @@
       "dados": {
         "data": "20200816",
         "so_brand": 485.0,
-        "f_so_brand": 15703.066904408352,
+        "f_so_brand": 15703.06690440836,
         "v_brand": 0.15574507966260542,
         "d_brand": 0.6349015932521086,
         "obj_barra_brand": 0.44783010156971376,
@@ -36,15 +36,6 @@
         "quota_mercado": 0.05,
         "tick_mercado": "down"
       },
-      "6157453 | Aftum Colutório 150ml": [
-        {
-          "so": 151.0,
-          "f_so": 1795.5323341687,
-          "distribuicao": 0.4909090909,
-          "vendas": 0.1181818182,
-          "obj_barra_cnp": 0.3113402062
-        }
-      ],
       "6157446 | Aftum Gel Oral 15ml": [
         {
           "so": 334.0,
@@ -53,13 +44,22 @@
           "vendas": 0.1727272727,
           "obj_barra_cnp": 0.6886597938
         }
+      ],
+      "6157453 | Aftum Colutório 150ml": [
+        {
+          "so": 151.0,
+          "f_so": 1795.5323341688,
+          "distribuicao": 0.4909090909,
+          "vendas": 0.1181818182,
+          "obj_barra_cnp": 0.3113402062
+        }
       ]
     },
     "Laevolac | Laxantes de mecanismo osmótico SEM ENEMA hmR 4": {
       "dados": {
         "data": "20200816",
         "so_brand": 9252.0,
-        "f_so_brand": 166666.29565227716,
+        "f_so_brand": 166666.29565227727,
         "v_brand": 0.5820402674248828,
         "d_brand": 0.9141712134019826,
         "obj_barra_brand": 0.6479445339309475,
@@ -68,6 +68,45 @@
         "quota_mercado": 0.05,
         "tick_mercado": "down"
       },
+      "5583117 | Laevolac Ameixa Xarope 666.7mg/ml 300 ml": [
+        {
+          "so": 1289.0,
+          "f_so": 52601.9580233122,
+          "distribuicao": 0.9090909091,
+          "vendas": 0.4909090909,
+          "obj_barra_cnp": 0.1393212278
+        },
+        {
+          "so": 1289.0,
+          "f_so": 52601.9580233122,
+          "distribuicao": 0.9090909091,
+          "vendas": 0.4909090909,
+          "obj_barra_cnp": 0.1393212278
+        },
+        {
+          "so": 1289.0,
+          "f_so": 52601.9580233122,
+          "distribuicao": 0.9090909091,
+          "vendas": 0.4909090909,
+          "obj_barra_cnp": 0.1393212278
+        },
+        {
+          "so": 1289.0,
+          "f_so": 52601.9580233122,
+          "distribuicao": 0.9090909091,
+          "vendas": 0.4909090909,
+          "obj_barra_cnp": 0.1393212278
+        }
+      ],
+      "9310128 | Laevolac CRT 10G X20": [
+        {
+          "so": 3380.0,
+          "f_so": 35714.0217290993,
+          "distribuicao": 0.9818181818,
+          "vendas": 0.6909090909,
+          "obj_barra_cnp": 0.3653264159
+        }
+      ],
       "9310136 | Laevolac Xarope 200ml": [
         {
           "so": 2683.0,
@@ -84,45 +123,6 @@
           "distribuicao": 0.4454545455,
           "vendas": 0.1909090909,
           "obj_barra_cnp": 0.0660397752
-        }
-      ],
-      "5583117 | Laevolac Ameixa Xarope 666.7mg/ml 300 ml": [
-        {
-          "so": 1289.0,
-          "f_so": 52601.9580233121,
-          "distribuicao": 0.9090909091,
-          "vendas": 0.4909090909,
-          "obj_barra_cnp": 0.1393212278
-        },
-        {
-          "so": 1289.0,
-          "f_so": 52601.9580233121,
-          "distribuicao": 0.9090909091,
-          "vendas": 0.4909090909,
-          "obj_barra_cnp": 0.1393212278
-        },
-        {
-          "so": 1289.0,
-          "f_so": 52601.9580233121,
-          "distribuicao": 0.9090909091,
-          "vendas": 0.4909090909,
-          "obj_barra_cnp": 0.1393212278
-        },
-        {
-          "so": 1289.0,
-          "f_so": 52601.9580233121,
-          "distribuicao": 0.9090909091,
-          "vendas": 0.4909090909,
-          "obj_barra_cnp": 0.1393212278
-        }
-      ],
-      "9310128 | Laevolac CRT 10G X20": [
-        {
-          "so": 3380.0,
-          "f_so": 35714.0217290994,
-          "distribuicao": 0.9818181818,
-          "vendas": 0.6909090909,
-          "obj_barra_cnp": 0.3653264159
         }
       ]
     }
@@ -141,15 +141,6 @@
         "quota_mercado": 0.05,
         "tick_mercado": "down"
       },
-      "6159996 | Aloclair Plus Sol Oral 60ml": [
-        {
-          "so": 160.0,
-          "f_so": 2114.28849056,
-          "distribuicao": 0.8545454545,
-          "vendas": 0.2181818182,
-          "obj_barra_cnp": 0.0760817879
-        }
-      ],
       "6159988 | Aloclair Plus Gel Oral 8ml": [
         {
           "so": 1175.0,
@@ -157,6 +148,15 @@
           "distribuicao": 0.8909090909,
           "vendas": 0.5363636364,
           "obj_barra_cnp": 0.5587256301
+        }
+      ],
+      "6159996 | Aloclair Plus Sol Oral 60ml": [
+        {
+          "so": 160.0,
+          "f_so": 2114.28849056,
+          "distribuicao": 0.8545454545,
+          "vendas": 0.2181818182,
+          "obj_barra_cnp": 0.0760817879
         }
       ],
       "6160002 | Aloclair Plus Spray Oral 15ml": [
@@ -196,7 +196,7 @@
       "dados": {
         "data": "20200816",
         "so_brand": 290.0,
-        "f_so_brand": 7416.90512195414,
+        "f_so_brand": 7416.90512195415,
         "v_brand": 0.08181818181818182,
         "d_brand": 0.4727272727272727,
         "obj_barra_brand": 0.47775947281713343,
@@ -288,7 +288,7 @@
       "dados": {
         "data": "20200816",
         "so_brand": 3464.0,
-        "f_so_brand": 49479.4481687462,
+        "f_so_brand": 49479.4481687461,
         "v_brand": 0.7909090909090909,
         "d_brand": 0.9545454545454546,
         "obj_barra_brand": 0.5210589651022864,
@@ -300,7 +300,7 @@
       "9200949 | Guronsan - Comp eferv 500mg 20": [
         {
           "so": 3464.0,
-          "f_so": 49479.4481687462,
+          "f_so": 49479.4481687461,
           "distribuicao": 0.9545454545,
           "vendas": 0.7909090909,
           "obj_barra_cnp": 1.0
@@ -460,15 +460,51 @@
       "dados": {
         "data": "20200816",
         "so_brand": 502.0,
-        "f_so_brand": 19058.803850696262,
+        "f_so_brand": 19058.80385069626,
         "v_brand": 0.08638174574429552,
-        "d_brand": 0.415664614270192,
+        "d_brand": 0.41566461427019197,
         "obj_barra_brand": 0.24404472532814778,
         "quota_ghp": 0.1,
         "tick_ghp": "up",
         "quota_mercado": 0.05,
         "tick_mercado": "down"
       },
+      "6942466 | FullMarks Champô Pós Tratam Piolhos 150ml": [
+        {
+          "so": 20.0,
+          "f_so": 301.68,
+          "distribuicao": 0.4454545455,
+          "vendas": 0.0181818182,
+          "obj_barra_cnp": 0.0398406375
+        }
+      ],
+      "6992040 | FullMarks Loção+Champô (50% no champô)": [
+        {
+          "so": 58.0,
+          "f_so": 1454.7214697439,
+          "distribuicao": 0.1545454545,
+          "vendas": 0.0272727273,
+          "obj_barra_cnp": 0.1155378486
+        }
+      ],
+      "6076588 | FullMarks Loção + Loção (50% Desc 2ª unid)": [
+        {
+          "so": 31.0,
+          "f_so": 10693.0280952381,
+          "distribuicao": 0.0545454545,
+          "vendas": 0.0090909091,
+          "obj_barra_cnp": 0.061752988
+        }
+      ],
+      "7008029 | FullMarks Spray Piolhos/Lêndeas 150ml": [
+        {
+          "so": 106.0,
+          "f_so": 1848.23,
+          "distribuicao": 0.2454545455,
+          "vendas": 0.0363636364,
+          "obj_barra_cnp": 0.2111553785
+        }
+      ],
       "6317586 | FullMarks Loção Piolhos/Lêndeas 100ml": [
         {
           "so": 270.0,
@@ -486,50 +522,14 @@
           "vendas": 0.0272727273,
           "obj_barra_cnp": 0.0338645418
         }
-      ],
-      "6942466 | FullMarks Champô Pós Tratam Piolhos 150ml": [
-        {
-          "so": 20.0,
-          "f_so": 301.68,
-          "distribuicao": 0.4454545455,
-          "vendas": 0.0181818182,
-          "obj_barra_cnp": 0.0398406375
-        }
-      ],
-      "6076588 | FullMarks Loção + Loção (50% Desc 2ª unid)": [
-        {
-          "so": 31.0,
-          "f_so": 10693.0280952381,
-          "distribuicao": 0.0545454545,
-          "vendas": 0.0090909091,
-          "obj_barra_cnp": 0.061752988
-        }
-      ],
-      "6992040 | FullMarks Loção+Champô (50% no champô)": [
-        {
-          "so": 58.0,
-          "f_so": 1454.7214697439,
-          "distribuicao": 0.1545454545,
-          "vendas": 0.0272727273,
-          "obj_barra_cnp": 0.1155378486
-        }
-      ],
-      "7008029 | FullMarks Spray Piolhos/Lêndeas 150ml": [
-        {
-          "so": 106.0,
-          "f_so": 1848.23,
-          "distribuicao": 0.2454545455,
-          "vendas": 0.0363636364,
-          "obj_barra_cnp": 0.2111553785
-        }
       ]
     },
     "Gaviscon | Anti-ácidos": {
       "dados": {
         "data": "20200816",
         "so_brand": 4785.0,
-        "f_so_brand": 35162.31540192594,
-        "v_brand": 0.5527595706279091,
+        "f_so_brand": 35162.31540192593,
+        "v_brand": 0.5527595706279093,
         "d_brand": 0.8212691175073621,
         "obj_barra_brand": 0.4779742283488163,
         "quota_ghp": 0.1,
@@ -537,15 +537,6 @@
         "quota_mercado": 0.05,
         "tick_mercado": "down"
       },
-      "5606256 | Gaviscon - Comp mast 48": [
-        {
-          "so": 310.0,
-          "f_so": 3060.29,
-          "distribuicao": 0.4,
-          "vendas": 0.1363636364,
-          "obj_barra_cnp": 0.0647857889
-        }
-      ],
       "5490925 | Gaviscon Duefet - Susp oral saq 12": [
         {
           "so": 2491.0,
@@ -553,6 +544,15 @@
           "distribuicao": 0.9363636364,
           "vendas": 0.7545454545,
           "obj_barra_cnp": 0.520585162
+        }
+      ],
+      "5281407 | Gaviscon - Susp oral saq 12": [
+        {
+          "so": 385.0,
+          "f_so": 2704.7241115609,
+          "distribuicao": 0.5363636364,
+          "vendas": 0.2454545455,
+          "obj_barra_cnp": 0.0804597701
         }
       ],
       "5281431 | Gaviscon - Comp mast 24": [
@@ -564,6 +564,15 @@
           "obj_barra_cnp": 0.1304075235
         }
       ],
+      "5606256 | Gaviscon - Comp mast 48": [
+        {
+          "so": 310.0,
+          "f_so": 3060.29,
+          "distribuicao": 0.4,
+          "vendas": 0.1363636364,
+          "obj_barra_cnp": 0.0647857889
+        }
+      ],
       "5630355 | Gaviscon Morango - Comp mast 250mg+133.5mg+80mg 24": [
         {
           "so": 975.0,
@@ -572,55 +581,28 @@
           "vendas": 0.4818181818,
           "obj_barra_cnp": 0.2037617555
         }
-      ],
-      "5281407 | Gaviscon - Susp oral saq 12": [
-        {
-          "so": 385.0,
-          "f_so": 2704.7241115609,
-          "distribuicao": 0.5363636364,
-          "vendas": 0.2454545455,
-          "obj_barra_cnp": 0.0804597701
-        }
       ]
     },
     "Nurofen | Anti-inflamatórios e anti-reumáticos sistémicos hmR 4": {
       "dados": {
         "data": "20200816",
         "so_brand": 6954.0,
-        "f_so_brand": 62847.124258910415,
-        "v_brand": 0.5086425079091171,
-        "d_brand": 0.7465160666196042,
-        "obj_barra_brand": 2.6192090395480228,
+        "f_so_brand": 62847.12425891062,
+        "v_brand": 0.508642507909117,
+        "d_brand": 0.7465160666196041,
+        "obj_barra_brand": 3.122586439155815,
         "quota_ghp": 0.1,
         "tick_ghp": "up",
         "quota_mercado": 0.05,
         "tick_mercado": "down"
       },
-      "5296728 | Nurofen Musc comp ver. 400mg x 24": [
-        {
-          "so": 1244.0,
-          "f_so": 7900.8665508034,
-          "distribuicao": 0.6272727273,
-          "vendas": 0.3636363636,
-          "obj_barra_cnp": 0.1788898476
-        }
-      ],
       "5437355 | Nurofen Xpress cáps mole 400mg x 20": [
         {
           "so": 1685.0,
-          "f_so": 31095.7466132258,
+          "f_so": 31095.7466132259,
           "distribuicao": 0.6909090909,
           "vendas": 0.5,
           "obj_barra_cnp": 0.2423065861
-        }
-      ],
-      "4283883 | Nurofen 400 comp rev. x 24": [
-        {
-          "so": 2928.0,
-          "f_so": 17860.1477803346,
-          "distribuicao": 0.8636363636,
-          "vendas": 0.6363636364,
-          "obj_barra_cnp": 0.4210526316
         }
       ],
       "5731773 | Nurofen Migrxpress comp rev. 400mg": [
@@ -631,6 +613,24 @@
           "vendas": 0.3454545455,
           "obj_barra_cnp": 0.1577509347
         }
+      ],
+      "4283883 | Nurofen 400 comp rev. x 24": [
+        {
+          "so": 2928.0,
+          "f_so": 17860.1477803347,
+          "distribuicao": 0.8636363636,
+          "vendas": 0.6363636364,
+          "obj_barra_cnp": 0.4210526316
+        }
+      ],
+      "5296728 | Nurofen Musc comp ver. 400mg x 24": [
+        {
+          "so": 1244.0,
+          "f_so": 7900.8665508034,
+          "distribuicao": 0.6272727273,
+          "vendas": 0.3636363636,
+          "obj_barra_cnp": 0.1788898476
+        }
       ]
     },
     "Nurofen | Analgésicos e anti-piréticos": {
@@ -640,21 +640,12 @@
         "f_so_brand": 1228.669791666667,
         "v_brand": 0.0818181818181818,
         "d_brand": 0.24993537268418783,
-        "obj_barra_brand": 0.6614420062695925,
+        "obj_barra_brand": 0.9906103286384976,
         "quota_ghp": 0.1,
         "tick_ghp": "up",
         "quota_mercado": 0.05,
         "tick_mercado": "down"
       },
-      "5734207 | Nurofen Xpress Cáps mole 200mg x 20": [
-        {
-          "so": 144.0,
-          "f_so": 862.078125,
-          "distribuicao": 0.2181818182,
-          "vendas": 0.0818181818,
-          "obj_barra_cnp": 0.682464455
-        }
-      ],
       "4348884 | Nurofen Comp revest 200mg 24": [
         {
           "so": 67.0,
@@ -663,21 +654,75 @@
           "vendas": 0.0818181818,
           "obj_barra_cnp": 0.317535545
         }
+      ],
+      "5734207 | Nurofen Xpress Cáps mole 200mg x 20": [
+        {
+          "so": 144.0,
+          "f_so": 862.078125,
+          "distribuicao": 0.2181818182,
+          "vendas": 0.0818181818,
+          "obj_barra_cnp": 0.682464455
+        }
       ]
     },
     "Optrex | Lubrificantes e lágrimas artificiais": {
       "dados": {
         "data": "20200816",
         "so_brand": 3464.0,
-        "f_so_brand": 60873.91475877465,
+        "f_so_brand": 60873.91475877474,
         "v_brand": 0.26399853033802223,
-        "d_brand": 0.6156912660088181,
+        "d_brand": 0.6156912660088179,
         "obj_barra_brand": 0.454175953848171,
         "quota_ghp": 0.1,
         "tick_ghp": "up",
         "quota_mercado": 0.05,
         "tick_mercado": "down"
       },
+      "6237743 | Optrex Dupla Ação Olhos com comichão": [
+        {
+          "so": 869.0,
+          "f_so": 30147.0244599225,
+          "distribuicao": 0.5909090909,
+          "vendas": 0.3,
+          "obj_barra_cnp": 0.2508660508
+        }
+      ],
+      "6970103 | Optrex Actimist Olhos com Comichão": [
+        {
+          "so": 175.0,
+          "f_so": 2836.8743571428,
+          "distribuicao": 0.4727272727,
+          "vendas": 0.0909090909,
+          "obj_barra_cnp": 0.0505196305
+        }
+      ],
+      "6237750 | Optrex Monodoses Olhos com comichão": [
+        {
+          "so": 286.0,
+          "f_so": 3486.8627536232,
+          "distribuicao": 0.5818181818,
+          "vendas": 0.1090909091,
+          "obj_barra_cnp": 0.0825635104
+        }
+      ],
+      "6237636 | Optrex Monodoses OLHOS SECOS": [
+        {
+          "so": 173.0,
+          "f_so": 2122.4239622641,
+          "distribuicao": 0.3181818182,
+          "vendas": 0.1090909091,
+          "obj_barra_cnp": 0.0499422633
+        }
+      ],
+      "6404475 | Optrex Actimist Olhos Secos": [
+        {
+          "so": 227.0,
+          "f_so": 3759.0039622641,
+          "distribuicao": 0.4454545455,
+          "vendas": 0.1090909091,
+          "obj_barra_cnp": 0.0655311778
+        }
+      ],
       "6404483 | Optrex Colírio ÁGUA HAMAMELIS ": [
         {
           "so": 1239.0,
@@ -695,59 +740,14 @@
           "vendas": 0.2272727273,
           "obj_barra_cnp": 0.1428983834
         }
-      ],
-      "6237636 | Optrex Monodoses OLHOS SECOS": [
-        {
-          "so": 173.0,
-          "f_so": 2122.4239622641,
-          "distribuicao": 0.3181818182,
-          "vendas": 0.1090909091,
-          "obj_barra_cnp": 0.0499422633
-        }
-      ],
-      "6237743 | Optrex Dupla Ação Olhos com comichão": [
-        {
-          "so": 869.0,
-          "f_so": 30147.0244599224,
-          "distribuicao": 0.5909090909,
-          "vendas": 0.3,
-          "obj_barra_cnp": 0.2508660508
-        }
-      ],
-      "6970103 | Optrex Actimist Olhos com Comichão": [
-        {
-          "so": 175.0,
-          "f_so": 2836.8743571429,
-          "distribuicao": 0.4727272727,
-          "vendas": 0.0909090909,
-          "obj_barra_cnp": 0.0505196305
-        }
-      ],
-      "6237750 | Optrex Monodoses Olhos com comichão": [
-        {
-          "so": 286.0,
-          "f_so": 3486.8627536232,
-          "distribuicao": 0.5818181818,
-          "vendas": 0.1090909091,
-          "obj_barra_cnp": 0.0825635104
-        }
-      ],
-      "6404475 | Optrex Actimist Olhos Secos": [
-        {
-          "so": 227.0,
-          "f_so": 3759.0039622641,
-          "distribuicao": 0.4454545455,
-          "vendas": 0.1090909091,
-          "obj_barra_cnp": 0.0655311778
-        }
       ]
     },
     "Strepfen | Inflamação Garganta": {
       "dados": {
         "data": "20200816",
         "so_brand": 18046.0,
-        "f_so_brand": 169179.8613340501,
-        "v_brand": 0.5588526291396733,
+        "f_so_brand": 169179.86133405,
+        "v_brand": 0.5588526291396734,
         "d_brand": 0.8513027314035847,
         "obj_barra_brand": 0.4102389233672054,
         "quota_ghp": 0.1,
@@ -755,6 +755,24 @@
         "quota_mercado": 0.05,
         "tick_mercado": "down"
       },
+      "5154828 | Strepfen Mel e Limão - Pst 8.75mg 24": [
+        {
+          "so": 6759.0,
+          "f_so": 68559.4184437114,
+          "distribuicao": 0.9090909091,
+          "vendas": 0.6363636364,
+          "obj_barra_cnp": 0.374542835
+        }
+      ],
+      "5478052 | Strepfen Laranja sem Açúcar - Pst 8.75mg 24": [
+        {
+          "so": 3540.0,
+          "f_so": 30894.0690783699,
+          "distribuicao": 0.8454545455,
+          "vendas": 0.5363636364,
+          "obj_barra_cnp": 0.1961653552
+        }
+      ],
       "3700481 | Strepfen Mel e Limão - Pst 8.75mg 16": [
         {
           "so": 4744.0,
@@ -773,15 +791,6 @@
           "obj_barra_cnp": 0.0993571983
         }
       ],
-      "5154828 | Strepfen Mel e Limão - Pst 8.75mg 24": [
-        {
-          "so": 6759.0,
-          "f_so": 68559.4184437115,
-          "distribuicao": 0.9090909091,
-          "vendas": 0.6363636364,
-          "obj_barra_cnp": 0.374542835
-        }
-      ],
       "5631031 | Strepfen Spray - Sol pulv bucal 16.2mg/ml 15ml": [
         {
           "so": 1210.0,
@@ -790,22 +799,13 @@
           "vendas": 0.3909090909,
           "obj_barra_cnp": 0.06705087
         }
-      ],
-      "5478052 | Strepfen Laranja sem Açúcar - Pst 8.75mg 24": [
-        {
-          "so": 3540.0,
-          "f_so": 30894.0690783699,
-          "distribuicao": 0.8454545455,
-          "vendas": 0.5363636364,
-          "obj_barra_cnp": 0.1961653552
-        }
       ]
     },
     "Strepsils | Inflamação Garganta": {
       "dados": {
         "data": "20200816",
         "so_brand": 8505.0,
-        "f_so_brand": 112866.07920919081,
+        "f_so_brand": 112866.0792091908,
         "v_brand": 0.24810859921971032,
         "d_brand": 0.6754048420715087,
         "obj_barra_brand": 0.4382439326016386,
@@ -814,33 +814,6 @@
         "quota_mercado": 0.05,
         "tick_mercado": "down"
       },
-      "5164231 | Strepsils - Pst Laranja com Vitamina C 1.2mg+0.6mg 24": [
-        {
-          "so": 1135.0,
-          "f_so": 17882.5534465134,
-          "distribuicao": 0.9,
-          "vendas": 0.2363636364,
-          "obj_barra_cnp": 0.1334509112
-        }
-      ],
-      "5301619 | Strepsils - Pst Menta Fresca 1.2mg+0.6mg 16": [
-        {
-          "so": 82.0,
-          "f_so": 512.559811321,
-          "distribuicao": 0.2363636364,
-          "vendas": 0.0727272727,
-          "obj_barra_cnp": 0.0096413874
-        }
-      ],
-      "5154679 | Strepsils - Pst Morango sem açúcar 1.2mg+0.6mg 24": [
-        {
-          "so": 325.0,
-          "f_so": 22645.55,
-          "distribuicao": 0.3090909091,
-          "vendas": 0.1,
-          "obj_barra_cnp": 0.038212816
-        }
-      ],
       "5154778 | Strepsils - Pst Limão sem açúcar 1.2mg+0.6mg 24": [
         {
           "so": 516.0,
@@ -850,22 +823,13 @@
           "obj_barra_cnp": 0.060670194
         }
       ],
-      "5164249 | Strepsils - Pst Laranja com Vitamina C 1.2mg+0.6mg 36": [
+      "5680046 | Strepsils - Pst Mentol e Eucalipto 1.2mg+0.6mg 36": [
         {
-          "so": 214.0,
-          "f_so": 1909.01,
-          "distribuicao": 0.2454545455,
-          "vendas": 0.0454545455,
-          "obj_barra_cnp": 0.0251616696
-        }
-      ],
-      "5680038 | Strepsils - Pst Mentol e Eucalipto 1.2mg+0.6mg 24": [
-        {
-          "so": 1219.0,
-          "f_so": 18728.2019965817,
-          "distribuicao": 0.7,
-          "vendas": 0.2,
-          "obj_barra_cnp": 0.1433274544
+          "so": 712.0,
+          "f_so": 6425.6399826576,
+          "distribuicao": 0.5,
+          "vendas": 0.1090909091,
+          "obj_barra_cnp": 0.0837154615
         }
       ],
       "5154745 | Strepsils - Pst Mel e limão 1.2mg+0.6mg 36": [
@@ -886,15 +850,6 @@
           "obj_barra_cnp": 0.0952380952
         }
       ],
-      "5680046 | Strepsils - Pst Mentol e Eucalipto 1.2mg+0.6mg 36": [
-        {
-          "so": 712.0,
-          "f_so": 6425.6399826577,
-          "distribuicao": 0.5,
-          "vendas": 0.1090909091,
-          "obj_barra_cnp": 0.0837154615
-        }
-      ],
       "5154737 | Strepsils - Pst Mel e limão 1.2mg+0.6mg 24": [
         {
           "so": 2248.0,
@@ -902,6 +857,15 @@
           "distribuicao": 0.8818181818,
           "vendas": 0.4727272727,
           "obj_barra_cnp": 0.2643151088
+        }
+      ],
+      "5680038 | Strepsils - Pst Mentol e Eucalipto 1.2mg+0.6mg 24": [
+        {
+          "so": 1219.0,
+          "f_so": 18728.2019965817,
+          "distribuicao": 0.7,
+          "vendas": 0.2,
+          "obj_barra_cnp": 0.1433274544
         }
       ],
       "5182647 | Strepsils - Pst Morango sem açúcar 1.2mg+0.6mg 16": [
@@ -912,33 +876,46 @@
           "vendas": 0.2,
           "obj_barra_cnp": 0.0720752499
         }
+      ],
+      "5301619 | Strepsils - Pst Menta Fresca 1.2mg+0.6mg 16": [
+        {
+          "so": 82.0,
+          "f_so": 512.559811321,
+          "distribuicao": 0.2363636364,
+          "vendas": 0.0727272727,
+          "obj_barra_cnp": 0.0096413874
+        }
+      ],
+      "5164249 | Strepsils - Pst Laranja com Vitamina C 1.2mg+0.6mg 36": [
+        {
+          "so": 214.0,
+          "f_so": 1909.01,
+          "distribuicao": 0.2454545455,
+          "vendas": 0.0454545455,
+          "obj_barra_cnp": 0.0251616696
+        }
+      ],
+      "5154679 | Strepsils - Pst Morango sem açúcar 1.2mg+0.6mg 24": [
+        {
+          "so": 325.0,
+          "f_so": 22645.55,
+          "distribuicao": 0.3090909091,
+          "vendas": 0.1,
+          "obj_barra_cnp": 0.038212816
+        }
+      ],
+      "5164231 | Strepsils - Pst Laranja com Vitamina C 1.2mg+0.6mg 24": [
+        {
+          "so": 1135.0,
+          "f_so": 17882.5534465134,
+          "distribuicao": 0.9,
+          "vendas": 0.2363636364,
+          "obj_barra_cnp": 0.1334509112
+        }
       ]
     }
   },
   "Perrigo": {
-    "Antigrippine | Antigripais cápsulas e comprimidos hmR 4": {
-      "dados": {
-        "data": "20200816",
-        "so_brand": 10243.0,
-        "f_so_brand": 73825.2822917746,
-        "v_brand": 0.6727272727272727,
-        "d_brand": 1.0,
-        "obj_barra_brand": 0.40328359384227724,
-        "quota_ghp": 0.1,
-        "tick_ghp": "up",
-        "quota_mercado": 0.05,
-        "tick_mercado": "down"
-      },
-      "5603741 | Antigrippine Trieffect - Comp revest 500mg+5mg 20": [
-        {
-          "so": 10243.0,
-          "f_so": 73825.2822917746,
-          "distribuicao": 1.0,
-          "vendas": 0.6727272727,
-          "obj_barra_cnp": 1.0
-        }
-      ]
-    },
     "Antigrippine | Antigripais pó hmR 4": {
       "dados": {
         "data": "20200816",
@@ -958,6 +935,29 @@
           "f_so": 5725.9586647312,
           "distribuicao": 0.7727272727,
           "vendas": 0.0636363636,
+          "obj_barra_cnp": 1.0
+        }
+      ]
+    },
+    "Antigrippine | Antigripais cápsulas e comprimidos hmR 4": {
+      "dados": {
+        "data": "20200816",
+        "so_brand": 10243.0,
+        "f_so_brand": 73825.2822917745,
+        "v_brand": 0.6727272727272727,
+        "d_brand": 1.0,
+        "obj_barra_brand": 0.40328359384227724,
+        "quota_ghp": 0.1,
+        "tick_ghp": "up",
+        "quota_mercado": 0.05,
+        "tick_mercado": "down"
+      },
+      "5603741 | Antigrippine Trieffect - Comp revest 500mg+5mg 20": [
+        {
+          "so": 10243.0,
+          "f_so": 73825.2822917745,
+          "distribuicao": 1.0,
+          "vendas": 0.6727272727,
           "obj_barra_cnp": 1.0
         }
       ]
@@ -999,7 +999,7 @@
         "data": "20200816",
         "so_brand": 1211.0,
         "f_so_brand": 23761.934447281972,
-        "v_brand": 0.3112979506043089,
+        "v_brand": 0.311297950604309,
         "d_brand": 0.8027475414758651,
         "obj_barra_brand": 0.8398058252427184,
         "quota_ghp": 0.1,
@@ -1007,6 +1007,15 @@
         "quota_mercado": 0.05,
         "tick_mercado": "down"
       },
+      "7004895 | Bio-Oil Óleo Corpo 200ml": [
+        {
+          "so": 322.0,
+          "f_so": 9555.5954878268,
+          "distribuicao": 0.7545454545,
+          "vendas": 0.2727272727,
+          "obj_barra_cnp": 0.2658959538
+        }
+      ],
       "6966093 | Bio-Oil Óleo Corpo 125ml": [
         {
           "so": 395.0,
@@ -1024,15 +1033,6 @@
           "vendas": 0.3818181818,
           "obj_barra_cnp": 0.4079273328
         }
-      ],
-      "7004895 | Bio-Oil Óleo Corpo 200ml": [
-        {
-          "so": 322.0,
-          "f_so": 9555.5954878268,
-          "distribuicao": 0.7545454545,
-          "vendas": 0.2727272727,
-          "obj_barra_cnp": 0.2658959538
-        }
       ]
     },
     "Bronchodual | Alívio da tosse seca e produtiva": {
@@ -1040,7 +1040,7 @@
         "data": "20200816",
         "so_brand": 4302.0,
         "f_so_brand": 49368.59226954346,
-        "v_brand": 0.16366806136680617,
+        "v_brand": 0.16366806136680614,
         "d_brand": 0.7838933265711507,
         "obj_barra_brand": 0.31662618679620225,
         "quota_ghp": 0.1,
@@ -1057,15 +1057,6 @@
           "obj_barra_cnp": 0.5560204556
         }
       ],
-      "5707005 | Bronchodual Next pastilhas": [
-        {
-          "so": 819.0,
-          "f_so": 7984.2027073977,
-          "distribuicao": 0.7181818182,
-          "vendas": 0.0818181818,
-          "obj_barra_cnp": 0.190376569
-        }
-      ],
       "5618145 | Bronchodual - Sol oral frasco 0.12g/15ml+0.83g/15ml 120ml": [
         {
           "so": 1091.0,
@@ -1074,13 +1065,22 @@
           "vendas": 0.1454545455,
           "obj_barra_cnp": 0.2536029754
         }
+      ],
+      "5707005 | Bronchodual Next pastilhas": [
+        {
+          "so": 819.0,
+          "f_so": 7984.2027073977,
+          "distribuicao": 0.7181818182,
+          "vendas": 0.0818181818,
+          "obj_barra_cnp": 0.190376569
+        }
       ]
     },
     "Caladryl | Anti-alérgicos Pele": {
       "dados": {
         "data": "20200816",
         "so_brand": 378.0,
-        "f_so_brand": 5135.56849999999,
+        "f_so_brand": 5135.5685,
         "v_brand": 0.10909090909090909,
         "d_brand": 0.2,
         "obj_barra_brand": 0.5354107648725213,
@@ -1089,15 +1089,6 @@
         "quota_mercado": 0.05,
         "tick_mercado": "down"
       },
-      "6239871 | Caladryl Derma Promo Gel SOS 150ml (antigo Derma Ice, código standard vêm sempre 2 embalagens)": [
-        {
-          "so": 0.0,
-          "f_so": 0.0,
-          "distribuicao": 0.0090909091,
-          "vendas": 0.0,
-          "obj_barra_cnp": 0.0
-        }
-      ],
       "6942938 | Caladryl Derma Gel SOS 150ml": [
         {
           "so": 378.0,
@@ -1106,39 +1097,30 @@
           "vendas": 0.1090909091,
           "obj_barra_cnp": 1.0
         }
+      ],
+      "6239871 | Caladryl Derma Promo Gel SOS 150ml (antigo Derma Ice, código standard vêm sempre 2 embalagens)": [
+        {
+          "so": 0.0,
+          "f_so": 0.0,
+          "distribuicao": 0.0090909091,
+          "vendas": 0.0,
+          "obj_barra_cnp": 0.0
+        }
       ]
     },
     "Lactacyd | Limpeza Íntima Mulher": {
       "dados": {
         "data": "20200816",
         "so_brand": 5995.0,
-        "f_so_brand": 75036.47519377069,
-        "v_brand": 0.35859731594510574,
-        "d_brand": 0.8819592084312684,
+        "f_so_brand": 75036.47519377047,
+        "v_brand": 0.3585973159451058,
+        "d_brand": 0.8819592084312686,
         "obj_barra_brand": 0.5994400559944005,
         "quota_ghp": 0.1,
         "tick_ghp": "up",
         "quota_mercado": 0.05,
         "tick_mercado": "down"
       },
-      "6932228 | Lactacyd Pharma Gel Higiene Íntima Suav Calm 250ml": [
-        {
-          "so": 1005.0,
-          "f_so": 12098.5148480571,
-          "distribuicao": 0.8909090909,
-          "vendas": 0.4363636364,
-          "obj_barra_cnp": 0.1676396997
-        }
-      ],
-      "6524454 | Lactacyd Intimo Emulsão Suave 200ml": [
-        {
-          "so": 1231.0,
-          "f_so": 12941.4471766711,
-          "distribuicao": 0.9181818182,
-          "vendas": 0.3909090909,
-          "obj_barra_cnp": 0.2053377815
-        }
-      ],
       "6562017 | Lactacyd Intimo Toalhitas 10": [
         {
           "so": 82.0,
@@ -1157,28 +1139,10 @@
           "obj_barra_cnp": 0.1262718932
         }
       ],
-      "6932210 | Lactacyd Pharma Gel Higiene Íntima Sensitive Diário 250ml": [
-        {
-          "so": 567.0,
-          "f_so": 6859.3902438979,
-          "distribuicao": 0.9363636364,
-          "vendas": 0.2727272727,
-          "obj_barra_cnp": 0.0945788157
-        }
-      ],
-      "6809269 | Lactacyd Intimo Emulsão 400ml": [
-        {
-          "so": 1049.0,
-          "f_so": 17900.6255994813,
-          "distribuicao": 0.7909090909,
-          "vendas": 0.3636363636,
-          "obj_barra_cnp": 0.1749791493
-        }
-      ],
       "6932202 | Lactacyd Pharma Gel Higiene Íntima Hidrat Menopausa 250ml": [
         {
           "so": 913.0,
-          "f_so": 10826.5848592871,
+          "f_so": 10826.584859287,
           "distribuicao": 0.9363636364,
           "vendas": 0.3727272727,
           "obj_barra_cnp": 0.152293578
@@ -1191,6 +1155,42 @@
           "distribuicao": 0.8727272727,
           "vendas": 0.1909090909,
           "obj_barra_cnp": 0.0652210175
+        }
+      ],
+      "6932228 | Lactacyd Pharma Gel Higiene Íntima Suav Calm 250ml": [
+        {
+          "so": 1005.0,
+          "f_so": 12098.514848057,
+          "distribuicao": 0.8909090909,
+          "vendas": 0.4363636364,
+          "obj_barra_cnp": 0.1676396997
+        }
+      ],
+      "6932210 | Lactacyd Pharma Gel Higiene Íntima Sensitive Diário 250ml": [
+        {
+          "so": 567.0,
+          "f_so": 6859.3902438979,
+          "distribuicao": 0.9363636364,
+          "vendas": 0.2727272727,
+          "obj_barra_cnp": 0.0945788157
+        }
+      ],
+      "6524454 | Lactacyd Intimo Emulsão Suave 200ml": [
+        {
+          "so": 1231.0,
+          "f_so": 12941.4471766711,
+          "distribuicao": 0.9181818182,
+          "vendas": 0.3909090909,
+          "obj_barra_cnp": 0.2053377815
+        }
+      ],
+      "6809269 | Lactacyd Intimo Emulsão 400ml": [
+        {
+          "so": 1049.0,
+          "f_so": 17900.6255994813,
+          "distribuicao": 0.7909090909,
+          "vendas": 0.3636363636,
+          "obj_barra_cnp": 0.1749791493
         }
       ]
     },
@@ -1221,7 +1221,7 @@
       "dados": {
         "data": "20200816",
         "so_brand": 2923.0,
-        "f_so_brand": 20196.05401828613,
+        "f_so_brand": 20196.05401828612,
         "v_brand": 0.394392436164588,
         "d_brand": 0.9695798214785556,
         "obj_barra_brand": 0.38643574828133265,
@@ -1253,7 +1253,7 @@
       "dados": {
         "data": "20200816",
         "so_brand": 2200.0,
-        "f_so_brand": 40081.11206100947,
+        "f_so_brand": 40081.11206100948,
         "v_brand": 0.298103305785124,
         "d_brand": 0.7990289256198346,
         "obj_barra_brand": 0.3208868144690782,
@@ -1271,15 +1271,6 @@
           "obj_barra_cnp": 0.645
         }
       ],
-      "6287573 | Paranix Spray para Ambiente": [
-        {
-          "so": 75.0,
-          "f_so": 1361.85,
-          "distribuicao": 0.7636363636,
-          "vendas": 0.0454545455,
-          "obj_barra_cnp": 0.0340909091
-        }
-      ],
       "6186452 | Paranix Spray C/ Pente Piolhos/Lêndeas 100ml": [
         {
           "so": 212.0,
@@ -1287,6 +1278,15 @@
           "distribuicao": 0.6454545455,
           "vendas": 0.1,
           "obj_barra_cnp": 0.0963636364
+        }
+      ],
+      "7759209 | Paranix Champô Protect Piolho/Lêndeas 200ml": [
+        {
+          "so": 99.0,
+          "f_so": 1347.1366666667,
+          "distribuicao": 0.6454545455,
+          "vendas": 0.0727272727,
+          "obj_barra_cnp": 0.045
         }
       ],
       "6840637 | Paranix Spray Repel 100ml": [
@@ -1298,13 +1298,13 @@
           "obj_barra_cnp": 0.1386363636
         }
       ],
-      "6089060 | Paranix Loção Piolhos/Lêndeas 100ml C/ Pente": [
+      "6287573 | Paranix Spray para Ambiente": [
         {
-          "so": 89.0,
-          "f_so": 1613.01,
-          "distribuicao": 0.2363636364,
-          "vendas": 0.0636363636,
-          "obj_barra_cnp": 0.0404545455
+          "so": 75.0,
+          "f_so": 1361.85,
+          "distribuicao": 0.7636363636,
+          "vendas": 0.0454545455,
+          "obj_barra_cnp": 0.0340909091
         }
       ],
       "7759217 | Paranix Gel Localizador Lêndeas 150ml": [
@@ -1316,13 +1316,13 @@
           "obj_barra_cnp": 0.0004545455
         }
       ],
-      "7759209 | Paranix Champô Protect Piolho/Lêndeas 200ml": [
+      "6089060 | Paranix Loção Piolhos/Lêndeas 100ml C/ Pente": [
         {
-          "so": 99.0,
-          "f_so": 1347.1366666667,
-          "distribuicao": 0.6454545455,
-          "vendas": 0.0727272727,
-          "obj_barra_cnp": 0.045
+          "so": 89.0,
+          "f_so": 1613.01,
+          "distribuicao": 0.2363636364,
+          "vendas": 0.0636363636,
+          "obj_barra_cnp": 0.0404545455
         }
       ]
     },
@@ -1353,22 +1353,22 @@
       "dados": {
         "data": "20200816",
         "so_brand": 2735.0,
-        "f_so_brand": 39290.5290214866,
-        "v_brand": 0.09130131294665114,
-        "d_brand": 0.3604354329400033,
+        "f_so_brand": 39290.529021486596,
+        "v_brand": 0.09130131294665116,
+        "d_brand": 0.36043543294000335,
         "obj_barra_brand": 0.8868352788586251,
         "quota_ghp": 0.1,
         "tick_ghp": "up",
         "quota_mercado": 0.05,
         "tick_mercado": "down"
       },
-      "7065540 | Vitacê Infantil ": [
+      "6346833 | Vitacê Recovery": [
         {
-          "so": 134.0,
-          "f_so": 2405.82,
-          "distribuicao": 0.2909090909,
-          "vendas": 0.0090909091,
-          "obj_barra_cnp": 0.0489945155
+          "so": 238.0,
+          "f_so": 3782.51,
+          "distribuicao": 0.1272727273,
+          "vendas": 0.0181818182,
+          "obj_barra_cnp": 0.0870201097
         }
       ],
       "6022939 | Vitacê 60 Comp": [
@@ -1378,15 +1378,6 @@
           "distribuicao": 0.1181818182,
           "vendas": 0.0727272727,
           "obj_barra_cnp": 0.0654478976
-        }
-      ],
-      "6030189 | Vitacê Junior Gomas": [
-        {
-          "so": 92.0,
-          "f_so": 2064.225,
-          "distribuicao": 0.0909090909,
-          "vendas": 0.0181818182,
-          "obj_barra_cnp": 0.0336380256
         }
       ],
       "7341818 | Vitacê 30 Comp": [
@@ -1407,13 +1398,22 @@
           "obj_barra_cnp": 0.4639853748
         }
       ],
-      "6346833 | Vitacê Recovery": [
+      "7065540 | Vitacê Infantil ": [
         {
-          "so": 238.0,
-          "f_so": 3782.51,
-          "distribuicao": 0.1272727273,
+          "so": 134.0,
+          "f_so": 2405.82,
+          "distribuicao": 0.2909090909,
+          "vendas": 0.0090909091,
+          "obj_barra_cnp": 0.0489945155
+        }
+      ],
+      "6030189 | Vitacê Junior Gomas": [
+        {
+          "so": 92.0,
+          "f_so": 2064.225,
+          "distribuicao": 0.0909090909,
           "vendas": 0.0181818182,
-          "obj_barra_cnp": 0.0870201097
+          "obj_barra_cnp": 0.0336380256
         }
       ]
     },
@@ -1430,33 +1430,6 @@
         "quota_mercado": 0.05,
         "tick_mercado": "down"
       },
-      "7394056 | Viterra Platinum 55+ Comp Mulher 30": [
-        {
-          "so": 752.0,
-          "f_so": 15460.5402380952,
-          "distribuicao": 0.6909090909,
-          "vendas": 0.2636363636,
-          "obj_barra_cnp": 0.2700179533
-        }
-      ],
-      "7394064 | Viterra Sport Activit Comp Adulto 60": [
-        {
-          "so": 171.0,
-          "f_so": 4335.64,
-          "distribuicao": 0.2272727273,
-          "vendas": 0.0727272727,
-          "obj_barra_cnp": 0.0614003591
-        }
-      ],
-      "7355586 | Viterra Comp revest 30": [
-        {
-          "so": 391.0,
-          "f_so": 5390.986331354,
-          "distribuicao": 0.4454545455,
-          "vendas": 0.1454545455,
-          "obj_barra_cnp": 0.1403949731
-        }
-      ],
       "7394049 | Viterra Platinum 55+ Comp Homem 30": [
         {
           "so": 446.0,
@@ -1464,6 +1437,15 @@
           "distribuicao": 0.5909090909,
           "vendas": 0.2,
           "obj_barra_cnp": 0.1601436266
+        }
+      ],
+      "7394056 | Viterra Platinum 55+ Comp Mulher 30": [
+        {
+          "so": 752.0,
+          "f_so": 15460.5402380952,
+          "distribuicao": 0.6909090909,
+          "vendas": 0.2636363636,
+          "obj_barra_cnp": 0.2700179533
         }
       ],
       "7394072 | Viterra Teenz Comp Jovem 30": [
@@ -1475,6 +1457,15 @@
           "obj_barra_cnp": 0.0387791741
         }
       ],
+      "7394023 | Viterra Adulto Comp Homem 30": [
+        {
+          "so": 257.0,
+          "f_so": 4640.1179532203,
+          "distribuicao": 0.4,
+          "vendas": 0.1545454545,
+          "obj_barra_cnp": 0.0922800718
+        }
+      ],
       "7394080 | Viterra Junior Comp Mast Laranja 30": [
         {
           "so": 227.0,
@@ -1484,13 +1475,22 @@
           "obj_barra_cnp": 0.081508079
         }
       ],
-      "7394023 | Viterra Adulto Comp Homem 30": [
+      "7355586 | Viterra Comp revest 30": [
         {
-          "so": 257.0,
-          "f_so": 4640.1179532203,
-          "distribuicao": 0.4,
-          "vendas": 0.1545454545,
-          "obj_barra_cnp": 0.0922800718
+          "so": 391.0,
+          "f_so": 5390.986331354,
+          "distribuicao": 0.4454545455,
+          "vendas": 0.1454545455,
+          "obj_barra_cnp": 0.1403949731
+        }
+      ],
+      "6088294 | Viterra Adulto Pack Família Adulto Comp Homem 30 + Comp Mulher 30": [
+        {
+          "so": 0.0,
+          "f_so": 0.0,
+          "distribuicao": 0.0090909091,
+          "vendas": 0.0,
+          "obj_barra_cnp": 0.0
         }
       ],
       "7394031 | Viterra Adulto Comp Mulher 30": [
@@ -1502,50 +1502,18 @@
           "obj_barra_cnp": 0.155475763
         }
       ],
-      "6088294 | Viterra Adulto Pack Família Adulto Comp Homem 30 + Comp Mulher 30": [
+      "7394064 | Viterra Sport Activit Comp Adulto 60": [
         {
-          "so": 0.0,
-          "f_so": 0.0,
-          "distribuicao": 0.0090909091,
-          "vendas": 0.0,
-          "obj_barra_cnp": 0.0
+          "so": 171.0,
+          "f_so": 4335.64,
+          "distribuicao": 0.2272727273,
+          "vendas": 0.0727272727,
+          "obj_barra_cnp": 0.0614003591
         }
       ]
     }
   },
   "Uriach-Theralab": {
-    "Aquilea | Hepatoprotetor em solução oral hmR 4": {
-      "dados": {
-        "data": "20200816",
-        "so_brand": 326.0,
-        "f_so_brand": 10246.560000000001,
-        "v_brand": 0.05454545454545454,
-        "d_brand": 0.16023424428332403,
-        "obj_barra_brand": 0.3180487804878049,
-        "quota_ghp": 0.1,
-        "tick_ghp": "up",
-        "quota_mercado": 0.05,
-        "tick_mercado": "down"
-      },
-      "6097162 | AQUILEA STAGUTT DETOX 30 x 15 ml": [
-        {
-          "so": 110.0,
-          "f_so": 4173.31,
-          "distribuicao": 0.1,
-          "vendas": 0.0545454545,
-          "obj_barra_cnp": 0.3374233129
-        }
-      ],
-      "6097154 | AQUILEA STAGUTT DETOX 20 x 15 ml": [
-        {
-          "so": 216.0,
-          "f_so": 6073.25,
-          "distribuicao": 0.1909090909,
-          "vendas": 0.0545454545,
-          "obj_barra_cnp": 0.6625766871
-        }
-      ]
-    },
     "Aquilea | Hepatoprotetor em cápsulas e comprimidos hmR 4": {
       "dados": {
         "data": "20200816",
@@ -1566,6 +1534,38 @@
           "distribuicao": 0.1727272727,
           "vendas": 0.0636363636,
           "obj_barra_cnp": 1.0
+        }
+      ]
+    },
+    "Aquilea | Hepatoprotetor em solução oral hmR 4": {
+      "dados": {
+        "data": "20200816",
+        "so_brand": 326.0,
+        "f_so_brand": 10246.560000000001,
+        "v_brand": 0.05454545454545454,
+        "d_brand": 0.16023424428332403,
+        "obj_barra_brand": 0.3180487804878049,
+        "quota_ghp": 0.1,
+        "tick_ghp": "up",
+        "quota_mercado": 0.05,
+        "tick_mercado": "down"
+      },
+      "6097154 | AQUILEA STAGUTT DETOX 20 x 15 ml": [
+        {
+          "so": 216.0,
+          "f_so": 6073.25,
+          "distribuicao": 0.1909090909,
+          "vendas": 0.0545454545,
+          "obj_barra_cnp": 0.6625766871
+        }
+      ],
+      "6097162 | AQUILEA STAGUTT DETOX 30 x 15 ml": [
+        {
+          "so": 110.0,
+          "f_so": 4173.31,
+          "distribuicao": 0.1,
+          "vendas": 0.0545454545,
+          "obj_barra_cnp": 0.3374233129
         }
       ]
     }
@@ -1600,56 +1600,20 @@
         "so_brand": 6725.0,
         "f_so_brand": 57275.30083431983,
         "v_brand": 0.4117336938154782,
-        "d_brand": 0.8280500168976005,
+        "d_brand": 0.8280500168976006,
         "obj_barra_brand": 0.43053777208706784,
         "quota_ghp": 0.1,
         "tick_ghp": "up",
         "quota_mercado": 0.05,
         "tick_mercado": "down"
       },
-      "6887174 | Elgydium Branqueamento Pasta Dent 100ml": [
+      "6784116 | Elgydium Branqueamento Pasta Dent 75ml": [
         {
-          "so": -1.0,
-          "f_so": -6.6,
-          "distribuicao": 0.0090909091,
-          "vendas": 0.0,
-          "obj_barra_cnp": -0.0001486989
-        }
-      ],
-      "6784108 | Elgydium Dentes Sensíveis Gel Dent Sens 75ml": [
-        {
-          "so": 1466.0,
-          "f_so": 10502.9631470149,
-          "distribuicao": 0.9090909091,
-          "vendas": 0.3909090909,
-          "obj_barra_cnp": 0.2179925651
-        }
-      ],
-      "6593772 | Elgydium Prevenção Cáries Pasta Dent 75ml": [
-        {
-          "so": 858.0,
-          "f_so": 6035.2389266895,
-          "distribuicao": 0.9181818182,
-          "vendas": 0.3090909091,
-          "obj_barra_cnp": 0.1275836431
-        }
-      ],
-      "6887190 | Elgydium Proteção Gengivas Pasta Dent Protecção Gengivas 100ml": [
-        {
-          "so": 167.0,
-          "f_so": 1156.9268292682,
-          "distribuicao": 0.0909090909,
-          "vendas": 0.0363636364,
-          "obj_barra_cnp": 0.0248327138
-        }
-      ],
-      "6985895 | Elgydium Branqueamento Cool Lemon Pasta Dent Limão 75ml": [
-        {
-          "so": 211.0,
-          "f_so": 1499.029203252,
-          "distribuicao": 0.3636363636,
-          "vendas": 0.0636363636,
-          "obj_barra_cnp": 0.0313754647
+          "so": 1062.0,
+          "f_so": 17603.8521478194,
+          "distribuicao": 0.9363636364,
+          "vendas": 0.4181818182,
+          "obj_barra_cnp": 0.1579182156
         }
       ],
       "6405878 | Elgydium Proteção Gengivas Pasta Dent Protecção Gengivas 75ml": [
@@ -1670,6 +1634,15 @@
           "obj_barra_cnp": 0.0199256506
         }
       ],
+      "6593772 | Elgydium Prevenção Cáries Pasta Dent 75ml": [
+        {
+          "so": 858.0,
+          "f_so": 6035.2389266895,
+          "distribuicao": 0.9181818182,
+          "vendas": 0.3090909091,
+          "obj_barra_cnp": 0.1275836431
+        }
+      ],
       "6887208 | Elgydium Proteção Gengivas Pasta Dent Protecção Gengivas 50ml": [
         {
           "so": 237.0,
@@ -1679,22 +1652,22 @@
           "obj_barra_cnp": 0.0352416357
         }
       ],
-      "6784116 | Elgydium Branqueamento Pasta Dent 75ml": [
+      "6887174 | Elgydium Branqueamento Pasta Dent 100ml": [
         {
-          "so": 1062.0,
-          "f_so": 17603.8521478194,
-          "distribuicao": 0.9363636364,
-          "vendas": 0.4181818182,
-          "obj_barra_cnp": 0.1579182156
+          "so": -1.0,
+          "f_so": -6.6,
+          "distribuicao": 0.0090909091,
+          "vendas": 0.0,
+          "obj_barra_cnp": -0.0001486989
         }
       ],
-      "6887182 | Elgydium Branqueamento Viagem Pasta Dent 50ml": [
+      "6985895 | Elgydium Branqueamento Cool Lemon Pasta Dent Limão 75ml": [
         {
-          "so": 98.0,
-          "f_so": 468.19,
-          "distribuicao": 0.1909090909,
-          "vendas": 0.0363636364,
-          "obj_barra_cnp": 0.0145724907
+          "so": 211.0,
+          "f_so": 1499.029203252,
+          "distribuicao": 0.3636363636,
+          "vendas": 0.0636363636,
+          "obj_barra_cnp": 0.0313754647
         }
       ],
       "6044438 | Elgydium Phyto Gel Dent 75ml": [
@@ -1704,6 +1677,33 @@
           "distribuicao": 0.3909090909,
           "vendas": 0.0818181818,
           "obj_barra_cnp": 0.0151672862
+        }
+      ],
+      "6887190 | Elgydium Proteção Gengivas Pasta Dent Protecção Gengivas 100ml": [
+        {
+          "so": 167.0,
+          "f_so": 1156.9268292682,
+          "distribuicao": 0.0909090909,
+          "vendas": 0.0363636364,
+          "obj_barra_cnp": 0.0248327138
+        }
+      ],
+      "6784108 | Elgydium Dentes Sensíveis Gel Dent Sens 75ml": [
+        {
+          "so": 1466.0,
+          "f_so": 10502.9631470149,
+          "distribuicao": 0.9090909091,
+          "vendas": 0.3909090909,
+          "obj_barra_cnp": 0.2179925651
+        }
+      ],
+      "6887182 | Elgydium Branqueamento Viagem Pasta Dent 50ml": [
+        {
+          "so": 98.0,
+          "f_so": 468.19,
+          "distribuicao": 0.1909090909,
+          "vendas": 0.0363636364,
+          "obj_barra_cnp": 0.0145724907
         }
       ]
     },
@@ -1734,22 +1734,22 @@
       "dados": {
         "data": "20200816",
         "so_brand": 8201.0,
-        "f_so_brand": 109527.07714333679,
-        "v_brand": 0.733189965746971,
-        "d_brand": 0.9462050082584164,
+        "f_so_brand": 109527.07714333669,
+        "v_brand": 0.7331899657469709,
+        "d_brand": 0.9462050082584165,
         "obj_barra_brand": 0.48360655737704916,
         "quota_ghp": 0.1,
         "tick_ghp": "up",
         "quota_mercado": 0.05,
         "tick_mercado": "down"
       },
-      "6879817 | Eludril Care Colutório Manutenção 500ml": [
+      "6889147 | Eludril Classic Colutório C/ Copo Doseador 200ml": [
         {
-          "so": 1572.0,
-          "f_so": 16075.8936326766,
-          "distribuicao": 0.8636363636,
-          "vendas": 0.5727272727,
-          "obj_barra_cnp": 0.191683941
+          "so": 4098.0,
+          "f_so": 49184.8959465559,
+          "distribuicao": 0.9727272727,
+          "vendas": 0.8545454545,
+          "obj_barra_cnp": 0.4996951591
         }
       ],
       "6889154 | Eludril Classic Colutório C/ Copo Doseador 500ml": [
@@ -1761,13 +1761,13 @@
           "obj_barra_cnp": 0.3086208999
         }
       ],
-      "6889147 | Eludril Classic Colutório C/ Copo Doseador 200ml": [
+      "6879817 | Eludril Care Colutório Manutenção 500ml": [
         {
-          "so": 4098.0,
-          "f_so": 49184.8959465559,
-          "distribuicao": 0.9727272727,
-          "vendas": 0.8545454545,
-          "obj_barra_cnp": 0.4996951591
+          "so": 1572.0,
+          "f_so": 16075.8936326765,
+          "distribuicao": 0.8636363636,
+          "vendas": 0.5727272727,
+          "obj_barra_cnp": 0.191683941
         }
       ]
     }
@@ -1780,19 +1780,19 @@
         "f_so_brand": 21744.6489865229,
         "v_brand": 0.14433470125895528,
         "d_brand": 0.7874800027822214,
-        "obj_barra_brand": 2.1356209150326797,
+        "obj_barra_brand": 0.6101774042950514,
         "quota_ghp": 0.1,
         "tick_ghp": "up",
         "quota_mercado": 0.05,
         "tick_mercado": "down"
       },
-      "9557603 | BENFLUX  XAROPE 15MG/5ML- FR. 200ML": [
+      "5200266 | BENFLUX FORTE 6MG/ML XAROPE -FR. 200ML": [
         {
-          "so": 260.0,
-          "f_so": 1853.2921940705,
-          "distribuicao": 0.5818181818,
-          "vendas": 0.0454545455,
-          "obj_barra_cnp": 0.0994644223
+          "so": 2006.0,
+          "f_so": 17539.0167924524,
+          "distribuicao": 0.8545454545,
+          "vendas": 0.1727272727,
+          "obj_barra_cnp": 0.7674062739
         }
       ],
       "9533513 | BENFLUX COMP. 30MG CX. 20": [
@@ -1804,13 +1804,13 @@
           "obj_barra_cnp": 0.1331293037
         }
       ],
-      "5200266 | BENFLUX FORTE 6MG/ML XAROPE -FR. 200ML": [
+      "9557603 | BENFLUX  XAROPE 15MG/5ML- FR. 200ML": [
         {
-          "so": 2006.0,
-          "f_so": 17539.0167924524,
-          "distribuicao": 0.8545454545,
-          "vendas": 0.1727272727,
-          "obj_barra_cnp": 0.7674062739
+          "so": 260.0,
+          "f_so": 1853.2921940705,
+          "distribuicao": 0.5818181818,
+          "vendas": 0.0454545455,
+          "obj_barra_cnp": 0.0994644223
         }
       ]
     },
@@ -1818,7 +1818,7 @@
       "dados": {
         "data": "20200816",
         "so_brand": 1058.0,
-        "f_so_brand": 8828.61999999998,
+        "f_so_brand": 8828.62,
         "v_brand": 0.12727272727272726,
         "d_brand": 0.5909090909090909,
         "obj_barra_brand": 0.21443048236724768,
@@ -1866,24 +1866,15 @@
       "dados": {
         "data": "20200816",
         "so_brand": 9957.0,
-        "f_so_brand": 230183.13506628203,
-        "v_brand": 0.4265003149908242,
-        "d_brand": 0.7752581555232957,
+        "f_so_brand": 230183.1350662819,
+        "v_brand": 0.4265003149908241,
+        "d_brand": 0.7752581555232956,
         "obj_barra_brand": 0.6606289808917197,
         "quota_ghp": 0.1,
         "tick_ghp": "up",
         "quota_mercado": 0.05,
         "tick_mercado": "down"
       },
-      "7351809 | Centrum Junior Comp mast 60": [
-        {
-          "so": 140.0,
-          "f_so": 3363.5928571429,
-          "distribuicao": 0.2545454545,
-          "vendas": 0.0454545455,
-          "obj_barra_cnp": 0.01406046
-        }
-      ],
       "6059691 | Centrum Plus Ginseng & Ginkgo Comp 30": [
         {
           "so": 431.0,
@@ -1891,78 +1882,6 @@
           "distribuicao": 0.6090909091,
           "vendas": 0.1727272727,
           "obj_barra_cnp": 0.0432861304
-        }
-      ],
-      "7351791 | Centrum Junior Comp mast 30": [
-        {
-          "so": 374.0,
-          "f_so": 5078.8817015092,
-          "distribuicao": 0.6272727273,
-          "vendas": 0.1090909091,
-          "obj_barra_cnp": 0.0375615145
-        }
-      ],
-      "7351734 | Centrum Select 50+ Comp revest 30": [
-        {
-          "so": 268.0,
-          "f_so": 4680.49,
-          "distribuicao": 0.3181818182,
-          "vendas": 0.0727272727,
-          "obj_barra_cnp": 0.0269157377
-        }
-      ],
-      "7388728 | Centrum Homem 50+ Comp revest 30": [
-        {
-          "so": 1832.0,
-          "f_so": 45416.9082947094,
-          "distribuicao": 0.9090909091,
-          "vendas": 0.5818181818,
-          "obj_barra_cnp": 0.183991162
-        }
-      ],
-      "7351775 | Centrum Comp 30": [
-        {
-          "so": 580.0,
-          "f_so": 8568.0785327594,
-          "distribuicao": 0.6454545455,
-          "vendas": 0.2090909091,
-          "obj_barra_cnp": 0.0582504771
-        }
-      ],
-      "7388736 | Centrum Mulher 50+ Comp revest 30": [
-        {
-          "so": 2770.0,
-          "f_so": 53420.8895658737,
-          "distribuicao": 0.9272727273,
-          "vendas": 0.6818181818,
-          "obj_barra_cnp": 0.2781962438
-        }
-      ],
-      "7383901 | Centrum Homem Comp 30": [
-        {
-          "so": 1029.0,
-          "f_so": 16637.5091890241,
-          "distribuicao": 0.8818181818,
-          "vendas": 0.3363636364,
-          "obj_barra_cnp": 0.1033443808
-        }
-      ],
-      "7383919 | Centrum Mulher Comp 30": [
-        {
-          "so": 1133.0,
-          "f_so": 28518.6122245005,
-          "distribuicao": 0.8727272727,
-          "vendas": 0.3454545455,
-          "obj_barra_cnp": 0.113789294
-        }
-      ],
-      "7394247 | Centrum Comp revest 90": [
-        {
-          "so": 111.0,
-          "f_so": 4071.6275609756,
-          "distribuicao": 0.1636363636,
-          "vendas": 0.0363636364,
-          "obj_barra_cnp": 0.0111479361
         }
       ],
       "7394270 | Centrum Mulher 50+ Comp revest 90": [
@@ -1983,6 +1902,78 @@
           "obj_barra_cnp": 0.014763483
         }
       ],
+      "7351809 | Centrum Junior Comp mast 60": [
+        {
+          "so": 140.0,
+          "f_so": 3363.5928571429,
+          "distribuicao": 0.2545454545,
+          "vendas": 0.0454545455,
+          "obj_barra_cnp": 0.01406046
+        }
+      ],
+      "7351775 | Centrum Comp 30": [
+        {
+          "so": 580.0,
+          "f_so": 8568.0785327594,
+          "distribuicao": 0.6454545455,
+          "vendas": 0.2090909091,
+          "obj_barra_cnp": 0.0582504771
+        }
+      ],
+      "7383901 | Centrum Homem Comp 30": [
+        {
+          "so": 1029.0,
+          "f_so": 16637.5091890241,
+          "distribuicao": 0.8818181818,
+          "vendas": 0.3363636364,
+          "obj_barra_cnp": 0.1033443808
+        }
+      ],
+      "7388728 | Centrum Homem 50+ Comp revest 30": [
+        {
+          "so": 1832.0,
+          "f_so": 45416.9082947093,
+          "distribuicao": 0.9090909091,
+          "vendas": 0.5818181818,
+          "obj_barra_cnp": 0.183991162
+        }
+      ],
+      "7351791 | Centrum Junior Comp mast 30": [
+        {
+          "so": 374.0,
+          "f_so": 5078.8817015092,
+          "distribuicao": 0.6272727273,
+          "vendas": 0.1090909091,
+          "obj_barra_cnp": 0.0375615145
+        }
+      ],
+      "7394247 | Centrum Comp revest 90": [
+        {
+          "so": 111.0,
+          "f_so": 4071.6275609756,
+          "distribuicao": 0.1636363636,
+          "vendas": 0.0363636364,
+          "obj_barra_cnp": 0.0111479361
+        }
+      ],
+      "7388736 | Centrum Mulher 50+ Comp revest 30": [
+        {
+          "so": 2770.0,
+          "f_so": 53420.8895658737,
+          "distribuicao": 0.9272727273,
+          "vendas": 0.6818181818,
+          "obj_barra_cnp": 0.2781962438
+        }
+      ],
+      "7351734 | Centrum Select 50+ Comp revest 30": [
+        {
+          "so": 268.0,
+          "f_so": 4680.49,
+          "distribuicao": 0.3181818182,
+          "vendas": 0.0727272727,
+          "obj_barra_cnp": 0.0269157377
+        }
+      ],
       "7394254 | Centrum Select 50+ Comp revest 90": [
         {
           "so": 328.0,
@@ -1991,13 +1982,22 @@
           "vendas": 0.1363636364,
           "obj_barra_cnp": 0.0329416491
         }
+      ],
+      "7383919 | Centrum Mulher Comp 30": [
+        {
+          "so": 1133.0,
+          "f_so": 28518.6122245005,
+          "distribuicao": 0.8727272727,
+          "vendas": 0.3454545455,
+          "obj_barra_cnp": 0.113789294
+        }
       ]
     },
     "Nexium | Anti-ácidos": {
       "dados": {
         "data": "20200816",
         "so_brand": 704.0,
-        "f_so_brand": 6515.68352995745,
+        "f_so_brand": 6515.68352995746,
         "v_brand": 0.2727272727272727,
         "d_brand": 0.4727272727272727,
         "obj_barra_brand": 0.36916622968012586,
@@ -2066,8 +2066,8 @@
       "dados": {
         "data": "20200816",
         "so_brand": 941.0,
-        "f_so_brand": 12028.117982188356,
-        "v_brand": 0.09161433677905517,
+        "f_so_brand": 12028.117982188352,
+        "v_brand": 0.09161433677905516,
         "d_brand": 0.5137764467201237,
         "obj_barra_brand": 0.0,
         "quota_ghp": 0.1,
@@ -2075,15 +2075,6 @@
         "quota_mercado": 0.05,
         "tick_mercado": "down"
       },
-      "6317792 | THERMACARE VERSAT FAIXA TERMICAS TERAP X 3": [
-        {
-          "so": 82.0,
-          "f_so": 863.7368989539,
-          "distribuicao": 0.3545454545,
-          "vendas": 0.0272727273,
-          "obj_barra_cnp": 0.087141339
-        }
-      ],
       "6294744 | THERMACARE FAIXA TERM PESC OMB PLX6": [
         {
           "so": 89.0,
@@ -2091,15 +2082,6 @@
           "distribuicao": 0.2454545455,
           "vendas": 0.0272727273,
           "obj_barra_cnp": 0.0945802338
-        }
-      ],
-      "6294736 | THERMACARE FAIXA TERM LOMBAR ANCAX4": [
-        {
-          "so": 260.0,
-          "f_so": 4668.23539634,
-          "distribuicao": 0.4636363636,
-          "vendas": 0.1090909091,
-          "obj_barra_cnp": 0.2763018066
         }
       ],
       "6180562 | THERMACARE FAIXA TERM PESC OMB PLX2": [
@@ -2118,6 +2100,24 @@
           "distribuicao": 0.5818181818,
           "vendas": 0.1,
           "obj_barra_cnp": 0.2869287991
+        }
+      ],
+      "6294736 | THERMACARE FAIXA TERM LOMBAR ANCAX4": [
+        {
+          "so": 260.0,
+          "f_so": 4668.23539634,
+          "distribuicao": 0.4636363636,
+          "vendas": 0.1090909091,
+          "obj_barra_cnp": 0.2763018066
+        }
+      ],
+      "6317792 | THERMACARE VERSAT FAIXA TERMICAS TERAP X 3": [
+        {
+          "so": 82.0,
+          "f_so": 863.7368989539,
+          "distribuicao": 0.3545454545,
+          "vendas": 0.0272727273,
+          "obj_barra_cnp": 0.087141339
         }
       ]
     }
@@ -2150,7 +2150,7 @@
       "dados": {
         "data": "20200816",
         "so_brand": 929.0,
-        "f_so_brand": 9942.20010773437,
+        "f_so_brand": 9942.200107734381,
         "v_brand": 0.13103043350621393,
         "d_brand": 0.2857911733046286,
         "obj_barra_brand": 0.1535791039841296,
@@ -2159,6 +2159,33 @@
         "quota_mercado": 0.05,
         "tick_mercado": "down"
       },
+      "7463422 | Halibut Bebe Linimento 200ml": [
+        {
+          "so": 4.0,
+          "f_so": 35.04,
+          "distribuicao": 0.0181818182,
+          "vendas": 0.0,
+          "obj_barra_cnp": 0.0043057051
+        }
+      ],
+      "6260083 | Halibut Muda Fraldas Creme Protect 50g": [
+        {
+          "so": 186.0,
+          "f_so": 1030.78,
+          "distribuicao": 0.2090909091,
+          "vendas": 0.0727272727,
+          "obj_barra_cnp": 0.2002152853
+        }
+      ],
+      "6099846 | Halibut Muda Fraldas Pda Reparadora 50g": [
+        {
+          "so": 429.0,
+          "f_so": 5580.71,
+          "distribuicao": 0.4,
+          "vendas": 0.1818181818,
+          "obj_barra_cnp": 0.4617868676
+        }
+      ],
       "6260075 | Halibut Muda Fraldas Creme Protect 100g": [
         {
           "so": 302.0,
@@ -2177,24 +2204,6 @@
           "obj_barra_cnp": 0.0032292788
         }
       ],
-      "6099846 | Halibut Muda Fraldas Pda Reparadora 50g": [
-        {
-          "so": 429.0,
-          "f_so": 5580.71,
-          "distribuicao": 0.4,
-          "vendas": 0.1818181818,
-          "obj_barra_cnp": 0.4617868676
-        }
-      ],
-      "7463422 | Halibut Bebe Linimento 200ml": [
-        {
-          "so": 4.0,
-          "f_so": 35.04,
-          "distribuicao": 0.0181818182,
-          "vendas": 0.0,
-          "obj_barra_cnp": 0.0043057051
-        }
-      ],
       "6043315 | Halibut Derma Creme Muda Fraldas 50g": [
         {
           "so": 5.0,
@@ -2203,23 +2212,14 @@
           "vendas": 0.0,
           "obj_barra_cnp": 0.0053821313
         }
-      ],
-      "6260083 | Halibut Muda Fraldas Creme Protect 50g": [
-        {
-          "so": 186.0,
-          "f_so": 1030.78,
-          "distribuicao": 0.2090909091,
-          "vendas": 0.0727272727,
-          "obj_barra_cnp": 0.2002152853
-        }
       ]
     },
     "Halibut | Cicatrizante feridas & hemostáticos": {
       "dados": {
         "data": "20200816",
         "so_brand": 9101.0,
-        "f_so_brand": 194452.1686603374,
-        "v_brand": 0.7926831217348744,
+        "f_so_brand": 194452.1686603364,
+        "v_brand": 0.7926831217348743,
         "d_brand": 0.9118868056457332,
         "obj_barra_brand": 0.619705842298788,
         "quota_ghp": 0.1,
@@ -2227,13 +2227,13 @@
         "quota_mercado": 0.05,
         "tick_mercado": "down"
       },
-      "6892919 | Halibut Derma Plus Creme 30g": [
+      "3925690 | Halibut Pda 150mg/g 30g": [
         {
-          "so": 235.0,
-          "f_so": 1227.2111111111,
-          "distribuicao": 0.3454545455,
-          "vendas": 0.0818181818,
-          "obj_barra_cnp": 0.0258213383
+          "so": 457.0,
+          "f_so": 21859.41,
+          "distribuicao": 0.2454545455,
+          "vendas": 0.1181818182,
+          "obj_barra_cnp": 0.0502142622
         }
       ],
       "3925799 | Halibut Pda 150mg/g 50g": [
@@ -2245,22 +2245,22 @@
           "obj_barra_cnp": 0.3054609384
         }
       ],
+      "6892919 | Halibut Derma Plus Creme 30g": [
+        {
+          "so": 235.0,
+          "f_so": 1227.2111111111,
+          "distribuicao": 0.3454545455,
+          "vendas": 0.0818181818,
+          "obj_barra_cnp": 0.0258213383
+        }
+      ],
       "3925898 | Halibut Pda 150mg/g 100g": [
         {
           "so": 5629.0,
-          "f_so": 156381.399975483,
+          "f_so": 156381.399975482,
           "distribuicao": 1.0,
           "vendas": 0.9363636364,
           "obj_barra_cnp": 0.6185034612
-        }
-      ],
-      "3925690 | Halibut Pda 150mg/g 30g": [
-        {
-          "so": 457.0,
-          "f_so": 21859.41,
-          "distribuicao": 0.2454545455,
-          "vendas": 0.1181818182,
-          "obj_barra_cnp": 0.0502142622
         }
       ]
     },
@@ -2310,29 +2310,6 @@
         }
       ]
     },
-    "Trifene | Anti-inflamatórios e anti-reumáticos sistémicos hmR 4": {
-      "dados": {
-        "data": "20200816",
-        "so_brand": 6134.0,
-        "f_so_brand": 72888.5486694892,
-        "v_brand": 0.8545454545454544,
-        "d_brand": 0.9818181818181817,
-        "obj_barra_brand": 0.5385898674159276,
-        "quota_ghp": 0.1,
-        "tick_ghp": "up",
-        "quota_mercado": 0.05,
-        "tick_mercado": "down"
-      },
-      "5558440 | Trifene 400 Comp revest x 20": [
-        {
-          "so": 6134.0,
-          "f_so": 72888.5486694892,
-          "distribuicao": 0.9818181818,
-          "vendas": 0.8545454545,
-          "obj_barra_cnp": 1.0
-        }
-      ]
-    },
     "Trifene | Analgésicos e anti-piréticos": {
       "dados": {
         "data": "20200816",
@@ -2373,6 +2350,29 @@
           "obj_barra_cnp": 0.1178484108
         }
       ]
+    },
+    "Trifene | Anti-inflamatórios e anti-reumáticos sistémicos hmR 4": {
+      "dados": {
+        "data": "20200816",
+        "so_brand": 6134.0,
+        "f_so_brand": 72888.5486694893,
+        "v_brand": 0.8545454545454544,
+        "d_brand": 0.9818181818181817,
+        "obj_barra_brand": 0.5385898674159276,
+        "quota_ghp": 0.1,
+        "tick_ghp": "up",
+        "quota_mercado": 0.05,
+        "tick_mercado": "down"
+      },
+      "5558440 | Trifene 400 Comp revest x 20": [
+        {
+          "so": 6134.0,
+          "f_so": 72888.5486694893,
+          "distribuicao": 0.9818181818,
+          "vendas": 0.8545454545,
+          "obj_barra_cnp": 1.0
+        }
+      ]
     }
   },
   "Korangi": {
@@ -2380,7 +2380,7 @@
       "dados": {
         "data": "20200816",
         "so_brand": 530.0,
-        "f_so_brand": 7384.65218118466,
+        "f_so_brand": 7384.65218118467,
         "v_brand": 0.3,
         "d_brand": 0.6545454545454545,
         "obj_barra_brand": 0.8688524590163934,
@@ -2428,78 +2428,15 @@
       "dados": {
         "data": "20200816",
         "so_brand": 18126.0,
-        "f_so_brand": 297103.07250854286,
+        "f_so_brand": 297103.07250854396,
         "v_brand": 0.6261081520267221,
-        "d_brand": 0.8758498590673369,
+        "d_brand": 0.8758498590673368,
         "obj_barra_brand": 0.5305584826132771,
         "quota_ghp": 0.1,
         "tick_ghp": "up",
         "quota_mercado": 0.05,
         "tick_mercado": "down"
       },
-      "6287714 | Corega Bio-Activo c/20% desc. Consumidor": [
-        {
-          "so": 234.0,
-          "f_so": 1547.69,
-          "distribuicao": 0.6818181818,
-          "vendas": 0.5,
-          "obj_barra_cnp": 0.0129096326
-        }
-      ],
-      "6213058 | Corega Creme Fixador Prótese Dent S/ Sabor 70g": [
-        {
-          "so": 6001.0,
-          "f_so": 133714.475509523,
-          "distribuicao": 0.9727272727,
-          "vendas": 0.8818181818,
-          "obj_barra_cnp": 0.3310713892
-        }
-      ],
-      "6119743 | Corega Espuma Limpeza Prótese Dent 125ml": [
-        {
-          "so": 383.0,
-          "f_so": 3406.8207008547,
-          "distribuicao": 0.6727272727,
-          "vendas": 0.2181818182,
-          "obj_barra_cnp": 0.0211298687
-        }
-      ],
-      "7757492 | Corega Total Pst Limpeza Diária 30": [
-        {
-          "so": 6.0,
-          "f_so": 50.98,
-          "distribuicao": 0.0636363636,
-          "vendas": 0.0,
-          "obj_barra_cnp": 0.0003310162
-        }
-      ],
-      "6960179 | Corega Total Creme Fixador 3D Prótese Dent 70g": [
-        {
-          "so": 0.0,
-          "f_so": 0.0,
-          "distribuicao": 0.0,
-          "vendas": 0.0,
-          "obj_barra_cnp": 0.0
-        }
-      ],
-      "6011940 | Corega Super Pó Fixador Prótese Dent 50g": [
-        {
-          "so": 0.0,
-          "f_so": 0.0,
-          "distribuicao": 0.0090909091,
-          "vendas": 0.0,
-          "obj_barra_cnp": 0.0
-        }
-      ],
-      "7755454 | Corega Proteção Gengivas Creme Fixação Prótese 40g": [
-        {
-          "so": 60.0,
-          "f_so": 590.47,
-          "distribuicao": 0.0090909091,
-          "vendas": 0.0,
-          "obj_barra_cnp": 0.0033101622
-        }
-      ],
       "6150631 | Corega Total Creme Fixador 3D Prótese Dent 40g": [
         {
           "so": 332.0,
@@ -2507,42 +2444,6 @@
           "distribuicao": 0.2272727273,
           "vendas": 0.0454545455,
           "obj_barra_cnp": 0.0183162308
-        }
-      ],
-      "6780890 | Corega Oxigénio Bio-ativo Pst Limpeza Prótese Dent Branq 30": [
-        {
-          "so": 1796.0,
-          "f_so": 14811.8383944145,
-          "distribuicao": 0.8545454545,
-          "vendas": 0.3090909091,
-          "obj_barra_cnp": 0.0990841885
-        }
-      ],
-      "6768598 | Corega Pst Eferv Branq Prótese Dent 30": [
-        {
-          "so": 657.0,
-          "f_so": 5389.5244032943,
-          "distribuicao": 0.7272727273,
-          "vendas": 0.2272727273,
-          "obj_barra_cnp": 0.0362462761
-        }
-      ],
-      "6330191 | Corega Efeito Almofada 40g": [
-        {
-          "so": 304.0,
-          "f_so": 13407.24,
-          "distribuicao": 0.5,
-          "vendas": 0.1909090909,
-          "obj_barra_cnp": 0.0167714885
-        }
-      ],
-      "6330183 | Corega Efeito Almofada 70g": [
-        {
-          "so": 136.0,
-          "f_so": 2040.6513008083,
-          "distribuicao": 0.3909090909,
-          "vendas": 0.0909090909,
-          "obj_barra_cnp": 0.0075030343
         }
       ],
       "6099234 | Corega Total Pst Limpeza Diária 36": [
@@ -2554,31 +2455,22 @@
           "obj_barra_cnp": 0.0192541101
         }
       ],
-      "6780973 | Corega Super Creme Fixador Prótese Dent 40g": [
+      "6960179 | Corega Total Creme Fixador 3D Prótese Dent 70g": [
         {
-          "so": 961.0,
-          "f_so": 8777.2121096613,
-          "distribuicao": 0.8090909091,
-          "vendas": 0.3818181818,
-          "obj_barra_cnp": 0.0530177645
+          "so": 0.0,
+          "f_so": 0.0,
+          "distribuicao": 0.0,
+          "vendas": 0.0,
+          "obj_barra_cnp": 0.0
         }
       ],
-      "6242479 | Corega Toalhetas": [
+      "7757492 | Corega Total Pst Limpeza Diária 30": [
         {
-          "so": 72.0,
-          "f_so": 527.46,
-          "distribuicao": 0.8545454545,
-          "vendas": 0.0727272727,
-          "obj_barra_cnp": 0.0039721946
-        }
-      ],
-      "6005868 | Corega Selamento Máximo Creme Fixador Prótese Dent 40g": [
-        {
-          "so": 1672.0,
-          "f_so": 58019.0002121212,
-          "distribuicao": 0.8818181818,
-          "vendas": 0.3545454545,
-          "obj_barra_cnp": 0.0922431866
+          "so": 6.0,
+          "f_so": 50.98,
+          "distribuicao": 0.0636363636,
+          "vendas": 0.0,
+          "obj_barra_cnp": 0.0003310162
         }
       ],
       "7755462 | Corega Proteção Gengivas Creme Fixação Prótese 70g": [
@@ -2590,6 +2482,15 @@
           "obj_barra_cnp": 0.0108683659
         }
       ],
+      "6213058 | Corega Creme Fixador Prótese Dent S/ Sabor 70g": [
+        {
+          "so": 6001.0,
+          "f_so": 133714.475509524,
+          "distribuicao": 0.9727272727,
+          "vendas": 0.8818181818,
+          "obj_barra_cnp": 0.3310713892
+        }
+      ],
       "6287706 | Corega s/sabor 70 c/20% desc. Consumidor": [
         {
           "so": 15.0,
@@ -2597,6 +2498,96 @@
           "distribuicao": 0.0545454545,
           "vendas": 0.0,
           "obj_barra_cnp": 0.0008275405
+        }
+      ],
+      "6768598 | Corega Pst Eferv Branq Prótese Dent 30": [
+        {
+          "so": 657.0,
+          "f_so": 5389.5244032943,
+          "distribuicao": 0.7272727273,
+          "vendas": 0.2272727273,
+          "obj_barra_cnp": 0.0362462761
+        }
+      ],
+      "6005868 | Corega Selamento Máximo Creme Fixador Prótese Dent 40g": [
+        {
+          "so": 1672.0,
+          "f_so": 58019.0002121213,
+          "distribuicao": 0.8818181818,
+          "vendas": 0.3545454545,
+          "obj_barra_cnp": 0.0922431866
+        }
+      ],
+      "6242479 | Corega Toalhetas": [
+        {
+          "so": 72.0,
+          "f_so": 527.46,
+          "distribuicao": 0.8545454545,
+          "vendas": 0.0727272727,
+          "obj_barra_cnp": 0.0039721946
+        }
+      ],
+      "6011940 | Corega Super Pó Fixador Prótese Dent 50g": [
+        {
+          "so": 0.0,
+          "f_so": 0.0,
+          "distribuicao": 0.0090909091,
+          "vendas": 0.0,
+          "obj_barra_cnp": 0.0
+        }
+      ],
+      "6780973 | Corega Super Creme Fixador Prótese Dent 40g": [
+        {
+          "so": 961.0,
+          "f_so": 8777.2121096613,
+          "distribuicao": 0.8090909091,
+          "vendas": 0.3818181818,
+          "obj_barra_cnp": 0.0530177645
+        }
+      ],
+      "6330191 | Corega Efeito Almofada 40g": [
+        {
+          "so": 304.0,
+          "f_so": 13407.24,
+          "distribuicao": 0.5,
+          "vendas": 0.1909090909,
+          "obj_barra_cnp": 0.0167714885
+        }
+      ],
+      "6119743 | Corega Espuma Limpeza Prótese Dent 125ml": [
+        {
+          "so": 383.0,
+          "f_so": 3406.8207008547,
+          "distribuicao": 0.6727272727,
+          "vendas": 0.2181818182,
+          "obj_barra_cnp": 0.0211298687
+        }
+      ],
+      "6780890 | Corega Oxigénio Bio-ativo Pst Limpeza Prótese Dent Branq 30": [
+        {
+          "so": 1796.0,
+          "f_so": 14811.8383944145,
+          "distribuicao": 0.8545454545,
+          "vendas": 0.3090909091,
+          "obj_barra_cnp": 0.0990841885
+        }
+      ],
+      "7755454 | Corega Proteção Gengivas Creme Fixação Prótese 40g": [
+        {
+          "so": 60.0,
+          "f_so": 590.47,
+          "distribuicao": 0.0090909091,
+          "vendas": 0.0,
+          "obj_barra_cnp": 0.0033101622
+        }
+      ],
+      "6287714 | Corega Bio-Activo c/20% desc. Consumidor": [
+        {
+          "so": 234.0,
+          "f_so": 1547.69,
+          "distribuicao": 0.6818181818,
+          "vendas": 0.5,
+          "obj_barra_cnp": 0.0129096326
         }
       ],
       "6118968 | Corega Creme Fixador Prótese Dent S/ Sabor 40g": [
@@ -2607,6 +2598,15 @@
           "vendas": 0.8181818182,
           "obj_barra_cnp": 0.2731435507
         }
+      ],
+      "6330183 | Corega Efeito Almofada 70g": [
+        {
+          "so": 136.0,
+          "f_so": 2040.6513008083,
+          "distribuicao": 0.3909090909,
+          "vendas": 0.0909090909,
+          "obj_barra_cnp": 0.0075030343
+        }
       ]
     },
     "Fenistil | Anti-alérgicos Pele": {
@@ -2614,7 +2614,7 @@
         "data": "20200816",
         "so_brand": 11488.0,
         "f_so_brand": 246467.47181517223,
-        "v_brand": 0.842317675360851,
+        "v_brand": 0.8423176753608508,
         "d_brand": 0.8640731830843251,
         "obj_barra_brand": 0.7877665775217719,
         "quota_ghp": 0.1,
@@ -2631,15 +2631,6 @@
           "obj_barra_cnp": 0.484505571
         }
       ],
-      "3114485 | Fenistil Emul cut 1mg/g 8ml": [
-        {
-          "so": 810.0,
-          "f_so": 7334.7164150943,
-          "distribuicao": 0.8545454545,
-          "vendas": 0.6454545455,
-          "obj_barra_cnp": 0.0705083565
-        }
-      ],
       "8434902 | Fenistil - Gel 1mg/g 30g": [
         {
           "so": 5112.0,
@@ -2647,6 +2638,15 @@
           "distribuicao": 0.8363636364,
           "vendas": 0.7909090909,
           "obj_barra_cnp": 0.4449860724
+        }
+      ],
+      "3114485 | Fenistil Emul cut 1mg/g 8ml": [
+        {
+          "so": 810.0,
+          "f_so": 7334.7164150943,
+          "distribuicao": 0.8545454545,
+          "vendas": 0.6454545455,
+          "obj_barra_cnp": 0.0705083565
         }
       ]
     },
@@ -2677,7 +2677,7 @@
       "dados": {
         "data": "20200816",
         "so_brand": 7046.0,
-        "f_so_brand": 60188.562985490236,
+        "f_so_brand": 60188.56298549026,
         "v_brand": 0.3473124661316543,
         "d_brand": 0.6507986478466182,
         "obj_barra_brand": 0.4189060642092747,
@@ -2686,28 +2686,28 @@
         "quota_mercado": 0.05,
         "tick_mercado": "down"
       },
-      "5407382 | Mebocaína Anti-Inflam - Comp chupar 1.2mg+3mg 20": [
-        {
-          "so": 2100.0,
-          "f_so": 17840.5349887155,
-          "distribuicao": 0.5727272727,
-          "vendas": 0.2545454545,
-          "obj_barra_cnp": 0.298041442
-        }
-      ],
       "5470851 | Mebocaína Forte - Pst 16": [
         {
           "so": 962.0,
-          "f_so": 7182.3482467532,
+          "f_so": 7182.3482467533,
           "distribuicao": 0.6090909091,
           "vendas": 0.2272727273,
           "obj_barra_cnp": 0.1365313653
         }
       ],
+      "5407382 | Mebocaína Anti-Inflam - Comp chupar 1.2mg+3mg 20": [
+        {
+          "so": 2100.0,
+          "f_so": 17840.5349887156,
+          "distribuicao": 0.5727272727,
+          "vendas": 0.2545454545,
+          "obj_barra_cnp": 0.298041442
+        }
+      ],
       "5211636 | Mebocaína Forte - Pst 24": [
         {
           "so": 2798.0,
-          "f_so": 23237.2251403386,
+          "f_so": 23237.2251403385,
           "distribuicao": 0.8454545455,
           "vendas": 0.5090909091,
           "obj_barra_cnp": 0.3971047403
@@ -2746,47 +2746,6 @@
         }
       ]
     },
-    "Panadol | Analgésicos e anti-piréticos": {
-      "dados": {
-        "data": "20200816",
-        "so_brand": 3824.0,
-        "f_so_brand": 25008.17359443054,
-        "v_brand": 0.37713721947508555,
-        "d_brand": 0.8044765119817422,
-        "obj_barra_brand": 4.504122497055359,
-        "quota_ghp": 0.1,
-        "tick_ghp": "up",
-        "quota_mercado": 0.05,
-        "tick_mercado": "down"
-      },
-      "2964484 | Panadol Comp eferv 500mg 12": [
-        {
-          "so": 326.0,
-          "f_so": 1084.8575326561,
-          "distribuicao": 0.2363636364,
-          "vendas": 0.0272727273,
-          "obj_barra_cnp": 0.085251046
-        }
-      ],
-      "5696737 | Panadol Extra Comp revest 500mg+65mg 24": [
-        {
-          "so": 1535.0,
-          "f_so": 8504.9437511861,
-          "distribuicao": 0.8727272727,
-          "vendas": 0.4454545455,
-          "obj_barra_cnp": 0.4014121339
-        }
-      ],
-      "9684837 | Panadol Comp revest 500mg 20": [
-        {
-          "so": 1963.0,
-          "f_so": 15418.3723105883,
-          "distribuicao": 0.8454545455,
-          "vendas": 0.3818181818,
-          "obj_barra_cnp": 0.5133368201
-        }
-      ]
-    },
     "Panadol | Antigripais cápsulas e comprimidos hmR 4": {
       "dados": {
         "data": "20200816",
@@ -2810,6 +2769,106 @@
         }
       ]
     },
+    "Panadol | Analgésicos e anti-piréticos": {
+      "dados": {
+        "data": "20200816",
+        "so_brand": 3824.0,
+        "f_so_brand": 25008.17359443054,
+        "v_brand": 0.37713721947508555,
+        "d_brand": 0.8044765119817422,
+        "obj_barra_brand": 0.9016741334590899,
+        "quota_ghp": 0.1,
+        "tick_ghp": "up",
+        "quota_mercado": 0.05,
+        "tick_mercado": "down"
+      },
+      "5696737 | Panadol Extra Comp revest 500mg+65mg 24": [
+        {
+          "so": 1535.0,
+          "f_so": 8504.9437511861,
+          "distribuicao": 0.8727272727,
+          "vendas": 0.4454545455,
+          "obj_barra_cnp": 0.4014121339
+        }
+      ],
+      "2964484 | Panadol Comp eferv 500mg 12": [
+        {
+          "so": 326.0,
+          "f_so": 1084.8575326561,
+          "distribuicao": 0.2363636364,
+          "vendas": 0.0272727273,
+          "obj_barra_cnp": 0.085251046
+        }
+      ],
+      "9684837 | Panadol Comp revest 500mg 20": [
+        {
+          "so": 1963.0,
+          "f_so": 15418.3723105883,
+          "distribuicao": 0.8454545455,
+          "vendas": 0.3818181818,
+          "obj_barra_cnp": 0.5133368201
+        }
+      ]
+    },
+    "Parodontax | Dentífricos Adulto": {
+      "dados": {
+        "data": "20200816",
+        "so_brand": 4779.0,
+        "f_so_brand": 48133.378543874474,
+        "v_brand": 0.3975555936007913,
+        "d_brand": 0.651012954402785,
+        "obj_barra_brand": 0.42068661971830984,
+        "quota_ghp": 0.1,
+        "tick_ghp": "up",
+        "quota_mercado": 0.05,
+        "tick_mercado": "down"
+      },
+      "6057471 | Parodontax Complete Protection Pasta Dent Extra Fresh 75ml": [
+        {
+          "so": 2531.0,
+          "f_so": 19777.4515115581,
+          "distribuicao": 0.8909090909,
+          "vendas": 0.6181818182,
+          "obj_barra_cnp": 0.5296087047
+        }
+      ],
+      "6933457 | Parodontax Pasta Dent Branq 75ml": [
+        {
+          "so": 241.0,
+          "f_so": 1802.7333333333,
+          "distribuicao": 0.5181818182,
+          "vendas": 0.1090909091,
+          "obj_barra_cnp": 0.05042896
+        }
+      ],
+      "7954719 | Parodontax F Pasta Dent 75ml": [
+        {
+          "so": 1066.0,
+          "f_so": 8536.3153710912,
+          "distribuicao": 0.2363636364,
+          "vendas": 0.1181818182,
+          "obj_barra_cnp": 0.2230592174
+        }
+      ],
+      "6277830 | Parodontax  c/ 50% desc na 2ªembalagem": [
+        {
+          "so": 124.0,
+          "f_so": 11362.62,
+          "distribuicao": 0.2727272727,
+          "vendas": 0.2181818182,
+          "obj_barra_cnp": 0.0259468508
+        }
+      ],
+      "6933465 | Parodontax Pasta Dent Extra Fresh 75ml": [
+        {
+          "so": 817.0,
+          "f_so": 6654.2583278918,
+          "distribuicao": 0.5454545455,
+          "vendas": 0.1909090909,
+          "obj_barra_cnp": 0.170956267
+        }
+      ]
+    },
     "Parodontax | Elixir Adulto": {
       "dados": {
         "data": "20200816",
@@ -2823,15 +2882,6 @@
         "quota_mercado": 0.05,
         "tick_mercado": "down"
       },
-      "6933226 | Parodontax Elixir Diário S/ Álcool Menta Fresca 500ml": [
-        {
-          "so": 524.0,
-          "f_so": 4786.1624615385,
-          "distribuicao": 0.6909090909,
-          "vendas": 0.2727272727,
-          "obj_barra_cnp": 0.5314401623
-        }
-      ],
       "6917187 | Parodontax Extra Colutório 300ml": [
         {
           "so": 462.0,
@@ -2840,64 +2890,14 @@
           "vendas": 0.3272727273,
           "obj_barra_cnp": 0.4685598377
         }
-      ]
-    },
-    "Parodontax | Dentífricos Adulto": {
-      "dados": {
-        "data": "20200816",
-        "so_brand": 4779.0,
-        "f_so_brand": 48133.37854387446,
-        "v_brand": 0.3975555936007913,
-        "d_brand": 0.651012954402785,
-        "obj_barra_brand": 0.42068661971830984,
-        "quota_ghp": 0.1,
-        "tick_ghp": "up",
-        "quota_mercado": 0.05,
-        "tick_mercado": "down"
-      },
-      "6933465 | Parodontax Pasta Dent Extra Fresh 75ml": [
-        {
-          "so": 817.0,
-          "f_so": 6654.2583278918,
-          "distribuicao": 0.5454545455,
-          "vendas": 0.1909090909,
-          "obj_barra_cnp": 0.170956267
-        }
       ],
-      "6277830 | Parodontax  c/ 50% desc na 2ªembalagem": [
+      "6933226 | Parodontax Elixir Diário S/ Álcool Menta Fresca 500ml": [
         {
-          "so": 124.0,
-          "f_so": 11362.62,
-          "distribuicao": 0.2727272727,
-          "vendas": 0.2181818182,
-          "obj_barra_cnp": 0.0259468508
-        }
-      ],
-      "6057471 | Parodontax Complete Protection Pasta Dent Extra Fresh 75ml": [
-        {
-          "so": 2531.0,
-          "f_so": 19777.4515115581,
-          "distribuicao": 0.8909090909,
-          "vendas": 0.6181818182,
-          "obj_barra_cnp": 0.5296087047
-        }
-      ],
-      "7954719 | Parodontax F Pasta Dent 75ml": [
-        {
-          "so": 1066.0,
-          "f_so": 8536.3153710912,
-          "distribuicao": 0.2363636364,
-          "vendas": 0.1181818182,
-          "obj_barra_cnp": 0.2230592174
-        }
-      ],
-      "6933457 | Parodontax Pasta Dent Branq 75ml": [
-        {
-          "so": 241.0,
-          "f_so": 1802.7333333333,
-          "distribuicao": 0.5181818182,
-          "vendas": 0.1090909091,
-          "obj_barra_cnp": 0.05042896
+          "so": 524.0,
+          "f_so": 4786.1624615385,
+          "distribuicao": 0.6909090909,
+          "vendas": 0.2727272727,
+          "obj_barra_cnp": 0.5314401623
         }
       ]
     },
@@ -2928,8 +2928,8 @@
       "dados": {
         "data": "20200816",
         "so_brand": 9801.0,
-        "f_so_brand": 109122.25696059532,
-        "v_brand": 0.4701171494559925,
+        "f_so_brand": 109122.25696059533,
+        "v_brand": 0.47011714945599237,
         "d_brand": 0.8629342089397187,
         "obj_barra_brand": 0.5752773375594294,
         "quota_ghp": 0.1,
@@ -2937,6 +2937,15 @@
         "quota_mercado": 0.05,
         "tick_mercado": "down"
       },
+      "6099903 | Rhinomer XL Força 2 180 ml": [
+        {
+          "so": 518.0,
+          "f_so": 6472.53,
+          "distribuicao": 0.2909090909,
+          "vendas": 0.1636363636,
+          "obj_barra_cnp": 0.0528517498
+        }
+      ],
       "6699314 | Rhinomer Spray Nasal Força 2 135ml": [
         {
           "so": 4041.0,
@@ -2944,42 +2953,6 @@
           "distribuicao": 0.9545454545,
           "vendas": 0.6909090909,
           "obj_barra_cnp": 0.4123048669
-        }
-      ],
-      "6208058 | Rhinomer Intense Eucalyptus Spray Nasal 20ml": [
-        {
-          "so": 189.0,
-          "f_so": 1522.35,
-          "distribuicao": 0.3818181818,
-          "vendas": 0.0363636364,
-          "obj_barra_cnp": 0.0192837466
-        }
-      ],
-      "6211045 | Rhinomer Spray Nasal Força 1 135ml": [
-        {
-          "so": 1148.0,
-          "f_so": 12639.581433824,
-          "distribuicao": 0.9545454545,
-          "vendas": 0.3454545455,
-          "obj_barra_cnp": 0.117130905
-        }
-      ],
-      "6237271 | Rhinomer Spray Nasal Aloé Vera 100ml": [
-        {
-          "so": 314.0,
-          "f_so": 3564.59,
-          "distribuicao": 0.6818181818,
-          "vendas": 0.1090909091,
-          "obj_barra_cnp": 0.0320375472
-        }
-      ],
-      "6699322 | Rhinomer Spray Nasal Força 3 135ml": [
-        {
-          "so": 2182.0,
-          "f_so": 24139.552980379,
-          "distribuicao": 0.9636363636,
-          "vendas": 0.4181818182,
-          "obj_barra_cnp": 0.2226303438
         }
       ],
       "6208108 | Rhinomer Baby Spray Nasal Extra Suave 115ml": [
@@ -2991,13 +2964,31 @@
           "obj_barra_cnp": 0.0869299051
         }
       ],
-      "6099903 | Rhinomer XL Força 2 180 ml": [
+      "6208058 | Rhinomer Intense Eucalyptus Spray Nasal 20ml": [
         {
-          "so": 518.0,
-          "f_so": 6472.53,
-          "distribuicao": 0.2909090909,
-          "vendas": 0.1636363636,
-          "obj_barra_cnp": 0.0528517498
+          "so": 189.0,
+          "f_so": 1522.35,
+          "distribuicao": 0.3818181818,
+          "vendas": 0.0363636364,
+          "obj_barra_cnp": 0.0192837466
+        }
+      ],
+      "6699322 | Rhinomer Spray Nasal Força 3 135ml": [
+        {
+          "so": 2182.0,
+          "f_so": 24139.552980379,
+          "distribuicao": 0.9636363636,
+          "vendas": 0.4181818182,
+          "obj_barra_cnp": 0.2226303438
+        }
+      ],
+      "6237271 | Rhinomer Spray Nasal Aloé Vera 100ml": [
+        {
+          "so": 314.0,
+          "f_so": 3564.59,
+          "distribuicao": 0.6818181818,
+          "vendas": 0.1090909091,
+          "obj_barra_cnp": 0.0320375472
         }
       ],
       "6099911 | Rhinomer XL Força 3 180 m": [
@@ -3008,14 +2999,23 @@
           "vendas": 0.1272727273,
           "obj_barra_cnp": 0.0568309356
         }
+      ],
+      "6211045 | Rhinomer Spray Nasal Força 1 135ml": [
+        {
+          "so": 1148.0,
+          "f_so": 12639.581433824,
+          "distribuicao": 0.9545454545,
+          "vendas": 0.3454545455,
+          "obj_barra_cnp": 0.117130905
+        }
       ]
     },
     "Sensodyne | Dentífricos Adulto": {
       "dados": {
         "data": "20200816",
         "so_brand": 1073.0,
-        "f_so_brand": 6033.2371150960325,
-        "v_brand": 0.04864017622638313,
+        "f_so_brand": 6033.2371150960225,
+        "v_brand": 0.04864017622638312,
         "d_brand": 0.3488011522494281,
         "obj_barra_brand": 0.45331643430502744,
         "quota_ghp": 0.1,
@@ -3023,13 +3023,22 @@
         "quota_mercado": 0.05,
         "tick_mercado": "down"
       },
-      "6020933 | Sensodyne F Proteção Diária Pasta Dent 75ml": [
+      "6550814 | Sensodyne Pasta Dent Branq 75ml": [
         {
-          "so": 67.0,
-          "f_so": 322.89,
-          "distribuicao": 0.0818181818,
+          "so": 1.0,
+          "f_so": 5.05,
+          "distribuicao": 0.0090909091,
           "vendas": 0.0,
-          "obj_barra_cnp": 0.0624417521
+          "obj_barra_cnp": 0.0009319664
+        }
+      ],
+      "6299248 | Sensodyne Ação Completa Pasta Dent 75ml": [
+        {
+          "so": 48.0,
+          "f_so": 254.15,
+          "distribuicao": 0.0727272727,
+          "vendas": 0.0363636364,
+          "obj_barra_cnp": 0.0447343896
         }
       ],
       "6180547 | Sensodyne Repair & Protect Pasta Dent Regular 75ml": [
@@ -3041,7 +3050,79 @@
           "obj_barra_cnp": 0.3084808947
         }
       ],
+      "6166868 | Sensodyne Rapid Pasta Dentes Sens 75ml": [
+        {
+          "so": 17.0,
+          "f_so": 94.972601626,
+          "distribuicao": 0.0363636364,
+          "vendas": 0.0090909091,
+          "obj_barra_cnp": 0.0158434296
+        }
+      ],
+      "6811901 | Sensodyne Pro Esmalte Pasta Dent Regular 75ml": [
+        {
+          "so": 105.0,
+          "f_so": 548.77,
+          "distribuicao": 0.1727272727,
+          "vendas": 0.0545454545,
+          "obj_barra_cnp": 0.0978564772
+        }
+      ],
+      "6228338 | Sensodyne R&P Fresh Mint c/oferta escova R&P": [
+        {
+          "so": 54.0,
+          "f_so": 315.05,
+          "distribuicao": 0.0363636364,
+          "vendas": 0.0181818182,
+          "obj_barra_cnp": 0.0503261883
+        }
+      ],
+      "7475798 | Sensodyne Rapid Pasta Dent Fresh Mint 75ml": [
+        {
+          "so": 272.0,
+          "f_so": 1618.8184820665,
+          "distribuicao": 0.5181818182,
+          "vendas": 0.0818181818,
+          "obj_barra_cnp": 0.2534948742
+        }
+      ],
       "6011635 | Sensodyne Classic Pasta Dent 75ml": [
+        {
+          "so": 0.0,
+          "f_so": 0.0,
+          "distribuicao": 0.0,
+          "vendas": 0.0,
+          "obj_barra_cnp": 0.0
+        }
+      ],
+      "6020933 | Sensodyne F Proteção Diária Pasta Dent 75ml": [
+        {
+          "so": 67.0,
+          "f_so": 322.89,
+          "distribuicao": 0.0818181818,
+          "vendas": 0.0,
+          "obj_barra_cnp": 0.0624417521
+        }
+      ],
+      "6213819 | Sensodyne Repair & Protect Pasta Dent Branq 75ml": [
+        {
+          "so": 29.0,
+          "f_so": 157.52,
+          "distribuicao": 0.0454545455,
+          "vendas": 0.0090909091,
+          "obj_barra_cnp": 0.027027027
+        }
+      ],
+      "7508838 | Sensodyne Cuidado Branqueador Pasta Dent 75ml": [
+        {
+          "so": 10.0,
+          "f_so": 54.0,
+          "distribuicao": 0.0454545455,
+          "vendas": 0.0,
+          "obj_barra_cnp": 0.0093196645
+        }
+      ],
+      "6418103 | Sensodyne F Gel Gel Dent 75ml": [
         {
           "so": 0.0,
           "f_so": 0.0,
@@ -3058,86 +3139,105 @@
           "vendas": 0.0,
           "obj_barra_cnp": 0.1295433364
         }
-      ],
-      "7475798 | Sensodyne Rapid Pasta Dent Fresh Mint 75ml": [
+      ]
+    },
+    "Vibrocil | Descongestionante Nasal gotas hmR 4": {
+      "dados": {
+        "data": "20200816",
+        "so_brand": 2091.0,
+        "f_so_brand": 13847.48992876313,
+        "v_brand": 0.2783444198078344,
+        "d_brand": 0.8732794226337985,
+        "obj_barra_brand": 1.169463087248322,
+        "quota_ghp": 0.1,
+        "tick_ghp": "up",
+        "quota_mercado": 0.05,
+        "tick_mercado": "down"
+      },
+      "9014407 | Vibrocil Actilong - Sol nasal gta 1mg/ml 10ml": [
         {
-          "so": 272.0,
-          "f_so": 1618.8184820665,
-          "distribuicao": 0.5181818182,
-          "vendas": 0.0818181818,
-          "obj_barra_cnp": 0.2534948742
+          "so": 519.0,
+          "f_so": 3432.2065302665,
+          "distribuicao": 0.8454545455,
+          "vendas": 0.1909090909,
+          "obj_barra_cnp": 0.2482065997
         }
       ],
-      "7508838 | Sensodyne Cuidado Branqueador Pasta Dent 75ml": [
+      "8144816 | Vibrocil - Sol nasal gta 0.25mg/ml+2.5mg/ml 15ml": [
         {
-          "so": 10.0,
-          "f_so": 54.0,
-          "distribuicao": 0.0454545455,
-          "vendas": 0.0,
-          "obj_barra_cnp": 0.0093196645
+          "so": 1183.0,
+          "f_so": 7807.0464447997,
+          "distribuicao": 0.9454545455,
+          "vendas": 0.3454545455,
+          "obj_barra_cnp": 0.5657580105
         }
       ],
-      "6550814 | Sensodyne Pasta Dent Branq 75ml": [
+      "9014415 | Vibrocil Actilong - Sol nasal gta 0.5mg/ml 10ml": [
         {
-          "so": 1.0,
-          "f_so": 5.05,
-          "distribuicao": 0.0090909091,
-          "vendas": 0.0,
-          "obj_barra_cnp": 0.0009319664
+          "so": 389.0,
+          "f_so": 2608.2369536969,
+          "distribuicao": 0.6909090909,
+          "vendas": 0.1909090909,
+          "obj_barra_cnp": 0.1860353898
+        }
+      ]
+    },
+    "Vibrocil | Descongestionante Nasal aeros spray e nebulizador hmR 4": {
+      "dados": {
+        "data": "20200816",
+        "so_brand": 13154.0,
+        "f_so_brand": 101751.03502794552,
+        "v_brand": 0.5145520892365959,
+        "d_brand": 0.927078524334112,
+        "obj_barra_brand": 0.49479029527929286,
+        "quota_ghp": 0.1,
+        "tick_ghp": "up",
+        "quota_mercado": 0.05,
+        "tick_mercado": "down"
+      },
+      "5752811 | Vibrocil Actilon Protect": [
+        {
+          "so": 1216.0,
+          "f_so": 10961.2931425519,
+          "distribuicao": 0.8454545455,
+          "vendas": 0.2818181818,
+          "obj_barra_cnp": 0.0924433632
         }
       ],
-      "6811901 | Sensodyne Pro Esmalte Pasta Dent Regular 75ml": [
+      "2910792 | Vibrocil Actilong - Sol inal neb 1mg/ml 10ml": [
         {
-          "so": 105.0,
-          "f_so": 548.77,
-          "distribuicao": 0.1727272727,
-          "vendas": 0.0545454545,
-          "obj_barra_cnp": 0.0978564772
+          "so": 3253.0,
+          "f_so": 23485.9972311653,
+          "distribuicao": 0.9181818182,
+          "vendas": 0.6,
+          "obj_barra_cnp": 0.2473012012
         }
       ],
-      "6418103 | Sensodyne F Gel Gel Dent 75ml": [
+      "8144923 | Vibrocil - Sol inal neb 0.25mg/ml+2.5mg/ml 15ml": [
         {
-          "so": 0.0,
-          "f_so": 0.0,
-          "distribuicao": 0.0,
-          "vendas": 0.0,
-          "obj_barra_cnp": 0.0
+          "so": 5049.0,
+          "f_so": 38565.3178496911,
+          "distribuicao": 0.9636363636,
+          "vendas": 0.5818181818,
+          "obj_barra_cnp": 0.3838376159
         }
       ],
-      "6299248 | Sensodyne Ação Completa Pasta Dent 75ml": [
+      "3474285 | Vibrocil Actilong Mentol": [
         {
-          "so": 48.0,
-          "f_so": 254.15,
-          "distribuicao": 0.0727272727,
-          "vendas": 0.0363636364,
-          "obj_barra_cnp": 0.0447343896
+          "so": 1096.0,
+          "f_so": 8690.2657037559,
+          "distribuicao": 0.7909090909,
+          "vendas": 0.3272727273,
+          "obj_barra_cnp": 0.0833206629
         }
       ],
-      "6213819 | Sensodyne Repair & Protect Pasta Dent Branq 75ml": [
+      "5155056 | Vibrocil ActilongDuo - Sol pulv nasal 0.5mg/ml+0.6mg/ml 10ml": [
         {
-          "so": 29.0,
-          "f_so": 157.52,
-          "distribuicao": 0.0454545455,
-          "vendas": 0.0090909091,
-          "obj_barra_cnp": 0.027027027
-        }
-      ],
-      "6166868 | Sensodyne Rapid Pasta Dentes Sens 75ml": [
-        {
-          "so": 17.0,
-          "f_so": 94.972601626,
-          "distribuicao": 0.0363636364,
-          "vendas": 0.0090909091,
-          "obj_barra_cnp": 0.0158434296
-        }
-      ],
-      "6228338 | Sensodyne R&P Fresh Mint c/oferta escova R&P": [
-        {
-          "so": 54.0,
-          "f_so": 315.05,
-          "distribuicao": 0.0363636364,
-          "vendas": 0.0181818182,
-          "obj_barra_cnp": 0.0503261883
+          "so": 2540.0,
+          "f_so": 20048.1611007813,
+          "distribuicao": 0.9636363636,
+          "vendas": 0.4636363636,
+          "obj_barra_cnp": 0.1930971568
         }
       ]
     },
@@ -3161,106 +3261,6 @@
           "distribuicao": 0.9272727273,
           "vendas": 0.4272727273,
           "obj_barra_cnp": 1.0
-        }
-      ]
-    },
-    "Vibrocil | Descongestionante Nasal aeros spray e nebulizador hmR 4": {
-      "dados": {
-        "data": "20200816",
-        "so_brand": 13154.0,
-        "f_so_brand": 101751.03502794562,
-        "v_brand": 0.5145520892365959,
-        "d_brand": 0.927078524334112,
-        "obj_barra_brand": 0.49479029527929286,
-        "quota_ghp": 0.1,
-        "tick_ghp": "up",
-        "quota_mercado": 0.05,
-        "tick_mercado": "down"
-      },
-      "5155056 | Vibrocil ActilongDuo - Sol pulv nasal 0.5mg/ml+0.6mg/ml 10ml": [
-        {
-          "so": 2540.0,
-          "f_so": 20048.1611007813,
-          "distribuicao": 0.9636363636,
-          "vendas": 0.4636363636,
-          "obj_barra_cnp": 0.1930971568
-        }
-      ],
-      "3474285 | Vibrocil Actilong Mentol": [
-        {
-          "so": 1096.0,
-          "f_so": 8690.2657037559,
-          "distribuicao": 0.7909090909,
-          "vendas": 0.3272727273,
-          "obj_barra_cnp": 0.0833206629
-        }
-      ],
-      "8144923 | Vibrocil - Sol inal neb 0.25mg/ml+2.5mg/ml 15ml": [
-        {
-          "so": 5049.0,
-          "f_so": 38565.3178496912,
-          "distribuicao": 0.9636363636,
-          "vendas": 0.5818181818,
-          "obj_barra_cnp": 0.3838376159
-        }
-      ],
-      "2910792 | Vibrocil Actilong - Sol inal neb 1mg/ml 10ml": [
-        {
-          "so": 3253.0,
-          "f_so": 23485.9972311653,
-          "distribuicao": 0.9181818182,
-          "vendas": 0.6,
-          "obj_barra_cnp": 0.2473012012
-        }
-      ],
-      "5752811 | Vibrocil Actilon Protect": [
-        {
-          "so": 1216.0,
-          "f_so": 10961.2931425519,
-          "distribuicao": 0.8454545455,
-          "vendas": 0.2818181818,
-          "obj_barra_cnp": 0.0924433632
-        }
-      ]
-    },
-    "Vibrocil | Descongestionante Nasal gotas hmR 4": {
-      "dados": {
-        "data": "20200816",
-        "so_brand": 2091.0,
-        "f_so_brand": 13847.489928763142,
-        "v_brand": 0.2783444198078344,
-        "d_brand": 0.8732794226337985,
-        "obj_barra_brand": 1.169463087248322,
-        "quota_ghp": 0.1,
-        "tick_ghp": "up",
-        "quota_mercado": 0.05,
-        "tick_mercado": "down"
-      },
-      "9014415 | Vibrocil Actilong - Sol nasal gta 0.5mg/ml 10ml": [
-        {
-          "so": 389.0,
-          "f_so": 2608.2369536969,
-          "distribuicao": 0.6909090909,
-          "vendas": 0.1909090909,
-          "obj_barra_cnp": 0.1860353898
-        }
-      ],
-      "8144816 | Vibrocil - Sol nasal gta 0.25mg/ml+2.5mg/ml 15ml": [
-        {
-          "so": 1183.0,
-          "f_so": 7807.0464447997,
-          "distribuicao": 0.9454545455,
-          "vendas": 0.3454545455,
-          "obj_barra_cnp": 0.5657580105
-        }
-      ],
-      "9014407 | Vibrocil Actilong - Sol nasal gta 1mg/ml 10ml": [
-        {
-          "so": 519.0,
-          "f_so": 3432.2065302665,
-          "distribuicao": 0.8454545455,
-          "vendas": 0.1909090909,
-          "obj_barra_cnp": 0.2482065997
         }
       ]
     },
@@ -3300,7 +3300,7 @@
       "dados": {
         "data": "20200816",
         "so_brand": 26117.0,
-        "f_so_brand": 416805.2721651003,
+        "f_so_brand": 416805.2721651002,
         "v_brand": 0.47587638841994234,
         "d_brand": 0.5700306661979135,
         "obj_barra_brand": 0.43574086123763284,
@@ -3309,24 +3309,6 @@
         "quota_mercado": 0.05,
         "tick_mercado": "down"
       },
-      "5197868 | Voltaren Emulgel - Gel 10mg/g 60g": [
-        {
-          "so": 1743.0,
-          "f_so": 14920.0154197414,
-          "distribuicao": 0.5818181818,
-          "vendas": 0.4727272727,
-          "obj_barra_cnp": 0.0667381399
-        }
-      ],
-      "5625025 | Voltaren Emulgelex - Gel 23.2mg/g 180g": [
-        {
-          "so": 6657.0,
-          "f_so": 141765.750620582,
-          "distribuicao": 0.2,
-          "vendas": 0.2181818182,
-          "obj_barra_cnp": 0.25489145
-        }
-      ],
       "5219316 | Voltaren Emulgel - Gel 10mg/g 150g": [
         {
           "so": 4874.0,
@@ -3334,6 +3316,15 @@
           "distribuicao": 0.9545454545,
           "vendas": 0.8636363636,
           "obj_barra_cnp": 0.1866217406
+        }
+      ],
+      "5197868 | Voltaren Emulgel - Gel 10mg/g 60g": [
+        {
+          "so": 1743.0,
+          "f_so": 14920.0154197414,
+          "distribuicao": 0.5818181818,
+          "vendas": 0.4727272727,
+          "obj_barra_cnp": 0.0667381399
         }
       ],
       "5380571 | Voltaren Emulgelex - Gel 10mg/g 100g": [
@@ -3345,15 +3336,6 @@
           "obj_barra_cnp": 0.0895968143
         }
       ],
-      "5712740 | Voltaren Emulgel - Gel 10mg/g 120g": [
-        {
-          "so": 1166.0,
-          "f_so": 17850.413695619,
-          "distribuicao": 0.8636363636,
-          "vendas": 0.4,
-          "obj_barra_cnp": 0.0446452502
-        }
-      ],
       "5374848 | Voltaren Emulgelex - Gel 23.2mg/g 120g": [
         {
           "so": 3646.0,
@@ -3361,6 +3343,15 @@
           "distribuicao": 0.1727272727,
           "vendas": 0.0181818182,
           "obj_barra_cnp": 0.1396025577
+        }
+      ],
+      "5712740 | Voltaren Emulgel - Gel 10mg/g 120g": [
+        {
+          "so": 1166.0,
+          "f_so": 17850.4136956189,
+          "distribuicao": 0.8636363636,
+          "vendas": 0.4,
+          "obj_barra_cnp": 0.0446452502
         }
       ],
       "5035654 | Voltaren Emulgel - Gel 10mg/g 100g": [
@@ -3371,37 +3362,14 @@
           "vendas": 0.8272727273,
           "obj_barra_cnp": 0.2179040472
         }
-      ]
-    },
-    "Voltaren - GSK | Anti-inflamatórios e anti-reumáticos sistémicos hmR 4": {
-      "dados": {
-        "data": "20200816",
-        "so_brand": 7979.0,
-        "f_so_brand": 95960.7637422171,
-        "v_brand": 0.7221467716391892,
-        "d_brand": 0.855276920097073,
-        "obj_barra_brand": 3.5828468792096992,
-        "quota_ghp": 0.1,
-        "tick_ghp": "up",
-        "quota_mercado": 0.05,
-        "tick_mercado": "down"
-      },
-      "5204458 | Voltaren 25 Cáps mole 25mg 10": [
-        {
-          "so": 1312.0,
-          "f_so": 7108.5002016317,
-          "distribuicao": 0.5818181818,
-          "vendas": 0.3727272727,
-          "obj_barra_cnp": 0.164431633
-        }
       ],
-      "5204466 | Voltaren 25 Cáps mole 25mg 20": [
+      "5625025 | Voltaren Emulgelex - Gel 23.2mg/g 180g": [
         {
-          "so": 6667.0,
-          "f_so": 88852.2635405854,
-          "distribuicao": 0.9090909091,
-          "vendas": 0.7909090909,
-          "obj_barra_cnp": 0.835568367
+          "so": 6657.0,
+          "f_so": 141765.750620582,
+          "distribuicao": 0.2,
+          "vendas": 0.2181818182,
+          "obj_barra_cnp": 0.25489145
         }
       ]
     },
@@ -3428,11 +3396,43 @@
         }
       ]
     },
+    "Voltaren - GSK | Anti-inflamatórios e anti-reumáticos sistémicos hmR 4": {
+      "dados": {
+        "data": "20200816",
+        "so_brand": 7979.0,
+        "f_so_brand": 95960.763742217,
+        "v_brand": 0.7221467716391892,
+        "d_brand": 0.855276920097073,
+        "obj_barra_brand": 3.5828468792096992,
+        "quota_ghp": 0.1,
+        "tick_ghp": "up",
+        "quota_mercado": 0.05,
+        "tick_mercado": "down"
+      },
+      "5204458 | Voltaren 25 Cáps mole 25mg 10": [
+        {
+          "so": 1312.0,
+          "f_so": 7108.5002016317,
+          "distribuicao": 0.5818181818,
+          "vendas": 0.3727272727,
+          "obj_barra_cnp": 0.164431633
+        }
+      ],
+      "5204466 | Voltaren 25 Cáps mole 25mg 20": [
+        {
+          "so": 6667.0,
+          "f_so": 88852.2635405853,
+          "distribuicao": 0.9090909091,
+          "vendas": 0.7909090909,
+          "obj_barra_cnp": 0.835568367
+        }
+      ]
+    },
     "Zovirax | Herpes": {
       "dados": {
         "data": "20200816",
         "so_brand": 6620.0,
-        "f_so_brand": 103006.18207304899,
+        "f_so_brand": 103006.18207304909,
         "v_brand": 0.7206289480911838,
         "d_brand": 0.9691636912936007,
         "obj_barra_brand": 0.3912067131544735,
@@ -3441,6 +3441,15 @@
         "quota_mercado": 0.05,
         "tick_mercado": "down"
       },
+      "5273347 | Zoviduo - Creme 50mg/g+10mg/g 2g": [
+        {
+          "so": 2558.0,
+          "f_so": 46497.8911668097,
+          "distribuicao": 0.9727272727,
+          "vendas": 0.7454545455,
+          "obj_barra_cnp": 0.3864048338
+        }
+      ],
       "8624411 | Zovirax - Creme 50mg/g 10g": [
         {
           "so": 397.0,
@@ -3453,19 +3462,10 @@
       "8624403 | Zovirax - Creme c/ doseador 50mg/g 2g": [
         {
           "so": 3665.0,
-          "f_so": 50242.6491421294,
+          "f_so": 50242.6491421295,
           "distribuicao": 0.9909090909,
           "vendas": 0.7636363636,
           "obj_barra_cnp": 0.5536253776
-        }
-      ],
-      "5273347 | Zoviduo - Creme 50mg/g+10mg/g 2g": [
-        {
-          "so": 2558.0,
-          "f_so": 46497.8911668097,
-          "distribuicao": 0.9727272727,
-          "vendas": 0.7454545455,
-          "obj_barra_cnp": 0.3864048338
         }
       ]
     }
@@ -3493,15 +3493,6 @@
           "obj_barra_cnp": 0.3638814016
         }
       ],
-      "6349753 | Dampo 3em1 Tosse+Defesas Xarope 150ml": [
-        {
-          "so": 126.0,
-          "f_so": 1355.71,
-          "distribuicao": 0.1454545455,
-          "vendas": 0.0181818182,
-          "obj_barra_cnp": 0.3396226415
-        }
-      ],
       "6348375 | Dampo 3em1 Tosse+Garganta Xarope 150ml": [
         {
           "so": 110.0,
@@ -3510,6 +3501,15 @@
           "vendas": 0.0181818182,
           "obj_barra_cnp": 0.2964959569
         }
+      ],
+      "6349753 | Dampo 3em1 Tosse+Defesas Xarope 150ml": [
+        {
+          "so": 126.0,
+          "f_so": 1355.71,
+          "distribuicao": 0.1454545455,
+          "vendas": 0.0181818182,
+          "obj_barra_cnp": 0.3396226415
+        }
       ]
     },
     "Excilor | Antifúngico unhas": {
@@ -3517,7 +3517,7 @@
         "data": "20200816",
         "so_brand": 1247.0,
         "f_so_brand": 24479.35445798056,
-        "v_brand": 0.27463731136545894,
+        "v_brand": 0.2746373113654589,
         "d_brand": 0.578814609608515,
         "obj_barra_brand": 0.39325134027120784,
         "quota_ghp": 0.1,
@@ -3525,6 +3525,15 @@
         "quota_mercado": 0.05,
         "tick_mercado": "down"
       },
+      "6316679 | Excilor Sol Fungica Unhas 3.3ml": [
+        {
+          "so": 876.0,
+          "f_so": 16313.2666802028,
+          "distribuicao": 0.6454545455,
+          "vendas": 0.3454545455,
+          "obj_barra_cnp": 0.7024859663
+        }
+      ],
       "6316661 | Excilor Caneta Fúngica Unhas": [
         {
           "so": 90.0,
@@ -3541,15 +3550,6 @@
           "distribuicao": 0.4545454545,
           "vendas": 0.1272727273,
           "obj_barra_cnp": 0.225340818
-        }
-      ],
-      "6316679 | Excilor Sol Fungica Unhas 3.3ml": [
-        {
-          "so": 876.0,
-          "f_so": 16313.2666802028,
-          "distribuicao": 0.6454545455,
-          "vendas": 0.3454545455,
-          "obj_barra_cnp": 0.7024859663
         }
       ]
     },
@@ -3603,7 +3603,7 @@
       "dados": {
         "data": "20200816",
         "so_brand": 11408.0,
-        "f_so_brand": 184334.630160972,
+        "f_so_brand": 184334.63016097204,
         "v_brand": 0.4495449764120871,
         "d_brand": 0.8493146755068213,
         "obj_barra_brand": 0.927027466276613,
@@ -3621,31 +3621,13 @@
           "obj_barra_cnp": 0.0318197756
         }
       ],
-      "5346846 | Valdispert - Comp revest 450mg 40": [
+      "5593025 | Valdispertstress - Comp revest 200mg+68mg 40": [
         {
-          "so": 1669.0,
-          "f_so": 24411.3313664315,
-          "distribuicao": 0.8909090909,
-          "vendas": 0.5272727273,
-          "obj_barra_cnp": 0.1463008415
-        }
-      ],
-      "7390716 | ValdispertNoite Comp revest 60": [
-        {
-          "so": 1050.0,
-          "f_so": 45656.2535535573,
-          "distribuicao": 0.8272727273,
-          "vendas": 0.2909090909,
-          "obj_barra_cnp": 0.0920406732
-        }
-      ],
-      "6323048 | ValdispertNoite Rapid + x 20 comp orodisp (substitui o Rapid ": [
-        {
-          "so": 1053.0,
-          "f_so": 11679.6112845529,
-          "distribuicao": 0.7272727273,
-          "vendas": 0.3090909091,
-          "obj_barra_cnp": 0.0923036466
+          "so": 1127.0,
+          "f_so": 15461.1019862728,
+          "distribuicao": 0.8454545455,
+          "vendas": 0.4454545455,
+          "obj_barra_cnp": 0.0987903226
         }
       ],
       "6255968 | ValdispertNoite Magnésio Comp 40": [
@@ -3657,24 +3639,6 @@
           "obj_barra_cnp": 0.0062237027
         }
       ],
-      "5593025 | Valdispertstress - Comp revest 200mg+68mg 40": [
-        {
-          "so": 1127.0,
-          "f_so": 15461.1019862728,
-          "distribuicao": 0.8454545455,
-          "vendas": 0.4454545455,
-          "obj_barra_cnp": 0.0987903226
-        }
-      ],
-      "8883637 | Valdispert - Comp revest 45mg 60": [
-        {
-          "so": 1681.0,
-          "f_so": 18079.3217989916,
-          "distribuicao": 0.9636363636,
-          "vendas": 0.5090909091,
-          "obj_barra_cnp": 0.1473527349
-        }
-      ],
       "6029041 | ValdispertNoite Total Cáps Líq 30": [
         {
           "so": 1604.0,
@@ -3684,13 +3648,13 @@
           "obj_barra_cnp": 0.1406030856
         }
       ],
-      "5346820 | Valdispert - Comp revest 450mg 20": [
+      "5346846 | Valdispert - Comp revest 450mg 40": [
         {
-          "so": 335.0,
-          "f_so": 3358.8490214077,
-          "distribuicao": 0.3818181818,
-          "vendas": 0.1090909091,
-          "obj_barra_cnp": 0.0293653576
+          "so": 1669.0,
+          "f_so": 24411.3313664315,
+          "distribuicao": 0.8909090909,
+          "vendas": 0.5272727273,
+          "obj_barra_cnp": 0.1463008415
         }
       ],
       "3886884 | Valdispert - Comp revest 125mg 50": [
@@ -3702,6 +3666,24 @@
           "obj_barra_cnp": 0.1946002805
         }
       ],
+      "6323048 | ValdispertNoite Rapid + x 20 comp orodisp (substitui o Rapid ": [
+        {
+          "so": 1053.0,
+          "f_so": 11679.6112845529,
+          "distribuicao": 0.7272727273,
+          "vendas": 0.3090909091,
+          "obj_barra_cnp": 0.0923036466
+        }
+      ],
+      "8883637 | Valdispert - Comp revest 45mg 60": [
+        {
+          "so": 1681.0,
+          "f_so": 18079.3217989916,
+          "distribuicao": 0.9636363636,
+          "vendas": 0.5090909091,
+          "obj_barra_cnp": 0.1473527349
+        }
+      ],
       "6384727 | Valdispert Noite & Dia Comp X20+20": [
         {
           "so": 235.0,
@@ -3709,6 +3691,24 @@
           "distribuicao": 0.5272727273,
           "vendas": 0.1181818182,
           "obj_barra_cnp": 0.0205995792
+        }
+      ],
+      "7390716 | ValdispertNoite Comp revest 60": [
+        {
+          "so": 1050.0,
+          "f_so": 45656.2535535573,
+          "distribuicao": 0.8272727273,
+          "vendas": 0.2909090909,
+          "obj_barra_cnp": 0.0920406732
+        }
+      ],
+      "5346820 | Valdispert - Comp revest 450mg 20": [
+        {
+          "so": 335.0,
+          "f_so": 3358.8490214077,
+          "distribuicao": 0.3818181818,
+          "vendas": 0.1090909091,
+          "obj_barra_cnp": 0.0293653576
         }
       ]
     }
@@ -3908,7 +3908,7 @@
       "dados": {
         "data": "20200816",
         "so_brand": 7112.0,
-        "f_so_brand": 142041.28198466066,
+        "f_so_brand": 142041.28198466077,
         "v_brand": 0.549307188874118,
         "d_brand": 0.911315062889866,
         "obj_barra_brand": 0.646192985644194,
@@ -3917,19 +3917,19 @@
         "quota_mercado": 0.05,
         "tick_mercado": "down"
       },
-      "5423678 | Reumon Gel - Gel 50mg/g 60g": [
+      "9418004 | Reumon Gel - Gel 50mg/g 100g": [
         {
-          "so": 315.0,
-          "f_so": 2665.12,
-          "distribuicao": 0.5272727273,
-          "vendas": 0.2272727273,
-          "obj_barra_cnp": 0.0442913386
+          "so": 2135.0,
+          "f_so": 54572.7248056904,
+          "distribuicao": 0.8909090909,
+          "vendas": 0.6272727273,
+          "obj_barra_cnp": 0.3001968504
         }
       ],
       "5423702 | Reumon Gel - Gel 50mg/g 150g": [
         {
           "so": 1825.0,
-          "f_so": 27342.7530863434,
+          "f_so": 27342.7530863433,
           "distribuicao": 0.9272727273,
           "vendas": 0.6909090909,
           "obj_barra_cnp": 0.2566085489
@@ -3944,13 +3944,13 @@
           "obj_barra_cnp": 0.1486220472
         }
       ],
-      "9689208 | Reumon Loção - Emul cut 100mg/ml 200ml": [
+      "5423678 | Reumon Gel - Gel 50mg/g 60g": [
         {
-          "so": 1315.0,
-          "f_so": 25562.7293906937,
-          "distribuicao": 0.9727272727,
-          "vendas": 0.4454545455,
-          "obj_barra_cnp": 0.1848987627
+          "so": 315.0,
+          "f_so": 2665.12,
+          "distribuicao": 0.5272727273,
+          "vendas": 0.2272727273,
+          "obj_barra_cnp": 0.0442913386
         }
       ],
       "5423710 | Reumon Loção - Emul cut 100mg/ml 100ml": [
@@ -3962,13 +3962,13 @@
           "obj_barra_cnp": 0.0653824522
         }
       ],
-      "9418004 | Reumon Gel - Gel 50mg/g 100g": [
+      "9689208 | Reumon Loção - Emul cut 100mg/ml 200ml": [
         {
-          "so": 2135.0,
-          "f_so": 54572.7248056903,
-          "distribuicao": 0.8909090909,
-          "vendas": 0.6272727273,
-          "obj_barra_cnp": 0.3001968504
+          "so": 1315.0,
+          "f_so": 25562.7293906938,
+          "distribuicao": 0.9727272727,
+          "vendas": 0.4454545455,
+          "obj_barra_cnp": 0.1848987627
         }
       ]
     }
@@ -4003,7 +4003,7 @@
       "dados": {
         "data": "20200816",
         "so_brand": 677.0,
-        "f_so_brand": 7647.59832090811,
+        "f_so_brand": 7647.59832090812,
         "v_brand": 0.2545454545454545,
         "d_brand": 0.5818181818181818,
         "obj_barra_brand": 0.5235885537509667,
@@ -4044,15 +4044,6 @@
           "obj_barra_cnp": 0.0238826339
         }
       ],
-      "7753194 | Grintuss Xarope Adulto 180g": [
-        {
-          "so": 3110.0,
-          "f_so": 38034.1577192611,
-          "distribuicao": 0.9,
-          "vendas": 0.3636363636,
-          "obj_barra_cnp": 0.5305356534
-        }
-      ],
       "7753186 | Grintuss Pediatrico Xarope crianças 180g": [
         {
           "so": 2612.0,
@@ -4060,6 +4051,15 @@
           "distribuicao": 0.9727272727,
           "vendas": 0.4272727273,
           "obj_barra_cnp": 0.4455817127
+        }
+      ],
+      "7753194 | Grintuss Xarope Adulto 180g": [
+        {
+          "so": 3110.0,
+          "f_so": 38034.1577192611,
+          "distribuicao": 0.9,
+          "vendas": 0.3636363636,
+          "obj_barra_cnp": 0.5305356534
         }
       ]
     },
@@ -4149,7 +4149,7 @@
       "dados": {
         "data": "20200816",
         "so_brand": 11412.0,
-        "f_so_brand": 98984.4072486612,
+        "f_so_brand": 98984.4072486611,
         "v_brand": 0.7272727272727273,
         "d_brand": 1.0,
         "obj_barra_brand": 0.49402597402597404,
@@ -4161,7 +4161,7 @@
       "5472949 | Griponal - Comp eferv 4mg+500mg 20": [
         {
           "so": 11412.0,
-          "f_so": 98984.4072486612,
+          "f_so": 98984.4072486611,
           "distribuicao": 1.0,
           "vendas": 0.7272727273,
           "obj_barra_cnp": 1.0
@@ -4294,12 +4294,21 @@
         "f_so_brand": 76533.43761641973,
         "v_brand": 0.26245943021997836,
         "d_brand": 0.9474510703865194,
-        "obj_barra_brand": 0.7552771346860956,
+        "obj_barra_brand": 0.6473678067001284,
         "quota_ghp": 0.1,
         "tick_ghp": "up",
         "quota_mercado": 0.05,
         "tick_mercado": "down"
       },
+      "5633300 | PULMIBEN LISINA 40 SAQUETAS": [
+        {
+          "so": 1676.0,
+          "f_so": 30381.9429235041,
+          "distribuicao": 0.9363636364,
+          "vendas": 0.2545454545,
+          "obj_barra_cnp": 0.3021997836
+        }
+      ],
       "3491685 | PULMIBEN 5%  ": [
         {
           "so": 2902.0,
@@ -4316,15 +4325,6 @@
           "distribuicao": 0.8363636364,
           "vendas": 0.1363636364,
           "obj_barra_cnp": 0.1745402092
-        }
-      ],
-      "5633300 | PULMIBEN LISINA 40 SAQUETAS": [
-        {
-          "so": 1676.0,
-          "f_so": 30381.9429235041,
-          "distribuicao": 0.9363636364,
-          "vendas": 0.2545454545,
-          "obj_barra_cnp": 0.3021997836
         }
       ]
     }
@@ -4343,15 +4343,6 @@
         "quota_mercado": 0.05,
         "tick_mercado": "down"
       },
-      "6560839 | Saforelle Sol Lavagem Íntima 250ml": [
-        {
-          "so": 1544.0,
-          "f_so": 22265.6495789277,
-          "distribuicao": 0.8090909091,
-          "vendas": 0.3727272727,
-          "obj_barra_cnp": 0.5528105979
-        }
-      ],
       "6915140 | Saforelle Sabonete Enriquecido C/ Lípidos 100g": [
         {
           "so": 46.0,
@@ -4361,13 +4352,13 @@
           "obj_barra_cnp": 0.0164697458
         }
       ],
-      "6915363 | Saforelle Toalhetes Íntimos 10": [
+      "6560839 | Saforelle Sol Lavagem Íntima 250ml": [
         {
-          "so": 36.0,
-          "f_so": 236.91,
-          "distribuicao": 0.1454545455,
-          "vendas": 0.0181818182,
-          "obj_barra_cnp": 0.0128893663
+          "so": 1544.0,
+          "f_so": 22265.6495789277,
+          "distribuicao": 0.8090909091,
+          "vendas": 0.3727272727,
+          "obj_barra_cnp": 0.5528105979
         }
       ],
       "6825521 | Saforelle Sol Lavagem Íntima 500ml": [
@@ -4387,28 +4378,14 @@
           "vendas": 0.1636363636,
           "obj_barra_cnp": 0.2051557465
         }
-      ]
-    },
-    "Saforelle | Alívio do Prurido e Irritação Vaginal": {
-      "dados": {
-        "data": "20200816",
-        "so_brand": 344.0,
-        "f_so_brand": 5352.3498678536,
-        "v_brand": 0.09999999999999999,
-        "d_brand": 0.2909090909090909,
-        "obj_barra_brand": 0.45989304812834225,
-        "quota_ghp": 0.1,
-        "tick_ghp": "up",
-        "quota_mercado": 0.05,
-        "tick_mercado": "down"
-      },
-      "6597344 | Saforelle Creme Calm Íntimo/Corpo 50ml": [
+      ],
+      "6915363 | Saforelle Toalhetes Íntimos 10": [
         {
-          "so": 344.0,
-          "f_so": 5352.3498678536,
-          "distribuicao": 0.2909090909,
-          "vendas": 0.1,
-          "obj_barra_cnp": 1.0
+          "so": 36.0,
+          "f_so": 236.91,
+          "distribuicao": 0.1454545455,
+          "vendas": 0.0181818182,
+          "obj_barra_cnp": 0.0128893663
         }
       ]
     },
@@ -4435,11 +4412,34 @@
         }
       ]
     },
+    "Saforelle | Alívio do Prurido e Irritação Vaginal": {
+      "dados": {
+        "data": "20200816",
+        "so_brand": 344.0,
+        "f_so_brand": 5352.3498678536,
+        "v_brand": 0.09999999999999999,
+        "d_brand": 0.2909090909090909,
+        "obj_barra_brand": 0.45989304812834225,
+        "quota_ghp": 0.1,
+        "tick_ghp": "up",
+        "quota_mercado": 0.05,
+        "tick_mercado": "down"
+      },
+      "6597344 | Saforelle Creme Calm Íntimo/Corpo 50ml": [
+        {
+          "so": 344.0,
+          "f_so": 5352.3498678536,
+          "distribuicao": 0.2909090909,
+          "vendas": 0.1,
+          "obj_barra_cnp": 1.0
+        }
+      ]
+    },
     "Zir Fos | Reguladores da flora intestinal pó hmR 4": {
       "dados": {
         "data": "20200816",
         "so_brand": 799.0,
-        "f_so_brand": 18756.44212140476,
+        "f_so_brand": 18756.44212140475,
         "v_brand": 0.148856525201957,
         "d_brand": 0.6108658550460803,
         "obj_barra_brand": 0.46318840579710147,
@@ -4448,15 +4448,6 @@
         "quota_mercado": 0.05,
         "tick_mercado": "down"
       },
-      "7357608 | Zir Fos Cart Pó 3g 12": [
-        {
-          "so": 491.0,
-          "f_so": 8839.2123170652,
-          "distribuicao": 0.7545454545,
-          "vendas": 0.1909090909,
-          "obj_barra_cnp": 0.6145181477
-        }
-      ],
       "7373803 | Zir Fos Cart Pó 3g 30": [
         {
           "so": 308.0,
@@ -4464,6 +4455,15 @@
           "distribuicao": 0.3818181818,
           "vendas": 0.0818181818,
           "obj_barra_cnp": 0.3854818523
+        }
+      ],
+      "7357608 | Zir Fos Cart Pó 3g 12": [
+        {
+          "so": 491.0,
+          "f_so": 8839.2123170652,
+          "distribuicao": 0.7545454545,
+          "vendas": 0.1909090909,
+          "obj_barra_cnp": 0.6145181477
         }
       ]
     }
@@ -4496,7 +4496,7 @@
       "dados": {
         "data": "20200816",
         "so_brand": 4079.0,
-        "f_so_brand": 55349.5883928199,
+        "f_so_brand": 55349.58839282,
         "v_brand": 0.8727272727272727,
         "d_brand": 0.990909090909091,
         "obj_barra_brand": 0.47446783761777367,
@@ -4508,7 +4508,7 @@
       "8912410 | UL-250 Cáps 250mg 20": [
         {
           "so": 4079.0,
-          "f_so": 55349.5883928199,
+          "f_so": 55349.58839282,
           "distribuicao": 0.9909090909,
           "vendas": 0.8727272727,
           "obj_barra_cnp": 1.0
