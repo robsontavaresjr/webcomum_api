@@ -1,12 +1,12 @@
 [
   {
-    "data": "20200901",
-    "n_farmacias": null,
+    "data": "20200907",
+    "n_farmacias": 0.264957265,
     "cod_api": 1,
     "0": [
       {
-        "quantidade": 7,
-        "sellout": 139.99
+        "quantidade": 45,
+        "sellout": 945.38
       }
     ]
   }
