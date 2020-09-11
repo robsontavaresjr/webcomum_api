@@ -4,15 +4,6 @@
     <list default="true" id="a8d10147-f0f6-4cbe-a55f-332abcf2c8ed" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inicio_campanha.json" beforeDir="false" afterPath="$PROJECT_DIR$/inicio_campanha.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inicio_eticos.json" beforeDir="false" afterPath="$PROJECT_DIR$/inicio_eticos.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_inicio_campanha.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_inicio_campanha.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_inicio_ganhos.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_inicio_ganhos.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_parceria.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_parceria.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_parceria_eticos.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_parceria_eticos.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_parceria_genericos.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_parceria_genericos.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_parceria_otc.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_parceria_otc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_parceria_otc_planograma.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_parceria_otc_planograma.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +22,7 @@
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="339">
-              <caret line="38" column="69" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="69" />
+              <caret line="38" column="59" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -53,7 +44,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
+            <state relative-caret-position="255">
               <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
               <folding>
                 <element signature="e#24#35#0" expanded="true" />
@@ -65,7 +56,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
+            <state relative-caret-position="221">
               <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
               <folding>
                 <element signature="e#0#27#0" expanded="true" />
@@ -122,6 +113,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,7 +145,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -235,6 +226,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17239584" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -288,7 +280,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
+        <state relative-caret-position="255">
           <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
           <folding>
             <element signature="e#24#35#0" expanded="true" />
@@ -298,7 +290,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="221">
           <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
           <folding>
             <element signature="e#0#27#0" expanded="true" />
@@ -316,7 +308,7 @@
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="339">
-          <caret line="38" column="69" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="69" />
+          <caret line="38" column="59" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="69" />
         </state>
       </provider>
     </entry>
