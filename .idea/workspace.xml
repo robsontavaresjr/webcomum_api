@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8d10147-f0f6-4cbe-a55f-332abcf2c8ed" name="Default Changelist" comment="" />
+    <list default="true" id="a8d10147-f0f6-4cbe-a55f-332abcf2c8ed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lab_inicio_campanha.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_inicio_campanha.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="31" column="45" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="45" />
+            <state relative-caret-position="57">
+              <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -304,8 +306,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="31" column="45" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="45" />
+        <state relative-caret-position="57">
+          <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
         </state>
       </provider>
     </entry>
