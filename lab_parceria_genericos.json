@@ -1,40 +1,40 @@
 [
   {
-    "data": "20201001",
+    "data": "20201002",
     "lab": "Bluepharma",
     "0": [
       {
-        "q_lab_sellout": 58287.0,
-        "pvp_lab_sellout": 446671.5963683897,
-        "sellin": 89182.0699999999,
-        "quota": 0.0386863824,
-        "obj_barra_quota": 0.7754666667
+        "q_lab_sellout": 58557.0,
+        "pvp_lab_sellout": 448694.6163683898,
+        "sellin": 89540.15,
+        "quota": 0.0412328197,
+        "obj_barra_quota": 0.7275757576
       }
     ]
   },
   {
-    "data": "20201001",
+    "data": "20201002",
     "lab": "Sandoz",
     "0": [
       {
-        "q_lab_sellout": 90817.0,
-        "pvp_lab_sellout": 664009.0727866075,
-        "sellin": 143476.5699999997,
-        "quota": 0.0509465479,
-        "obj_barra_quota": 0.9225355191
+        "q_lab_sellout": 91144.0,
+        "pvp_lab_sellout": 666333.6347015015,
+        "sellin": 144282.9399999997,
+        "quota": 0.0472747118,
+        "obj_barra_quota": 0.9941890332
       }
     ]
   },
   {
-    "data": "20201001",
+    "data": "20201002",
     "lab": "ToLife",
     "0": [
       {
-        "q_lab_sellout": 125402.0,
-        "pvp_lab_sellout": 1049418.8267864157,
-        "sellin": 229460.3700000014,
-        "quota": 0.0700082169,
-        "obj_barra_quota": 0.7142018779
+        "q_lab_sellout": 125773.0,
+        "pvp_lab_sellout": 1052402.3697492557,
+        "sellin": 230558.9000000011,
+        "quota": 0.0631987947,
+        "obj_barra_quota": 0.7911543287
       }
     ]
   }
