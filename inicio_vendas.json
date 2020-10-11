@@ -1,490 +1,482 @@
 {
-  "1708": {
-    "ano_passado": "[{\"quantidade\":17724.0,\"sellout\":194587.2899999999},{\"quantidade\":17656.0,\"sellout\":193552.3600000007}]",
-    "ano_corrente": "[{\"quantidade\":17724.0,\"sellout\":194587.2899999999},{\"quantidade\":17656.0,\"sellout\":193552.3600000007}]"
-  },
-  "35491": {
-    "ano_passado": "[{\"quantidade\":1733.0,\"sellout\":18958.6},{\"quantidade\":1401.0,\"sellout\":36430.7600000001}]",
-    "ano_corrente": "[{\"quantidade\":1733.0,\"sellout\":18958.6},{\"quantidade\":1401.0,\"sellout\":36430.7600000001}]"
-  },
-  "23884": {
-    "ano_passado": "[{\"quantidade\":16550.0,\"sellout\":179721.6700000001},{\"quantidade\":17006.0,\"sellout\":184464.59}]",
-    "ano_corrente": "[{\"quantidade\":16550.0,\"sellout\":179721.6700000001},{\"quantidade\":17006.0,\"sellout\":184464.59}]"
-  },
-  "12041": {
-    "ano_passado": "[{\"quantidade\":5466.0,\"sellout\":64707.6799999999},{\"quantidade\":5249.0,\"sellout\":71168.13}]",
-    "ano_corrente": "[{\"quantidade\":5466.0,\"sellout\":64707.6799999999},{\"quantidade\":5249.0,\"sellout\":71168.13}]"
-  },
-  "26670": {
-    "ano_passado": "[{\"quantidade\":19442.0,\"sellout\":233734.0000000011},{\"quantidade\":20494.0,\"sellout\":303628.5100000023}]",
-    "ano_corrente": "[{\"quantidade\":19442.0,\"sellout\":233734.0000000011},{\"quantidade\":20494.0,\"sellout\":303628.5100000023}]"
-  },
-  "1627": {
-    "ano_passado": "[{\"quantidade\":7341.0,\"sellout\":77537.8800000001},{\"quantidade\":7176.0,\"sellout\":74631.19}]",
-    "ano_corrente": "[{\"quantidade\":7341.0,\"sellout\":77537.8800000001},{\"quantidade\":7176.0,\"sellout\":74631.19}]"
-  },
-  "13226": {
-    "ano_passado": "[{\"quantidade\":14904.0,\"sellout\":157127.8000000006},{\"quantidade\":17254.0,\"sellout\":183536.9900000005}]",
-    "ano_corrente": "[{\"quantidade\":14904.0,\"sellout\":157127.8000000006},{\"quantidade\":17254.0,\"sellout\":183536.9900000005}]"
-  },
-  "16497": {
-    "ano_passado": "[{\"quantidade\":5864.0,\"sellout\":268436.1599999997},{\"quantidade\":6741.0,\"sellout\":76746.3999999999}]",
-    "ano_corrente": "[{\"quantidade\":5864.0,\"sellout\":268436.1599999997},{\"quantidade\":6741.0,\"sellout\":76746.3999999999}]"
-  },
-  "16675": {
-    "ano_passado": "[{\"quantidade\":4855.0,\"sellout\":45565.9},{\"quantidade\":5591.0,\"sellout\":48555.8700000001}]",
-    "ano_corrente": "[{\"quantidade\":4855.0,\"sellout\":45565.9},{\"quantidade\":5591.0,\"sellout\":48555.8700000001}]"
-  },
-  "4952": {
-    "ano_passado": "[{\"quantidade\":6672.0,\"sellout\":69670.9499999996},{\"quantidade\":7139.0,\"sellout\":73188.0299999995}]",
-    "ano_corrente": "[{\"quantidade\":6672.0,\"sellout\":69670.9499999996},{\"quantidade\":7139.0,\"sellout\":73188.0299999995}]"
-  },
-  "22470": {
-    "ano_passado": "[{\"quantidade\":12684.0,\"sellout\":137869.1300000001},{\"quantidade\":13474.0,\"sellout\":144158.5300000001}]",
-    "ano_corrente": "[{\"quantidade\":12684.0,\"sellout\":137869.1300000001},{\"quantidade\":13474.0,\"sellout\":144158.5300000001}]"
-  },
-  "15245": {
-    "ano_passado": "[{\"quantidade\":5049.0,\"sellout\":55095.8399999999},{\"quantidade\":5112.0,\"sellout\":58671.95}]",
-    "ano_corrente": "[{\"quantidade\":5049.0,\"sellout\":55095.8399999999},{\"quantidade\":5112.0,\"sellout\":58671.95}]"
-  },
-  "22675": {
-    "ano_passado": "[{\"quantidade\":6218.0,\"sellout\":76801.29},{\"quantidade\":6307.0,\"sellout\":79712.0499999998}]",
-    "ano_corrente": "[{\"quantidade\":6218.0,\"sellout\":76801.29},{\"quantidade\":6307.0,\"sellout\":79712.0499999998}]"
-  },
-  "5878": {
-    "ano_passado": "[{\"quantidade\":30315.0,\"sellout\":313494.7099999997},{\"quantidade\":28240.0,\"sellout\":345415.1988580922}]",
-    "ano_corrente": "[{\"quantidade\":30315.0,\"sellout\":313494.7099999997},{\"quantidade\":28240.0,\"sellout\":345415.1988580922}]"
-  },
-  "24414": {
-    "ano_passado": "[{\"quantidade\":7867.0,\"sellout\":96452.2999999999},{\"quantidade\":7035.0,\"sellout\":86625.0900000002}]",
-    "ano_corrente": "[{\"quantidade\":7867.0,\"sellout\":96452.2999999999},{\"quantidade\":7035.0,\"sellout\":86625.0900000002}]"
-  },
-  "4251": {
-    "ano_passado": "[{\"quantidade\":19729.0,\"sellout\":250849.7900000008},{\"quantidade\":21411.0,\"sellout\":262843.3400000007}]",
-    "ano_corrente": "[{\"quantidade\":19729.0,\"sellout\":250849.7900000008},{\"quantidade\":21411.0,\"sellout\":262843.3400000007}]"
-  },
-  "3948": {
-    "ano_passado": "[{\"quantidade\":10958.0,\"sellout\":134403.8599999997},{\"quantidade\":11149.0,\"sellout\":125567.5500000001}]",
-    "ano_corrente": "[{\"quantidade\":10958.0,\"sellout\":134403.8599999997},{\"quantidade\":11149.0,\"sellout\":125567.5500000001}]"
-  },
-  "11827": {
-    "ano_passado": "[{\"quantidade\":16487.0,\"sellout\":208975.6200000002},{\"quantidade\":16459.0,\"sellout\":193460.2100000003}]",
-    "ano_corrente": "[{\"quantidade\":16487.0,\"sellout\":208975.6200000002},{\"quantidade\":16459.0,\"sellout\":193460.2100000003}]"
-  },
-  "27480": {
-    "ano_passado": "[{\"quantidade\":4503.0,\"sellout\":54998.43},{\"quantidade\":4660.0,\"sellout\":57847.52}]",
-    "ano_corrente": "[{\"quantidade\":4503.0,\"sellout\":54998.43},{\"quantidade\":4660.0,\"sellout\":57847.52}]"
-  },
-  "5347": {
-    "ano_passado": "[{\"quantidade\":15293.0,\"sellout\":160446.62},{\"quantidade\":14465.0,\"sellout\":155630.8200000003}]",
-    "ano_corrente": "[{\"quantidade\":15293.0,\"sellout\":160446.62},{\"quantidade\":14465.0,\"sellout\":155630.8200000003}]"
-  },
-  "23329": {
-    "ano_passado": "[{\"quantidade\":4345.0,\"sellout\":1318200.3199999984}]",
-    "ano_corrente": "[{\"quantidade\":4345.0,\"sellout\":1318200.3199999984}]"
-  },
-  "11525": {
-    "ano_passado": "[{\"quantidade\":22332.0,\"sellout\":255021.4700000003},{\"quantidade\":24272.0,\"sellout\":266218.41}]",
-    "ano_corrente": "[{\"quantidade\":22332.0,\"sellout\":255021.4700000003},{\"quantidade\":24272.0,\"sellout\":266218.41}]"
-  },
-  "13650": {
-    "ano_passado": "[{\"quantidade\":4495.0,\"sellout\":42588.0600000002},{\"quantidade\":4610.0,\"sellout\":88302.6400000004}]",
-    "ano_corrente": "[{\"quantidade\":4495.0,\"sellout\":42588.0600000002},{\"quantidade\":4610.0,\"sellout\":88302.6400000004}]"
-  },
-  "26778": {
-    "ano_passado": "[{\"quantidade\":3516.0,\"sellout\":38867.2600000001},{\"quantidade\":3841.0,\"sellout\":42366.8700000001}]",
-    "ano_corrente": "[{\"quantidade\":3516.0,\"sellout\":38867.2600000001},{\"quantidade\":3841.0,\"sellout\":42366.8700000001}]"
-  },
-  "1554": {
-    "ano_passado": "[{\"quantidade\":15231.0,\"sellout\":126227.2700000009},{\"quantidade\":7801.0,\"sellout\":76187.7300000004}]",
-    "ano_corrente": "[{\"quantidade\":15231.0,\"sellout\":126227.2700000009},{\"quantidade\":7801.0,\"sellout\":76187.7300000004}]"
-  },
-  "10413": {
-    "ano_passado": "[{\"quantidade\":6463.0,\"sellout\":78270.1199999998},{\"quantidade\":6274.0,\"sellout\":73619.83}]",
-    "ano_corrente": "[{\"quantidade\":6463.0,\"sellout\":78270.1199999998},{\"quantidade\":6274.0,\"sellout\":73619.83}]"
-  },
-  "26662": {
-    "ano_passado": "[{\"quantidade\":8610.0,\"sellout\":115163.9700000004},{\"quantidade\":8584.0,\"sellout\":166117.3700000008}]",
-    "ano_corrente": "[{\"quantidade\":8610.0,\"sellout\":115163.9700000004},{\"quantidade\":8584.0,\"sellout\":166117.3700000008}]"
-  },
-  "19348": {
-    "ano_passado": "[{\"quantidade\":10498.0,\"sellout\":166460.1499999996},{\"quantidade\":10163.0,\"sellout\":161772.0400000007}]",
-    "ano_corrente": "[{\"quantidade\":10498.0,\"sellout\":166460.1499999996},{\"quantidade\":10163.0,\"sellout\":161772.0400000007}]"
-  },
-  "21083": {
-    "ano_passado": "[{\"quantidade\":15741.0,\"sellout\":184239.6500000002},{\"quantidade\":16033.0,\"sellout\":187222.2100000005}]",
-    "ano_corrente": "[{\"quantidade\":15741.0,\"sellout\":184239.6500000002},{\"quantidade\":16033.0,\"sellout\":187222.2100000005}]"
-  },
-  "3972": {
-    "ano_passado": "[{\"quantidade\":7747.0,\"sellout\":102324.5500000002},{\"quantidade\":7969.0,\"sellout\":100230.2800000001}]",
-    "ano_corrente": "[{\"quantidade\":7747.0,\"sellout\":102324.5500000002},{\"quantidade\":7969.0,\"sellout\":100230.2800000001}]"
-  },
-  "24430": {
-    "ano_passado": "[{\"quantidade\":18671.0,\"sellout\":221107.4699999996},{\"quantidade\":16090.0,\"sellout\":200615.5600000003}]",
-    "ano_corrente": "[{\"quantidade\":18671.0,\"sellout\":221107.4699999996},{\"quantidade\":16090.0,\"sellout\":200615.5600000003}]"
-  },
-  "34134": {
-    "ano_passado": "[{\"quantidade\":6982.0,\"sellout\":85265.1799999999},{\"quantidade\":5735.0,\"sellout\":67538.5799999999}]",
-    "ano_corrente": "[{\"quantidade\":6982.0,\"sellout\":85265.1799999999},{\"quantidade\":5735.0,\"sellout\":67538.5799999999}]"
-  },
-  "1759": {
-    "ano_passado": "[{\"quantidade\":9360.0,\"sellout\":101243.2100000002},{\"quantidade\":10814.0,\"sellout\":116287.4699999995}]",
-    "ano_corrente": "[{\"quantidade\":9360.0,\"sellout\":101243.2100000002},{\"quantidade\":10814.0,\"sellout\":116287.4699999995}]"
-  },
-  "26824": {
-    "ano_passado": "[{\"quantidade\":10239.0,\"sellout\":118396.2800000001},{\"quantidade\":9940.0,\"sellout\":123295.0100000003}]",
-    "ano_corrente": "[{\"quantidade\":10239.0,\"sellout\":118396.2800000001},{\"quantidade\":9940.0,\"sellout\":123295.0100000003}]"
-  },
-  "13234": {
-    "ano_passado": "[{\"quantidade\":14539.0,\"sellout\":154826.7199999999},{\"quantidade\":16494.0,\"sellout\":178353.8600000003}]",
-    "ano_corrente": "[{\"quantidade\":14539.0,\"sellout\":154826.7199999999},{\"quantidade\":16494.0,\"sellout\":178353.8600000003}]"
+  "22616": {
+    "ano_passado": "[{\"quantidade\":17313.0,\"sellout\":189420.9200000004},{\"quantidade\":16832.0,\"sellout\":182320.8900000008}]",
+    "ano_corrente": "[{\"quantidade\":17313.0,\"sellout\":189420.9200000004},{\"quantidade\":16832.0,\"sellout\":182320.8900000008}]"
   },
   "19844": {
-    "ano_passado": "[{\"quantidade\":4568.0,\"sellout\":59722.7097682311},{\"quantidade\":5679.0,\"sellout\":68791.2}]",
-    "ano_corrente": "[{\"quantidade\":4568.0,\"sellout\":59722.7097682311},{\"quantidade\":5679.0,\"sellout\":68791.2}]"
-  },
-  "4243": {
-    "ano_passado": "[{\"quantidade\":12194.0,\"sellout\":142806.12},{\"quantidade\":14117.0,\"sellout\":167616.1000000005}]",
-    "ano_corrente": "[{\"quantidade\":12194.0,\"sellout\":142806.12},{\"quantidade\":14117.0,\"sellout\":167616.1000000005}]"
-  },
-  "35254": {
-    "ano_passado": "[{\"quantidade\":10619.0,\"sellout\":123582.0200000001},{\"quantidade\":9978.0,\"sellout\":116936.1999999998}]",
-    "ano_corrente": "[{\"quantidade\":10619.0,\"sellout\":123582.0200000001},{\"quantidade\":9978.0,\"sellout\":116936.1999999998}]"
-  },
-  "7846": {
-    "ano_passado": "[{\"quantidade\":15486.0,\"sellout\":418734.8700000002}]",
-    "ano_corrente": "[{\"quantidade\":15486.0,\"sellout\":418734.8700000002}]"
-  },
-  "22152": {
-    "ano_passado": "[{\"quantidade\":6548.0,\"sellout\":78880.13},{\"quantidade\":6500.0,\"sellout\":75378.94}]",
-    "ano_corrente": "[{\"quantidade\":6548.0,\"sellout\":78880.13},{\"quantidade\":6500.0,\"sellout\":75378.94}]"
-  },
-  "35785": {
-    "ano_passado": "[{\"quantidade\":3852.0,\"sellout\":48104.15},{\"quantidade\":6783.0,\"sellout\":80850.55}]",
-    "ano_corrente": "[{\"quantidade\":3852.0,\"sellout\":48104.15},{\"quantidade\":6783.0,\"sellout\":80850.55}]"
-  },
-  "7714": {
-    "ano_passado": "[{\"quantidade\":6723.0,\"sellout\":73730.8100000001},{\"quantidade\":7064.0,\"sellout\":77565.7900000001}]",
-    "ano_corrente": "[{\"quantidade\":6723.0,\"sellout\":73730.8100000001},{\"quantidade\":7064.0,\"sellout\":77565.7900000001}]"
-  },
-  "24104": {
-    "ano_passado": "[{\"quantidade\":9979.0,\"sellout\":116337.3900000001},{\"quantidade\":11310.0,\"sellout\":136840.0300000002}]",
-    "ano_corrente": "[{\"quantidade\":9979.0,\"sellout\":116337.3900000001},{\"quantidade\":11310.0,\"sellout\":136840.0300000002}]"
-  },
-  "27073": {
-    "ano_passado": "[{\"quantidade\":17641.0,\"sellout\":200034.4500000008},{\"quantidade\":17872.0,\"sellout\":208556.0200000006}]",
-    "ano_corrente": "[{\"quantidade\":17641.0,\"sellout\":200034.4500000008},{\"quantidade\":17872.0,\"sellout\":208556.0200000006}]"
-  },
-  "5622": {
-    "ano_passado": "[{\"quantidade\":9367.0,\"sellout\":156611.47},{\"quantidade\":9693.0,\"sellout\":115448.8800000003}]",
-    "ano_corrente": "[{\"quantidade\":9367.0,\"sellout\":156611.47},{\"quantidade\":9693.0,\"sellout\":115448.8800000003}]"
-  },
-  "22322": {
-    "ano_passado": "[{\"quantidade\":7570.0,\"sellout\":91530.4399999996},{\"quantidade\":7263.0,\"sellout\":74593.0199999997}]",
-    "ano_corrente": "[{\"quantidade\":7570.0,\"sellout\":91530.4399999996},{\"quantidade\":7263.0,\"sellout\":74593.0199999997}]"
-  },
-  "5320": {
-    "ano_passado": "[{\"quantidade\":9278.0,\"sellout\":116768.7199999995},{\"quantidade\":9811.0,\"sellout\":110578.1399999998}]",
-    "ano_corrente": "[{\"quantidade\":9278.0,\"sellout\":116768.7199999995},{\"quantidade\":9811.0,\"sellout\":110578.1399999998}]"
-  },
-  "10456": {
-    "ano_passado": "[{\"quantidade\":11911.0,\"sellout\":132238.9499999999},{\"quantidade\":10942.0,\"sellout\":125162.8499999994}]",
-    "ano_corrente": "[{\"quantidade\":11911.0,\"sellout\":132238.9499999999},{\"quantidade\":10942.0,\"sellout\":125162.8499999994}]"
-  },
-  "5363": {
-    "ano_passado": "[{\"quantidade\":11464.0,\"sellout\":140921.4099999997},{\"quantidade\":11966.0,\"sellout\":145744.0800000002}]",
-    "ano_corrente": "[{\"quantidade\":11464.0,\"sellout\":140921.4099999997},{\"quantidade\":11966.0,\"sellout\":145744.0800000002}]"
-  },
-  "6149": {
-    "ano_passado": "[{\"quantidade\":8957.0,\"sellout\":103387.0999999996},{\"quantidade\":8940.0,\"sellout\":107045.5999999997}]",
-    "ano_corrente": "[{\"quantidade\":8957.0,\"sellout\":103387.0999999996},{\"quantidade\":8940.0,\"sellout\":107045.5999999997}]"
-  },
-  "12130": {
-    "ano_passado": "[{\"quantidade\":4373.0,\"sellout\":62867.24},{\"quantidade\":4435.0,\"sellout\":53140.9099999998}]",
-    "ano_corrente": "[{\"quantidade\":4373.0,\"sellout\":62867.24},{\"quantidade\":4435.0,\"sellout\":53140.9099999998}]"
-  },
-  "4570": {
-    "ano_passado": "[{\"quantidade\":13421.0,\"sellout\":143831.57},{\"quantidade\":11927.0,\"sellout\":142290.5700000003}]",
-    "ano_corrente": "[{\"quantidade\":13421.0,\"sellout\":143831.57},{\"quantidade\":11927.0,\"sellout\":142290.5700000003}]"
-  },
-  "8354": {
-    "ano_passado": "[{\"quantidade\":7414.0,\"sellout\":85591.1799999998},{\"quantidade\":6410.0,\"sellout\":294143.190000001}]",
-    "ano_corrente": "[{\"quantidade\":7414.0,\"sellout\":85591.1799999998},{\"quantidade\":6410.0,\"sellout\":294143.190000001}]"
-  },
-  "23647": {
-    "ano_passado": "[{\"quantidade\":5833.0,\"sellout\":73952.8780221892},{\"quantidade\":5701.0,\"sellout\":65344.6100000001}]",
-    "ano_corrente": "[{\"quantidade\":5833.0,\"sellout\":73952.8780221892},{\"quantidade\":5701.0,\"sellout\":65344.6100000001}]"
-  },
-  "24422": {
-    "ano_passado": "[{\"quantidade\":32900.0,\"sellout\":415742.0800000018},{\"quantidade\":35561.0,\"sellout\":390138.0100000024}]",
-    "ano_corrente": "[{\"quantidade\":32900.0,\"sellout\":415742.0800000018},{\"quantidade\":35561.0,\"sellout\":390138.0100000024}]"
-  },
-  "24821": {
-    "ano_passado": "[{\"quantidade\":8446.0,\"sellout\":103596.8399999999},{\"quantidade\":8494.0,\"sellout\":117200.9499999999}]",
-    "ano_corrente": "[{\"quantidade\":8446.0,\"sellout\":103596.8399999999},{\"quantidade\":8494.0,\"sellout\":117200.9499999999}]"
-  },
-  "9539": {
-    "ano_passado": "[{\"quantidade\":16676.0,\"sellout\":195125.7900000014},{\"quantidade\":17574.0,\"sellout\":201809.0700000003}]",
-    "ano_corrente": "[{\"quantidade\":16676.0,\"sellout\":195125.7900000014},{\"quantidade\":17574.0,\"sellout\":201809.0700000003}]"
-  },
-  "25631": {
-    "ano_passado": "[{\"quantidade\":12825.0,\"sellout\":151808.9100000001},{\"quantidade\":12183.0,\"sellout\":176731.5600000005}]",
-    "ano_corrente": "[{\"quantidade\":12825.0,\"sellout\":151808.9100000001},{\"quantidade\":12183.0,\"sellout\":176731.5600000005}]"
-  },
-  "18066": {
-    "ano_passado": "[{\"quantidade\":7152.0,\"sellout\":80962.9400000003},{\"quantidade\":6368.0,\"sellout\":82871.1499999998}]",
-    "ano_corrente": "[{\"quantidade\":7152.0,\"sellout\":80962.9400000003},{\"quantidade\":6368.0,\"sellout\":82871.1499999998}]"
-  },
-  "23710": {
-    "ano_passado": "[{\"quantidade\":21364.0,\"sellout\":248568.2495941449},{\"quantidade\":19611.0,\"sellout\":214715.0100000004}]",
-    "ano_corrente": "[{\"quantidade\":21364.0,\"sellout\":248568.2495941449},{\"quantidade\":19611.0,\"sellout\":214715.0100000004}]"
-  },
-  "26999": {
-    "ano_passado": "[{\"quantidade\":8280.0,\"sellout\":91946.2499999997},{\"quantidade\":9105.0,\"sellout\":101898.32}]",
-    "ano_corrente": "[{\"quantidade\":8280.0,\"sellout\":91946.2499999997},{\"quantidade\":9105.0,\"sellout\":101898.32}]"
-  },
-  "8109": {
-    "ano_passado": "[{\"quantidade\":33035.0,\"sellout\":389870.7099999969},{\"quantidade\":38401.0,\"sellout\":436634.149999994}]",
-    "ano_corrente": "[{\"quantidade\":33035.0,\"sellout\":389870.7099999969},{\"quantidade\":38401.0,\"sellout\":436634.149999994}]"
-  },
-  "34860": {
-    "ano_passado": "[{\"quantidade\":1734.0,\"sellout\":21181.6142123971}]",
-    "ano_corrente": "[{\"quantidade\":1734.0,\"sellout\":21181.6142123971}]"
-  },
-  "8990": {
-    "ano_passado": "[{\"quantidade\":11705.0,\"sellout\":124825.4499999998},{\"quantidade\":10169.0,\"sellout\":105937.0299999996}]",
-    "ano_corrente": "[{\"quantidade\":11705.0,\"sellout\":124825.4499999998},{\"quantidade\":10169.0,\"sellout\":105937.0299999996}]"
-  },
-  "25526": {
-    "ano_passado": "[{\"quantidade\":11182.0,\"sellout\":121850.2400000001},{\"quantidade\":11337.0,\"sellout\":121040.2900000005}]",
-    "ano_corrente": "[{\"quantidade\":11182.0,\"sellout\":121850.2400000001},{\"quantidade\":11337.0,\"sellout\":121040.2900000005}]"
-  },
-  "16624": {
-    "ano_passado": "[{\"quantidade\":18885.0,\"sellout\":258738.7500000003},{\"quantidade\":22783.0,\"sellout\":272536.8299999994}]",
-    "ano_corrente": "[{\"quantidade\":18885.0,\"sellout\":258738.7500000003},{\"quantidade\":22783.0,\"sellout\":272536.8299999994}]"
-  },
-  "11967": {
-    "ano_passado": "[{\"quantidade\":5433.0,\"sellout\":65070.9899999998},{\"quantidade\":5991.0,\"sellout\":68248.9699999997}]",
-    "ano_corrente": "[{\"quantidade\":5433.0,\"sellout\":65070.9899999998},{\"quantidade\":5991.0,\"sellout\":68248.9699999997}]"
-  },
-  "5150": {
-    "ano_passado": "[{\"quantidade\":9809.0,\"sellout\":131823.5299999994},{\"quantidade\":10144.0,\"sellout\":119076.15}]",
-    "ano_corrente": "[{\"quantidade\":9809.0,\"sellout\":131823.5299999994},{\"quantidade\":10144.0,\"sellout\":119076.15}]"
-  },
-  "27219": {
-    "ano_passado": "[{\"quantidade\":16704.0,\"sellout\":195624.01},{\"quantidade\":17622.0,\"sellout\":202601.8899999997}]",
-    "ano_corrente": "[{\"quantidade\":16704.0,\"sellout\":195624.01},{\"quantidade\":17622.0,\"sellout\":202601.8899999997}]"
-  },
-  "9300": {
-    "ano_passado": "[{\"quantidade\":8431.0,\"sellout\":89885.0799999992},{\"quantidade\":8207.0,\"sellout\":92365.909999999}]",
-    "ano_corrente": "[{\"quantidade\":8431.0,\"sellout\":89885.0799999992},{\"quantidade\":8207.0,\"sellout\":92365.909999999}]"
+    "ano_passado": "[{\"quantidade\":4568.0,\"sellout\":59722.7097682312},{\"quantidade\":5679.0,\"sellout\":68791.2000000001}]",
+    "ano_corrente": "[{\"quantidade\":4568.0,\"sellout\":59722.7097682312},{\"quantidade\":5679.0,\"sellout\":68791.2000000001}]"
   },
   "5355": {
-    "ano_passado": "[{\"quantidade\":7652.0,\"sellout\":86397.0500000001},{\"quantidade\":7604.0,\"sellout\":90120.6599999999}]",
-    "ano_corrente": "[{\"quantidade\":7652.0,\"sellout\":86397.0500000001},{\"quantidade\":7604.0,\"sellout\":90120.6599999999}]"
+    "ano_passado": "[{\"quantidade\":7773.0,\"sellout\":87725.4399999999},{\"quantidade\":7889.0,\"sellout\":93755.29}]",
+    "ano_corrente": "[{\"quantidade\":7773.0,\"sellout\":87725.4399999999},{\"quantidade\":7889.0,\"sellout\":93755.29}]"
   },
-  "14702": {
-    "ano_passado": "[{\"quantidade\":5528.0,\"sellout\":1699954.7799999958}]",
-    "ano_corrente": "[{\"quantidade\":5528.0,\"sellout\":1699954.7799999958}]"
-  },
-  "27170": {
-    "ano_passado": "[{\"quantidade\":8282.0,\"sellout\":98387.7900000002},{\"quantidade\":7548.0,\"sellout\":89796.31}]",
-    "ano_corrente": "[{\"quantidade\":8282.0,\"sellout\":98387.7900000002},{\"quantidade\":7548.0,\"sellout\":89796.31}]"
-  },
-  "22896": {
-    "ano_passado": "[{\"quantidade\":11039.0,\"sellout\":117431.0999999999},{\"quantidade\":13069.0,\"sellout\":133045.5699999997}]",
-    "ano_corrente": "[{\"quantidade\":11039.0,\"sellout\":117431.0999999999},{\"quantidade\":13069.0,\"sellout\":133045.5699999997}]"
-  },
-  "10162": {
-    "ano_passado": "[{\"quantidade\":11637.0,\"sellout\":121251.4100000001},{\"quantidade\":10580.0,\"sellout\":116213.3099999998}]",
-    "ano_corrente": "[{\"quantidade\":11637.0,\"sellout\":121251.4100000001},{\"quantidade\":10580.0,\"sellout\":116213.3099999998}]"
-  },
-  "34916": {
-    "ano_passado": "[{\"quantidade\":8673.0,\"sellout\":100221.0247099808},{\"quantidade\":7271.0,\"sellout\":76021.4721929544}]",
-    "ano_corrente": "[{\"quantidade\":8673.0,\"sellout\":100221.0247099808},{\"quantidade\":7271.0,\"sellout\":76021.4721929544}]"
-  },
-  "2062": {
-    "ano_passado": "[{\"quantidade\":17618.0,\"sellout\":184332.890000001}]",
-    "ano_corrente": "[{\"quantidade\":17618.0,\"sellout\":184332.890000001}]"
-  },
-  "24813": {
-    "ano_passado": "[{\"quantidade\":4890.0,\"sellout\":56201.0399999999},{\"quantidade\":5078.0,\"sellout\":60724.3099999999}]",
-    "ano_corrente": "[{\"quantidade\":4890.0,\"sellout\":56201.0399999999},{\"quantidade\":5078.0,\"sellout\":60724.3099999999}]"
-  },
-  "6335": {
-    "ano_passado": "[{\"quantidade\":12710.0,\"sellout\":144215.9599999998},{\"quantidade\":10330.0,\"sellout\":98214.3744430498}]",
-    "ano_corrente": "[{\"quantidade\":12710.0,\"sellout\":144215.9599999998},{\"quantidade\":10330.0,\"sellout\":98214.3744430498}]"
-  },
-  "27111": {
-    "ano_passado": "[{\"quantidade\":9171.0,\"sellout\":102836.1500000001},{\"quantidade\":9303.0,\"sellout\":165565.0200000005}]",
-    "ano_corrente": "[{\"quantidade\":9171.0,\"sellout\":102836.1500000001},{\"quantidade\":9303.0,\"sellout\":165565.0200000005}]"
-  },
-  "20389": {
-    "ano_passado": "[{\"quantidade\":3539.0,\"sellout\":41757.8546866698}]",
-    "ano_corrente": "[{\"quantidade\":3539.0,\"sellout\":41757.8546866698}]"
-  },
-  "5266": {
-    "ano_passado": "[{\"quantidade\":19688.0,\"sellout\":225109.132730461}]",
-    "ano_corrente": "[{\"quantidade\":19688.0,\"sellout\":225109.132730461}]"
-  },
-  "34100": {
-    "ano_passado": "[{\"quantidade\":15777.0,\"sellout\":177928.7200000003},{\"quantidade\":16418.0,\"sellout\":189199.5000000006}]",
-    "ano_corrente": "[{\"quantidade\":15777.0,\"sellout\":177928.7200000003},{\"quantidade\":16418.0,\"sellout\":189199.5000000006}]"
-  },
-  "34150": {
-    "ano_passado": "[{\"quantidade\":14031.0,\"sellout\":164517.1899999996},{\"quantidade\":15352.0,\"sellout\":177061.4199999998}]",
-    "ano_corrente": "[{\"quantidade\":14031.0,\"sellout\":164517.1899999996},{\"quantidade\":15352.0,\"sellout\":177061.4199999998}]"
-  },
-  "4901": {
-    "ano_passado": "[{\"quantidade\":10914.0,\"sellout\":131802.6899999995},{\"quantidade\":11765.0,\"sellout\":143038.6400000001}]",
-    "ano_corrente": "[{\"quantidade\":10914.0,\"sellout\":131802.6899999995},{\"quantidade\":11765.0,\"sellout\":143038.6400000001}]"
-  },
-  "1651": {
-    "ano_passado": "[{\"quantidade\":4485.0,\"sellout\":42411.03},{\"quantidade\":1119.0,\"sellout\":7553.63}]",
-    "ano_corrente": "[{\"quantidade\":4485.0,\"sellout\":42411.03},{\"quantidade\":1119.0,\"sellout\":7553.63}]"
-  },
-  "7170": {
-    "ano_passado": "[{\"quantidade\":6126.0,\"sellout\":12094.79},{\"quantidade\":5914.0,\"sellout\":66418.8000000001}]",
-    "ano_corrente": "[{\"quantidade\":6126.0,\"sellout\":12094.79},{\"quantidade\":5914.0,\"sellout\":66418.8000000001}]"
-  },
-  "3719": {
-    "ano_passado": "[{\"quantidade\":14052.0,\"sellout\":158268.8300000003},{\"quantidade\":14660.0,\"sellout\":167324.2600000009}]",
-    "ano_corrente": "[{\"quantidade\":14052.0,\"sellout\":158268.8300000003},{\"quantidade\":14660.0,\"sellout\":167324.2600000009}]"
-  },
-  "34118": {
-    "ano_passado": "[{\"quantidade\":2726.0,\"sellout\":34536.78},{\"quantidade\":2541.0,\"sellout\":29569.1900000001}]",
-    "ano_corrente": "[{\"quantidade\":2726.0,\"sellout\":34536.78},{\"quantidade\":2541.0,\"sellout\":29569.1900000001}]"
-  },
-  "5100": {
-    "ano_passado": "[{\"quantidade\":8780.0,\"sellout\":98495.3799999995},{\"quantidade\":9027.0,\"sellout\":96736.0399999998}]",
-    "ano_corrente": "[{\"quantidade\":8780.0,\"sellout\":98495.3799999995},{\"quantidade\":9027.0,\"sellout\":96736.0399999998}]"
+  "6149": {
+    "ano_passado": "[{\"quantidade\":9120.0,\"sellout\":109269.4999999996},{\"quantidade\":9259.0,\"sellout\":106802.0999999994}]",
+    "ano_corrente": "[{\"quantidade\":9120.0,\"sellout\":109269.4999999996},{\"quantidade\":9259.0,\"sellout\":106802.0999999994}]"
   },
   "15385": {
-    "ano_passado": "[{\"quantidade\":8518.0,\"sellout\":97507.8500000002},{\"quantidade\":8299.0,\"sellout\":94398.7399999998}]",
-    "ano_corrente": "[{\"quantidade\":8518.0,\"sellout\":97507.8500000002},{\"quantidade\":8299.0,\"sellout\":94398.7399999998}]"
+    "ano_passado": "[{\"quantidade\":8652.0,\"sellout\":99295.92},{\"quantidade\":8624.0,\"sellout\":98531.1499999997}]",
+    "ano_corrente": "[{\"quantidade\":8652.0,\"sellout\":99295.92},{\"quantidade\":8624.0,\"sellout\":98531.1499999997}]"
   },
-  "21393": {
-    "ano_passado": "[{\"quantidade\":15356.0,\"sellout\":170296.1300000004},{\"quantidade\":15979.0,\"sellout\":178090.1099999995}]",
-    "ano_corrente": "[{\"quantidade\":15356.0,\"sellout\":170296.1300000004},{\"quantidade\":15979.0,\"sellout\":178090.1099999995}]"
+  "5363": {
+    "ano_passado": "[{\"quantidade\":12479.0,\"sellout\":151589.5500000004},{\"quantidade\":11665.0,\"sellout\":143414.2000000001}]",
+    "ano_corrente": "[{\"quantidade\":12479.0,\"sellout\":151589.5500000004},{\"quantidade\":11665.0,\"sellout\":143414.2000000001}]"
   },
-  "25747": {
-    "ano_passado": "[{\"quantidade\":11708.0,\"sellout\":138134.0000000001},{\"quantidade\":11179.0,\"sellout\":133062.45}]",
-    "ano_corrente": "[{\"quantidade\":11708.0,\"sellout\":138134.0000000001},{\"quantidade\":11179.0,\"sellout\":133062.45}]"
-  },
-  "16829": {
-    "ano_passado": "[{\"quantidade\":10101.0,\"sellout\":117363.7299999998},{\"quantidade\":10581.0,\"sellout\":125312.92}]",
-    "ano_corrente": "[{\"quantidade\":10101.0,\"sellout\":117363.7299999998},{\"quantidade\":10581.0,\"sellout\":125312.92}]"
-  },
-  "19143": {
-    "ano_passado": "[{\"quantidade\":14899.0,\"sellout\":158025.7699999999},{\"quantidade\":15442.0,\"sellout\":161619.9599999999}]",
-    "ano_corrente": "[{\"quantidade\":14899.0,\"sellout\":158025.7699999999},{\"quantidade\":15442.0,\"sellout\":161619.9599999999}]"
-  },
-  "20630": {
-    "ano_passado": "[{\"quantidade\":10337.0,\"sellout\":126907.449999999},{\"quantidade\":9155.0,\"sellout\":100873.4799999997}]",
-    "ano_corrente": "[{\"quantidade\":10337.0,\"sellout\":126907.449999999},{\"quantidade\":9155.0,\"sellout\":100873.4799999997}]"
-  },
-  "26026": {
-    "ano_passado": "[{\"quantidade\":20868.0,\"sellout\":134657.8800000001},{\"quantidade\":10212.0,\"sellout\":119223.1200000001}]",
-    "ano_corrente": "[{\"quantidade\":20868.0,\"sellout\":134657.8800000001},{\"quantidade\":10212.0,\"sellout\":119223.1200000001}]"
-  },
-  "16780": {
-    "ano_passado": "[{\"quantidade\":529.0,\"sellout\":5573.217882056}]",
-    "ano_corrente": "[{\"quantidade\":529.0,\"sellout\":5573.217882056}]"
-  },
-  "17132": {
-    "ano_passado": "[{\"quantidade\":16320.0,\"sellout\":172262.5700000003},{\"quantidade\":15932.0,\"sellout\":201565.0400000004}]",
-    "ano_corrente": "[{\"quantidade\":16320.0,\"sellout\":172262.5700000003},{\"quantidade\":15932.0,\"sellout\":201565.0400000004}]"
-  },
-  "7080": {
-    "ano_passado": "[{\"quantidade\":13163.0,\"sellout\":148931.7300000003},{\"quantidade\":13739.0,\"sellout\":151824.1000000008}]",
-    "ano_corrente": "[{\"quantidade\":13163.0,\"sellout\":148931.7300000003},{\"quantidade\":13739.0,\"sellout\":151824.1000000008}]"
-  },
-  "21296": {
-    "ano_passado": "[{\"quantidade\":3504.0,\"sellout\":114207.76}]",
-    "ano_corrente": "[{\"quantidade\":3504.0,\"sellout\":114207.76}]"
-  },
-  "2569": {
-    "ano_passado": "[{\"quantidade\":7220.0,\"sellout\":75520.1599999998},{\"quantidade\":7572.0,\"sellout\":81685.1699999997}]",
-    "ano_corrente": "[{\"quantidade\":7220.0,\"sellout\":75520.1599999998},{\"quantidade\":7572.0,\"sellout\":81685.1699999997}]"
-  },
-  "7943": {
-    "ano_passado": "[{\"quantidade\":13941.0,\"sellout\":140472.5300000001},{\"quantidade\":12141.0,\"sellout\":132549.9499999996}]",
-    "ano_corrente": "[{\"quantidade\":13941.0,\"sellout\":140472.5300000001},{\"quantidade\":12141.0,\"sellout\":132549.9499999996}]"
-  },
-  "18309": {
-    "ano_passado": "[{\"quantidade\":5132.0,\"sellout\":109437.54}]",
-    "ano_corrente": "[{\"quantidade\":5132.0,\"sellout\":109437.54}]"
-  },
-  "8800": {
-    "ano_passado": "[{\"quantidade\":6542.0,\"sellout\":70234.0700000001},{\"quantidade\":6596.0,\"sellout\":93009.0599999998}]",
-    "ano_corrente": "[{\"quantidade\":6542.0,\"sellout\":70234.0700000001},{\"quantidade\":6596.0,\"sellout\":93009.0599999998}]"
-  },
-  "14087": {
-    "ano_passado": "[{\"quantidade\":13379.0,\"sellout\":152605.4600000002},{\"quantidade\":12417.0,\"sellout\":140282.4699999999}]",
-    "ano_corrente": "[{\"quantidade\":13379.0,\"sellout\":152605.4600000002},{\"quantidade\":12417.0,\"sellout\":140282.4699999999}]"
-  },
-  "1899": {
-    "ano_passado": "[{\"quantidade\":8428.0,\"sellout\":109084.8999999997}]",
-    "ano_corrente": "[{\"quantidade\":8428.0,\"sellout\":109084.8999999997}]"
-  },
-  "19615": {
-    "ano_passado": "[{\"quantidade\":10524.0,\"sellout\":111988.5500000001},{\"quantidade\":10187.0,\"sellout\":112853.5}]",
-    "ano_corrente": "[{\"quantidade\":10524.0,\"sellout\":111988.5500000001},{\"quantidade\":10187.0,\"sellout\":112853.5}]"
-  },
-  "8850": {
-    "ano_passado": "[{\"quantidade\":7690.0,\"sellout\":82296.2499999999}]",
-    "ano_corrente": "[{\"quantidade\":7690.0,\"sellout\":82296.2499999999}]"
-  },
-  "35858": {
-    "ano_passado": "[{\"quantidade\":6347.0,\"sellout\":71259.4000000002},{\"quantidade\":6711.0,\"sellout\":75331.64}]",
-    "ano_corrente": "[{\"quantidade\":6347.0,\"sellout\":71259.4000000002},{\"quantidade\":6711.0,\"sellout\":75331.64}]"
-  },
-  "33901": {
-    "ano_passado": "[{\"quantidade\":16416.0,\"sellout\":176664.8799999997},{\"quantidade\":15214.0,\"sellout\":166898.6700000003}]",
-    "ano_corrente": "[{\"quantidade\":16416.0,\"sellout\":176664.8799999997},{\"quantidade\":15214.0,\"sellout\":166898.6700000003}]"
-  },
-  "671": {
-    "ano_passado": "[{\"quantidade\":2081.0,\"sellout\":24508.24}]",
-    "ano_corrente": "[{\"quantidade\":2081.0,\"sellout\":24508.24}]"
-  },
-  "27006": {
-    "ano_passado": "[{\"quantidade\":12694.0,\"sellout\":138102.4599999998},{\"quantidade\":11509.0,\"sellout\":178255.97}]",
-    "ano_corrente": "[{\"quantidade\":12694.0,\"sellout\":138102.4599999998},{\"quantidade\":11509.0,\"sellout\":178255.97}]"
+  "3972": {
+    "ano_passado": "[{\"quantidade\":7916.0,\"sellout\":104992.55},{\"quantidade\":8203.0,\"sellout\":103017.7300000002}]",
+    "ano_corrente": "[{\"quantidade\":7916.0,\"sellout\":104992.55},{\"quantidade\":8203.0,\"sellout\":103017.7300000002}]"
   },
   "5282": {
-    "ano_passado": "[{\"quantidade\":8196.0,\"sellout\":91714.06},{\"quantidade\":8898.0,\"sellout\":98691.4900000003}]",
-    "ano_corrente": "[{\"quantidade\":8196.0,\"sellout\":91714.06},{\"quantidade\":8898.0,\"sellout\":98691.4900000003}]"
+    "ano_passado": "[{\"quantidade\":8340.0,\"sellout\":93223.3299999999},{\"quantidade\":9176.0,\"sellout\":101839.0700000001}]",
+    "ano_corrente": "[{\"quantidade\":8340.0,\"sellout\":93223.3299999999},{\"quantidade\":9176.0,\"sellout\":101839.0700000001}]"
   },
-  "2968": {
-    "ano_passado": "[{\"quantidade\":8716.0,\"sellout\":111105.2199999999},{\"quantidade\":8753.0,\"sellout\":108628.8000000001}]",
-    "ano_corrente": "[{\"quantidade\":8716.0,\"sellout\":111105.2199999999},{\"quantidade\":8753.0,\"sellout\":108628.8000000001}]"
+  "8354": {
+    "ano_passado": "[{\"quantidade\":7738.0,\"sellout\":89744.0100000001},{\"quantidade\":6568.0,\"sellout\":295992.6500000001}]",
+    "ano_corrente": "[{\"quantidade\":7738.0,\"sellout\":89744.0100000001},{\"quantidade\":6568.0,\"sellout\":295992.6500000001}]"
   },
-  "5720": {
-    "ano_passado": "[{\"quantidade\":20073.0,\"sellout\":239122.0700000003},{\"quantidade\":20487.0,\"sellout\":248589.83}]",
-    "ano_corrente": "[{\"quantidade\":20073.0,\"sellout\":239122.0700000003},{\"quantidade\":20487.0,\"sellout\":248589.83}]"
+  "1627": {
+    "ano_passado": "[{\"quantidade\":7388.0,\"sellout\":76620.2399999999},{\"quantidade\":7564.0,\"sellout\":80370.54}]",
+    "ano_corrente": "[{\"quantidade\":7388.0,\"sellout\":76620.2399999999},{\"quantidade\":7564.0,\"sellout\":80370.54}]"
   },
-  "3824": {
-    "ano_passado": "[{\"quantidade\":5784.0,\"sellout\":60751.4800000001},{\"quantidade\":6648.0,\"sellout\":201014.8599999993}]",
-    "ano_corrente": "[{\"quantidade\":5784.0,\"sellout\":60751.4800000001},{\"quantidade\":6648.0,\"sellout\":201014.8599999993}]"
+  "27219": {
+    "ano_passado": "[{\"quantidade\":17228.0,\"sellout\":201489.8500000004},{\"quantidade\":18237.0,\"sellout\":210260.87}]",
+    "ano_corrente": "[{\"quantidade\":17228.0,\"sellout\":201489.8500000004},{\"quantidade\":18237.0,\"sellout\":210260.87}]"
   },
-  "23825": {
-    "ano_passado": "[{\"quantidade\":12847.0,\"sellout\":143339.0699999994},{\"quantidade\":12678.0,\"sellout\":150368.3699999994}]",
-    "ano_corrente": "[{\"quantidade\":12847.0,\"sellout\":143339.0699999994},{\"quantidade\":12678.0,\"sellout\":150368.3699999994}]"
+  "23647": {
+    "ano_passado": "[{\"quantidade\":5701.0,\"sellout\":65344.6100000001},{\"quantidade\":5833.0,\"sellout\":73952.8780221894}]",
+    "ano_corrente": "[{\"quantidade\":5701.0,\"sellout\":65344.6100000001},{\"quantidade\":5833.0,\"sellout\":73952.8780221894}]"
   },
-  "2038": {
-    "ano_passado": "[{\"quantidade\":17195.0,\"sellout\":205255.0200000002},{\"quantidade\":16472.0,\"sellout\":190994.3800000003}]",
-    "ano_corrente": "[{\"quantidade\":17195.0,\"sellout\":205255.0200000002},{\"quantidade\":16472.0,\"sellout\":190994.3800000003}]"
+  "26778": {
+    "ano_passado": "[{\"quantidade\":4025.0,\"sellout\":43827.81},{\"quantidade\":3598.0,\"sellout\":40109.2600000001}]",
+    "ano_corrente": "[{\"quantidade\":4025.0,\"sellout\":43827.81},{\"quantidade\":3598.0,\"sellout\":40109.2600000001}]"
   },
-  "15121": {
-    "ano_passado": "[{\"quantidade\":10611.0,\"sellout\":121162.66},{\"quantidade\":11343.0,\"sellout\":159767.83}]",
-    "ano_corrente": "[{\"quantidade\":10611.0,\"sellout\":121162.66},{\"quantidade\":11343.0,\"sellout\":159767.83}]"
+  "5150": {
+    "ano_passado": "[{\"quantidade\":9965.0,\"sellout\":133617.1399999997},{\"quantidade\":10569.0,\"sellout\":125250.1200000003}]",
+    "ano_corrente": "[{\"quantidade\":9965.0,\"sellout\":133617.1399999997},{\"quantidade\":10569.0,\"sellout\":125250.1200000003}]"
+  },
+  "9539": {
+    "ano_passado": "[{\"quantidade\":18212.0,\"sellout\":208950.8500000001},{\"quantidade\":16995.0,\"sellout\":198686.3000000003}]",
+    "ano_corrente": "[{\"quantidade\":18212.0,\"sellout\":208950.8500000001},{\"quantidade\":16995.0,\"sellout\":198686.3000000003}]"
+  },
+  "18066": {
+    "ano_passado": "[{\"quantidade\":7380.0,\"sellout\":83383.0800000002},{\"quantidade\":6520.0,\"sellout\":84512.82}]",
+    "ano_corrente": "[{\"quantidade\":7380.0,\"sellout\":83383.0800000002},{\"quantidade\":6520.0,\"sellout\":84512.82}]"
+  },
+  "4901": {
+    "ano_passado": "[{\"quantidade\":11078.0,\"sellout\":133802.2799999993},{\"quantidade\":12156.0,\"sellout\":147415.2000000004}]",
+    "ano_corrente": "[{\"quantidade\":11078.0,\"sellout\":133802.2799999993},{\"quantidade\":12156.0,\"sellout\":147415.2000000004}]"
+  },
+  "4251": {
+    "ano_passado": "[{\"quantidade\":21948.0,\"sellout\":268824.4400000011},{\"quantidade\":20183.0,\"sellout\":256254.5900000004}]",
+    "ano_corrente": "[{\"quantidade\":21948.0,\"sellout\":268824.4400000011},{\"quantidade\":20183.0,\"sellout\":256254.5900000004}]"
+  },
+  "21083": {
+    "ano_passado": "[{\"quantidade\":16415.0,\"sellout\":191470.9900000002},{\"quantidade\":16320.0,\"sellout\":190636.6400000001}]",
+    "ano_corrente": "[{\"quantidade\":16415.0,\"sellout\":191470.9900000002},{\"quantidade\":16320.0,\"sellout\":190636.6400000001}]"
+  },
+  "34150": {
+    "ano_passado": "[{\"quantidade\":14511.0,\"sellout\":170100.5299999999},{\"quantidade\":15745.0,\"sellout\":180899.1700000004}]",
+    "ano_corrente": "[{\"quantidade\":14511.0,\"sellout\":170100.5299999999},{\"quantidade\":15745.0,\"sellout\":180899.1700000004}]"
   },
   "16632": {
-    "ano_passado": "[{\"quantidade\":20395.0,\"sellout\":229213.3100000003},{\"quantidade\":21280.0,\"sellout\":227769.1399999999}]",
-    "ano_corrente": "[{\"quantidade\":20395.0,\"sellout\":229213.3100000003},{\"quantidade\":21280.0,\"sellout\":227769.1399999999}]"
+    "ano_passado": "[{\"quantidade\":22096.0,\"sellout\":236934.9300000001},{\"quantidade\":20621.0,\"sellout\":231701.7900000002}]",
+    "ano_corrente": "[{\"quantidade\":22096.0,\"sellout\":236934.9300000001},{\"quantidade\":20621.0,\"sellout\":231701.7900000002}]"
   },
-  "22616": {
-    "ano_passado": "[{\"quantidade\":16739.0,\"sellout\":181022.0200000006},{\"quantidade\":16426.0,\"sellout\":177977.3800000003}]",
-    "ano_corrente": "[{\"quantidade\":16739.0,\"sellout\":181022.0200000006},{\"quantidade\":16426.0,\"sellout\":177977.3800000003}]"
+  "2038": {
+    "ano_passado": "[{\"quantidade\":17756.0,\"sellout\":211963.8699999994},{\"quantidade\":16722.0,\"sellout\":193931.8799999997}]",
+    "ano_corrente": "[{\"quantidade\":17756.0,\"sellout\":211963.8699999994},{\"quantidade\":16722.0,\"sellout\":193931.8799999997}]"
+  },
+  "35858": {
+    "ano_passado": "[{\"quantidade\":6571.0,\"sellout\":73939.2200000001},{\"quantidade\":6917.0,\"sellout\":77741.69}]",
+    "ano_corrente": "[{\"quantidade\":6571.0,\"sellout\":73939.2200000001},{\"quantidade\":6917.0,\"sellout\":77741.69}]"
+  },
+  "25631": {
+    "ano_passado": "[{\"quantidade\":12375.0,\"sellout\":178799.4900000007},{\"quantidade\":13374.0,\"sellout\":158815.8800000005}]",
+    "ano_corrente": "[{\"quantidade\":12375.0,\"sellout\":178799.4900000007},{\"quantidade\":13374.0,\"sellout\":158815.8800000005}]"
+  },
+  "21393": {
+    "ano_passado": "[{\"quantidade\":16420.0,\"sellout\":183275.4200000001},{\"quantidade\":15833.0,\"sellout\":174766.0400000004}]",
+    "ano_corrente": "[{\"quantidade\":16420.0,\"sellout\":183275.4200000001},{\"quantidade\":15833.0,\"sellout\":174766.0400000004}]"
+  },
+  "13226": {
+    "ano_passado": "[{\"quantidade\":15273.0,\"sellout\":160612.6600000001},{\"quantidade\":17254.0,\"sellout\":183536.9900000009}]",
+    "ano_corrente": "[{\"quantidade\":15273.0,\"sellout\":160612.6600000001},{\"quantidade\":17254.0,\"sellout\":183536.9900000009}]"
+  },
+  "5720": {
+    "ano_passado": "[{\"quantidade\":20844.0,\"sellout\":252426.2599999999},{\"quantidade\":20929.0,\"sellout\":249064.1000000003}]",
+    "ano_corrente": "[{\"quantidade\":20844.0,\"sellout\":252426.2599999999},{\"quantidade\":20929.0,\"sellout\":249064.1000000003}]"
+  },
+  "22896": {
+    "ano_passado": "[{\"quantidade\":11372.0,\"sellout\":120899.0099999998},{\"quantidade\":13598.0,\"sellout\":138755.1099999998}]",
+    "ano_corrente": "[{\"quantidade\":11372.0,\"sellout\":120899.0099999998},{\"quantidade\":13598.0,\"sellout\":138755.1099999998}]"
+  },
+  "4952": {
+    "ano_passado": "[{\"quantidade\":7439.0,\"sellout\":75927.2099999997},{\"quantidade\":6774.0,\"sellout\":70551.4199999995}]",
+    "ano_corrente": "[{\"quantidade\":7439.0,\"sellout\":75927.2099999997},{\"quantidade\":6774.0,\"sellout\":70551.4199999995}]"
+  },
+  "5320": {
+    "ano_passado": "[{\"quantidade\":9429.0,\"sellout\":118456.7299999996},{\"quantidade\":10056.0,\"sellout\":113046.5999999996}]",
+    "ano_corrente": "[{\"quantidade\":9429.0,\"sellout\":118456.7299999996},{\"quantidade\":10056.0,\"sellout\":113046.5999999996}]"
+  },
+  "34916": {
+    "ano_passado": "[{\"quantidade\":5416.0,\"sellout\":55623.4089690746},{\"quantidade\":6251.0,\"sellout\":74133.9081076611}]",
+    "ano_corrente": "[{\"quantidade\":5416.0,\"sellout\":55623.4089690746},{\"quantidade\":6251.0,\"sellout\":74133.9081076611}]"
+  },
+  "12041": {
+    "ano_passado": "[{\"quantidade\":5601.0,\"sellout\":66292.9900000002},{\"quantidade\":5385.0,\"sellout\":73265.0900000001}]",
+    "ano_corrente": "[{\"quantidade\":5601.0,\"sellout\":66292.9900000002},{\"quantidade\":5385.0,\"sellout\":73265.0900000001}]"
+  },
+  "7714": {
+    "ano_passado": "[{\"quantidade\":7330.0,\"sellout\":80269.0900000002},{\"quantidade\":6827.0,\"sellout\":74673.7400000002}]",
+    "ano_corrente": "[{\"quantidade\":7330.0,\"sellout\":80269.0900000002},{\"quantidade\":6827.0,\"sellout\":74673.7400000002}]"
+  },
+  "24422": {
+    "ano_passado": "[{\"quantidade\":34044.0,\"sellout\":427775.4999999999},{\"quantidade\":35561.0,\"sellout\":390138.0100000011}]",
+    "ano_corrente": "[{\"quantidade\":34044.0,\"sellout\":427775.4999999999},{\"quantidade\":35561.0,\"sellout\":390138.0100000011}]"
+  },
+  "35491": {
+    "ano_passado": "[{\"quantidade\":1798.0,\"sellout\":19994.32},{\"quantidade\":1425.0,\"sellout\":36786.6800000001}]",
+    "ano_corrente": "[{\"quantidade\":1798.0,\"sellout\":19994.32},{\"quantidade\":1425.0,\"sellout\":36786.6800000001}]"
+  },
+  "7080": {
+    "ano_passado": "[{\"quantidade\":14201.0,\"sellout\":156738.7900000012},{\"quantidade\":13396.0,\"sellout\":151475.5100000004}]",
+    "ano_corrente": "[{\"quantidade\":14201.0,\"sellout\":156738.7900000012},{\"quantidade\":13396.0,\"sellout\":151475.5100000004}]"
+  },
+  "12130": {
+    "ano_passado": "[{\"quantidade\":4471.0,\"sellout\":64283.85},{\"quantidade\":4658.0,\"sellout\":56166.4599999999}]",
+    "ano_corrente": "[{\"quantidade\":4471.0,\"sellout\":64283.85},{\"quantidade\":4658.0,\"sellout\":56166.4599999999}]"
+  },
+  "27480": {
+    "ano_passado": "[{\"quantidade\":4758.0,\"sellout\":58909.41},{\"quantidade\":4684.0,\"sellout\":57438.23}]",
+    "ano_corrente": "[{\"quantidade\":4758.0,\"sellout\":58909.41},{\"quantidade\":4684.0,\"sellout\":57438.23}]"
+  },
+  "16497": {
+    "ano_passado": "[{\"quantidade\":6003.0,\"sellout\":270090.0000000005},{\"quantidade\":6963.0,\"sellout\":79074.4200000002}]",
+    "ano_corrente": "[{\"quantidade\":6003.0,\"sellout\":270090.0000000005},{\"quantidade\":6963.0,\"sellout\":79074.4200000002}]"
+  },
+  "2569": {
+    "ano_passado": "[{\"quantidade\":7879.0,\"sellout\":85255.5999999999},{\"quantidade\":7368.0,\"sellout\":76843.0899999999}]",
+    "ano_corrente": "[{\"quantidade\":7879.0,\"sellout\":85255.5999999999},{\"quantidade\":7368.0,\"sellout\":76843.0899999999}]"
+  },
+  "7170": {
+    "ano_passado": "[{\"quantidade\":5914.0,\"sellout\":66418.7999999998},{\"quantidade\":6126.0,\"sellout\":12094.79}]",
+    "ano_corrente": "[{\"quantidade\":5914.0,\"sellout\":66418.7999999998},{\"quantidade\":6126.0,\"sellout\":12094.79}]"
+  },
+  "1554": {
+    "ano_passado": "[{\"quantidade\":8116.0,\"sellout\":78929.3600000002},{\"quantidade\":15646.0,\"sellout\":129102.2500000011}]",
+    "ano_corrente": "[{\"quantidade\":8116.0,\"sellout\":78929.3600000002},{\"quantidade\":15646.0,\"sellout\":129102.2500000011}]"
+  },
+  "5878": {
+    "ano_passado": "[{\"quantidade\":28240.0,\"sellout\":345415.1988580924},{\"quantidade\":30315.0,\"sellout\":313494.7100000003}]",
+    "ano_corrente": "[{\"quantidade\":28240.0,\"sellout\":345415.1988580924},{\"quantidade\":30315.0,\"sellout\":313494.7100000003}]"
+  },
+  "9300": {
+    "ano_passado": "[{\"quantidade\":8633.0,\"sellout\":92205.5899999994},{\"quantidade\":8418.0,\"sellout\":94285.6099999992}]",
+    "ano_corrente": "[{\"quantidade\":8633.0,\"sellout\":92205.5899999994},{\"quantidade\":8418.0,\"sellout\":94285.6099999992}]"
+  },
+  "25747": {
+    "ano_passado": "[{\"quantidade\":12121.0,\"sellout\":142844.12},{\"quantidade\":11553.0,\"sellout\":137349.7299999998}]",
+    "ano_corrente": "[{\"quantidade\":12121.0,\"sellout\":142844.12},{\"quantidade\":11553.0,\"sellout\":137349.7299999998}]"
+  },
+  "4570": {
+    "ano_passado": "[{\"quantidade\":12285.0,\"sellout\":146431.3300000002},{\"quantidade\":13824.0,\"sellout\":147482.5800000005}]",
+    "ano_corrente": "[{\"quantidade\":12285.0,\"sellout\":146431.3300000002},{\"quantidade\":13824.0,\"sellout\":147482.5800000005}]"
+  },
+  "8800": {
+    "ano_passado": "[{\"quantidade\":6812.0,\"sellout\":95465.69},{\"quantidade\":6740.0,\"sellout\":72840.9199999999}]",
+    "ano_corrente": "[{\"quantidade\":6812.0,\"sellout\":95465.69},{\"quantidade\":6740.0,\"sellout\":72840.9199999999}]"
+  },
+  "34134": {
+    "ano_passado": "[{\"quantidade\":7125.0,\"sellout\":86708.2899999998},{\"quantidade\":5944.0,\"sellout\":70033.4499999996}]",
+    "ano_corrente": "[{\"quantidade\":7125.0,\"sellout\":86708.2899999998},{\"quantidade\":5944.0,\"sellout\":70033.4499999996}]"
+  },
+  "27006": {
+    "ano_passado": "[{\"quantidade\":13045.0,\"sellout\":141574.5300000001},{\"quantidade\":11933.0,\"sellout\":182893.7199999999}]",
+    "ano_corrente": "[{\"quantidade\":13045.0,\"sellout\":141574.5300000001},{\"quantidade\":11933.0,\"sellout\":182893.7199999999}]"
+  },
+  "1651": {
+    "ano_passado": "[{\"quantidade\":4546.0,\"sellout\":42881.4100000002},{\"quantidade\":1119.0,\"sellout\":7553.63}]",
+    "ano_corrente": "[{\"quantidade\":4546.0,\"sellout\":42881.4100000002},{\"quantidade\":1119.0,\"sellout\":7553.63}]"
+  },
+  "33901": {
+    "ano_passado": "[{\"quantidade\":15750.0,\"sellout\":172119.5300000003},{\"quantidade\":16935.0,\"sellout\":182284.4500000009}]",
+    "ano_corrente": "[{\"quantidade\":15750.0,\"sellout\":172119.5300000003},{\"quantidade\":16935.0,\"sellout\":182284.4500000009}]"
+  },
+  "13234": {
+    "ano_passado": "[{\"quantidade\":16104.0,\"sellout\":171032.0900000005},{\"quantidade\":16938.0,\"sellout\":182807.6900000001}]",
+    "ano_corrente": "[{\"quantidade\":16104.0,\"sellout\":171032.0900000005},{\"quantidade\":16938.0,\"sellout\":182807.6900000001}]"
+  },
+  "17132": {
+    "ano_passado": "[{\"quantidade\":16818.0,\"sellout\":179033.4600000003},{\"quantidade\":16193.0,\"sellout\":204509.5999999998}]",
+    "ano_corrente": "[{\"quantidade\":16818.0,\"sellout\":179033.4600000003},{\"quantidade\":16193.0,\"sellout\":204509.5999999998}]"
+  },
+  "26026": {
+    "ano_passado": "[{\"quantidade\":21162.0,\"sellout\":137463.7799999998},{\"quantidade\":10506.0,\"sellout\":122553.05}]",
+    "ano_corrente": "[{\"quantidade\":21162.0,\"sellout\":137463.7799999998},{\"quantidade\":10506.0,\"sellout\":122553.05}]"
+  },
+  "20630": {
+    "ano_passado": "[{\"quantidade\":10674.0,\"sellout\":130791.989999999},{\"quantidade\":9387.0,\"sellout\":103612.9699999993}]",
+    "ano_corrente": "[{\"quantidade\":10674.0,\"sellout\":130791.989999999},{\"quantidade\":9387.0,\"sellout\":103612.9699999993}]"
+  },
+  "23710": {
+    "ano_passado": "[{\"quantidade\":19611.0,\"sellout\":214715.0100000002},{\"quantidade\":21364.0,\"sellout\":248568.2495941449}]",
+    "ano_corrente": "[{\"quantidade\":19611.0,\"sellout\":214715.0100000002},{\"quantidade\":21364.0,\"sellout\":248568.2495941449}]"
+  },
+  "3824": {
+    "ano_passado": "[{\"quantidade\":5988.0,\"sellout\":62799.27},{\"quantidade\":6868.0,\"sellout\":204856.4499999993}]",
+    "ano_corrente": "[{\"quantidade\":5988.0,\"sellout\":62799.27},{\"quantidade\":6868.0,\"sellout\":204856.4499999993}]"
+  },
+  "24414": {
+    "ano_passado": "[{\"quantidade\":7157.0,\"sellout\":88308.6399999999},{\"quantidade\":8067.0,\"sellout\":98907.6500000001}]",
+    "ano_corrente": "[{\"quantidade\":7157.0,\"sellout\":88308.6399999999},{\"quantidade\":8067.0,\"sellout\":98907.6500000001}]"
+  },
+  "22152": {
+    "ano_passado": "[{\"quantidade\":6704.0,\"sellout\":80743.3599999999},{\"quantidade\":6698.0,\"sellout\":77546.15}]",
+    "ano_corrente": "[{\"quantidade\":6704.0,\"sellout\":80743.3599999999},{\"quantidade\":6698.0,\"sellout\":77546.15}]"
+  },
+  "11827": {
+    "ano_passado": "[{\"quantidade\":16860.0,\"sellout\":213916.0699999996},{\"quantidade\":17052.0,\"sellout\":199977.4000000009}]",
+    "ano_corrente": "[{\"quantidade\":16860.0,\"sellout\":213916.0699999996},{\"quantidade\":17052.0,\"sellout\":199977.4000000009}]"
+  },
+  "13650": {
+    "ano_passado": "[{\"quantidade\":4658.0,\"sellout\":44223.0},{\"quantidade\":4698.0,\"sellout\":89292.9300000004}]",
+    "ano_corrente": "[{\"quantidade\":4658.0,\"sellout\":44223.0},{\"quantidade\":4698.0,\"sellout\":89292.9300000004}]"
+  },
+  "26824": {
+    "ano_passado": "[{\"quantidade\":10579.0,\"sellout\":121534.6700000001},{\"quantidade\":10284.0,\"sellout\":127574.4800000002}]",
+    "ano_corrente": "[{\"quantidade\":10579.0,\"sellout\":121534.6700000001},{\"quantidade\":10284.0,\"sellout\":127574.4800000002}]"
+  },
+  "3948": {
+    "ano_passado": "[{\"quantidade\":11541.0,\"sellout\":129518.0900000001},{\"quantidade\":11173.0,\"sellout\":136842.9899999999}]",
+    "ano_corrente": "[{\"quantidade\":11541.0,\"sellout\":129518.0900000001},{\"quantidade\":11173.0,\"sellout\":136842.9899999999}]"
+  },
+  "16675": {
+    "ano_passado": "[{\"quantidade\":4967.0,\"sellout\":46620.02},{\"quantidade\":5764.0,\"sellout\":50319.3900000001}]",
+    "ano_corrente": "[{\"quantidade\":4967.0,\"sellout\":46620.02},{\"quantidade\":5764.0,\"sellout\":50319.3900000001}]"
+  },
+  "4243": {
+    "ano_passado": "[{\"quantidade\":14598.0,\"sellout\":173442.58},{\"quantidade\":12615.0,\"sellout\":147522.3999999999}]",
+    "ano_corrente": "[{\"quantidade\":14598.0,\"sellout\":173442.58},{\"quantidade\":12615.0,\"sellout\":147522.3999999999}]"
+  },
+  "26999": {
+    "ano_passado": "[{\"quantidade\":8445.0,\"sellout\":93687.0699999998},{\"quantidade\":9390.0,\"sellout\":104473.4500000001}]",
+    "ano_corrente": "[{\"quantidade\":8445.0,\"sellout\":93687.0699999998},{\"quantidade\":9390.0,\"sellout\":104473.4500000001}]"
+  },
+  "8990": {
+    "ano_passado": "[{\"quantidade\":10276.0,\"sellout\":107020.85},{\"quantidade\":12141.0,\"sellout\":129163.3799999993}]",
+    "ano_corrente": "[{\"quantidade\":10276.0,\"sellout\":107020.85},{\"quantidade\":12141.0,\"sellout\":129163.3799999993}]"
+  },
+  "26670": {
+    "ano_passado": "[{\"quantidade\":20170.0,\"sellout\":241905.4700000019},{\"quantidade\":21077.0,\"sellout\":310286.6100000024}]",
+    "ano_corrente": "[{\"quantidade\":20170.0,\"sellout\":241905.4700000019},{\"quantidade\":21077.0,\"sellout\":310286.6100000024}]"
+  },
+  "19615": {
+    "ano_passado": "[{\"quantidade\":10497.0,\"sellout\":115996.61},{\"quantidade\":10953.0,\"sellout\":115898.7200000003}]",
+    "ano_corrente": "[{\"quantidade\":10497.0,\"sellout\":115996.61},{\"quantidade\":10953.0,\"sellout\":115898.7200000003}]"
+  },
+  "1899": {
+    "ano_passado": "[{\"quantidade\":8516.0,\"sellout\":110121.2700000002}]",
+    "ano_corrente": "[{\"quantidade\":8516.0,\"sellout\":110121.2700000002}]"
+  },
+  "19348": {
+    "ano_passado": "[{\"quantidade\":10684.0,\"sellout\":169275.8100000009},{\"quantidade\":10163.0,\"sellout\":161772.0400000007}]",
+    "ano_corrente": "[{\"quantidade\":10684.0,\"sellout\":169275.8100000009},{\"quantidade\":10163.0,\"sellout\":161772.0400000007}]"
+  },
+  "3719": {
+    "ano_passado": "[{\"quantidade\":14468.0,\"sellout\":162887.4400000003},{\"quantidade\":15164.0,\"sellout\":172581.5499999999}]",
+    "ano_corrente": "[{\"quantidade\":14468.0,\"sellout\":162887.4400000003},{\"quantidade\":15164.0,\"sellout\":172581.5499999999}]"
+  },
+  "8109": {
+    "ano_passado": "[{\"quantidade\":39613.0,\"sellout\":450518.8099999966},{\"quantidade\":34022.0,\"sellout\":401236.6299999974}]",
+    "ano_corrente": "[{\"quantidade\":39613.0,\"sellout\":450518.8099999966},{\"quantidade\":34022.0,\"sellout\":401236.6299999974}]"
+  },
+  "27111": {
+    "ano_passado": "[{\"quantidade\":9457.0,\"sellout\":105812.4200000001},{\"quantidade\":9522.0,\"sellout\":167937.8900000002}]",
+    "ano_corrente": "[{\"quantidade\":9457.0,\"sellout\":105812.4200000001},{\"quantidade\":9522.0,\"sellout\":167937.8900000002}]"
+  },
+  "6335": {
+    "ano_passado": "[{\"quantidade\":13094.0,\"sellout\":148591.51},{\"quantidade\":10330.0,\"sellout\":98214.3744430498}]",
+    "ano_corrente": "[{\"quantidade\":13094.0,\"sellout\":148591.51},{\"quantidade\":10330.0,\"sellout\":98214.3744430498}]"
+  },
+  "23884": {
+    "ano_passado": "[{\"quantidade\":17508.0,\"sellout\":188852.2799999998},{\"quantidade\":17022.0,\"sellout\":185168.6800000005}]",
+    "ano_corrente": "[{\"quantidade\":17508.0,\"sellout\":188852.2799999998},{\"quantidade\":17022.0,\"sellout\":185168.6800000005}]"
+  },
+  "16624": {
+    "ano_passado": "[{\"quantidade\":19225.0,\"sellout\":263709.5200000009},{\"quantidade\":23499.0,\"sellout\":281675.0799999994}]",
+    "ano_corrente": "[{\"quantidade\":19225.0,\"sellout\":263709.5200000009},{\"quantidade\":23499.0,\"sellout\":281675.0799999994}]"
+  },
+  "24430": {
+    "ano_passado": "[{\"quantidade\":16579.0,\"sellout\":206619.0500000003},{\"quantidade\":19224.0,\"sellout\":228127.4900000001}]",
+    "ano_corrente": "[{\"quantidade\":16579.0,\"sellout\":206619.0500000003},{\"quantidade\":19224.0,\"sellout\":228127.4900000001}]"
+  },
+  "15121": {
+    "ano_passado": "[{\"quantidade\":11125.0,\"sellout\":127024.7300000001},{\"quantidade\":11544.0,\"sellout\":162098.4999999999}]",
+    "ano_corrente": "[{\"quantidade\":11125.0,\"sellout\":127024.7300000001},{\"quantidade\":11544.0,\"sellout\":162098.4999999999}]"
+  },
+  "5266": {
+    "ano_passado": "[{\"quantidade\":19688.0,\"sellout\":225109.1327304619}]",
+    "ano_corrente": "[{\"quantidade\":19688.0,\"sellout\":225109.1327304619}]"
+  },
+  "5100": {
+    "ano_passado": "[{\"quantidade\":9111.0,\"sellout\":101683.3499999996},{\"quantidade\":9310.0,\"sellout\":100014.8299999999}]",
+    "ano_corrente": "[{\"quantidade\":9111.0,\"sellout\":101683.3499999996},{\"quantidade\":9310.0,\"sellout\":100014.8299999999}]"
+  },
+  "24813": {
+    "ano_passado": "[{\"quantidade\":5195.0,\"sellout\":62130.05},{\"quantidade\":5065.0,\"sellout\":58065.42}]",
+    "ano_corrente": "[{\"quantidade\":5195.0,\"sellout\":62130.05},{\"quantidade\":5065.0,\"sellout\":58065.42}]"
+  },
+  "16829": {
+    "ano_passado": "[{\"quantidade\":11007.0,\"sellout\":130311.07},{\"quantidade\":10328.0,\"sellout\":120546.0199999995}]",
+    "ano_corrente": "[{\"quantidade\":11007.0,\"sellout\":130311.07},{\"quantidade\":10328.0,\"sellout\":120546.0199999995}]"
+  },
+  "25526": {
+    "ano_passado": "[{\"quantidade\":11841.0,\"sellout\":125325.5000000002},{\"quantidade\":11417.0,\"sellout\":124068.5600000002}]",
+    "ano_corrente": "[{\"quantidade\":11841.0,\"sellout\":125325.5000000002},{\"quantidade\":11417.0,\"sellout\":124068.5600000002}]"
+  },
+  "10456": {
+    "ano_passado": "[{\"quantidade\":12326.0,\"sellout\":137424.3499999996},{\"quantidade\":11175.0,\"sellout\":127892.2699999997}]",
+    "ano_corrente": "[{\"quantidade\":12326.0,\"sellout\":137424.3499999996},{\"quantidade\":11175.0,\"sellout\":127892.2699999997}]"
+  },
+  "5622": {
+    "ano_passado": "[{\"quantidade\":10046.0,\"sellout\":119812.6899999999},{\"quantidade\":9615.0,\"sellout\":159634.0199999999}]",
+    "ano_corrente": "[{\"quantidade\":10046.0,\"sellout\":119812.6899999999},{\"quantidade\":9615.0,\"sellout\":159634.0199999999}]"
+  },
+  "27170": {
+    "ano_passado": "[{\"quantidade\":7740.0,\"sellout\":92028.0399999998},{\"quantidade\":8537.0,\"sellout\":101361.27}]",
+    "ano_corrente": "[{\"quantidade\":7740.0,\"sellout\":92028.0399999998},{\"quantidade\":8537.0,\"sellout\":101361.27}]"
+  },
+  "15245": {
+    "ano_passado": "[{\"quantidade\":5125.0,\"sellout\":55734.57},{\"quantidade\":5278.0,\"sellout\":61176.56}]",
+    "ano_corrente": "[{\"quantidade\":5125.0,\"sellout\":55734.57},{\"quantidade\":5278.0,\"sellout\":61176.56}]"
+  },
+  "26662": {
+    "ano_passado": "[{\"quantidade\":8945.0,\"sellout\":119503.3500000005},{\"quantidade\":8825.0,\"sellout\":168829.440000001}]",
+    "ano_corrente": "[{\"quantidade\":8945.0,\"sellout\":119503.3500000005},{\"quantidade\":8825.0,\"sellout\":168829.440000001}]"
+  },
+  "1708": {
+    "ano_passado": "[{\"quantidade\":18419.0,\"sellout\":202533.3000000005},{\"quantidade\":18063.0,\"sellout\":197923.6300000007}]",
+    "ano_corrente": "[{\"quantidade\":18419.0,\"sellout\":202533.3000000005},{\"quantidade\":18063.0,\"sellout\":197923.6300000007}]"
+  },
+  "14702": {
+    "ano_passado": "[{\"quantidade\":5646.0,\"sellout\":1701050.0299999926}]",
+    "ano_corrente": "[{\"quantidade\":5646.0,\"sellout\":1701050.0299999926}]"
+  },
+  "18309": {
+    "ano_passado": "[{\"quantidade\":5210.0,\"sellout\":109971.23}]",
+    "ano_corrente": "[{\"quantidade\":5210.0,\"sellout\":109971.23}]"
+  },
+  "10162": {
+    "ano_passado": "[{\"quantidade\":12018.0,\"sellout\":125067.0000000004},{\"quantidade\":10825.0,\"sellout\":118979.1500000001}]",
+    "ano_corrente": "[{\"quantidade\":12018.0,\"sellout\":125067.0000000004},{\"quantidade\":10825.0,\"sellout\":118979.1500000001}]"
+  },
+  "8850": {
+    "ano_passado": "[{\"quantidade\":7965.0,\"sellout\":85791.42}]",
+    "ano_corrente": "[{\"quantidade\":7965.0,\"sellout\":85791.42}]"
+  },
+  "23825": {
+    "ano_passado": "[{\"quantidade\":13245.0,\"sellout\":148035.1599999996},{\"quantidade\":12993.0,\"sellout\":153791.0599999998}]",
+    "ano_corrente": "[{\"quantidade\":13245.0,\"sellout\":148035.1599999996},{\"quantidade\":12993.0,\"sellout\":153791.0599999998}]"
+  },
+  "34118": {
+    "ano_passado": "[{\"quantidade\":2856.0,\"sellout\":36094.31},{\"quantidade\":2547.0,\"sellout\":29617.8100000001}]",
+    "ano_corrente": "[{\"quantidade\":2856.0,\"sellout\":36094.31},{\"quantidade\":2547.0,\"sellout\":29617.8100000001}]"
+  },
+  "11967": {
+    "ano_passado": "[{\"quantidade\":6099.0,\"sellout\":74277.1199999998},{\"quantidade\":5643.0,\"sellout\":67983.7699999999}]",
+    "ano_corrente": "[{\"quantidade\":6099.0,\"sellout\":74277.1199999998},{\"quantidade\":5643.0,\"sellout\":67983.7699999999}]"
+  },
+  "34100": {
+    "ano_passado": "[{\"quantidade\":16799.0,\"sellout\":193545.4600000011},{\"quantidade\":16293.0,\"sellout\":183584.9100000007}]",
+    "ano_corrente": "[{\"quantidade\":16799.0,\"sellout\":193545.4600000011},{\"quantidade\":16293.0,\"sellout\":183584.9100000007}]"
+  },
+  "22470": {
+    "ano_passado": "[{\"quantidade\":13056.0,\"sellout\":141898.44},{\"quantidade\":13870.0,\"sellout\":148338.1799999996}]",
+    "ano_corrente": "[{\"quantidade\":13056.0,\"sellout\":141898.44},{\"quantidade\":13870.0,\"sellout\":148338.1799999996}]"
+  },
+  "14087": {
+    "ano_passado": "[{\"quantidade\":12674.0,\"sellout\":143161.5299999994},{\"quantidade\":13799.0,\"sellout\":158300.6300000004}]",
+    "ano_corrente": "[{\"quantidade\":12674.0,\"sellout\":143161.5299999994},{\"quantidade\":13799.0,\"sellout\":158300.6300000004}]"
+  },
+  "1759": {
+    "ano_passado": "[{\"quantidade\":9626.0,\"sellout\":104021.1699999996},{\"quantidade\":11159.0,\"sellout\":120118.3599999998}]",
+    "ano_corrente": "[{\"quantidade\":9626.0,\"sellout\":104021.1699999996},{\"quantidade\":11159.0,\"sellout\":120118.3599999998}]"
+  },
+  "27073": {
+    "ano_passado": "[{\"quantidade\":18463.0,\"sellout\":214781.3700000003},{\"quantidade\":18230.0,\"sellout\":206726.4000000005}]",
+    "ano_corrente": "[{\"quantidade\":18463.0,\"sellout\":214781.3700000003},{\"quantidade\":18230.0,\"sellout\":206726.4000000005}]"
+  },
+  "671": {
+    "ano_passado": "[{\"quantidade\":2360.0,\"sellout\":27789.2}]",
+    "ano_corrente": "[{\"quantidade\":2360.0,\"sellout\":27789.2}]"
+  },
+  "21296": {
+    "ano_passado": "[{\"quantidade\":3584.0,\"sellout\":114905.52}]",
+    "ano_corrente": "[{\"quantidade\":3584.0,\"sellout\":114905.52}]"
+  },
+  "11525": {
+    "ano_passado": "[{\"quantidade\":23033.0,\"sellout\":263372.5500000009},{\"quantidade\":24958.0,\"sellout\":273839.3499999997}]",
+    "ano_corrente": "[{\"quantidade\":23033.0,\"sellout\":263372.5500000009},{\"quantidade\":24958.0,\"sellout\":273839.3499999997}]"
+  },
+  "7943": {
+    "ano_passado": "[{\"quantidade\":12472.0,\"sellout\":135723.0199999995},{\"quantidade\":14363.0,\"sellout\":145273.2799999997}]",
+    "ano_corrente": "[{\"quantidade\":12472.0,\"sellout\":135723.0199999995},{\"quantidade\":14363.0,\"sellout\":145273.2799999997}]"
+  },
+  "5347": {
+    "ano_passado": "[{\"quantidade\":15293.0,\"sellout\":160446.6199999996},{\"quantidade\":14785.0,\"sellout\":158632.9100000002}]",
+    "ano_corrente": "[{\"quantidade\":15293.0,\"sellout\":160446.6199999996},{\"quantidade\":14785.0,\"sellout\":158632.9100000002}]"
+  },
+  "19143": {
+    "ano_passado": "[{\"quantidade\":15395.0,\"sellout\":162960.58},{\"quantidade\":15883.0,\"sellout\":165848.8200000002}]",
+    "ano_corrente": "[{\"quantidade\":15395.0,\"sellout\":162960.58},{\"quantidade\":15883.0,\"sellout\":165848.8200000002}]"
+  },
+  "22322": {
+    "ano_passado": "[{\"quantidade\":7530.0,\"sellout\":76798.9999999997},{\"quantidade\":7663.0,\"sellout\":92434.5199999998}]",
+    "ano_corrente": "[{\"quantidade\":7530.0,\"sellout\":76798.9999999997},{\"quantidade\":7663.0,\"sellout\":92434.5199999998}]"
+  },
+  "24104": {
+    "ano_passado": "[{\"quantidade\":10201.0,\"sellout\":118954.6300000001},{\"quantidade\":12146.0,\"sellout\":146273.3799999999}]",
+    "ano_corrente": "[{\"quantidade\":10201.0,\"sellout\":118954.6300000001},{\"quantidade\":12146.0,\"sellout\":146273.3799999999}]"
+  },
+  "2968": {
+    "ano_passado": "[{\"quantidade\":9096.0,\"sellout\":112117.0},{\"quantidade\":8970.0,\"sellout\":114259.9999999998}]",
+    "ano_corrente": "[{\"quantidade\":9096.0,\"sellout\":112117.0},{\"quantidade\":8970.0,\"sellout\":114259.9999999998}]"
+  },
+  "34860": {
+    "ano_passado": "[{\"quantidade\":1690.0,\"sellout\":20230.5256187833}]",
+    "ano_corrente": "[{\"quantidade\":1690.0,\"sellout\":20230.5256187833}]"
+  },
+  "10413": {
+    "ano_passado": "[{\"quantidade\":6460.0,\"sellout\":75504.4799999998},{\"quantidade\":6711.0,\"sellout\":81177.1199999998}]",
+    "ano_corrente": "[{\"quantidade\":6460.0,\"sellout\":75504.4799999998},{\"quantidade\":6711.0,\"sellout\":81177.1199999998}]"
+  },
+  "35254": {
+    "ano_passado": "[{\"quantidade\":10888.0,\"sellout\":126420.46},{\"quantidade\":10222.0,\"sellout\":119443.89}]",
+    "ano_corrente": "[{\"quantidade\":10888.0,\"sellout\":126420.46},{\"quantidade\":10222.0,\"sellout\":119443.89}]"
+  },
+  "24821": {
+    "ano_passado": "[{\"quantidade\":8780.0,\"sellout\":121077.6000000001},{\"quantidade\":8813.0,\"sellout\":107460.9000000001}]",
+    "ano_corrente": "[{\"quantidade\":8780.0,\"sellout\":121077.6000000001},{\"quantidade\":8813.0,\"sellout\":107460.9000000001}]"
+  },
+  "22675": {
+    "ano_passado": "[{\"quantidade\":6399.0,\"sellout\":78869.9800000001},{\"quantidade\":6434.0,\"sellout\":81342.77}]",
+    "ano_corrente": "[{\"quantidade\":6399.0,\"sellout\":78869.9800000001},{\"quantidade\":6434.0,\"sellout\":81342.77}]"
+  },
+  "35785": {
+    "ano_passado": "[{\"quantidade\":3985.0,\"sellout\":49270.1500000001},{\"quantidade\":6783.0,\"sellout\":80850.5499999999}]",
+    "ano_corrente": "[{\"quantidade\":3985.0,\"sellout\":49270.1500000001},{\"quantidade\":6783.0,\"sellout\":80850.5499999999}]"
+  },
+  "7846": {
+    "ano_passado": "[{\"quantidade\":15622.0,\"sellout\":420135.240000001}]",
+    "ano_corrente": "[{\"quantidade\":15622.0,\"sellout\":420135.240000001}]"
+  },
+  "23329": {
+    "ano_passado": "[{\"quantidade\":4430.0,\"sellout\":1319177.4999999981}]",
+    "ano_corrente": "[{\"quantidade\":4430.0,\"sellout\":1319177.4999999981}]"
+  },
+  "2062": {
+    "ano_passado": "[{\"quantidade\":17618.0,\"sellout\":184332.8900000005}]",
+    "ano_corrente": "[{\"quantidade\":17618.0,\"sellout\":184332.8900000005}]"
   }
 }
