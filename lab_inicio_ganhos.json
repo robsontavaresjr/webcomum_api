@@ -1,122 +1,122 @@
 {
-  "Teva": {
-    "ano_passado": "[{\"quantidade\":779468.0,\"sellout\":5389083.8106571985,\"cobertura\":1.0},{\"quantidade\":848569.0,\"sellout\":5956534.9640283333,\"cobertura\":1.0}]",
-    "ano_corrente": "[{\"quantidade\":779468.0,\"sellout\":5389083.8106571985,\"cobertura\":1.0},{\"quantidade\":848569.0,\"sellout\":5956534.9640283333,\"cobertura\":1.0}]"
-  },
   "Menarini": {
-    "ano_passado": "[{\"quantidade\":102192.0,\"sellout\":1687435.0994897468,\"cobertura\":1.0},{\"quantidade\":95030.0,\"sellout\":1288415.7409626795,\"cobertura\":1.0}]",
-    "ano_corrente": "[{\"quantidade\":102192.0,\"sellout\":1687435.0994897468,\"cobertura\":1.0},{\"quantidade\":95030.0,\"sellout\":1288415.7409626795,\"cobertura\":1.0}]"
-  },
-  "Grupo Italfarmaco": {
-    "ano_passado": "[{\"quantidade\":78690.0,\"sellout\":916290.0245455372,\"cobertura\":1.0},{\"quantidade\":75339.0,\"sellout\":1331397.7406677809,\"cobertura\":1.0}]",
-    "ano_corrente": "[{\"quantidade\":78690.0,\"sellout\":916290.0245455372,\"cobertura\":1.0},{\"quantidade\":75339.0,\"sellout\":1331397.7406677809,\"cobertura\":1.0}]"
-  },
-  "Bial": {
-    "ano_passado": "[{\"quantidade\":142615.0,\"sellout\":2709366.2357707643,\"cobertura\":1.0},{\"quantidade\":147315.0,\"sellout\":3469899.8899565442,\"cobertura\":1.0}]",
-    "ano_corrente": "[{\"quantidade\":142615.0,\"sellout\":2709366.2357707643,\"cobertura\":1.0},{\"quantidade\":147315.0,\"sellout\":3469899.8899565442,\"cobertura\":1.0}]"
-  },
-  "Pierre Fabre Dermo-Cosmétique": {
-    "ano_passado": "[{\"quantidade\":121920.0,\"sellout\":2894748.9454486854,\"cobertura\":1.0},{\"quantidade\":137266.0,\"sellout\":1585440.6439262459,\"cobertura\":1.0}]",
-    "ano_corrente": "[{\"quantidade\":121920.0,\"sellout\":2894748.9454486854,\"cobertura\":1.0},{\"quantidade\":137266.0,\"sellout\":1585440.6439262459,\"cobertura\":1.0}]"
-  },
-  "Cuidafarma Lda": {
-    "ano_passado": "[{\"quantidade\":12791.0,\"sellout\":89551.2366666659,\"cobertura\":0.9519230769},{\"quantidade\":5833.0,\"sellout\":38378.2300000001,\"cobertura\":0.9519230769}]",
-    "ano_corrente": "[{\"quantidade\":12791.0,\"sellout\":89551.2366666659,\"cobertura\":0.9519230769},{\"quantidade\":5833.0,\"sellout\":38378.2300000001,\"cobertura\":0.9519230769}]"
-  },
-  "MSD": {
-    "ano_passado": "[{\"quantidade\":210336.0,\"sellout\":3862232.8957648785,\"cobertura\":1.0},{\"quantidade\":208590.0,\"sellout\":3954085.1755850744,\"cobertura\":1.0}]",
-    "ano_corrente": "[{\"quantidade\":210336.0,\"sellout\":3862232.8957648785,\"cobertura\":1.0},{\"quantidade\":208590.0,\"sellout\":3954085.1755850744,\"cobertura\":1.0}]"
-  },
-  "Vemedia Consumer Health": {
-    "ano_passado": "[{\"quantidade\":17164.0,\"sellout\":431163.8077289176,\"cobertura\":1.0},{\"quantidade\":15348.0,\"sellout\":207370.8927312644,\"cobertura\":1.0}]",
-    "ano_corrente": "[{\"quantidade\":17164.0,\"sellout\":431163.8077289176,\"cobertura\":1.0},{\"quantidade\":15348.0,\"sellout\":207370.8927312644,\"cobertura\":1.0}]"
-  },
-  "Pierre Fabre Médicament": {
-    "ano_passado": "[{\"quantidade\":24881.0,\"sellout\":451065.5592343289,\"cobertura\":1.0},{\"quantidade\":23042.0,\"sellout\":397124.5511828591,\"cobertura\":1.0}]",
-    "ano_corrente": "[{\"quantidade\":24881.0,\"sellout\":451065.5592343289,\"cobertura\":1.0},{\"quantidade\":23042.0,\"sellout\":397124.5511828591,\"cobertura\":1.0}]"
-  },
-  "Ferraz Lynce": {
-    "ano_passado": "[{\"quantidade\":23774.0,\"sellout\":493060.8526814155,\"cobertura\":1.0},{\"quantidade\":22544.0,\"sellout\":199737.1375062791,\"cobertura\":1.0}]",
-    "ano_corrente": "[{\"quantidade\":23774.0,\"sellout\":493060.8526814155,\"cobertura\":1.0},{\"quantidade\":22544.0,\"sellout\":199737.1375062791,\"cobertura\":1.0}]"
-  },
-  "Perrigo": {
-    "ano_passado": "[{\"quantidade\":103570.0,\"sellout\":1187475.3019227784,\"cobertura\":1.0},{\"quantidade\":104855.0,\"sellout\":971059.1642598102,\"cobertura\":1.0}]",
-    "ano_corrente": "[{\"quantidade\":103570.0,\"sellout\":1187475.3019227784,\"cobertura\":1.0},{\"quantidade\":104855.0,\"sellout\":971059.1642598102,\"cobertura\":1.0}]"
+    "ano_passado": "[{\"quantidade\":95030.0,\"sellout\":1288415.7409626774,\"cobertura\":1.0},{\"quantidade\":102739.0,\"sellout\":1695451.2695970477,\"cobertura\":1.0}]",
+    "ano_corrente": "[{\"quantidade\":95030.0,\"sellout\":1288415.7409626774,\"cobertura\":1.0},{\"quantidade\":102739.0,\"sellout\":1695451.2695970477,\"cobertura\":1.0}]"
   },
   "GlaxoSmithKline": {
-    "ano_passado": "[{\"quantidade\":150073.0,\"sellout\":2705317.3219778407,\"cobertura\":1.0},{\"quantidade\":162942.0,\"sellout\":2796110.1258326573,\"cobertura\":1.0}]",
-    "ano_corrente": "[{\"quantidade\":150073.0,\"sellout\":2705317.3219778407,\"cobertura\":1.0},{\"quantidade\":162942.0,\"sellout\":2796110.1258326573,\"cobertura\":1.0}]"
-  },
-  "Jaba Recordati": {
-    "ano_passado": "[{\"quantidade\":144123.0,\"sellout\":1564124.7557602096,\"cobertura\":1.0},{\"quantidade\":151893.0,\"sellout\":2173676.6261357302,\"cobertura\":1.0}]",
-    "ano_corrente": "[{\"quantidade\":144123.0,\"sellout\":1564124.7557602096,\"cobertura\":1.0},{\"quantidade\":151893.0,\"sellout\":2173676.6261357302,\"cobertura\":1.0}]"
-  },
-  "Korangi": {
-    "ano_passado": "[{\"quantidade\":15696.0,\"sellout\":116941.7772640838,\"cobertura\":1.0},{\"quantidade\":14831.0,\"sellout\":452510.6659389657,\"cobertura\":1.0}]",
-    "ano_corrente": "[{\"quantidade\":15696.0,\"sellout\":116941.7772640838,\"cobertura\":1.0},{\"quantidade\":14831.0,\"sellout\":452510.6659389657,\"cobertura\":1.0}]"
-  },
-  "Biowell Europe Lda": {
-    "ano_passado": "[{\"quantidade\":2925.0,\"sellout\":45718.477,\"cobertura\":0.9357798165},{\"quantidade\":2305.0,\"sellout\":34692.8508927482,\"cobertura\":0.9357798165}]",
-    "ano_corrente": "[{\"quantidade\":2925.0,\"sellout\":45718.477,\"cobertura\":0.9357798165},{\"quantidade\":2305.0,\"sellout\":34692.8508927482,\"cobertura\":0.9357798165}]"
-  },
-  "Pfizer Consumer Healthcare": {
-    "ano_passado": "[{\"quantidade\":15711.0,\"sellout\":419213.4307355853,\"cobertura\":1.0},{\"quantidade\":12977.0,\"sellout\":241178.2312252614,\"cobertura\":1.0}]",
-    "ano_corrente": "[{\"quantidade\":15711.0,\"sellout\":419213.4307355853,\"cobertura\":1.0},{\"quantidade\":12977.0,\"sellout\":241178.2312252614,\"cobertura\":1.0}]"
-  },
-  "Generis": {
-    "ano_passado": "[{\"quantidade\":623329.0,\"sellout\":3900699.9724177155,\"cobertura\":1.0},{\"quantidade\":682222.0,\"sellout\":4553886.980945386,\"cobertura\":1.0}]",
-    "ano_corrente": "[{\"quantidade\":623329.0,\"sellout\":3900699.9724177155,\"cobertura\":1.0},{\"quantidade\":682222.0,\"sellout\":4553886.980945386,\"cobertura\":1.0}]"
-  },
-  "Reckitt Benckiser": {
-    "ano_passado": "[{\"quantidade\":64387.0,\"sellout\":1582396.9030711546,\"cobertura\":1.0},{\"quantidade\":68047.0,\"sellout\":618125.488067516,\"cobertura\":1.0}]",
-    "ano_corrente": "[{\"quantidade\":64387.0,\"sellout\":1582396.9030711546,\"cobertura\":1.0},{\"quantidade\":68047.0,\"sellout\":618125.488067516,\"cobertura\":1.0}]"
-  },
-  "Alfasigma Portugal": {
-    "ano_passado": "[{\"quantidade\":45828.0,\"sellout\":539291.5965513504,\"cobertura\":1.0},{\"quantidade\":46487.0,\"sellout\":555342.8648672444,\"cobertura\":1.0}]",
-    "ano_corrente": "[{\"quantidade\":45828.0,\"sellout\":539291.5965513504,\"cobertura\":1.0},{\"quantidade\":46487.0,\"sellout\":555342.8648672444,\"cobertura\":1.0}]"
-  },
-  "GSK Consumer Healthcare": {
-    "ano_passado": "[{\"quantidade\":189823.0,\"sellout\":1961151.844826095,\"cobertura\":1.0},{\"quantidade\":182866.0,\"sellout\":3722286.6883349926,\"cobertura\":1.0}]",
-    "ano_corrente": "[{\"quantidade\":189823.0,\"sellout\":1961151.844826095,\"cobertura\":1.0},{\"quantidade\":182866.0,\"sellout\":3722286.6883349926,\"cobertura\":1.0}]"
-  },
-  "Phytoderm": {
-    "ano_passado": "[{\"quantidade\":19906.0,\"sellout\":242623.839972475,\"cobertura\":1.0},{\"quantidade\":19042.0,\"sellout\":481916.7096904986,\"cobertura\":1.0}]",
-    "ano_corrente": "[{\"quantidade\":19906.0,\"sellout\":242623.839972475,\"cobertura\":1.0},{\"quantidade\":19042.0,\"sellout\":481916.7096904986,\"cobertura\":1.0}]"
-  },
-  "Biocodex": {
-    "ano_passado": "[{\"quantidade\":10620.0,\"sellout\":139178.4405982027,\"cobertura\":1.0},{\"quantidade\":13727.0,\"sellout\":150714.6689192146,\"cobertura\":1.0}]",
-    "ano_corrente": "[{\"quantidade\":10620.0,\"sellout\":139178.4405982027,\"cobertura\":1.0},{\"quantidade\":13727.0,\"sellout\":150714.6689192146,\"cobertura\":1.0}]"
-  },
-  "Pfizer": {
-    "ano_passado": "[{\"quantidade\":167958.0,\"sellout\":1671562.1640096656,\"cobertura\":1.0},{\"quantidade\":172187.0,\"sellout\":1921033.2906004007,\"cobertura\":1.0}]",
-    "ano_corrente": "[{\"quantidade\":167958.0,\"sellout\":1671562.1640096656,\"cobertura\":1.0},{\"quantidade\":172187.0,\"sellout\":1921033.2906004007,\"cobertura\":1.0}]"
-  },
-  "Mylan": {
-    "ano_passado": "[{\"quantidade\":639525.0,\"sellout\":6094147.3004227364,\"cobertura\":1.0},{\"quantidade\":601575.0,\"sellout\":4235370.1573830051,\"cobertura\":1.0}]",
-    "ano_corrente": "[{\"quantidade\":639525.0,\"sellout\":6094147.3004227364,\"cobertura\":1.0},{\"quantidade\":601575.0,\"sellout\":4235370.1573830051,\"cobertura\":1.0}]"
-  },
-  "Medinfar": {
-    "ano_passado": "[{\"quantidade\":85436.0,\"sellout\":2184568.3602982555,\"cobertura\":1.0},{\"quantidade\":87314.0,\"sellout\":1283606.1915222597,\"cobertura\":1.0}]",
-    "ano_corrente": "[{\"quantidade\":85436.0,\"sellout\":2184568.3602982555,\"cobertura\":1.0},{\"quantidade\":87314.0,\"sellout\":1283606.1915222597,\"cobertura\":1.0}]"
-  },
-  "Procter & Gamble Health": {
-    "ano_passado": "[{\"quantidade\":94531.0,\"sellout\":1687929.1125358262,\"cobertura\":1.0},{\"quantidade\":93031.0,\"sellout\":769976.5802642128,\"cobertura\":1.0}]",
-    "ano_corrente": "[{\"quantidade\":94531.0,\"sellout\":1687929.1125358262,\"cobertura\":1.0},{\"quantidade\":93031.0,\"sellout\":769976.5802642128,\"cobertura\":1.0}]"
-  },
-  "Laboratórios Atral": {
-    "ano_passado": "[{\"quantidade\":104448.0,\"sellout\":895923.9867048571,\"cobertura\":1.0},{\"quantidade\":98014.0,\"sellout\":941515.044555466,\"cobertura\":1.0}]",
-    "ano_corrente": "[{\"quantidade\":104448.0,\"sellout\":895923.9867048571,\"cobertura\":1.0},{\"quantidade\":98014.0,\"sellout\":941515.044555466,\"cobertura\":1.0}]"
-  },
-  "Krka": {
-    "ano_passado": "[{\"quantidade\":90971.0,\"sellout\":857025.3847084639,\"cobertura\":1.0},{\"quantidade\":84945.0,\"sellout\":917865.7878415794,\"cobertura\":1.0}]",
-    "ano_corrente": "[{\"quantidade\":90971.0,\"sellout\":857025.3847084639,\"cobertura\":1.0},{\"quantidade\":84945.0,\"sellout\":917865.7878415794,\"cobertura\":1.0}]"
+    "ano_passado": "[{\"quantidade\":162942.0,\"sellout\":2796110.1258326536,\"cobertura\":1.0},{\"quantidade\":150867.0,\"sellout\":2718235.9400609736,\"cobertura\":1.0}]",
+    "ano_corrente": "[{\"quantidade\":162942.0,\"sellout\":2796110.1258326536,\"cobertura\":1.0},{\"quantidade\":150867.0,\"sellout\":2718235.9400609736,\"cobertura\":1.0}]"
   },
   "Sandoz": {
-    "ano_passado": "[{\"quantidade\":112874.0,\"sellout\":926185.5801305842,\"cobertura\":1.0},{\"quantidade\":109082.0,\"sellout\":930203.8835371473,\"cobertura\":1.0}]",
-    "ano_corrente": "[{\"quantidade\":112874.0,\"sellout\":926185.5801305842,\"cobertura\":1.0},{\"quantidade\":109082.0,\"sellout\":930203.8835371473,\"cobertura\":1.0}]"
+    "ano_passado": "[{\"quantidade\":109082.0,\"sellout\":930203.883537136,\"cobertura\":1.0},{\"quantidade\":113591.0,\"sellout\":931900.6549759618,\"cobertura\":1.0}]",
+    "ano_corrente": "[{\"quantidade\":109082.0,\"sellout\":930203.883537136,\"cobertura\":1.0},{\"quantidade\":113591.0,\"sellout\":931900.6549759618,\"cobertura\":1.0}]"
+  },
+  "Cuidafarma Lda": {
+    "ano_passado": "[{\"quantidade\":12877.0,\"sellout\":90162.8466666659,\"cobertura\":0.9433962264},{\"quantidade\":5833.0,\"sellout\":38378.2300000001,\"cobertura\":0.9433962264}]",
+    "ano_corrente": "[{\"quantidade\":12877.0,\"sellout\":90162.8466666659,\"cobertura\":0.9433962264},{\"quantidade\":5833.0,\"sellout\":38378.2300000001,\"cobertura\":0.9433962264}]"
+  },
+  "Jaba Recordati": {
+    "ano_passado": "[{\"quantidade\":152682.0,\"sellout\":2182355.8373553785,\"cobertura\":1.0},{\"quantidade\":144123.0,\"sellout\":1564124.7557602024,\"cobertura\":1.0}]",
+    "ano_corrente": "[{\"quantidade\":152682.0,\"sellout\":2182355.8373553785,\"cobertura\":1.0},{\"quantidade\":144123.0,\"sellout\":1564124.7557602024,\"cobertura\":1.0}]"
+  },
+  "Alfasigma Portugal": {
+    "ano_passado": "[{\"quantidade\":45828.0,\"sellout\":539291.5965513525,\"cobertura\":1.0},{\"quantidade\":46692.0,\"sellout\":557584.762018726,\"cobertura\":1.0}]",
+    "ano_corrente": "[{\"quantidade\":45828.0,\"sellout\":539291.5965513525,\"cobertura\":1.0},{\"quantidade\":46692.0,\"sellout\":557584.762018726,\"cobertura\":1.0}]"
+  },
+  "Korangi": {
+    "ano_passado": "[{\"quantidade\":14929.0,\"sellout\":453217.8999759085,\"cobertura\":1.0},{\"quantidade\":15696.0,\"sellout\":116941.7772640837,\"cobertura\":1.0}]",
+    "ano_corrente": "[{\"quantidade\":14929.0,\"sellout\":453217.8999759085,\"cobertura\":1.0},{\"quantidade\":15696.0,\"sellout\":116941.7772640837,\"cobertura\":1.0}]"
+  },
+  "Perrigo": {
+    "ano_passado": "[{\"quantidade\":104204.0,\"sellout\":1193305.3242918872,\"cobertura\":1.0},{\"quantidade\":104855.0,\"sellout\":971059.1642598055,\"cobertura\":1.0}]",
+    "ano_corrente": "[{\"quantidade\":104204.0,\"sellout\":1193305.3242918872,\"cobertura\":1.0},{\"quantidade\":104855.0,\"sellout\":971059.1642598055,\"cobertura\":1.0}]"
+  },
+  "Ferraz Lynce": {
+    "ano_passado": "[{\"quantidade\":23868.0,\"sellout\":493883.0751048757,\"cobertura\":1.0},{\"quantidade\":22544.0,\"sellout\":199737.1375062791,\"cobertura\":1.0}]",
+    "ano_corrente": "[{\"quantidade\":23868.0,\"sellout\":493883.0751048757,\"cobertura\":1.0},{\"quantidade\":22544.0,\"sellout\":199737.1375062791,\"cobertura\":1.0}]"
+  },
+  "Procter & Gamble Health": {
+    "ano_passado": "[{\"quantidade\":95162.0,\"sellout\":1693345.9943476131,\"cobertura\":1.0},{\"quantidade\":93031.0,\"sellout\":769976.5802642093,\"cobertura\":1.0}]",
+    "ano_corrente": "[{\"quantidade\":95162.0,\"sellout\":1693345.9943476131,\"cobertura\":1.0},{\"quantidade\":93031.0,\"sellout\":769976.5802642093,\"cobertura\":1.0}]"
+  },
+  "Vemedia Consumer Health": {
+    "ano_passado": "[{\"quantidade\":17244.0,\"sellout\":432249.4879273475,\"cobertura\":1.0},{\"quantidade\":15348.0,\"sellout\":207370.8927312635,\"cobertura\":1.0}]",
+    "ano_corrente": "[{\"quantidade\":17244.0,\"sellout\":432249.4879273475,\"cobertura\":1.0},{\"quantidade\":15348.0,\"sellout\":207370.8927312635,\"cobertura\":1.0}]"
+  },
+  "Bial": {
+    "ano_passado": "[{\"quantidade\":148128.0,\"sellout\":3485870.8307487182,\"cobertura\":1.0},{\"quantidade\":142615.0,\"sellout\":2709366.2357707922,\"cobertura\":1.0}]",
+    "ano_corrente": "[{\"quantidade\":148128.0,\"sellout\":3485870.8307487182,\"cobertura\":1.0},{\"quantidade\":142615.0,\"sellout\":2709366.2357707922,\"cobertura\":1.0}]"
+  },
+  "Biowell Europe Lda": {
+    "ano_passado": "[{\"quantidade\":2943.0,\"sellout\":46007.717,\"cobertura\":0.9454545455},{\"quantidade\":2305.0,\"sellout\":34692.8508927482,\"cobertura\":0.9454545455}]",
+    "ano_corrente": "[{\"quantidade\":2943.0,\"sellout\":46007.717,\"cobertura\":0.9454545455},{\"quantidade\":2305.0,\"sellout\":34692.8508927482,\"cobertura\":0.9454545455}]"
+  },
+  "Grupo Italfarmaco": {
+    "ano_passado": "[{\"quantidade\":75759.0,\"sellout\":1336119.6717842526,\"cobertura\":1.0},{\"quantidade\":78690.0,\"sellout\":916290.0245455437,\"cobertura\":1.0}]",
+    "ano_corrente": "[{\"quantidade\":75759.0,\"sellout\":1336119.6717842526,\"cobertura\":1.0},{\"quantidade\":78690.0,\"sellout\":916290.0245455437,\"cobertura\":1.0}]"
+  },
+  "GSK Consumer Healthcare": {
+    "ano_passado": "[{\"quantidade\":189823.0,\"sellout\":1961151.8448260946,\"cobertura\":1.0},{\"quantidade\":183738.0,\"sellout\":3731731.8395732478,\"cobertura\":1.0}]",
+    "ano_corrente": "[{\"quantidade\":189823.0,\"sellout\":1961151.8448260946,\"cobertura\":1.0},{\"quantidade\":183738.0,\"sellout\":3731731.8395732478,\"cobertura\":1.0}]"
+  },
+  "Teva": {
+    "ano_passado": "[{\"quantidade\":779468.0,\"sellout\":5389083.8106571427,\"cobertura\":1.0},{\"quantidade\":852766.0,\"sellout\":5988276.1766025415,\"cobertura\":1.0}]",
+    "ano_corrente": "[{\"quantidade\":779468.0,\"sellout\":5389083.8106571427,\"cobertura\":1.0},{\"quantidade\":852766.0,\"sellout\":5988276.1766025415,\"cobertura\":1.0}]"
+  },
+  "Pfizer": {
+    "ano_passado": "[{\"quantidade\":173265.0,\"sellout\":1942496.1538489666,\"cobertura\":1.0},{\"quantidade\":167958.0,\"sellout\":1671562.1640096635,\"cobertura\":1.0}]",
+    "ano_corrente": "[{\"quantidade\":173265.0,\"sellout\":1942496.1538489666,\"cobertura\":1.0},{\"quantidade\":167958.0,\"sellout\":1671562.1640096635,\"cobertura\":1.0}]"
+  },
+  "Pfizer Consumer Healthcare": {
+    "ano_passado": "[{\"quantidade\":12977.0,\"sellout\":241178.2312252614,\"cobertura\":1.0},{\"quantidade\":15783.0,\"sellout\":420487.6791518957,\"cobertura\":1.0}]",
+    "ano_corrente": "[{\"quantidade\":12977.0,\"sellout\":241178.2312252614,\"cobertura\":1.0},{\"quantidade\":15783.0,\"sellout\":420487.6791518957,\"cobertura\":1.0}]"
+  },
+  "Krka": {
+    "ano_passado": "[{\"quantidade\":90971.0,\"sellout\":857025.3847084581,\"cobertura\":1.0},{\"quantidade\":85510.0,\"sellout\":923321.8133550732,\"cobertura\":1.0}]",
+    "ano_corrente": "[{\"quantidade\":90971.0,\"sellout\":857025.3847084581,\"cobertura\":1.0},{\"quantidade\":85510.0,\"sellout\":923321.8133550732,\"cobertura\":1.0}]"
+  },
+  "Laboratórios Atral": {
+    "ano_passado": "[{\"quantidade\":104448.0,\"sellout\":895923.9867048544,\"cobertura\":1.0},{\"quantidade\":98525.0,\"sellout\":946501.980094063,\"cobertura\":1.0}]",
+    "ano_corrente": "[{\"quantidade\":104448.0,\"sellout\":895923.9867048544,\"cobertura\":1.0},{\"quantidade\":98525.0,\"sellout\":946501.980094063,\"cobertura\":1.0}]"
+  },
+  "MSD": {
+    "ano_passado": "[{\"quantidade\":210336.0,\"sellout\":3862232.8957648384,\"cobertura\":1.0},{\"quantidade\":209769.0,\"sellout\":3976262.5911947475,\"cobertura\":1.0}]",
+    "ano_corrente": "[{\"quantidade\":210336.0,\"sellout\":3862232.8957648384,\"cobertura\":1.0},{\"quantidade\":209769.0,\"sellout\":3976262.5911947475,\"cobertura\":1.0}]"
+  },
+  "Mylan": {
+    "ano_passado": "[{\"quantidade\":645325.0,\"sellout\":6145524.0421126056,\"cobertura\":1.0},{\"quantidade\":601575.0,\"sellout\":4235370.1573830191,\"cobertura\":1.0}]",
+    "ano_corrente": "[{\"quantidade\":645325.0,\"sellout\":6145524.0421126056,\"cobertura\":1.0},{\"quantidade\":601575.0,\"sellout\":4235370.1573830191,\"cobertura\":1.0}]"
+  },
+  "Reckitt Benckiser": {
+    "ano_passado": "[{\"quantidade\":64796.0,\"sellout\":1585972.9333604905,\"cobertura\":1.0},{\"quantidade\":68047.0,\"sellout\":618125.4880675126,\"cobertura\":1.0}]",
+    "ano_corrente": "[{\"quantidade\":64796.0,\"sellout\":1585972.9333604905,\"cobertura\":1.0},{\"quantidade\":68047.0,\"sellout\":618125.4880675126,\"cobertura\":1.0}]"
   },
   "Uriach-Theralab": {
-    "ano_passado": "[{\"quantidade\":13240.0,\"sellout\":245372.7181799142,\"cobertura\":1.0},{\"quantidade\":12768.0,\"sellout\":218361.8839788378,\"cobertura\":1.0}]",
-    "ano_corrente": "[{\"quantidade\":13240.0,\"sellout\":245372.7181799142,\"cobertura\":1.0},{\"quantidade\":12768.0,\"sellout\":218361.8839788378,\"cobertura\":1.0}]"
+    "ano_passado": "[{\"quantidade\":13294.0,\"sellout\":246141.4157239545,\"cobertura\":1.0},{\"quantidade\":12768.0,\"sellout\":218361.883978837,\"cobertura\":1.0}]",
+    "ano_corrente": "[{\"quantidade\":13294.0,\"sellout\":246141.4157239545,\"cobertura\":1.0},{\"quantidade\":12768.0,\"sellout\":218361.883978837,\"cobertura\":1.0}]"
+  },
+  "Pierre Fabre Médicament": {
+    "ano_passado": "[{\"quantidade\":23042.0,\"sellout\":397124.5511828578,\"cobertura\":1.0},{\"quantidade\":25042.0,\"sellout\":454140.0299883353,\"cobertura\":1.0}]",
+    "ano_corrente": "[{\"quantidade\":23042.0,\"sellout\":397124.5511828578,\"cobertura\":1.0},{\"quantidade\":25042.0,\"sellout\":454140.0299883353,\"cobertura\":1.0}]"
+  },
+  "Biocodex": {
+    "ano_passado": "[{\"quantidade\":10695.0,\"sellout\":140120.808367529,\"cobertura\":1.0},{\"quantidade\":13727.0,\"sellout\":150714.6689192142,\"cobertura\":1.0}]",
+    "ano_corrente": "[{\"quantidade\":10695.0,\"sellout\":140120.808367529,\"cobertura\":1.0},{\"quantidade\":13727.0,\"sellout\":150714.6689192142,\"cobertura\":1.0}]"
+  },
+  "Pierre Fabre Dermo-Cosmétique": {
+    "ano_passado": "[{\"quantidade\":137266.0,\"sellout\":1585440.6439262421,\"cobertura\":1.0},{\"quantidade\":122473.0,\"sellout\":2900766.326554758,\"cobertura\":1.0}]",
+    "ano_corrente": "[{\"quantidade\":137266.0,\"sellout\":1585440.6439262421,\"cobertura\":1.0},{\"quantidade\":122473.0,\"sellout\":2900766.326554758,\"cobertura\":1.0}]"
+  },
+  "Medinfar": {
+    "ano_passado": "[{\"quantidade\":85919.0,\"sellout\":2191951.0250710603,\"cobertura\":1.0},{\"quantidade\":87314.0,\"sellout\":1283606.19152226,\"cobertura\":1.0}]",
+    "ano_corrente": "[{\"quantidade\":85919.0,\"sellout\":2191951.0250710603,\"cobertura\":1.0},{\"quantidade\":87314.0,\"sellout\":1283606.19152226,\"cobertura\":1.0}]"
+  },
+  "Phytoderm": {
+    "ano_passado": "[{\"quantidade\":19209.0,\"sellout\":484064.0427664786,\"cobertura\":1.0},{\"quantidade\":19906.0,\"sellout\":242623.839972475,\"cobertura\":1.0}]",
+    "ano_corrente": "[{\"quantidade\":19209.0,\"sellout\":484064.0427664786,\"cobertura\":1.0},{\"quantidade\":19906.0,\"sellout\":242623.839972475,\"cobertura\":1.0}]"
+  },
+  "Generis": {
+    "ano_passado": "[{\"quantidade\":623329.0,\"sellout\":3900699.972417702,\"cobertura\":1.0},{\"quantidade\":685609.0,\"sellout\":4573949.3904799428,\"cobertura\":1.0}]",
+    "ano_corrente": "[{\"quantidade\":623329.0,\"sellout\":3900699.972417702,\"cobertura\":1.0},{\"quantidade\":685609.0,\"sellout\":4573949.3904799428,\"cobertura\":1.0}]"
   }
 }
