@@ -1,50 +1,50 @@
 [
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 671,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 36.66,
-        "rentabilidade": 10.59
+        "sellout_pvp": 206.1,
+        "rentabilidade": 58.88
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 671,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 384.97,
-        "rentabilidade": 124.48
+        "sellout_pvp": 555.32,
+        "rentabilidade": 191.25
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 671,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 179.9,
-        "rentabilidade": 58.05
+        "sellout_pvp": 246.47,
+        "rentabilidade": 81.3
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 671,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 168.23,
-        "rentabilidade": 50.4
+        "sellout_pvp": 258.03,
+        "rentabilidade": 81.03
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 671,
     "lab": "Sandoz",
     "0": [
@@ -55,40 +55,40 @@
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 1554,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 19.28,
-        "rentabilidade": 8.81
+        "sellout_pvp": 153.76,
+        "rentabilidade": 44.75
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 1554,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 45.41,
-        "rentabilidade": 13.17
+        "sellout_pvp": 92.92,
+        "rentabilidade": 25.1
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 1554,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 58.11,
-        "rentabilidade": 19.65
+        "sellout_pvp": 86.64,
+        "rentabilidade": 28.22
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 1554,
     "lab": "Pfizer",
     "0": [
@@ -99,51 +99,62 @@
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
+    "codigo": 1554,
+    "lab": "Sandoz",
+    "0": [
+      {
+        "sellout_pvp": 30.94,
+        "rentabilidade": 22.71
+      }
+    ]
+  },
+  {
+    "data": "20201203",
     "codigo": 1627,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 16.07,
-        "rentabilidade": 4.87
+        "sellout_pvp": 82.43,
+        "rentabilidade": 40.85
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 1627,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 80.23,
-        "rentabilidade": 22.29
+        "sellout_pvp": 145.21,
+        "rentabilidade": 40.71
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 1627,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 64.86,
-        "rentabilidade": 20.3
+        "sellout_pvp": 139.56,
+        "rentabilidade": 41.93
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 1627,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 51.68,
-        "rentabilidade": 13.01
+        "sellout_pvp": 121.83,
+        "rentabilidade": 30.0
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 1627,
     "lab": "Sandoz",
     "0": [
@@ -154,161 +165,161 @@
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 1651,
     "lab": "GlaxoSmithKline",
     "0": [
       {
         "sellout_pvp": 57.95,
-        "rentabilidade": 15.33
+        "rentabilidade": 15.68
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 1651,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 153.54,
-        "rentabilidade": 28.15
+        "sellout_pvp": 161.51,
+        "rentabilidade": 31.09
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 1651,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 59.58,
-        "rentabilidade": 21.1
+        "sellout_pvp": 89.35,
+        "rentabilidade": 32.35
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 1651,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 76.42,
-        "rentabilidade": 21.28
+        "sellout_pvp": 151.22,
+        "rentabilidade": 40.45
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 1651,
     "lab": "Sandoz",
     "0": [
       {
-        "sellout_pvp": 7.9,
-        "rentabilidade": 2.68
+        "sellout_pvp": 15.8,
+        "rentabilidade": 5.36
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 1708,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 209.79,
-        "rentabilidade": 74.4
+        "sellout_pvp": 399.78,
+        "rentabilidade": 126.07
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 1708,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 161.85,
-        "rentabilidade": 59.93
+        "sellout_pvp": 264.33,
+        "rentabilidade": 96.9
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 1708,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 167.01,
-        "rentabilidade": 60.16
+        "sellout_pvp": 434.12,
+        "rentabilidade": 150.15
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 1708,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 293.38,
-        "rentabilidade": 95.92
+        "sellout_pvp": 536.51,
+        "rentabilidade": 172.82
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 1708,
     "lab": "Sandoz",
     "0": [
       {
-        "sellout_pvp": 37.37,
-        "rentabilidade": 16.41
+        "sellout_pvp": 59.99,
+        "rentabilidade": 24.89
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 1759,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 89.11,
-        "rentabilidade": 23.44
+        "sellout_pvp": 198.02,
+        "rentabilidade": 68.94
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 1759,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 251.93,
-        "rentabilidade": 61.19
+        "sellout_pvp": 495.19,
+        "rentabilidade": 134.92
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 1759,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 174.38,
-        "rentabilidade": 54.59
+        "sellout_pvp": 248.14,
+        "rentabilidade": 78.69
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 1759,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 218.63,
-        "rentabilidade": 73.6
+        "sellout_pvp": 523.11,
+        "rentabilidade": 166.15
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 1759,
     "lab": "Sandoz",
     "0": [
@@ -319,425 +330,436 @@
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 1899,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 256.94,
-        "rentabilidade": 75.26
+        "sellout_pvp": 320.57,
+        "rentabilidade": 105.02
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 1899,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 243.08,
-        "rentabilidade": 75.01
+        "sellout_pvp": 321.57,
+        "rentabilidade": 96.91
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 1899,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 49.26,
-        "rentabilidade": 15.22
+        "sellout_pvp": 213.62,
+        "rentabilidade": 63.41
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 1899,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 83.72,
-        "rentabilidade": 23.07
+        "sellout_pvp": 157.89,
+        "rentabilidade": 45.2
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 1899,
     "lab": "Sandoz",
     "0": [
       {
         "sellout_pvp": 30.94,
-        "rentabilidade": 22.83
+        "rentabilidade": 22.71
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 2038,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 312.81,
-        "rentabilidade": 91.01
+        "sellout_pvp": 449.72,
+        "rentabilidade": 133.72
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 2038,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 639.89,
-        "rentabilidade": 178.4
+        "sellout_pvp": 656.13,
+        "rentabilidade": 187.36
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 2038,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 181.54,
-        "rentabilidade": 58.79
+        "sellout_pvp": 298.47,
+        "rentabilidade": 96.42
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 2038,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 45.11,
-        "rentabilidade": 15.32
+        "sellout_pvp": 118.37,
+        "rentabilidade": 38.08
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
+    "codigo": 2038,
+    "lab": "Sandoz",
+    "0": [
+      {
+        "sellout_pvp": 5.3,
+        "rentabilidade": 2.81
+      }
+    ]
+  },
+  {
+    "data": "20201203",
     "codigo": 2569,
     "lab": "GlaxoSmithKline",
     "0": [
       {
         "sellout_pvp": 31.42,
-        "rentabilidade": 12.57
+        "rentabilidade": 15.34
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 2569,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 290.36,
-        "rentabilidade": 71.01
+        "sellout_pvp": 481.55,
+        "rentabilidade": 105.17
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 2569,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 215.67,
-        "rentabilidade": 63.71
+        "sellout_pvp": 300.02,
+        "rentabilidade": 88.13
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 2569,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 113.34,
-        "rentabilidade": 35.84
+        "sellout_pvp": 152.12,
+        "rentabilidade": 47.25
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 2968,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 67.16,
-        "rentabilidade": 17.86
+        "sellout_pvp": 106.89,
+        "rentabilidade": 32.68
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 2968,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 107.81,
-        "rentabilidade": 26.71
+        "sellout_pvp": 126.67,
+        "rentabilidade": 35.41
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 2968,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 216.69,
-        "rentabilidade": 79.23
+        "sellout_pvp": 384.32,
+        "rentabilidade": 133.23
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 2968,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 10.0,
-        "rentabilidade": 3.52
+        "sellout_pvp": 14.96,
+        "rentabilidade": 5.17
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 3719,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 99.42,
-        "rentabilidade": 36.18
+        "sellout_pvp": 293.11,
+        "rentabilidade": 90.25
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 3719,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 142.93,
-        "rentabilidade": 39.3
+        "sellout_pvp": 232.16,
+        "rentabilidade": 89.78
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 3719,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 224.58,
-        "rentabilidade": 79.1
+        "sellout_pvp": 399.76,
+        "rentabilidade": 142.22
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 3719,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 148.55,
-        "rentabilidade": 45.32
+        "sellout_pvp": 189.47,
+        "rentabilidade": 60.78
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 3824,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 68.96,
-        "rentabilidade": 17.44
+        "sellout_pvp": 80.4,
+        "rentabilidade": 20.68
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 3824,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 20.01,
-        "rentabilidade": 7.1
+        "sellout_pvp": 63.11,
+        "rentabilidade": 20.75
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 3824,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 87.42,
-        "rentabilidade": 29.1
+        "sellout_pvp": 213.2,
+        "rentabilidade": 73.26
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 3824,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 93.6,
-        "rentabilidade": 30.89
+        "sellout_pvp": 494.4,
+        "rentabilidade": 143.23
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 3948,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 79.11,
-        "rentabilidade": 32.04
+        "sellout_pvp": 157.31,
+        "rentabilidade": 67.52
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 3948,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 566.31,
-        "rentabilidade": 126.07
+        "sellout_pvp": 794.95,
+        "rentabilidade": 202.28
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 3948,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 273.73,
-        "rentabilidade": 82.45
+        "sellout_pvp": 528.58,
+        "rentabilidade": 164.53
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 3948,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 153.55,
-        "rentabilidade": 49.28
+        "sellout_pvp": 286.42,
+        "rentabilidade": 89.43
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 3948,
     "lab": "Sandoz",
     "0": [
       {
-        "sellout_pvp": 7.9,
-        "rentabilidade": 2.68
+        "sellout_pvp": 45.05,
+        "rentabilidade": 17.37
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 3972,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 246.32,
-        "rentabilidade": 65.29
+        "sellout_pvp": 277.01,
+        "rentabilidade": 80.77
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 3972,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 30.67,
-        "rentabilidade": 8.85
+        "sellout_pvp": 336.87,
+        "rentabilidade": 114.52
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 3972,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 138.51,
-        "rentabilidade": 50.03
+        "sellout_pvp": 417.86,
+        "rentabilidade": 143.22
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 3972,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 112.75,
-        "rentabilidade": 83.11
+        "sellout_pvp": 484.64,
+        "rentabilidade": 176.34
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 4243,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 40.13,
-        "rentabilidade": 16.73
+        "sellout_pvp": 204.44,
+        "rentabilidade": 62.24
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 4243,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 326.7,
-        "rentabilidade": 83.14
+        "sellout_pvp": 613.3,
+        "rentabilidade": 169.07
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 4243,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 264.11,
-        "rentabilidade": 81.0
+        "sellout_pvp": 380.53,
+        "rentabilidade": 117.11
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 4243,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 430.87,
-        "rentabilidade": 123.36
+        "sellout_pvp": 667.37,
+        "rentabilidade": 192.08
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 4243,
     "lab": "Sandoz",
     "0": [
@@ -748,359 +770,381 @@
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 4251,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 146.36,
-        "rentabilidade": 61.21
+        "sellout_pvp": 279.68,
+        "rentabilidade": 96.81
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 4251,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 228.3,
-        "rentabilidade": 88.3
+        "sellout_pvp": 493.8,
+        "rentabilidade": 165.98
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 4251,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 350.14,
-        "rentabilidade": 99.21
+        "sellout_pvp": 706.84,
+        "rentabilidade": 190.97
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 4251,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 263.33,
-        "rentabilidade": 71.61
+        "sellout_pvp": 537.21,
+        "rentabilidade": 141.64
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 4251,
     "lab": "Sandoz",
     "0": [
       {
-        "sellout_pvp": 31.6,
-        "rentabilidade": 10.72
+        "sellout_pvp": 53.36,
+        "rentabilidade": 16.96
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 4570,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 51.5,
-        "rentabilidade": 14.67
+        "sellout_pvp": 190.38,
+        "rentabilidade": 51.0
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 4570,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 58.6,
-        "rentabilidade": 18.9
+        "sellout_pvp": 251.01,
+        "rentabilidade": 124.44
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 4570,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 104.85,
-        "rentabilidade": 31.68
+        "sellout_pvp": 199.72,
+        "rentabilidade": 62.34
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 4570,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 114.25,
-        "rentabilidade": 38.53
+        "sellout_pvp": 176.49,
+        "rentabilidade": 62.07
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 4901,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 8.19,
-        "rentabilidade": 3.23
+        "sellout_pvp": 166.62,
+        "rentabilidade": 44.7
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 4901,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 250.03,
-        "rentabilidade": 73.84
+        "sellout_pvp": 487.56,
+        "rentabilidade": 136.35
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 4901,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 144.33,
-        "rentabilidade": 48.02
+        "sellout_pvp": 194.79,
+        "rentabilidade": 66.91
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
+    "codigo": 4901,
+    "lab": "Pfizer",
+    "0": [
+      {
+        "sellout_pvp": 52.79,
+        "rentabilidade": 20.06
+      }
+    ]
+  },
+  {
+    "data": "20201203",
     "codigo": 4952,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 65.94,
-        "rentabilidade": 21.2
+        "sellout_pvp": 80.3,
+        "rentabilidade": 27.19
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 4952,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 116.41,
-        "rentabilidade": 34.86
+        "sellout_pvp": 183.25,
+        "rentabilidade": 51.16
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 4952,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 118.78,
-        "rentabilidade": 40.79
+        "sellout_pvp": 165.54,
+        "rentabilidade": 62.07
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 4952,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 44.68,
-        "rentabilidade": 17.83
+        "sellout_pvp": 83.14,
+        "rentabilidade": 33.25
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 5100,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 30.12,
-        "rentabilidade": 8.98
+        "sellout_pvp": 60.56,
+        "rentabilidade": 22.01
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 5100,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 211.17,
-        "rentabilidade": 53.99
+        "sellout_pvp": 282.37,
+        "rentabilidade": 73.65
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 5100,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 79.77,
-        "rentabilidade": 24.85
+        "sellout_pvp": 153.74,
+        "rentabilidade": 48.81
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 5100,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 47.47,
-        "rentabilidade": 19.95
+        "sellout_pvp": 91.75,
+        "rentabilidade": 41.06
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 5150,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 121.79,
-        "rentabilidade": 29.09
+        "sellout_pvp": 205.7,
+        "rentabilidade": 52.71
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 5150,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 193.73,
-        "rentabilidade": 36.44
+        "sellout_pvp": 440.1,
+        "rentabilidade": 107.65
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 5150,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 58.87,
-        "rentabilidade": 19.3
+        "sellout_pvp": 207.51,
+        "rentabilidade": 66.46
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 5150,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 90.71,
+        "sellout_pvp": 174.66,
+        "rentabilidade": 55.88
+      }
+    ]
+  },
+  {
+    "data": "20201203",
+    "codigo": 5150,
+    "lab": "Sandoz",
+    "0": [
+      {
+        "sellout_pvp": 48.2,
+        "rentabilidade": 20.79
+      }
+    ]
+  },
+  {
+    "data": "20201203",
+    "codigo": 5282,
+    "lab": "GlaxoSmithKline",
+    "0": [
+      {
+        "sellout_pvp": 36.79,
+        "rentabilidade": 15.38
+      }
+    ]
+  },
+  {
+    "data": "20201203",
+    "codigo": 5282,
+    "lab": "MSD",
+    "0": [
+      {
+        "sellout_pvp": 414.98,
+        "rentabilidade": 98.97
+      }
+    ]
+  },
+  {
+    "data": "20201203",
+    "codigo": 5282,
+    "lab": "Mylan",
+    "0": [
+      {
+        "sellout_pvp": 77.57,
         "rentabilidade": 22.3
       }
     ]
   },
   {
-    "data": "20201202",
-    "codigo": 5282,
-    "lab": "GlaxoSmithKline",
-    "0": [
-      {
-        "sellout_pvp": 31.87,
-        "rentabilidade": 12.58
-      }
-    ]
-  },
-  {
-    "data": "20201202",
-    "codigo": 5282,
-    "lab": "MSD",
-    "0": [
-      {
-        "sellout_pvp": 247.42,
-        "rentabilidade": 55.99
-      }
-    ]
-  },
-  {
-    "data": "20201202",
-    "codigo": 5282,
-    "lab": "Mylan",
-    "0": [
-      {
-        "sellout_pvp": 16.57,
-        "rentabilidade": 4.76
-      }
-    ]
-  },
-  {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 5282,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 28.21,
-        "rentabilidade": 10.1
+        "sellout_pvp": 93.52,
+        "rentabilidade": 24.55
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 5320,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 55.58,
-        "rentabilidade": 15.09
+        "sellout_pvp": 160.16,
+        "rentabilidade": 68.47
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 5320,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 482.56,
-        "rentabilidade": 147.23
+        "sellout_pvp": 657.22,
+        "rentabilidade": 192.31
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 5320,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 157.04,
-        "rentabilidade": 52.48
+        "sellout_pvp": 302.94,
+        "rentabilidade": 98.89
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 5320,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 224.43,
-        "rentabilidade": 53.74
+        "sellout_pvp": 250.04,
+        "rentabilidade": 63.76
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 5320,
     "lab": "Sandoz",
     "0": [
@@ -1111,293 +1155,304 @@
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 5347,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 76.62,
-        "rentabilidade": 25.72
+        "sellout_pvp": 170.62,
+        "rentabilidade": 52.78
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 5347,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 95.71,
-        "rentabilidade": 46.21
+        "sellout_pvp": 284.14,
+        "rentabilidade": 119.28
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 5347,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 134.27,
-        "rentabilidade": 43.77
+        "sellout_pvp": 220.5,
+        "rentabilidade": 68.0
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 5347,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 87.87,
-        "rentabilidade": 36.23
+        "sellout_pvp": 211.33,
+        "rentabilidade": 69.15
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 5355,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 95.43,
-        "rentabilidade": 44.63
+        "sellout_pvp": 100.35,
+        "rentabilidade": 47.76
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 5355,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 85.22,
-        "rentabilidade": 34.95
+        "sellout_pvp": 181.3,
+        "rentabilidade": 73.43
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 5355,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 61.94,
-        "rentabilidade": 19.7
+        "sellout_pvp": 152.66,
+        "rentabilidade": 50.01
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 5355,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 94.53,
-        "rentabilidade": 28.97
+        "sellout_pvp": 116.84,
+        "rentabilidade": 37.33
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 5363,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 11.47,
-        "rentabilidade": 3.63
+        "sellout_pvp": 158.35,
+        "rentabilidade": 38.71
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 5363,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 186.32,
-        "rentabilidade": 70.54
+        "sellout_pvp": 306.58,
+        "rentabilidade": 123.81
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 5363,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 188.06,
-        "rentabilidade": 61.45
+        "sellout_pvp": 383.05,
+        "rentabilidade": 132.94
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 5363,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 48.32,
-        "rentabilidade": 15.15
+        "sellout_pvp": 65.57,
+        "rentabilidade": 21.71
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 5363,
     "lab": "Sandoz",
     "0": [
       {
-        "sellout_pvp": 16.91,
-        "rentabilidade": 5.64
+        "sellout_pvp": 24.81,
+        "rentabilidade": 8.32
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 5622,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 45.2,
-        "rentabilidade": 19.98
+        "sellout_pvp": 239.24,
+        "rentabilidade": 63.68
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 5622,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 125.9,
-        "rentabilidade": 41.76
+        "sellout_pvp": 165.94,
+        "rentabilidade": 52.79
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 5622,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 94.14,
-        "rentabilidade": 29.23
+        "sellout_pvp": 193.26,
+        "rentabilidade": 58.71
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 5622,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 65.12,
-        "rentabilidade": 15.08
+        "sellout_pvp": 238.47,
+        "rentabilidade": 56.82
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
+    "codigo": 5622,
+    "lab": "Sandoz",
+    "0": [
+      {
+        "sellout_pvp": 7.77,
+        "rentabilidade": 2.55
+      }
+    ]
+  },
+  {
+    "data": "20201203",
     "codigo": 5720,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 164.35,
-        "rentabilidade": 45.23
+        "sellout_pvp": 321.09,
+        "rentabilidade": 81.54
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 5720,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 365.88,
-        "rentabilidade": 126.65
+        "sellout_pvp": 627.69,
+        "rentabilidade": 215.72
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 5720,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 208.42,
-        "rentabilidade": 75.89
+        "sellout_pvp": 550.2,
+        "rentabilidade": 203.24
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 5720,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 280.38,
-        "rentabilidade": 88.45
+        "sellout_pvp": 315.18,
+        "rentabilidade": 103.7
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 5720,
     "lab": "Sandoz",
     "0": [
       {
-        "sellout_pvp": 35.0,
-        "rentabilidade": 15.3
+        "sellout_pvp": 45.12,
+        "rentabilidade": 19.83
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 6149,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 80.18,
-        "rentabilidade": 34.97
+        "sellout_pvp": 114.35,
+        "rentabilidade": 53.89
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 6149,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 125.1,
-        "rentabilidade": 34.24
+        "sellout_pvp": 280.7,
+        "rentabilidade": 56.94
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 6149,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 112.6,
-        "rentabilidade": 34.47
+        "sellout_pvp": 161.78,
+        "rentabilidade": 48.83
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 6149,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 256.14,
-        "rentabilidade": 80.75
+        "sellout_pvp": 422.97,
+        "rentabilidade": 133.95
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 6149,
     "lab": "Sandoz",
     "0": [
@@ -1408,106 +1463,117 @@
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 6335,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 188.03,
-        "rentabilidade": 69.37
+        "sellout_pvp": 264.54,
+        "rentabilidade": 81.95
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 6335,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 97.16,
-        "rentabilidade": 33.67
+        "sellout_pvp": 289.56,
+        "rentabilidade": 108.79
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 6335,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 110.91,
-        "rentabilidade": 39.74
+        "sellout_pvp": 239.8,
+        "rentabilidade": 88.86
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 6335,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 141.91,
-        "rentabilidade": 48.78
+        "sellout_pvp": 230.6,
+        "rentabilidade": 75.75
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
+    "codigo": 6335,
+    "lab": "Sandoz",
+    "0": [
+      {
+        "sellout_pvp": 35.0,
+        "rentabilidade": 15.3
+      }
+    ]
+  },
+  {
+    "data": "20201203",
     "codigo": 7080,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 115.38,
-        "rentabilidade": 43.76
+        "sellout_pvp": 143.41,
+        "rentabilidade": 54.54
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 7080,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 117.54,
-        "rentabilidade": 36.33
+        "sellout_pvp": 313.44,
+        "rentabilidade": 88.89
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 7080,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 118.35,
-        "rentabilidade": 45.1
+        "sellout_pvp": 271.88,
+        "rentabilidade": 99.96
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 7080,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 115.23,
-        "rentabilidade": 39.06
+        "sellout_pvp": 251.14,
+        "rentabilidade": 80.42
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 7714,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 98.39,
-        "rentabilidade": 46.03
+        "sellout_pvp": 131.18,
+        "rentabilidade": 62.64
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 7714,
     "lab": "MSD",
     "0": [
@@ -1518,282 +1584,293 @@
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 7714,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 95.05,
-        "rentabilidade": 29.45
+        "sellout_pvp": 150.16,
+        "rentabilidade": 45.83
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 7714,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 142.57,
-        "rentabilidade": 50.05
+        "sellout_pvp": 150.66,
+        "rentabilidade": 52.74
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 7714,
     "lab": "Sandoz",
     "0": [
       {
-        "sellout_pvp": 15.8,
-        "rentabilidade": 5.14
+        "sellout_pvp": 27.11,
+        "rentabilidade": 9.31
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 7846,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 194.13,
-        "rentabilidade": 63.83
+        "sellout_pvp": 503.72,
+        "rentabilidade": 142.49
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 7846,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 280.43,
-        "rentabilidade": 84.5
+        "sellout_pvp": 495.58,
+        "rentabilidade": 154.75
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 7846,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 244.07,
-        "rentabilidade": 88.4
+        "sellout_pvp": 429.75,
+        "rentabilidade": 143.94
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 7846,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 120.28,
-        "rentabilidade": 42.91
+        "sellout_pvp": 209.46,
+        "rentabilidade": 70.65
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 7846,
     "lab": "Sandoz",
     "0": [
       {
-        "sellout_pvp": 25.92,
-        "rentabilidade": 10.12
-      }
-    ]
-  },
-  {
-    "data": "20201202",
-    "codigo": 7943,
-    "lab": "GlaxoSmithKline",
-    "0": [
-      {
-        "sellout_pvp": 59.23,
-        "rentabilidade": 20.14
-      }
-    ]
-  },
-  {
-    "data": "20201202",
-    "codigo": 7943,
-    "lab": "MSD",
-    "0": [
-      {
-        "sellout_pvp": 8.81,
-        "rentabilidade": 5.76
-      }
-    ]
-  },
-  {
-    "data": "20201202",
-    "codigo": 7943,
-    "lab": "Mylan",
-    "0": [
-      {
-        "sellout_pvp": 156.4,
-        "rentabilidade": 50.93
-      }
-    ]
-  },
-  {
-    "data": "20201202",
-    "codigo": 7943,
-    "lab": "Pfizer",
-    "0": [
-      {
-        "sellout_pvp": 48.61,
-        "rentabilidade": 18.47
-      }
-    ]
-  },
-  {
-    "data": "20201202",
-    "codigo": 8109,
-    "lab": "GlaxoSmithKline",
-    "0": [
-      {
-        "sellout_pvp": 496.46,
-        "rentabilidade": 102.3
-      }
-    ]
-  },
-  {
-    "data": "20201202",
-    "codigo": 8109,
-    "lab": "MSD",
-    "0": [
-      {
-        "sellout_pvp": 774.63,
-        "rentabilidade": 211.89
-      }
-    ]
-  },
-  {
-    "data": "20201202",
-    "codigo": 8109,
-    "lab": "Mylan",
-    "0": [
-      {
-        "sellout_pvp": 480.13,
-        "rentabilidade": 179.28
-      }
-    ]
-  },
-  {
-    "data": "20201202",
-    "codigo": 8109,
-    "lab": "Pfizer",
-    "0": [
-      {
-        "sellout_pvp": 340.21,
-        "rentabilidade": 148.09
-      }
-    ]
-  },
-  {
-    "data": "20201202",
-    "codigo": 8354,
-    "lab": "GlaxoSmithKline",
-    "0": [
-      {
-        "sellout_pvp": 46.91,
+        "sellout_pvp": 33.82,
         "rentabilidade": 12.8
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
+    "codigo": 7943,
+    "lab": "GlaxoSmithKline",
+    "0": [
+      {
+        "sellout_pvp": 139.96,
+        "rentabilidade": 40.98
+      }
+    ]
+  },
+  {
+    "data": "20201203",
+    "codigo": 7943,
+    "lab": "MSD",
+    "0": [
+      {
+        "sellout_pvp": 299.64,
+        "rentabilidade": 77.99
+      }
+    ]
+  },
+  {
+    "data": "20201203",
+    "codigo": 7943,
+    "lab": "Mylan",
+    "0": [
+      {
+        "sellout_pvp": 263.06,
+        "rentabilidade": 83.38
+      }
+    ]
+  },
+  {
+    "data": "20201203",
+    "codigo": 7943,
+    "lab": "Pfizer",
+    "0": [
+      {
+        "sellout_pvp": 124.22,
+        "rentabilidade": 43.07
+      }
+    ]
+  },
+  {
+    "data": "20201203",
+    "codigo": 8109,
+    "lab": "GlaxoSmithKline",
+    "0": [
+      {
+        "sellout_pvp": 553.98,
+        "rentabilidade": 118.89
+      }
+    ]
+  },
+  {
+    "data": "20201203",
+    "codigo": 8109,
+    "lab": "MSD",
+    "0": [
+      {
+        "sellout_pvp": 1203.22,
+        "rentabilidade": 304.88
+      }
+    ]
+  },
+  {
+    "data": "20201203",
+    "codigo": 8109,
+    "lab": "Mylan",
+    "0": [
+      {
+        "sellout_pvp": 737.92,
+        "rentabilidade": 270.55
+      }
+    ]
+  },
+  {
+    "data": "20201203",
+    "codigo": 8109,
+    "lab": "Pfizer",
+    "0": [
+      {
+        "sellout_pvp": 554.72,
+        "rentabilidade": 178.5
+      }
+    ]
+  },
+  {
+    "data": "20201203",
+    "codigo": 8109,
+    "lab": "Sandoz",
+    "0": [
+      {
+        "sellout_pvp": 7.9,
+        "rentabilidade": 2.68
+      }
+    ]
+  },
+  {
+    "data": "20201203",
+    "codigo": 8354,
+    "lab": "GlaxoSmithKline",
+    "0": [
+      {
+        "sellout_pvp": 70.71,
+        "rentabilidade": 21.19
+      }
+    ]
+  },
+  {
+    "data": "20201203",
     "codigo": 8354,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 86.3,
-        "rentabilidade": 24.73
+        "sellout_pvp": 115.86,
+        "rentabilidade": 34.53
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 8354,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 151.57,
-        "rentabilidade": 47.32
+        "sellout_pvp": 225.98,
+        "rentabilidade": 71.36
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 8354,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 23.01,
-        "rentabilidade": 8.5
+        "sellout_pvp": 112.19,
+        "rentabilidade": 32.84
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 8354,
     "lab": "Sandoz",
     "0": [
       {
-        "sellout_pvp": 4.82,
-        "rentabilidade": 1.56
+        "sellout_pvp": 10.12,
+        "rentabilidade": 4.37
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 8800,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 22.49,
-        "rentabilidade": 7.75
+        "sellout_pvp": 65.09,
+        "rentabilidade": 19.91
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 8800,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 181.44,
-        "rentabilidade": 48.55
+        "sellout_pvp": 253.32,
+        "rentabilidade": 71.91
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 8800,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 105.19,
-        "rentabilidade": 27.92
+        "sellout_pvp": 148.19,
+        "rentabilidade": 39.41
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 8800,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 84.85,
-        "rentabilidade": 23.09
+        "sellout_pvp": 92.57,
+        "rentabilidade": 26.67
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 8800,
     "lab": "Sandoz",
     "0": [
@@ -1804,139 +1881,150 @@
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 8990,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 102.03,
-        "rentabilidade": 42.1
+        "sellout_pvp": 168.91,
+        "rentabilidade": 51.84
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 8990,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 43.05,
-        "rentabilidade": 19.03
+        "sellout_pvp": 238.38,
+        "rentabilidade": 74.41
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 8990,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 145.91,
-        "rentabilidade": 41.39
+        "sellout_pvp": 204.08,
+        "rentabilidade": 58.94
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 8990,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 65.72,
-        "rentabilidade": 16.92
+        "sellout_pvp": 157.16,
+        "rentabilidade": 42.67
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 9300,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 98.93,
-        "rentabilidade": 49.04
+        "sellout_pvp": 153.93,
+        "rentabilidade": 65.08
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 9300,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 80.88,
-        "rentabilidade": 20.9
+        "sellout_pvp": 177.51,
+        "rentabilidade": 51.92
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 9300,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 189.73,
-        "rentabilidade": 64.35
+        "sellout_pvp": 285.72,
+        "rentabilidade": 96.05
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 9300,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 171.42,
-        "rentabilidade": 48.88
+        "sellout_pvp": 193.77,
+        "rentabilidade": 56.94
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
+    "codigo": 9300,
+    "lab": "Sandoz",
+    "0": [
+      {
+        "sellout_pvp": 39.6,
+        "rentabilidade": 16.47
+      }
+    ]
+  },
+  {
+    "data": "20201203",
     "codigo": 9539,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 342.95,
-        "rentabilidade": 156.08
+        "sellout_pvp": 378.12,
+        "rentabilidade": 176.7
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 9539,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 345.77,
-        "rentabilidade": 117.2
+        "sellout_pvp": 565.18,
+        "rentabilidade": 193.1
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 9539,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 98.45,
-        "rentabilidade": 32.43
+        "sellout_pvp": 253.91,
+        "rentabilidade": 89.44
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 9539,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 276.72,
-        "rentabilidade": 81.06
+        "sellout_pvp": 314.52,
+        "rentabilidade": 95.05
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 9539,
     "lab": "Sandoz",
     "0": [
@@ -1947,282 +2035,304 @@
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 10162,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 128.0,
-        "rentabilidade": 32.38
+        "sellout_pvp": 146.38,
+        "rentabilidade": 37.37
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 10162,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 194.98,
-        "rentabilidade": 60.0
+        "sellout_pvp": 450.11,
+        "rentabilidade": 134.89
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 10162,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 90.86,
-        "rentabilidade": 30.09
+        "sellout_pvp": 216.21,
+        "rentabilidade": 67.64
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 10162,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 26.5,
-        "rentabilidade": 13.12
+        "sellout_pvp": 216.71,
+        "rentabilidade": 63.23
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
+    "codigo": 10162,
+    "lab": "Sandoz",
+    "0": [
+      {
+        "sellout_pvp": 23.75,
+        "rentabilidade": 9.13
+      }
+    ]
+  },
+  {
+    "data": "20201203",
     "codigo": 10413,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 44.36,
-        "rentabilidade": 18.06
+        "sellout_pvp": 94.73,
+        "rentabilidade": 37.71
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 10413,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 56.41,
-        "rentabilidade": 26.08
+        "sellout_pvp": 122.44,
+        "rentabilidade": 47.14
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 10413,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 48.14,
-        "rentabilidade": 16.26
+        "sellout_pvp": 195.68,
+        "rentabilidade": 63.34
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 10413,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 86.65,
-        "rentabilidade": 25.57
+        "sellout_pvp": 178.36,
+        "rentabilidade": 61.76
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 10456,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 314.17,
-        "rentabilidade": 89.4
+        "sellout_pvp": 353.58,
+        "rentabilidade": 96.49
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 10456,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 283.84,
-        "rentabilidade": 69.82
+        "sellout_pvp": 366.2,
+        "rentabilidade": 95.53
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 10456,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 124.58,
-        "rentabilidade": 35.87
+        "sellout_pvp": 206.3,
+        "rentabilidade": 61.88
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 10456,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 51.95,
-        "rentabilidade": 18.07
+        "sellout_pvp": 113.31,
+        "rentabilidade": 38.33
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 11525,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 179.93,
-        "rentabilidade": 67.92
+        "sellout_pvp": 323.75,
+        "rentabilidade": 107.93
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 11525,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 124.41,
-        "rentabilidade": 49.61
+        "sellout_pvp": 247.9,
+        "rentabilidade": 100.16
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 11525,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 319.28,
-        "rentabilidade": 117.37
+        "sellout_pvp": 606.72,
+        "rentabilidade": 211.93
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 11525,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 453.84,
-        "rentabilidade": 139.71
+        "sellout_pvp": 587.68,
+        "rentabilidade": 165.31
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
+    "codigo": 11525,
+    "lab": "Sandoz",
+    "0": [
+      {
+        "sellout_pvp": 42.9,
+        "rentabilidade": 17.95
+      }
+    ]
+  },
+  {
+    "data": "20201203",
     "codigo": 11827,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 141.52,
-        "rentabilidade": 38.94
+        "sellout_pvp": 186.37,
+        "rentabilidade": 61.76
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 11827,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 343.46,
-        "rentabilidade": 99.19
+        "sellout_pvp": 822.95,
+        "rentabilidade": 234.77
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 11827,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 464.44,
-        "rentabilidade": 137.47
+        "sellout_pvp": 952.55,
+        "rentabilidade": 279.15
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 11827,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 255.38,
-        "rentabilidade": 85.18
+        "sellout_pvp": 681.04,
+        "rentabilidade": 206.1
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 11827,
     "lab": "Sandoz",
     "0": [
       {
-        "sellout_pvp": 73.18,
-        "rentabilidade": 20.78
+        "sellout_pvp": 82.49,
+        "rentabilidade": 19.01
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 11967,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 63.15,
-        "rentabilidade": 21.48
+        "sellout_pvp": 93.71,
+        "rentabilidade": 28.85
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 11967,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 33.16,
-        "rentabilidade": 9.02
+        "sellout_pvp": 158.29,
+        "rentabilidade": 54.65
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 11967,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 40.65,
-        "rentabilidade": 11.74
+        "sellout_pvp": 142.36,
+        "rentabilidade": 42.72
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 11967,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 26.26,
-        "rentabilidade": 6.84
+        "sellout_pvp": 37.48,
+        "rentabilidade": 11.7
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 11967,
     "lab": "Sandoz",
     "0": [
@@ -2233,95 +2343,95 @@
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 12041,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 40.24,
-        "rentabilidade": 21.66
+        "sellout_pvp": 48.37,
+        "rentabilidade": 24.0
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 12041,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 335.07,
-        "rentabilidade": 69.06
+        "sellout_pvp": 392.04,
+        "rentabilidade": 86.78
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 12041,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 30.7,
-        "rentabilidade": 9.6
+        "sellout_pvp": 127.5,
+        "rentabilidade": 40.28
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 12041,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 9.64,
-        "rentabilidade": 4.14
+        "sellout_pvp": 47.1,
+        "rentabilidade": 16.41
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 12041,
     "lab": "Sandoz",
     "0": [
       {
         "sellout_pvp": 15.8,
-        "rentabilidade": 5.36
+        "rentabilidade": 4.1
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 12130,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 164.67,
-        "rentabilidade": 45.67
+        "sellout_pvp": 177.86,
+        "rentabilidade": 49.08
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 12130,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 153.33,
-        "rentabilidade": 45.28
+        "sellout_pvp": 397.35,
+        "rentabilidade": 100.67
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 12130,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 88.97,
-        "rentabilidade": 24.06
+        "sellout_pvp": 132.02,
+        "rentabilidade": 39.2
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 12130,
     "lab": "Pfizer",
     "0": [
@@ -2332,183 +2442,194 @@
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 13226,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 34.95,
-        "rentabilidade": 12.69
+        "sellout_pvp": 157.02,
+        "rentabilidade": 57.15
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 13226,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 316.86,
-        "rentabilidade": 99.63
+        "sellout_pvp": 384.41,
+        "rentabilidade": 117.93
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 13226,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 141.04,
-        "rentabilidade": 48.25
+        "sellout_pvp": 303.76,
+        "rentabilidade": 108.32
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 13226,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 195.85,
-        "rentabilidade": 67.6
+        "sellout_pvp": 339.82,
+        "rentabilidade": 114.52
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 13234,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 195.64,
-        "rentabilidade": 144.02
+        "sellout_pvp": 442.4,
+        "rentabilidade": 123.38
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 13234,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 129.06,
-        "rentabilidade": 44.65
+        "sellout_pvp": 314.16,
+        "rentabilidade": 106.07
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 13234,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 116.22,
-        "rentabilidade": 40.92
+        "sellout_pvp": 300.81,
+        "rentabilidade": 109.85
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 13234,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 69.28,
-        "rentabilidade": 29.22
+        "sellout_pvp": 268.6,
+        "rentabilidade": 86.87
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 13234,
     "lab": "Sandoz",
     "0": [
       {
-        "sellout_pvp": 15.8,
-        "rentabilidade": 5.36
+        "sellout_pvp": 20.62,
+        "rentabilidade": 7.08
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
+    "codigo": 13650,
+    "lab": "GlaxoSmithKline",
+    "0": [
+      {
+        "sellout_pvp": 47.89,
+        "rentabilidade": 15.26
+      }
+    ]
+  },
+  {
+    "data": "20201203",
     "codigo": 13650,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 184.33,
-        "rentabilidade": 67.78
+        "sellout_pvp": 202.63,
+        "rentabilidade": 72.52
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 13650,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 77.21,
-        "rentabilidade": 24.08
+        "sellout_pvp": 110.3,
+        "rentabilidade": 33.58
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 13650,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 78.65,
-        "rentabilidade": 22.16
+        "sellout_pvp": 107.24,
+        "rentabilidade": 35.81
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 14087,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 61.49,
-        "rentabilidade": 17.21
+        "sellout_pvp": 221.69,
+        "rentabilidade": 62.41
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 14087,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 258.41,
-        "rentabilidade": 69.56
+        "sellout_pvp": 495.17,
+        "rentabilidade": 130.6
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 14087,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 101.19,
-        "rentabilidade": 30.82
+        "sellout_pvp": 209.88,
+        "rentabilidade": 65.77
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 14087,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 81.6,
-        "rentabilidade": 31.93
+        "sellout_pvp": 121.0,
+        "rentabilidade": 44.87
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 14702,
     "lab": "GlaxoSmithKline",
     "0": [
@@ -2519,84 +2640,95 @@
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 14702,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 325.04,
-        "rentabilidade": 94.45
+        "sellout_pvp": 396.27,
+        "rentabilidade": 118.56
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 14702,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 70.89,
-        "rentabilidade": 27.46
+        "sellout_pvp": 123.59,
+        "rentabilidade": 48.09
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 14702,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 28.88,
-        "rentabilidade": 11.79
+        "sellout_pvp": 38.85,
+        "rentabilidade": 21.76
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
+    "codigo": 14702,
+    "lab": "Sandoz",
+    "0": [
+      {
+        "sellout_pvp": 50.84,
+        "rentabilidade": 10.36
+      }
+    ]
+  },
+  {
+    "data": "20201203",
     "codigo": 15121,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 316.72,
-        "rentabilidade": 136.44
+        "sellout_pvp": 425.94,
+        "rentabilidade": 169.07
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 15121,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 194.62,
-        "rentabilidade": 71.27
+        "sellout_pvp": 267.06,
+        "rentabilidade": 91.1
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 15121,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 58.46,
-        "rentabilidade": 17.62
+        "sellout_pvp": 267.97,
+        "rentabilidade": 81.97
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 15121,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 107.84,
-        "rentabilidade": 33.34
+        "sellout_pvp": 208.78,
+        "rentabilidade": 78.27
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 15121,
     "lab": "Sandoz",
     "0": [
@@ -2607,51 +2739,51 @@
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 15245,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 51.62,
-        "rentabilidade": 10.59
+        "sellout_pvp": 162.52,
+        "rentabilidade": 34.72
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 15245,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 146.29,
-        "rentabilidade": 36.01
+        "sellout_pvp": 324.29,
+        "rentabilidade": 84.67
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 15245,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 76.7,
-        "rentabilidade": 20.23
+        "sellout_pvp": 143.46,
+        "rentabilidade": 37.58
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 15245,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 9.72,
-        "rentabilidade": 2.77
+        "sellout_pvp": 94.97,
+        "rentabilidade": 19.5
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 15245,
     "lab": "Sandoz",
     "0": [
@@ -2662,172 +2794,194 @@
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 15385,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 5.4,
-        "rentabilidade": 2.72
+        "sellout_pvp": 54.85,
+        "rentabilidade": 15.19
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 15385,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 189.6,
-        "rentabilidade": 58.81
+        "sellout_pvp": 215.66,
+        "rentabilidade": 67.55
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 15385,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 159.98,
-        "rentabilidade": 51.6
+        "sellout_pvp": 387.37,
+        "rentabilidade": 116.78
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 15385,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 216.18,
-        "rentabilidade": 61.57
+        "sellout_pvp": 353.01,
+        "rentabilidade": 107.31
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
+    "codigo": 15385,
+    "lab": "Sandoz",
+    "0": [
+      {
+        "sellout_pvp": 31.71,
+        "rentabilidade": 23.21
+      }
+    ]
+  },
+  {
+    "data": "20201203",
     "codigo": 16497,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 70.85,
-        "rentabilidade": 18.24
+        "sellout_pvp": 101.46,
+        "rentabilidade": 28.61
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 16497,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 141.38,
-        "rentabilidade": 39.15
+        "sellout_pvp": 152.8,
+        "rentabilidade": 42.62
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 16497,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 39.99,
-        "rentabilidade": 14.62
+        "sellout_pvp": 96.65,
+        "rentabilidade": 33.04
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
+    "codigo": 16497,
+    "lab": "Pfizer",
+    "0": [
+      {
+        "sellout_pvp": 59.11,
+        "rentabilidade": 15.51
+      }
+    ]
+  },
+  {
+    "data": "20201203",
     "codigo": 16624,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 249.49,
-        "rentabilidade": 79.91
+        "sellout_pvp": 505.7,
+        "rentabilidade": 163.86
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 16624,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 799.98,
-        "rentabilidade": 216.66
+        "sellout_pvp": 1073.4,
+        "rentabilidade": 319.83
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 16624,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 266.72,
-        "rentabilidade": 77.14
+        "sellout_pvp": 475.89,
+        "rentabilidade": 141.97
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 16624,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 156.34,
-        "rentabilidade": 60.57
+        "sellout_pvp": 255.46,
+        "rentabilidade": 94.52
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 16632,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 30.91,
-        "rentabilidade": 11.12
+        "sellout_pvp": 122.44,
+        "rentabilidade": 54.93
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 16632,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 343.16,
-        "rentabilidade": 115.13
+        "sellout_pvp": 576.05,
+        "rentabilidade": 162.9
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 16632,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 421.98,
-        "rentabilidade": 144.7
+        "sellout_pvp": 761.26,
+        "rentabilidade": 264.34
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 16632,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 89.2,
-        "rentabilidade": 26.02
+        "sellout_pvp": 159.04,
+        "rentabilidade": 49.09
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 16632,
     "lab": "Sandoz",
     "0": [
@@ -2838,7 +2992,7 @@
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 16675,
     "lab": "GlaxoSmithKline",
     "0": [
@@ -2849,172 +3003,183 @@
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 16675,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 50.97,
-        "rentabilidade": 13.18
+        "sellout_pvp": 183.71,
+        "rentabilidade": 47.59
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 16675,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 60.71,
-        "rentabilidade": 19.1
+        "sellout_pvp": 143.31,
+        "rentabilidade": 46.34
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 16675,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 8.75,
-        "rentabilidade": 3.28
+        "sellout_pvp": 40.99,
+        "rentabilidade": 13.76
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 16829,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 3.46,
-        "rentabilidade": 1.25
+        "sellout_pvp": 25.28,
+        "rentabilidade": 10.73
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 16829,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 143.41,
-        "rentabilidade": 37.06
+        "sellout_pvp": 198.21,
+        "rentabilidade": 52.14
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 16829,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 127.15,
-        "rentabilidade": 37.11
+        "sellout_pvp": 257.08,
+        "rentabilidade": 79.08
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 16829,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 52.7,
-        "rentabilidade": 21.17
+        "sellout_pvp": 96.28,
+        "rentabilidade": 37.91
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
+    "codigo": 16829,
+    "lab": "Sandoz",
+    "0": [
+      {
+        "sellout_pvp": 23.7,
+        "rentabilidade": 8.04
+      }
+    ]
+  },
+  {
+    "data": "20201203",
     "codigo": 17132,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 430.25,
-        "rentabilidade": 101.63
+        "sellout_pvp": 461.21,
+        "rentabilidade": 112.8
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 17132,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 105.27,
-        "rentabilidade": 27.02
+        "sellout_pvp": 223.75,
+        "rentabilidade": 70.75
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 17132,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 214.62,
-        "rentabilidade": 88.92
+        "sellout_pvp": 457.03,
+        "rentabilidade": 177.27
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 17132,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 180.32,
-        "rentabilidade": 41.21
+        "sellout_pvp": 240.0,
+        "rentabilidade": 65.89
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 18066,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 52.14,
-        "rentabilidade": 16.45
+        "sellout_pvp": 89.7,
+        "rentabilidade": 27.15
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 18066,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 134.7,
-        "rentabilidade": 40.75
+        "sellout_pvp": 209.34,
+        "rentabilidade": 60.8
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 18066,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 128.7,
-        "rentabilidade": 39.22
+        "sellout_pvp": 231.87,
+        "rentabilidade": 66.84
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 18066,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 55.29,
-        "rentabilidade": 21.97
+        "sellout_pvp": 122.17,
+        "rentabilidade": 40.85
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 18066,
     "lab": "Sandoz",
     "0": [
@@ -3025,95 +3190,106 @@
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 18309,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 8.96,
-        "rentabilidade": 2.64
+        "sellout_pvp": 73.88,
+        "rentabilidade": 21.67
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 18309,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 18.9,
-        "rentabilidade": 10.59
+        "sellout_pvp": 71.32,
+        "rentabilidade": 25.99
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 18309,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 29.05,
-        "rentabilidade": 17.0
+        "sellout_pvp": 128.52,
+        "rentabilidade": 46.63
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 18309,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 49.49,
-        "rentabilidade": 16.75
+        "sellout_pvp": 76.08,
+        "rentabilidade": 24.1
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
+    "codigo": 18309,
+    "lab": "Sandoz",
+    "0": [
+      {
+        "sellout_pvp": 7.9,
+        "rentabilidade": 2.68
+      }
+    ]
+  },
+  {
+    "data": "20201203",
     "codigo": 19143,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 80.5,
-        "rentabilidade": 24.59
+        "sellout_pvp": 130.53,
+        "rentabilidade": 38.16
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 19143,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 268.99,
-        "rentabilidade": 71.85
+        "sellout_pvp": 615.62,
+        "rentabilidade": 176.66
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 19143,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 213.79,
-        "rentabilidade": 65.72
+        "sellout_pvp": 344.83,
+        "rentabilidade": 104.22
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 19143,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 105.21,
-        "rentabilidade": 32.2
+        "sellout_pvp": 133.68,
+        "rentabilidade": 41.12
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 19143,
     "lab": "Sandoz",
     "0": [
@@ -3124,95 +3300,95 @@
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 19348,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 33.77,
-        "rentabilidade": 10.11
+        "sellout_pvp": 316.65,
+        "rentabilidade": 81.22
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 19348,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 133.02,
-        "rentabilidade": 72.52
+        "sellout_pvp": 187.12,
+        "rentabilidade": 92.41
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 19348,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 183.26,
-        "rentabilidade": 62.85
+        "sellout_pvp": 383.94,
+        "rentabilidade": 142.21
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 19348,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 117.99,
-        "rentabilidade": 40.49
+        "sellout_pvp": 283.76,
+        "rentabilidade": 84.15
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 19615,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 42.82,
-        "rentabilidade": 25.05
+        "sellout_pvp": 165.61,
+        "rentabilidade": 55.09
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 19615,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 39.5,
-        "rentabilidade": 10.5
+        "sellout_pvp": 192.38,
+        "rentabilidade": 71.92
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 19615,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 139.85,
-        "rentabilidade": 47.6
+        "sellout_pvp": 274.82,
+        "rentabilidade": 104.45
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 19615,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 86.21,
-        "rentabilidade": 24.38
+        "sellout_pvp": 255.73,
+        "rentabilidade": 71.52
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 19615,
     "lab": "Sandoz",
     "0": [
@@ -3223,282 +3399,348 @@
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 20630,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 81.13,
-        "rentabilidade": 23.71
+        "sellout_pvp": 101.35,
+        "rentabilidade": 31.14
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 20630,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 297.21,
-        "rentabilidade": 86.46
+        "sellout_pvp": 537.75,
+        "rentabilidade": 143.01
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 20630,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 137.88,
-        "rentabilidade": 40.3
+        "sellout_pvp": 214.1,
+        "rentabilidade": 65.64
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 20630,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 235.06,
-        "rentabilidade": 61.3
+        "sellout_pvp": 288.91,
+        "rentabilidade": 79.0
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 21083,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 137.86,
-        "rentabilidade": 48.3
+        "sellout_pvp": 301.9,
+        "rentabilidade": 95.84
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 21083,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 98.08,
-        "rentabilidade": 24.46
+        "sellout_pvp": 490.4,
+        "rentabilidade": 131.86
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 21083,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 183.3,
-        "rentabilidade": 60.74
+        "sellout_pvp": 435.98,
+        "rentabilidade": 170.17
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 21083,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 226.4,
-        "rentabilidade": 53.32
+        "sellout_pvp": 371.06,
+        "rentabilidade": 90.24
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
+    "codigo": 21083,
+    "lab": "Sandoz",
+    "0": [
+      {
+        "sellout_pvp": 69.78,
+        "rentabilidade": 48.1
+      }
+    ]
+  },
+  {
+    "data": "20201203",
+    "codigo": 21296,
+    "lab": "GlaxoSmithKline",
+    "0": [
+      {
+        "sellout_pvp": 14.66,
+        "rentabilidade": 7.48
+      }
+    ]
+  },
+  {
+    "data": "20201203",
+    "codigo": 21296,
+    "lab": "MSD",
+    "0": [
+      {
+        "sellout_pvp": 68.98,
+        "rentabilidade": 19.44
+      }
+    ]
+  },
+  {
+    "data": "20201203",
+    "codigo": 21296,
+    "lab": "Mylan",
+    "0": [
+      {
+        "sellout_pvp": 138.63,
+        "rentabilidade": 42.9
+      }
+    ]
+  },
+  {
+    "data": "20201203",
+    "codigo": 21296,
+    "lab": "Pfizer",
+    "0": [
+      {
+        "sellout_pvp": 27.43,
+        "rentabilidade": 10.14
+      }
+    ]
+  },
+  {
+    "data": "20201203",
+    "codigo": 21296,
+    "lab": "Sandoz",
+    "0": [
+      {
+        "sellout_pvp": 5.3,
+        "rentabilidade": 2.81
+      }
+    ]
+  },
+  {
+    "data": "20201203",
     "codigo": 21393,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 179.37,
-        "rentabilidade": 48.78
+        "sellout_pvp": 360.79,
+        "rentabilidade": 92.55
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 21393,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 459.7,
-        "rentabilidade": 112.6
+        "sellout_pvp": 492.86,
+        "rentabilidade": 129.13
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 21393,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 168.26,
-        "rentabilidade": 51.42
+        "sellout_pvp": 372.87,
+        "rentabilidade": 110.21
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 21393,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 155.53,
-        "rentabilidade": 34.15
+        "sellout_pvp": 180.01,
+        "rentabilidade": 44.87
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 22152,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 35.11,
-        "rentabilidade": 10.58
+        "sellout_pvp": 38.86,
+        "rentabilidade": 18.9
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 22152,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 153.45,
-        "rentabilidade": 41.32
+        "sellout_pvp": 215.2,
+        "rentabilidade": 70.45
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 22152,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 105.0,
-        "rentabilidade": 30.28
+        "sellout_pvp": 132.09,
+        "rentabilidade": 38.59
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 22152,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 86.3,
-        "rentabilidade": 22.48
+        "sellout_pvp": 145.27,
+        "rentabilidade": 41.78
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 22322,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 98.75,
-        "rentabilidade": 26.41
+        "sellout_pvp": 123.51,
+        "rentabilidade": 34.98
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 22322,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 238.87,
-        "rentabilidade": 53.23
+        "sellout_pvp": 300.46,
+        "rentabilidade": 74.27
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 22322,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 236.82,
-        "rentabilidade": 78.2
+        "sellout_pvp": 310.68,
+        "rentabilidade": 104.28
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 22322,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 136.19,
-        "rentabilidade": 39.32
+        "sellout_pvp": 223.83,
+        "rentabilidade": 65.74
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 22322,
     "lab": "Sandoz",
     "0": [
       {
-        "sellout_pvp": 7.9,
-        "rentabilidade": 2.68
+        "sellout_pvp": 29.66,
+        "rentabilidade": 8.92
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 22470,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 10.09,
-        "rentabilidade": 2.44
+        "sellout_pvp": 61.44,
+        "rentabilidade": 14.6
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 22470,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 398.59,
-        "rentabilidade": 97.72
+        "sellout_pvp": 478.72,
+        "rentabilidade": 120.94
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 22470,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 131.73,
-        "rentabilidade": 43.75
+        "sellout_pvp": 255.57,
+        "rentabilidade": 87.92
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 22470,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 154.97,
-        "rentabilidade": 59.85
+        "sellout_pvp": 266.55,
+        "rentabilidade": 101.47
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 22470,
     "lab": "Sandoz",
     "0": [
@@ -3509,139 +3751,150 @@
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 22616,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 162.41,
-        "rentabilidade": 42.16
+        "sellout_pvp": 261.37,
+        "rentabilidade": 75.13
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 22616,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 113.39,
-        "rentabilidade": 37.7
+        "sellout_pvp": 242.22,
+        "rentabilidade": 86.75
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 22616,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 238.75,
-        "rentabilidade": 76.0
+        "sellout_pvp": 539.98,
+        "rentabilidade": 173.15
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 22616,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 74.49,
-        "rentabilidade": 26.76
+        "sellout_pvp": 195.18,
+        "rentabilidade": 62.97
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 22675,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 4.92,
-        "rentabilidade": 2.99
+        "sellout_pvp": 56.3,
+        "rentabilidade": 24.59
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 22675,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 187.27,
-        "rentabilidade": 50.35
+        "sellout_pvp": 256.69,
+        "rentabilidade": 81.61
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 22675,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 121.08,
-        "rentabilidade": 40.0
+        "sellout_pvp": 273.4,
+        "rentabilidade": 93.1
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 22675,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 199.27,
-        "rentabilidade": 64.62
+        "sellout_pvp": 285.24,
+        "rentabilidade": 92.42
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
+    "codigo": 22675,
+    "lab": "Sandoz",
+    "0": [
+      {
+        "sellout_pvp": 37.15,
+        "rentabilidade": 11.28
+      }
+    ]
+  },
+  {
+    "data": "20201203",
     "codigo": 22896,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 16.9,
-        "rentabilidade": 6.57
+        "sellout_pvp": 46.31,
+        "rentabilidade": 14.64
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 22896,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 107.62,
-        "rentabilidade": 31.83
+        "sellout_pvp": 379.8,
+        "rentabilidade": 109.21
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 22896,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 92.13,
-        "rentabilidade": 31.96
+        "sellout_pvp": 267.71,
+        "rentabilidade": 95.18
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 22896,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 72.78,
-        "rentabilidade": 27.71
+        "sellout_pvp": 283.39,
+        "rentabilidade": 88.1
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 22896,
     "lab": "Sandoz",
     "0": [
@@ -3652,183 +3905,194 @@
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 23329,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 20.85,
-        "rentabilidade": 10.36
+        "sellout_pvp": 26.94,
+        "rentabilidade": 13.03
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 23329,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 77.82,
-        "rentabilidade": 32.49
+        "sellout_pvp": 130.43,
+        "rentabilidade": 51.01
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 23329,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 153.97,
-        "rentabilidade": 49.33
+        "sellout_pvp": 219.2,
+        "rentabilidade": 71.15
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 23329,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 29.66,
-        "rentabilidade": 12.74
+        "sellout_pvp": 42.75,
+        "rentabilidade": 17.49
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 23825,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 211.29,
-        "rentabilidade": 60.66
+        "sellout_pvp": 307.1,
+        "rentabilidade": 85.59
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 23825,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 176.42,
-        "rentabilidade": 48.42
+        "sellout_pvp": 205.41,
+        "rentabilidade": 55.93
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 23825,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 342.97,
-        "rentabilidade": 109.12
+        "sellout_pvp": 486.24,
+        "rentabilidade": 147.72
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 23825,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 85.12,
-        "rentabilidade": 23.19
+        "sellout_pvp": 121.92,
+        "rentabilidade": 38.25
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
+    "codigo": 23825,
+    "lab": "Sandoz",
+    "0": [
+      {
+        "sellout_pvp": 35.0,
+        "rentabilidade": 15.3
+      }
+    ]
+  },
+  {
+    "data": "20201203",
     "codigo": 23884,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 170.93,
-        "rentabilidade": 41.65
+        "sellout_pvp": 223.29,
+        "rentabilidade": 56.92
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 23884,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 302.82,
-        "rentabilidade": 89.74
+        "sellout_pvp": 638.36,
+        "rentabilidade": 167.48
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 23884,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 355.44,
-        "rentabilidade": 97.23
+        "sellout_pvp": 492.4,
+        "rentabilidade": 136.04
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 23884,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 134.83,
-        "rentabilidade": 33.54
+        "sellout_pvp": 186.81,
+        "rentabilidade": 56.19
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 24104,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 81.72,
-        "rentabilidade": 23.73
+        "sellout_pvp": 110.03,
+        "rentabilidade": 36.52
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 24104,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 213.32,
-        "rentabilidade": 53.89
+        "sellout_pvp": 617.2,
+        "rentabilidade": 162.46
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 24104,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 143.78,
-        "rentabilidade": 50.12
+        "sellout_pvp": 217.14,
+        "rentabilidade": 76.76
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 24104,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 136.87,
-        "rentabilidade": 42.26
+        "sellout_pvp": 141.8,
+        "rentabilidade": 45.53
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 24104,
     "lab": "Sandoz",
     "0": [
@@ -3839,95 +4103,95 @@
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 24414,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 60.84,
-        "rentabilidade": 19.79
+        "sellout_pvp": 201.03,
+        "rentabilidade": 46.79
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 24414,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 161.38,
-        "rentabilidade": 65.53
+        "sellout_pvp": 394.89,
+        "rentabilidade": 140.84
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 24414,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 142.17,
-        "rentabilidade": 33.78
+        "sellout_pvp": 231.78,
+        "rentabilidade": 58.16
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 24414,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 57.89,
-        "rentabilidade": 22.82
+        "sellout_pvp": 166.08,
+        "rentabilidade": 48.3
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 24422,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 127.49,
-        "rentabilidade": 38.79
+        "sellout_pvp": 301.28,
+        "rentabilidade": 94.27
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 24422,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 593.14,
-        "rentabilidade": 179.27
+        "sellout_pvp": 876.12,
+        "rentabilidade": 252.76
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 24422,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 399.13,
-        "rentabilidade": 116.89
+        "sellout_pvp": 756.8,
+        "rentabilidade": 220.26
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 24422,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 452.68,
-        "rentabilidade": 124.64
+        "sellout_pvp": 761.33,
+        "rentabilidade": 208.77
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 24422,
     "lab": "Sandoz",
     "0": [
@@ -3938,52 +4202,107 @@
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 24430,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 133.43,
-        "rentabilidade": 39.56
+        "sellout_pvp": 415.45,
+        "rentabilidade": 123.2
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 24430,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 339.09,
-        "rentabilidade": 93.3
+        "sellout_pvp": 613.34,
+        "rentabilidade": 155.46
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 24430,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 276.02,
-        "rentabilidade": 85.47
+        "sellout_pvp": 450.17,
+        "rentabilidade": 142.89
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 24430,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 337.99,
-        "rentabilidade": 103.05
+        "sellout_pvp": 524.49,
+        "rentabilidade": 168.82
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 24430,
+    "lab": "Sandoz",
+    "0": [
+      {
+        "sellout_pvp": 42.91,
+        "rentabilidade": 14.75
+      }
+    ]
+  },
+  {
+    "data": "20201203",
+    "codigo": 24813,
+    "lab": "GlaxoSmithKline",
+    "0": [
+      {
+        "sellout_pvp": 124.22,
+        "rentabilidade": 41.72
+      }
+    ]
+  },
+  {
+    "data": "20201203",
+    "codigo": 24813,
+    "lab": "MSD",
+    "0": [
+      {
+        "sellout_pvp": 320.76,
+        "rentabilidade": 75.33
+      }
+    ]
+  },
+  {
+    "data": "20201203",
+    "codigo": 24813,
+    "lab": "Mylan",
+    "0": [
+      {
+        "sellout_pvp": 66.5,
+        "rentabilidade": 19.45
+      }
+    ]
+  },
+  {
+    "data": "20201203",
+    "codigo": 24813,
+    "lab": "Pfizer",
+    "0": [
+      {
+        "sellout_pvp": 191.86,
+        "rentabilidade": 62.55
+      }
+    ]
+  },
+  {
+    "data": "20201203",
+    "codigo": 24813,
     "lab": "Sandoz",
     "0": [
       {
@@ -3993,194 +4312,150 @@
     ]
   },
   {
-    "data": "20201202",
-    "codigo": 24813,
-    "lab": "GlaxoSmithKline",
-    "0": [
-      {
-        "sellout_pvp": 40.03,
-        "rentabilidade": 17.41
-      }
-    ]
-  },
-  {
-    "data": "20201202",
-    "codigo": 24813,
-    "lab": "MSD",
-    "0": [
-      {
-        "sellout_pvp": 276.33,
-        "rentabilidade": 63.19
-      }
-    ]
-  },
-  {
-    "data": "20201202",
-    "codigo": 24813,
-    "lab": "Mylan",
-    "0": [
-      {
-        "sellout_pvp": 16.23,
-        "rentabilidade": 5.55
-      }
-    ]
-  },
-  {
-    "data": "20201202",
-    "codigo": 24813,
-    "lab": "Pfizer",
-    "0": [
-      {
-        "sellout_pvp": 84.59,
-        "rentabilidade": 33.1
-      }
-    ]
-  },
-  {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 24821,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 46.62,
-        "rentabilidade": 21.89
+        "sellout_pvp": 76.14,
+        "rentabilidade": 40.43
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 24821,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 112.22,
-        "rentabilidade": 47.94
+        "sellout_pvp": 86.41,
+        "rentabilidade": 47.2
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 24821,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 213.22,
-        "rentabilidade": 60.45
+        "sellout_pvp": 300.21,
+        "rentabilidade": 85.87
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 24821,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 157.62,
-        "rentabilidade": 41.15
+        "sellout_pvp": 264.72,
+        "rentabilidade": 69.56
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 24821,
     "lab": "Sandoz",
     "0": [
       {
-        "sellout_pvp": 7.9,
-        "rentabilidade": 2.68
+        "sellout_pvp": 27.45,
+        "rentabilidade": 9.64
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 25526,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 9.44,
-        "rentabilidade": 2.33
+        "sellout_pvp": 58.15,
+        "rentabilidade": 15.77
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 25526,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 154.97,
-        "rentabilidade": 33.4
+        "sellout_pvp": 445.95,
+        "rentabilidade": 112.05
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 25526,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 66.27,
-        "rentabilidade": 25.69
+        "sellout_pvp": 150.52,
+        "rentabilidade": 56.6
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 25526,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 105.28,
-        "rentabilidade": 29.42
+        "sellout_pvp": 164.64,
+        "rentabilidade": 56.54
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 25631,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 336.44,
-        "rentabilidade": 92.14
+        "sellout_pvp": 486.1,
+        "rentabilidade": 134.94
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 25631,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 80.25,
-        "rentabilidade": 31.55
+        "sellout_pvp": 412.78,
+        "rentabilidade": 109.51
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 25631,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 107.46,
-        "rentabilidade": 33.04
+        "sellout_pvp": 285.55,
+        "rentabilidade": 84.27
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 25631,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 102.66,
-        "rentabilidade": 28.73
+        "sellout_pvp": 370.67,
+        "rentabilidade": 99.62
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 25631,
     "lab": "Sandoz",
     "0": [
@@ -4191,656 +4466,667 @@
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 25747,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 228.9,
-        "rentabilidade": 74.5
+        "sellout_pvp": 313.89,
+        "rentabilidade": 100.63
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 25747,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 60.51,
-        "rentabilidade": 20.23
+        "sellout_pvp": 231.24,
+        "rentabilidade": 78.09
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 25747,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 162.09,
-        "rentabilidade": 54.32
+        "sellout_pvp": 419.26,
+        "rentabilidade": 127.95
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 25747,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 137.44,
-        "rentabilidade": 40.37
+        "sellout_pvp": 244.75,
+        "rentabilidade": 84.28
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 25747,
     "lab": "Sandoz",
     "0": [
       {
-        "sellout_pvp": 7.9,
-        "rentabilidade": 2.68
+        "sellout_pvp": 42.9,
+        "rentabilidade": 17.98
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 26026,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 77.47,
-        "rentabilidade": 27.78
+        "sellout_pvp": 132.02,
+        "rentabilidade": 45.7
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 26026,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 324.0,
-        "rentabilidade": 94.7
+        "sellout_pvp": 492.92,
+        "rentabilidade": 140.81
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 26026,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 146.82,
-        "rentabilidade": 42.76
+        "sellout_pvp": 237.38,
+        "rentabilidade": 68.77
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 26026,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 108.19,
-        "rentabilidade": 35.53
+        "sellout_pvp": 159.64,
+        "rentabilidade": 54.35
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 26026,
     "lab": "Sandoz",
     "0": [
       {
-        "sellout_pvp": 20.62,
-        "rentabilidade": 6.78
+        "sellout_pvp": 39.83,
+        "rentabilidade": 13.77
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 26662,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 61.19,
-        "rentabilidade": 17.07
+        "sellout_pvp": 76.28,
+        "rentabilidade": 21.8
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 26662,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 233.23,
-        "rentabilidade": 95.37
+        "sellout_pvp": 380.43,
+        "rentabilidade": 159.02
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 26662,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 175.42,
-        "rentabilidade": 59.98
+        "sellout_pvp": 265.9,
+        "rentabilidade": 90.7
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 26662,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 55.02,
-        "rentabilidade": 22.96
+        "sellout_pvp": 129.74,
+        "rentabilidade": 41.49
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 26670,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 352.21,
-        "rentabilidade": 95.02
+        "sellout_pvp": 442.51,
+        "rentabilidade": 104.08
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 26670,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 226.27,
-        "rentabilidade": 64.53
+        "sellout_pvp": 574.15,
+        "rentabilidade": 153.32
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 26670,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 219.15,
-        "rentabilidade": 61.21
+        "sellout_pvp": 368.04,
+        "rentabilidade": 99.49
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 26670,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 191.33,
-        "rentabilidade": 72.31
+        "sellout_pvp": 263.81,
+        "rentabilidade": 97.6
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 26670,
     "lab": "Sandoz",
     "0": [
       {
-        "sellout_pvp": 2.37,
-        "rentabilidade": 0.83
+        "sellout_pvp": 18.17,
+        "rentabilidade": 6.19
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 26778,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 22.63,
-        "rentabilidade": 5.93
+        "sellout_pvp": 65.99,
+        "rentabilidade": 16.27
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 26778,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 36.82,
-        "rentabilidade": 20.3
+        "sellout_pvp": 103.25,
+        "rentabilidade": 41.82
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 26778,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 27.39,
-        "rentabilidade": 7.82
+        "sellout_pvp": 37.52,
+        "rentabilidade": 10.99
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 26778,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 18.41,
-        "rentabilidade": 6.71
+        "sellout_pvp": 88.01,
+        "rentabilidade": 24.67
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 26824,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 177.57,
-        "rentabilidade": 46.33
+        "sellout_pvp": 297.4,
+        "rentabilidade": 80.87
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 26824,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 140.04,
-        "rentabilidade": 42.46
+        "sellout_pvp": 495.61,
+        "rentabilidade": 152.97
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 26824,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 76.49,
-        "rentabilidade": 22.55
+        "sellout_pvp": 234.84,
+        "rentabilidade": 72.04
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 26824,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 26.14,
-        "rentabilidade": 11.5
+        "sellout_pvp": 160.33,
+        "rentabilidade": 57.46
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 26824,
     "lab": "Sandoz",
     "0": [
       {
-        "sellout_pvp": 31.71,
-        "rentabilidade": 23.21
+        "sellout_pvp": 43.02,
+        "rentabilidade": 27.52
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 26999,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 9.44,
-        "rentabilidade": 2.22
+        "sellout_pvp": 25.4,
+        "rentabilidade": 6.74
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 26999,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 47.44,
-        "rentabilidade": 28.5
+        "sellout_pvp": 85.69,
+        "rentabilidade": 38.76
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 26999,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 89.28,
-        "rentabilidade": 28.2
+        "sellout_pvp": 216.53,
+        "rentabilidade": 68.4
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 26999,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 20.79,
-        "rentabilidade": 9.2
+        "sellout_pvp": 287.38,
+        "rentabilidade": 98.77
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
+    "codigo": 26999,
+    "lab": "Sandoz",
+    "0": [
+      {
+        "sellout_pvp": 37.15,
+        "rentabilidade": 11.28
+      }
+    ]
+  },
+  {
+    "data": "20201203",
     "codigo": 27006,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 46.76,
-        "rentabilidade": 21.47
+        "sellout_pvp": 99.61,
+        "rentabilidade": 37.15
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 27006,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 465.73,
-        "rentabilidade": 133.09
+        "sellout_pvp": 643.53,
+        "rentabilidade": 197.19
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 27006,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 172.78,
-        "rentabilidade": 58.51
+        "sellout_pvp": 246.9,
+        "rentabilidade": 84.84
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 27006,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 62.68,
-        "rentabilidade": 24.7
+        "sellout_pvp": 125.54,
+        "rentabilidade": 48.05
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 27006,
     "lab": "Sandoz",
     "0": [
       {
-        "sellout_pvp": 15.8,
-        "rentabilidade": 5.36
+        "sellout_pvp": 26.4,
+        "rentabilidade": 10.1
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 27073,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 104.59,
-        "rentabilidade": 39.8
+        "sellout_pvp": 167.99,
+        "rentabilidade": 56.37
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 27073,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 296.39,
-        "rentabilidade": 100.78
+        "sellout_pvp": 520.19,
+        "rentabilidade": 189.17
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 27073,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 263.38,
-        "rentabilidade": 79.18
+        "sellout_pvp": 490.32,
+        "rentabilidade": 149.28
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 27073,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 432.66,
-        "rentabilidade": 83.3
+        "sellout_pvp": 462.33,
+        "rentabilidade": 139.65
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 27073,
     "lab": "Sandoz",
     "0": [
       {
-        "sellout_pvp": 36.42,
-        "rentabilidade": 12.03
+        "sellout_pvp": 76.02,
+        "rentabilidade": 27.43
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 27111,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 81.79,
-        "rentabilidade": 24.4
+        "sellout_pvp": 170.5,
+        "rentabilidade": 61.25
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 27111,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 260.86,
-        "rentabilidade": 71.91
+        "sellout_pvp": 368.38,
+        "rentabilidade": 103.37
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 27111,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 123.79,
-        "rentabilidade": 37.39
+        "sellout_pvp": 260.41,
+        "rentabilidade": 81.69
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 27111,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 71.58,
-        "rentabilidade": 30.26
+        "sellout_pvp": 339.25,
+        "rentabilidade": 103.22
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 27170,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 137.88,
-        "rentabilidade": 35.66
+        "sellout_pvp": 282.57,
+        "rentabilidade": 72.65
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 27170,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 150.26,
-        "rentabilidade": 36.36
+        "sellout_pvp": 300.42,
+        "rentabilidade": 66.05
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 27170,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 37.99,
-        "rentabilidade": 10.29
+        "sellout_pvp": 187.84,
+        "rentabilidade": 52.95
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 27170,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 30.66,
-        "rentabilidade": 10.8
+        "sellout_pvp": 50.47,
+        "rentabilidade": 17.63
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 27170,
     "lab": "Sandoz",
     "0": [
       {
-        "sellout_pvp": 4.82,
-        "rentabilidade": 1.72
+        "sellout_pvp": 15.42,
+        "rentabilidade": 7.34
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 27219,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 130.04,
-        "rentabilidade": 32.74
+        "sellout_pvp": 352.35,
+        "rentabilidade": 99.9
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 27219,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 627.92,
-        "rentabilidade": 129.99
+        "sellout_pvp": 722.98,
+        "rentabilidade": 163.16
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 27219,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 260.18,
-        "rentabilidade": 75.52
+        "sellout_pvp": 574.97,
+        "rentabilidade": 172.1
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 27219,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 72.79,
-        "rentabilidade": 26.05
+        "sellout_pvp": 500.28,
+        "rentabilidade": 160.29
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 27219,
     "lab": "Sandoz",
     "0": [
       {
-        "sellout_pvp": 45.05,
-        "rentabilidade": 15.66
+        "sellout_pvp": 52.05,
+        "rentabilidade": 18.59
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 27480,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 52.55,
-        "rentabilidade": 13.16
+        "sellout_pvp": 57.12,
+        "rentabilidade": 15.26
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 27480,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 195.35,
-        "rentabilidade": 53.71
+        "sellout_pvp": 421.75,
+        "rentabilidade": 113.64
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 27480,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 93.72,
-        "rentabilidade": 27.64
+        "sellout_pvp": 200.68,
+        "rentabilidade": 59.76
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 27480,
     "lab": "Pfizer",
     "0": [
@@ -4851,106 +5137,117 @@
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
+    "codigo": 27480,
+    "lab": "Sandoz",
+    "0": [
+      {
+        "sellout_pvp": 15.8,
+        "rentabilidade": 5.36
+      }
+    ]
+  },
+  {
+    "data": "20201203",
     "codigo": 33901,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 72.07,
-        "rentabilidade": 20.45
+        "sellout_pvp": 248.61,
+        "rentabilidade": 70.03
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 33901,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 148.33,
-        "rentabilidade": 49.4
+        "sellout_pvp": 163.09,
+        "rentabilidade": 53.35
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 33901,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 238.79,
-        "rentabilidade": 81.03
+        "sellout_pvp": 380.89,
+        "rentabilidade": 131.26
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 33901,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 162.29,
-        "rentabilidade": 53.91
+        "sellout_pvp": 355.81,
+        "rentabilidade": 109.5
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 33901,
     "lab": "Sandoz",
     "0": [
       {
-        "sellout_pvp": 8.65,
-        "rentabilidade": 2.7
+        "sellout_pvp": 18.92,
+        "rentabilidade": 6.53
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 34100,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 57.79,
-        "rentabilidade": 19.87
+        "sellout_pvp": 81.59,
+        "rentabilidade": 27.49
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 34100,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 378.8,
-        "rentabilidade": 104.21
+        "sellout_pvp": 709.85,
+        "rentabilidade": 211.55
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 34100,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 105.98,
-        "rentabilidade": 33.96
+        "sellout_pvp": 224.49,
+        "rentabilidade": 77.49
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 34100,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 223.08,
-        "rentabilidade": 56.94
+        "sellout_pvp": 442.99,
+        "rentabilidade": 108.7
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 34100,
     "lab": "Sandoz",
     "0": [
@@ -4961,7 +5258,7 @@
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 34118,
     "lab": "GlaxoSmithKline",
     "0": [
@@ -4972,18 +5269,18 @@
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 34118,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 86.92,
-        "rentabilidade": 18.36
+        "sellout_pvp": 91.74,
+        "rentabilidade": 19.98
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 34118,
     "lab": "Mylan",
     "0": [
@@ -4994,62 +5291,62 @@
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 34118,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 83.76,
-        "rentabilidade": 21.81
+        "sellout_pvp": 102.43,
+        "rentabilidade": 26.31
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 34134,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 34.04,
-        "rentabilidade": 13.59
+        "sellout_pvp": 77.83,
+        "rentabilidade": 25.72
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 34134,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 157.23,
-        "rentabilidade": 38.85
+        "sellout_pvp": 203.15,
+        "rentabilidade": 58.44
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 34134,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 87.19,
-        "rentabilidade": 27.03
+        "sellout_pvp": 124.03,
+        "rentabilidade": 38.16
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 34134,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 44.98,
-        "rentabilidade": 16.63
+        "sellout_pvp": 70.3,
+        "rentabilidade": 27.05
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 34134,
     "lab": "Sandoz",
     "0": [
@@ -5060,161 +5357,150 @@
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 34150,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 245.33,
-        "rentabilidade": 77.44
+        "sellout_pvp": 314.74,
+        "rentabilidade": 103.89
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 34150,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 105.18,
-        "rentabilidade": 50.73
+        "sellout_pvp": 281.04,
+        "rentabilidade": 109.04
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 34150,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 226.57,
-        "rentabilidade": 83.8
+        "sellout_pvp": 431.59,
+        "rentabilidade": 154.27
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 34150,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 310.76,
-        "rentabilidade": 81.98
+        "sellout_pvp": 409.57,
+        "rentabilidade": 119.25
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 34150,
     "lab": "Sandoz",
     "0": [
       {
-        "sellout_pvp": 32.41,
-        "rentabilidade": 12.48
+        "sellout_pvp": 40.31,
+        "rentabilidade": 15.16
       }
     ]
   },
   {
-    "data": "20201202",
-    "codigo": 34860,
+    "data": "20201203",
+    "codigo": 34916,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 65.8820896824,
-        "rentabilidade": 24.9905358129
+        "sellout_pvp": 64.7682985552,
+        "rentabilidade": 19.017473767
       }
     ]
   },
   {
-    "data": "20201202",
-    "codigo": 34860,
+    "data": "20201203",
+    "codigo": 34916,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 260.5373920852,
-        "rentabilidade": 76.0118821716
+        "sellout_pvp": 218.4886683996,
+        "rentabilidade": 53.7405873785
       }
     ]
   },
   {
-    "data": "20201202",
-    "codigo": 34860,
+    "data": "20201203",
+    "codigo": 34916,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 124.1319719888,
-        "rentabilidade": 34.7694586853
+        "sellout_pvp": 322.6010914044,
+        "rentabilidade": 98.462306984
       }
     ]
   },
   {
-    "data": "20201202",
-    "codigo": 34860,
+    "data": "20201203",
+    "codigo": 34916,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 10.09,
-        "rentabilidade": 3.7035155678
+        "sellout_pvp": 503.6306537138,
+        "rentabilidade": 147.2861015818
       }
     ]
   },
   {
-    "data": "20201202",
-    "codigo": 34860,
-    "lab": "Sandoz",
-    "0": [
-      {
-        "sellout_pvp": 15.8,
-        "rentabilidade": 5.2603703704
-      }
-    ]
-  },
-  {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 35254,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 31.5,
-        "rentabilidade": 9.28
+        "sellout_pvp": 195.78,
+        "rentabilidade": 56.55
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 35254,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 196.09,
-        "rentabilidade": 53.65
+        "sellout_pvp": 485.83,
+        "rentabilidade": 120.55
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 35254,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 297.29,
-        "rentabilidade": 84.92
+        "sellout_pvp": 339.16,
+        "rentabilidade": 99.02
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 35254,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 30.1,
-        "rentabilidade": 11.6
+        "sellout_pvp": 43.17,
+        "rentabilidade": 17.45
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 35254,
     "lab": "Sandoz",
     "0": [
@@ -5225,62 +5511,62 @@
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 35491,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 24.95,
-        "rentabilidade": 7.35
+        "sellout_pvp": 43.54,
+        "rentabilidade": 13.85
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 35785,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 20.85,
-        "rentabilidade": 9.38
+        "sellout_pvp": 84.85,
+        "rentabilidade": 25.79
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 35785,
     "lab": "MSD",
     "0": [
       {
-        "sellout_pvp": 18.39,
-        "rentabilidade": 7.72
+        "sellout_pvp": 126.08,
+        "rentabilidade": 36.32
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 35785,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 89.78,
-        "rentabilidade": 31.01
+        "sellout_pvp": 181.63,
+        "rentabilidade": 60.7
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 35785,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 99.62,
-        "rentabilidade": 28.87
+        "sellout_pvp": 104.79,
+        "rentabilidade": 30.29
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 35785,
     "lab": "Sandoz",
     "0": [
@@ -5291,18 +5577,18 @@
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 35858,
     "lab": "GlaxoSmithKline",
     "0": [
       {
-        "sellout_pvp": 4.92,
-        "rentabilidade": 2.83
+        "sellout_pvp": 18.84,
+        "rentabilidade": 6.88
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 35858,
     "lab": "MSD",
     "0": [
@@ -5313,24 +5599,35 @@
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 35858,
     "lab": "Mylan",
     "0": [
       {
-        "sellout_pvp": 135.67,
-        "rentabilidade": 43.77
+        "sellout_pvp": 210.06,
+        "rentabilidade": 67.39
       }
     ]
   },
   {
-    "data": "20201202",
+    "data": "20201203",
     "codigo": 35858,
     "lab": "Pfizer",
     "0": [
       {
-        "sellout_pvp": 219.78,
-        "rentabilidade": 63.24
+        "sellout_pvp": 311.11,
+        "rentabilidade": 86.46
+      }
+    ]
+  },
+  {
+    "data": "20201203",
+    "codigo": 35858,
+    "lab": "Sandoz",
+    "0": [
+      {
+        "sellout_pvp": 5.3,
+        "rentabilidade": 2.81
       }
     ]
   }
