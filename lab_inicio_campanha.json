@@ -1,34 +1,34 @@
 [
   {
-    "data": "20201210",
-    "n_farmacias": 0.2155172414,
+    "data": "20201211",
+    "n_farmacias": 0.2327586207,
     "cod_api": 1,
     "0": [
       {
-        "quantidade": 29,
-        "sellout": 375.57
+        "quantidade": 32,
+        "sellout": 414.13
       }
     ]
   },
   {
-    "data": "20201210",
-    "n_farmacias": 0.6810344828,
+    "data": "20201211",
+    "n_farmacias": 0.7327586207,
     "cod_api": 3,
     "0": [
       {
-        "quantidade": 232,
-        "sellout": 1506.6875
+        "quantidade": 268,
+        "sellout": 1731.345
       }
     ]
   },
   {
-    "data": "20201210",
-    "n_farmacias": 0.8189655172,
+    "data": "20201211",
+    "n_farmacias": 0.8275862069,
     "cod_api": 2,
     "0": [
       {
-        "quantidade": 431,
-        "sellout": 4685.2925
+        "quantidade": 475,
+        "sellout": 5186.0775
       }
     ]
   }
