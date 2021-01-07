@@ -15,11 +15,11 @@ def sitemap():
     return send_from_directory(api.static_folder, 'kuanto_kusta.xml')
 
 @api.route('/MNQXEZDFPBPXI4TJ.csv', methods=['GET'])
-def sitemap():
+def sitemap_tri():
     return send_from_directory(api.static_folder, 'cardex_tri.csv')
 
 @api.route('/MNQXEZDFPBPXA3DBORQQ====.csv', methods=['GET'])
-def sitemap():
+def sitemap_plata():
     return send_from_directory(api.static_folder, 'cardex_plata.csv')
 
 
