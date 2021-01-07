@@ -14,11 +14,11 @@ def get_companies():
 def sitemap():
     return send_from_directory(api.static_folder, 'kuanto_kusta.xml')
 
-@api.route('/MNQXEZDFPBPXI4TJ', methods=['GET'])
+@api.route('/MNQXEZDFPBPXI4TJ.csv', methods=['GET'])
 def sitemap_tri():
     return send_from_directory(api.static_folder, 'cardex_tri.csv')
 
-@api.route('/MNQXEZDFPBPXA3DBORQQ====', methods=['GET'])
+@api.route('/MNQXEZDFPBPXA3DBORQQ====.csv', methods=['GET'])
 def sitemap_plata():
     return send_from_directory(api.static_folder, 'cardex_plata.csv')
 
