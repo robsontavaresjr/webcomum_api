@@ -1,16 +1,8 @@
 [
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 671,
     "0": [
-      {
-        "mes": "01",
-        "reverteu": 1728.24
-      },
-      {
-        "mes": "10",
-        "reverteu": 6773.77
-      },
       {
         "mes": "11",
         "reverteu": 5793.81
@@ -18,13 +10,57 @@
       {
         "mes": "12",
         "reverteu": 4721.37
+      },
+      {
+        "mes": "10",
+        "reverteu": 6773.77
+      },
+      {
+        "mes": "01",
+        "reverteu": 2076.53
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 1554,
     "0": [
+      {
+        "mes": "12",
+        "reverteu": 2193.84
+      },
+      {
+        "mes": "02",
+        "reverteu": 3676.41
+      },
+      {
+        "mes": "01",
+        "reverteu": 520.37
+      },
+      {
+        "mes": "04",
+        "reverteu": 1828.58
+      },
+      {
+        "mes": "10",
+        "reverteu": 4563.41
+      },
+      {
+        "mes": "03",
+        "reverteu": 7044.72
+      },
+      {
+        "mes": "11",
+        "reverteu": 3079.66
+      },
+      {
+        "mes": "05",
+        "reverteu": 3718.66
+      },
+      {
+        "mes": "07",
+        "reverteu": 2212.42
+      },
       {
         "mes": "09",
         "reverteu": 3221.42
@@ -34,157 +70,121 @@
         "reverteu": 1219.81
       },
       {
-        "mes": "10",
-        "reverteu": 4563.41
-      },
-      {
-        "mes": "05",
-        "reverteu": 3718.66
-      },
-      {
-        "mes": "01",
-        "reverteu": 509.12
-      },
-      {
-        "mes": "07",
-        "reverteu": 2212.42
-      },
-      {
-        "mes": "03",
-        "reverteu": 7044.72
-      },
-      {
-        "mes": "04",
-        "reverteu": 1828.58
-      },
-      {
-        "mes": "12",
-        "reverteu": 2193.84
-      },
-      {
-        "mes": "11",
-        "reverteu": 3079.66
-      },
-      {
-        "mes": "02",
-        "reverteu": 3676.41
-      },
-      {
         "mes": "08",
         "reverteu": 2835.07
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 1627,
     "0": [
       {
-        "mes": "09",
-        "reverteu": 3560.3
-      },
-      {
-        "mes": "08",
-        "reverteu": 3508.92
-      },
-      {
-        "mes": "01",
-        "reverteu": 657.8
+        "mes": "04",
+        "reverteu": 3959.16
       },
       {
         "mes": "06",
         "reverteu": 3890.54
       },
       {
-        "mes": "12",
-        "reverteu": 3556.82
-      },
-      {
-        "mes": "04",
-        "reverteu": 3959.16
+        "mes": "07",
+        "reverteu": 4010.51
       },
       {
         "mes": "11",
         "reverteu": 3670.59
       },
       {
-        "mes": "02",
-        "reverteu": 3574.94
-      },
-      {
-        "mes": "07",
-        "reverteu": 4010.51
+        "mes": "08",
+        "reverteu": 3508.92
       },
       {
         "mes": "03",
         "reverteu": 5221.87
       },
       {
-        "mes": "05",
-        "reverteu": 4155.58
+        "mes": "09",
+        "reverteu": 3560.3
+      },
+      {
+        "mes": "12",
+        "reverteu": 3556.82
+      },
+      {
+        "mes": "01",
+        "reverteu": 810.08
+      },
+      {
+        "mes": "02",
+        "reverteu": 3574.94
       },
       {
         "mes": "10",
         "reverteu": 4774.96
+      },
+      {
+        "mes": "05",
+        "reverteu": 4155.58
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 1651,
     "0": [
       {
-        "mes": "10",
-        "reverteu": 2217.62
+        "mes": "11",
+        "reverteu": 1729.8
       },
       {
-        "mes": "07",
-        "reverteu": 1811.41
+        "mes": "06",
+        "reverteu": 1262.36
       },
       {
         "mes": "04",
         "reverteu": 2477.77
       },
       {
-        "mes": "12",
-        "reverteu": 2574.79
-      },
-      {
-        "mes": "03",
-        "reverteu": 5251.43
-      },
-      {
-        "mes": "01",
-        "reverteu": 334.39
-      },
-      {
-        "mes": "08",
-        "reverteu": 2302.29
-      },
-      {
-        "mes": "09",
-        "reverteu": 1756.11
-      },
-      {
-        "mes": "11",
-        "reverteu": 1729.8
+        "mes": "07",
+        "reverteu": 1811.41
       },
       {
         "mes": "02",
         "reverteu": 3022.6
       },
       {
+        "mes": "10",
+        "reverteu": 2217.62
+      },
+      {
         "mes": "05",
         "reverteu": 1313.23
       },
       {
-        "mes": "06",
-        "reverteu": 1262.36
+        "mes": "09",
+        "reverteu": 1756.11
+      },
+      {
+        "mes": "12",
+        "reverteu": 2574.79
+      },
+      {
+        "mes": "08",
+        "reverteu": 2302.29
+      },
+      {
+        "mes": "01",
+        "reverteu": 464.44
+      },
+      {
+        "mes": "03",
+        "reverteu": 5251.43
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 1708,
     "0": [
       {
@@ -192,128 +192,112 @@
         "reverteu": 7349.78
       },
       {
-        "mes": "08",
-        "reverteu": 7091.27
-      },
-      {
-        "mes": "11",
-        "reverteu": 7732.52
+        "mes": "04",
+        "reverteu": 7280.61
       },
       {
         "mes": "09",
         "reverteu": 7323.46
       },
       {
+        "mes": "11",
+        "reverteu": 7732.52
+      },
+      {
         "mes": "03",
         "reverteu": 9101.18
       },
       {
-        "mes": "07",
-        "reverteu": 7790.13
+        "mes": "01",
+        "reverteu": 2033.53
       },
       {
         "mes": "06",
         "reverteu": 7392.88
       },
       {
-        "mes": "12",
-        "reverteu": 6250.56
+        "mes": "07",
+        "reverteu": 7790.13
       },
       {
-        "mes": "01",
-        "reverteu": 1802.71
+        "mes": "10",
+        "reverteu": 11252.95
+      },
+      {
+        "mes": "08",
+        "reverteu": 7091.27
       },
       {
         "mes": "02",
         "reverteu": 8156.25
       },
       {
-        "mes": "04",
-        "reverteu": 7280.61
-      },
-      {
-        "mes": "10",
-        "reverteu": 11252.95
+        "mes": "12",
+        "reverteu": 6250.56
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 1759,
     "0": [
       {
-        "mes": "03",
-        "reverteu": 7724.22
-      },
-      {
         "mes": "01",
-        "reverteu": 1930.73
+        "reverteu": 2214.7
       },
       {
-        "mes": "06",
-        "reverteu": 5485.3
-      },
-      {
-        "mes": "05",
-        "reverteu": 5234.68
-      },
-      {
-        "mes": "02",
-        "reverteu": 7092.74
-      },
-      {
-        "mes": "12",
-        "reverteu": 5823.29
-      },
-      {
-        "mes": "11",
-        "reverteu": 4627.8
-      },
-      {
-        "mes": "08",
-        "reverteu": 4725.91
+        "mes": "09",
+        "reverteu": 6222.29
       },
       {
         "mes": "04",
         "reverteu": 5955.42
       },
       {
+        "mes": "02",
+        "reverteu": 7092.74
+      },
+      {
         "mes": "10",
         "reverteu": 8239.41
+      },
+      {
+        "mes": "08",
+        "reverteu": 4725.91
+      },
+      {
+        "mes": "11",
+        "reverteu": 4627.8
+      },
+      {
+        "mes": "06",
+        "reverteu": 5485.3
+      },
+      {
+        "mes": "03",
+        "reverteu": 7724.22
+      },
+      {
+        "mes": "05",
+        "reverteu": 5234.68
       },
       {
         "mes": "07",
         "reverteu": 7179.13
       },
       {
-        "mes": "09",
-        "reverteu": 6222.29
+        "mes": "12",
+        "reverteu": 5823.29
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 1899,
     "0": [
       {
-        "mes": "12",
-        "reverteu": 3106.55
-      },
-      {
         "mes": "11",
         "reverteu": 3137.49
-      },
-      {
-        "mes": "07",
-        "reverteu": 140.31
-      },
-      {
-        "mes": "10",
-        "reverteu": 5167.67
-      },
-      {
-        "mes": "01",
-        "reverteu": 613.13
       },
       {
         "mes": "09",
@@ -322,17 +306,29 @@
       {
         "mes": "08",
         "reverteu": 4238.1
+      },
+      {
+        "mes": "01",
+        "reverteu": 742.71
+      },
+      {
+        "mes": "12",
+        "reverteu": 3106.55
+      },
+      {
+        "mes": "07",
+        "reverteu": 140.31
+      },
+      {
+        "mes": "10",
+        "reverteu": 5167.67
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 2038,
     "0": [
-      {
-        "mes": "10",
-        "reverteu": 4233.76
-      },
       {
         "mes": "08",
         "reverteu": 3830.55
@@ -342,238 +338,262 @@
         "reverteu": 3819.31
       },
       {
-        "mes": "11",
-        "reverteu": 3541.75
-      },
-      {
-        "mes": "07",
-        "reverteu": 3583.04
-      },
-      {
-        "mes": "03",
-        "reverteu": 5729.71
-      },
-      {
         "mes": "12",
         "reverteu": 1851.09
       },
       {
-        "mes": "09",
-        "reverteu": 4205.72
+        "mes": "10",
+        "reverteu": 4233.76
       },
       {
-        "mes": "06",
-        "reverteu": 4002.84
+        "mes": "11",
+        "reverteu": 3541.75
+      },
+      {
+        "mes": "04",
+        "reverteu": 2460.05
       },
       {
         "mes": "01",
-        "reverteu": 1862.47
+        "reverteu": 1970.72
       },
       {
         "mes": "02",
         "reverteu": 4743.52
       },
       {
-        "mes": "04",
-        "reverteu": 2460.05
-      }
-    ]
-  },
-  {
-    "data": "20210106",
-    "cod_anf": 2062,
-    "0": [
-      {
-        "mes": "02",
-        "reverteu": 1680.55
-      },
-      {
         "mes": "03",
-        "reverteu": 717.02
-      }
-    ]
-  },
-  {
-    "data": "20210106",
-    "cod_anf": 2569,
-    "0": [
-      {
-        "mes": "01",
-        "reverteu": 267.09
+        "reverteu": 5729.71
       },
       {
         "mes": "07",
-        "reverteu": 2969.57
+        "reverteu": 3583.04
       },
       {
-        "mes": "05",
-        "reverteu": 3530.34
+        "mes": "06",
+        "reverteu": 4002.84
       },
       {
         "mes": "09",
+        "reverteu": 4205.72
+      }
+    ]
+  },
+  {
+    "data": "20210107",
+    "cod_anf": 2062,
+    "0": [
+      {
+        "mes": "03",
+        "reverteu": 717.02
+      },
+      {
+        "mes": "02",
+        "reverteu": 1680.55
+      }
+    ]
+  },
+  {
+    "data": "20210107",
+    "cod_anf": 2569,
+    "0": [
+      {
+        "mes": "09",
         "reverteu": 2510.86
-      },
-      {
-        "mes": "04",
-        "reverteu": 2308.5
-      },
-      {
-        "mes": "10",
-        "reverteu": 5281.26
       },
       {
         "mes": "12",
         "reverteu": 2646.18
       },
       {
+        "mes": "11",
+        "reverteu": 2260.36
+      },
+      {
+        "mes": "01",
+        "reverteu": 317.47
+      },
+      {
+        "mes": "05",
+        "reverteu": 3530.34
+      },
+      {
+        "mes": "07",
+        "reverteu": 2969.57
+      },
+      {
         "mes": "03",
         "reverteu": 3906.91
+      },
+      {
+        "mes": "06",
+        "reverteu": 2196.04
+      },
+      {
+        "mes": "04",
+        "reverteu": 2308.5
       },
       {
         "mes": "02",
         "reverteu": 3038.12
       },
       {
-        "mes": "11",
-        "reverteu": 2260.36
+        "mes": "10",
+        "reverteu": 5281.26
       },
       {
         "mes": "08",
         "reverteu": 2459.55
-      },
-      {
-        "mes": "06",
-        "reverteu": 2196.04
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 2968,
     "0": [
       {
-        "mes": "04",
-        "reverteu": 4823.28
-      },
-      {
         "mes": "10",
         "reverteu": 4812.19
-      },
-      {
-        "mes": "12",
-        "reverteu": 2871.82
       },
       {
         "mes": "05",
         "reverteu": 3094.0
       },
       {
+        "mes": "03",
+        "reverteu": 5185.7
+      },
+      {
+        "mes": "04",
+        "reverteu": 4823.28
+      },
+      {
+        "mes": "12",
+        "reverteu": 2871.82
+      },
+      {
         "mes": "06",
         "reverteu": 4757.74
       },
       {
-        "mes": "11",
-        "reverteu": 4591.29
-      },
-      {
-        "mes": "01",
-        "reverteu": 1375.6
-      },
-      {
-        "mes": "02",
-        "reverteu": 3033.58
-      },
-      {
-        "mes": "03",
-        "reverteu": 5185.7
+        "mes": "07",
+        "reverteu": 3881.78
       },
       {
         "mes": "08",
         "reverteu": 4891.6
       },
       {
+        "mes": "02",
+        "reverteu": 3033.58
+      },
+      {
         "mes": "09",
         "reverteu": 3730.63
       },
       {
-        "mes": "07",
-        "reverteu": 3881.78
+        "mes": "01",
+        "reverteu": 1606.8
+      },
+      {
+        "mes": "11",
+        "reverteu": 4591.29
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 3719,
     "0": [
       {
-        "mes": "03",
-        "reverteu": 6359.08
+        "mes": "12",
+        "reverteu": 3030.28
+      },
+      {
+        "mes": "10",
+        "reverteu": 6318.11
       },
       {
         "mes": "02",
         "reverteu": 3553.8
       },
       {
-        "mes": "04",
-        "reverteu": 1888.32
-      },
-      {
         "mes": "01",
-        "reverteu": 1181.83
-      },
-      {
-        "mes": "12",
-        "reverteu": 3030.28
-      },
-      {
-        "mes": "11",
-        "reverteu": 3724.77
-      },
-      {
-        "mes": "08",
-        "reverteu": 3874.32
+        "reverteu": 1361.5
       },
       {
         "mes": "09",
         "reverteu": 3102.02
       },
       {
+        "mes": "05",
+        "reverteu": 4215.86
+      },
+      {
+        "mes": "03",
+        "reverteu": 6359.08
+      },
+      {
         "mes": "07",
         "reverteu": 3286.79
       },
       {
-        "mes": "05",
-        "reverteu": 4215.86
+        "mes": "08",
+        "reverteu": 3874.32
       },
       {
         "mes": "06",
         "reverteu": 2504.85
       },
       {
-        "mes": "10",
-        "reverteu": 6318.11
+        "mes": "11",
+        "reverteu": 3724.77
+      },
+      {
+        "mes": "04",
+        "reverteu": 1888.32
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 3824,
     "0": [
+      {
+        "mes": "09",
+        "reverteu": 2766.75
+      },
+      {
+        "mes": "06",
+        "reverteu": 3323.52
+      },
+      {
+        "mes": "10",
+        "reverteu": 4883.55
+      },
       {
         "mes": "12",
         "reverteu": 3865.8
       },
       {
-        "mes": "03",
-        "reverteu": 4505.74
+        "mes": "01",
+        "reverteu": 764.63
       },
       {
         "mes": "05",
         "reverteu": 3741.74
       },
       {
-        "mes": "01",
-        "reverteu": 624.75
+        "mes": "07",
+        "reverteu": 3421.47
+      },
+      {
+        "mes": "02",
+        "reverteu": 3471.15
+      },
+      {
+        "mes": "03",
+        "reverteu": 4505.74
       },
       {
         "mes": "08",
@@ -586,56 +606,28 @@
       {
         "mes": "04",
         "reverteu": 2269.2
-      },
-      {
-        "mes": "09",
-        "reverteu": 2766.75
-      },
-      {
-        "mes": "07",
-        "reverteu": 3421.47
-      },
-      {
-        "mes": "02",
-        "reverteu": 3471.15
-      },
-      {
-        "mes": "06",
-        "reverteu": 3323.52
-      },
-      {
-        "mes": "10",
-        "reverteu": 4883.55
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 3948,
     "0": [
       {
-        "mes": "01",
-        "reverteu": 1278.52
-      },
-      {
         "mes": "06",
         "reverteu": 6997.78
+      },
+      {
+        "mes": "02",
+        "reverteu": 8544.33
       },
       {
         "mes": "11",
         "reverteu": 7551.76
       },
       {
-        "mes": "10",
-        "reverteu": 9720.01
-      },
-      {
-        "mes": "04",
-        "reverteu": 7705.94
-      },
-      {
-        "mes": "05",
-        "reverteu": 7023.69
+        "mes": "08",
+        "reverteu": 7000.94
       },
       {
         "mes": "03",
@@ -646,25 +638,33 @@
         "reverteu": 6067.51
       },
       {
-        "mes": "07",
-        "reverteu": 8375.76
+        "mes": "10",
+        "reverteu": 9720.01
       },
       {
-        "mes": "02",
-        "reverteu": 8544.33
+        "mes": "01",
+        "reverteu": 1590.95
+      },
+      {
+        "mes": "07",
+        "reverteu": 8375.76
       },
       {
         "mes": "09",
         "reverteu": 6847.79
       },
       {
-        "mes": "08",
-        "reverteu": 7000.94
+        "mes": "05",
+        "reverteu": 7023.69
+      },
+      {
+        "mes": "04",
+        "reverteu": 7705.94
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 3972,
     "0": [
       {
@@ -672,107 +672,107 @@
         "reverteu": 3917.82
       },
       {
-        "mes": "12",
-        "reverteu": 4232.37
-      },
-      {
-        "mes": "01",
-        "reverteu": 882.55
-      },
-      {
-        "mes": "04",
-        "reverteu": 3207.97
-      },
-      {
         "mes": "11",
         "reverteu": 7314.95
-      },
-      {
-        "mes": "08",
-        "reverteu": 3477.4
-      },
-      {
-        "mes": "06",
-        "reverteu": 3779.85
-      },
-      {
-        "mes": "03",
-        "reverteu": 8071.21
-      },
-      {
-        "mes": "09",
-        "reverteu": 3807.55
-      },
-      {
-        "mes": "10",
-        "reverteu": 5764.08
       },
       {
         "mes": "07",
         "reverteu": 5057.1
       },
       {
+        "mes": "10",
+        "reverteu": 5764.08
+      },
+      {
+        "mes": "12",
+        "reverteu": 4232.37
+      },
+      {
         "mes": "02",
         "reverteu": 5026.22
+      },
+      {
+        "mes": "09",
+        "reverteu": 3807.55
+      },
+      {
+        "mes": "08",
+        "reverteu": 3477.4
+      },
+      {
+        "mes": "03",
+        "reverteu": 8071.21
+      },
+      {
+        "mes": "06",
+        "reverteu": 3779.85
+      },
+      {
+        "mes": "01",
+        "reverteu": 1103.36
+      },
+      {
+        "mes": "04",
+        "reverteu": 3207.97
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 4243,
     "0": [
       {
-        "mes": "07",
-        "reverteu": 4109.4
-      },
-      {
-        "mes": "04",
-        "reverteu": 5598.28
-      },
-      {
-        "mes": "03",
-        "reverteu": 8571.15
-      },
-      {
-        "mes": "10",
-        "reverteu": 7600.5
-      },
-      {
-        "mes": "06",
-        "reverteu": 7278.44
-      },
-      {
-        "mes": "01",
-        "reverteu": 1258.53
-      },
-      {
-        "mes": "09",
-        "reverteu": 8257.88
-      },
-      {
-        "mes": "02",
-        "reverteu": 5472.88
+        "mes": "12",
+        "reverteu": 5750.12
       },
       {
         "mes": "05",
         "reverteu": 4655.94
       },
       {
-        "mes": "12",
-        "reverteu": 5750.12
+        "mes": "07",
+        "reverteu": 4109.4
       },
       {
-        "mes": "08",
-        "reverteu": 5319.9
+        "mes": "03",
+        "reverteu": 8571.15
+      },
+      {
+        "mes": "06",
+        "reverteu": 7278.44
+      },
+      {
+        "mes": "04",
+        "reverteu": 5598.28
+      },
+      {
+        "mes": "09",
+        "reverteu": 8257.88
       },
       {
         "mes": "11",
         "reverteu": 4332.79
+      },
+      {
+        "mes": "02",
+        "reverteu": 5472.88
+      },
+      {
+        "mes": "01",
+        "reverteu": 1442.71
+      },
+      {
+        "mes": "10",
+        "reverteu": 7600.5
+      },
+      {
+        "mes": "08",
+        "reverteu": 5319.9
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 4251,
     "0": [
       {
@@ -780,32 +780,16 @@
         "reverteu": 16220.65
       },
       {
-        "mes": "12",
-        "reverteu": 10226.47
-      },
-      {
-        "mes": "04",
-        "reverteu": 10787.14
-      },
-      {
-        "mes": "01",
-        "reverteu": 1124.74
-      },
-      {
-        "mes": "09",
-        "reverteu": 11527.63
-      },
-      {
-        "mes": "06",
-        "reverteu": 10405.56
-      },
-      {
         "mes": "10",
         "reverteu": 16144.11
       },
       {
-        "mes": "11",
-        "reverteu": 12125.36
+        "mes": "12",
+        "reverteu": 10226.47
+      },
+      {
+        "mes": "01",
+        "reverteu": 1467.28
       },
       {
         "mes": "07",
@@ -820,212 +804,208 @@
         "reverteu": 10245.99
       },
       {
+        "mes": "11",
+        "reverteu": 12125.36
+      },
+      {
+        "mes": "04",
+        "reverteu": 10787.14
+      },
+      {
         "mes": "02",
         "reverteu": 12498.53
+      },
+      {
+        "mes": "09",
+        "reverteu": 11527.63
+      },
+      {
+        "mes": "06",
+        "reverteu": 10405.56
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 4570,
     "0": [
       {
-        "mes": "09",
-        "reverteu": 5545.65
-      },
-      {
-        "mes": "11",
-        "reverteu": 6349.71
-      },
-      {
-        "mes": "02",
-        "reverteu": 9447.23
-      },
-      {
-        "mes": "01",
-        "reverteu": 3558.2
-      },
-      {
-        "mes": "04",
-        "reverteu": 6906.62
-      },
-      {
-        "mes": "08",
-        "reverteu": 5832.54
+        "mes": "06",
+        "reverteu": 5781.98
       },
       {
         "mes": "03",
         "reverteu": 9546.89
       },
       {
-        "mes": "10",
-        "reverteu": 8200.68
-      },
-      {
-        "mes": "07",
-        "reverteu": 7102.69
-      },
-      {
-        "mes": "06",
-        "reverteu": 5781.98
+        "mes": "02",
+        "reverteu": 9447.23
       },
       {
         "mes": "05",
         "reverteu": 6282.22
       },
       {
+        "mes": "01",
+        "reverteu": 3679.94
+      },
+      {
+        "mes": "08",
+        "reverteu": 5832.54
+      },
+      {
+        "mes": "07",
+        "reverteu": 7102.69
+      },
+      {
+        "mes": "11",
+        "reverteu": 6349.71
+      },
+      {
         "mes": "12",
         "reverteu": 5019.84
+      },
+      {
+        "mes": "10",
+        "reverteu": 8200.68
+      },
+      {
+        "mes": "04",
+        "reverteu": 6906.62
+      },
+      {
+        "mes": "09",
+        "reverteu": 5545.65
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 4901,
     "0": [
-      {
-        "mes": "03",
-        "reverteu": 13942.06
-      },
-      {
-        "mes": "07",
-        "reverteu": 8905.37
-      },
-      {
-        "mes": "09",
-        "reverteu": 8112.17
-      },
-      {
-        "mes": "12",
-        "reverteu": 2004.38
-      },
       {
         "mes": "10",
         "reverteu": 9734.53
       },
       {
-        "mes": "11",
-        "reverteu": 2637.93
+        "mes": "03",
+        "reverteu": 13942.06
       },
       {
         "mes": "06",
         "reverteu": 8343.81
       },
       {
+        "mes": "12",
+        "reverteu": 2004.38
+      },
+      {
+        "mes": "01",
+        "reverteu": 258.49
+      },
+      {
+        "mes": "11",
+        "reverteu": 2637.93
+      },
+      {
+        "mes": "09",
+        "reverteu": 8112.17
+      },
+      {
         "mes": "05",
         "reverteu": 6187.27
+      },
+      {
+        "mes": "07",
+        "reverteu": 8905.37
       },
       {
         "mes": "08",
         "reverteu": 6514.37
       },
       {
-        "mes": "01",
-        "reverteu": 144.75
+        "mes": "04",
+        "reverteu": 4778.51
       },
       {
         "mes": "02",
         "reverteu": 6982.63
-      },
-      {
-        "mes": "04",
-        "reverteu": 4778.51
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 4952,
     "0": [
       {
-        "mes": "10",
-        "reverteu": 4697.12
-      },
-      {
         "mes": "04",
         "reverteu": 2091.87
-      },
-      {
-        "mes": "09",
-        "reverteu": 3752.56
-      },
-      {
-        "mes": "01",
-        "reverteu": 622.82
-      },
-      {
-        "mes": "06",
-        "reverteu": 2974.08
-      },
-      {
-        "mes": "02",
-        "reverteu": 4242.23
-      },
-      {
-        "mes": "05",
-        "reverteu": 2700.05
       },
       {
         "mes": "07",
         "reverteu": 3021.02
       },
       {
-        "mes": "11",
-        "reverteu": 4001.78
-      },
-      {
         "mes": "08",
         "reverteu": 2916.64
+      },
+      {
+        "mes": "06",
+        "reverteu": 2974.08
+      },
+      {
+        "mes": "10",
+        "reverteu": 4697.12
+      },
+      {
+        "mes": "05",
+        "reverteu": 2700.05
       },
       {
         "mes": "03",
         "reverteu": 5235.11
       },
       {
+        "mes": "02",
+        "reverteu": 4242.23
+      },
+      {
         "mes": "12",
         "reverteu": 2959.34
+      },
+      {
+        "mes": "11",
+        "reverteu": 4001.78
+      },
+      {
+        "mes": "01",
+        "reverteu": 738.91
+      },
+      {
+        "mes": "09",
+        "reverteu": 3752.56
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 5100,
     "0": [
-      {
-        "mes": "12",
-        "reverteu": 4539.26
-      },
-      {
-        "mes": "02",
-        "reverteu": 4845.73
-      },
-      {
-        "mes": "05",
-        "reverteu": 6329.14
-      },
-      {
-        "mes": "01",
-        "reverteu": 1178.34
-      },
-      {
-        "mes": "03",
-        "reverteu": 6702.7
-      },
-      {
-        "mes": "10",
-        "reverteu": 6622.11
-      },
       {
         "mes": "09",
         "reverteu": 4892.91
       },
       {
-        "mes": "04",
-        "reverteu": 4698.43
-      },
-      {
         "mes": "07",
         "reverteu": 5497.95
+      },
+      {
+        "mes": "01",
+        "reverteu": 1381.79
+      },
+      {
+        "mes": "02",
+        "reverteu": 4845.73
       },
       {
         "mes": "06",
@@ -1038,129 +1018,141 @@
       {
         "mes": "11",
         "reverteu": 4947.65
+      },
+      {
+        "mes": "10",
+        "reverteu": 6622.11
+      },
+      {
+        "mes": "04",
+        "reverteu": 4698.43
+      },
+      {
+        "mes": "03",
+        "reverteu": 6702.7
+      },
+      {
+        "mes": "05",
+        "reverteu": 6329.14
+      },
+      {
+        "mes": "12",
+        "reverteu": 4539.26
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 5150,
     "0": [
       {
-        "mes": "09",
-        "reverteu": 6414.95
-      },
-      {
         "mes": "06",
         "reverteu": 8131.1
-      },
-      {
-        "mes": "01",
-        "reverteu": 952.06
       },
       {
         "mes": "07",
         "reverteu": 7321.72
       },
       {
-        "mes": "02",
-        "reverteu": 6607.84
+        "mes": "08",
+        "reverteu": 4662.97
       },
       {
-        "mes": "05",
-        "reverteu": 6170.45
+        "mes": "09",
+        "reverteu": 6414.95
       },
       {
         "mes": "11",
         "reverteu": 7010.27
       },
       {
-        "mes": "10",
-        "reverteu": 9926.03
+        "mes": "03",
+        "reverteu": 10399.39
+      },
+      {
+        "mes": "05",
+        "reverteu": 6170.45
       },
       {
         "mes": "12",
         "reverteu": 5282.32
       },
       {
-        "mes": "08",
-        "reverteu": 4662.97
+        "mes": "02",
+        "reverteu": 6607.84
+      },
+      {
+        "mes": "10",
+        "reverteu": 9926.03
       },
       {
         "mes": "04",
         "reverteu": 6938.39
       },
       {
-        "mes": "03",
-        "reverteu": 10399.39
+        "mes": "01",
+        "reverteu": 1973.04
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 5266,
     "0": [
       {
-        "mes": "02",
-        "reverteu": 9657.43
+        "mes": "04",
+        "reverteu": 7357.64
       },
       {
-        "mes": "08",
-        "reverteu": 8527.54
-      },
-      {
-        "mes": "11",
-        "reverteu": 6017.78
-      },
-      {
-        "mes": "09",
-        "reverteu": 6799.76
+        "mes": "01",
+        "reverteu": 1095.84
       },
       {
         "mes": "06",
         "reverteu": 8631.78
       },
       {
-        "mes": "01",
-        "reverteu": 1037.99
+        "mes": "05",
+        "reverteu": 5994.41
       },
       {
-        "mes": "04",
-        "reverteu": 7357.64
-      },
-      {
-        "mes": "03",
-        "reverteu": 11089.18
-      },
-      {
-        "mes": "12",
-        "reverteu": 6509.81
+        "mes": "08",
+        "reverteu": 8527.54
       },
       {
         "mes": "07",
         "reverteu": 8609.57
       },
       {
+        "mes": "03",
+        "reverteu": 11089.18
+      },
+      {
         "mes": "10",
         "reverteu": 10318.45
       },
       {
-        "mes": "05",
-        "reverteu": 5994.41
+        "mes": "11",
+        "reverteu": 6017.78
+      },
+      {
+        "mes": "12",
+        "reverteu": 6509.81
+      },
+      {
+        "mes": "09",
+        "reverteu": 6799.76
+      },
+      {
+        "mes": "02",
+        "reverteu": 9657.43
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 5282,
     "0": [
-      {
-        "mes": "07",
-        "reverteu": 4276.37
-      },
-      {
-        "mes": "06",
-        "reverteu": 3934.25
-      },
       {
         "mes": "10",
         "reverteu": 4753.5
@@ -1170,74 +1162,86 @@
         "reverteu": 3796.34
       },
       {
-        "mes": "12",
-        "reverteu": 3171.76
+        "mes": "11",
+        "reverteu": 4015.42
       },
       {
-        "mes": "04",
-        "reverteu": 2817.23
+        "mes": "09",
+        "reverteu": 3252.04
       },
       {
-        "mes": "05",
-        "reverteu": 4300.26
+        "mes": "06",
+        "reverteu": 3934.25
       },
       {
         "mes": "01",
-        "reverteu": 789.58
-      },
-      {
-        "mes": "02",
-        "reverteu": 4056.03
-      },
-      {
-        "mes": "11",
-        "reverteu": 4015.42
+        "reverteu": 900.4
       },
       {
         "mes": "03",
         "reverteu": 4692.29
       },
       {
-        "mes": "09",
-        "reverteu": 3252.04
+        "mes": "12",
+        "reverteu": 3171.76
+      },
+      {
+        "mes": "07",
+        "reverteu": 4276.37
+      },
+      {
+        "mes": "05",
+        "reverteu": 4300.26
+      },
+      {
+        "mes": "04",
+        "reverteu": 2817.23
+      },
+      {
+        "mes": "02",
+        "reverteu": 4056.03
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 5320,
     "0": [
       {
-        "mes": "04",
-        "reverteu": 3331.78
-      },
-      {
-        "mes": "02",
-        "reverteu": 3096.73
-      },
-      {
-        "mes": "05",
-        "reverteu": 5157.75
-      },
-      {
         "mes": "12",
         "reverteu": 3192.65
-      },
-      {
-        "mes": "01",
-        "reverteu": 552.71
       },
       {
         "mes": "06",
         "reverteu": 3676.12
       },
       {
+        "mes": "03",
+        "reverteu": 5003.93
+      },
+      {
         "mes": "07",
         "reverteu": 3812.2
       },
       {
+        "mes": "04",
+        "reverteu": 3331.78
+      },
+      {
+        "mes": "05",
+        "reverteu": 5157.75
+      },
+      {
         "mes": "08",
         "reverteu": 3179.38
+      },
+      {
+        "mes": "01",
+        "reverteu": 643.36
+      },
+      {
+        "mes": "02",
+        "reverteu": 3096.73
       },
       {
         "mes": "10",
@@ -1248,22 +1252,30 @@
         "reverteu": 3218.64
       },
       {
-        "mes": "03",
-        "reverteu": 5003.93
-      },
-      {
         "mes": "09",
         "reverteu": 3224.68
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 5347,
     "0": [
       {
+        "mes": "09",
+        "reverteu": 6386.44
+      },
+      {
+        "mes": "11",
+        "reverteu": 4175.06
+      },
+      {
         "mes": "01",
-        "reverteu": 676.57
+        "reverteu": 893.16
+      },
+      {
+        "mes": "02",
+        "reverteu": 6503.52
       },
       {
         "mes": "04",
@@ -1274,66 +1286,46 @@
         "reverteu": 8140.16
       },
       {
-        "mes": "06",
-        "reverteu": 6908.82
-      },
-      {
         "mes": "10",
         "reverteu": 5579.06
-      },
-      {
-        "mes": "11",
-        "reverteu": 4175.06
-      },
-      {
-        "mes": "09",
-        "reverteu": 6386.44
-      },
-      {
-        "mes": "07",
-        "reverteu": 6381.39
-      },
-      {
-        "mes": "12",
-        "reverteu": 4735.65
-      },
-      {
-        "mes": "05",
-        "reverteu": 6049.82
       },
       {
         "mes": "08",
         "reverteu": 5860.04
       },
       {
-        "mes": "02",
-        "reverteu": 6503.52
+        "mes": "06",
+        "reverteu": 6908.82
+      },
+      {
+        "mes": "05",
+        "reverteu": 6049.82
+      },
+      {
+        "mes": "12",
+        "reverteu": 4735.65
+      },
+      {
+        "mes": "07",
+        "reverteu": 6381.39
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 5355,
     "0": [
       {
-        "mes": "02",
-        "reverteu": 5327.53
+        "mes": "03",
+        "reverteu": 6877.74
       },
       {
-        "mes": "11",
-        "reverteu": 5798.1
+        "mes": "07",
+        "reverteu": 5912.22
       },
       {
         "mes": "08",
         "reverteu": 5866.27
-      },
-      {
-        "mes": "09",
-        "reverteu": 5566.94
-      },
-      {
-        "mes": "10",
-        "reverteu": 6551.82
       },
       {
         "mes": "04",
@@ -1344,16 +1336,24 @@
         "reverteu": 4910.48
       },
       {
-        "mes": "03",
-        "reverteu": 6877.74
+        "mes": "11",
+        "reverteu": 5798.1
       },
       {
         "mes": "06",
         "reverteu": 5564.14
       },
       {
-        "mes": "07",
-        "reverteu": 5912.22
+        "mes": "10",
+        "reverteu": 6551.82
+      },
+      {
+        "mes": "09",
+        "reverteu": 5566.94
+      },
+      {
+        "mes": "02",
+        "reverteu": 5327.53
       },
       {
         "mes": "12",
@@ -1361,49 +1361,17 @@
       },
       {
         "mes": "01",
-        "reverteu": 919.9
+        "reverteu": 1013.74
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 5363,
     "0": [
       {
-        "mes": "07",
-        "reverteu": 8385.08
-      },
-      {
-        "mes": "09",
-        "reverteu": 6936.57
-      },
-      {
         "mes": "06",
         "reverteu": 6446.37
-      },
-      {
-        "mes": "08",
-        "reverteu": 9270.33
-      },
-      {
-        "mes": "04",
-        "reverteu": 5944.6
-      },
-      {
-        "mes": "12",
-        "reverteu": 4620.4
-      },
-      {
-        "mes": "11",
-        "reverteu": 8443.3
-      },
-      {
-        "mes": "01",
-        "reverteu": 783.43
-      },
-      {
-        "mes": "03",
-        "reverteu": 7138.69
       },
       {
         "mes": "10",
@@ -1414,13 +1382,45 @@
         "reverteu": 6157.03
       },
       {
+        "mes": "03",
+        "reverteu": 7138.69
+      },
+      {
         "mes": "05",
         "reverteu": 5881.24
+      },
+      {
+        "mes": "01",
+        "reverteu": 1051.87
+      },
+      {
+        "mes": "11",
+        "reverteu": 8443.3
+      },
+      {
+        "mes": "07",
+        "reverteu": 8385.08
+      },
+      {
+        "mes": "08",
+        "reverteu": 9270.33
+      },
+      {
+        "mes": "09",
+        "reverteu": 6936.57
+      },
+      {
+        "mes": "04",
+        "reverteu": 5944.6
+      },
+      {
+        "mes": "12",
+        "reverteu": 4620.4
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 5622,
     "0": [
       {
@@ -1428,74 +1428,78 @@
         "reverteu": 3041.16
       },
       {
-        "mes": "10",
-        "reverteu": 2791.67
-      },
-      {
-        "mes": "02",
-        "reverteu": 2032.24
-      },
-      {
-        "mes": "03",
-        "reverteu": 1973.62
-      },
-      {
-        "mes": "01",
-        "reverteu": 542.01
-      },
-      {
-        "mes": "08",
-        "reverteu": 1585.66
-      },
-      {
-        "mes": "07",
-        "reverteu": 2712.83
-      },
-      {
-        "mes": "11",
-        "reverteu": 1719.16
+        "mes": "12",
+        "reverteu": 1917.79
       },
       {
         "mes": "09",
         "reverteu": 1797.95
       },
       {
+        "mes": "01",
+        "reverteu": 676.33
+      },
+      {
+        "mes": "02",
+        "reverteu": 2032.24
+      },
+      {
+        "mes": "10",
+        "reverteu": 2791.67
+      },
+      {
+        "mes": "08",
+        "reverteu": 1585.66
+      },
+      {
+        "mes": "03",
+        "reverteu": 1973.62
+      },
+      {
         "mes": "06",
         "reverteu": 2216.87
       },
       {
-        "mes": "12",
-        "reverteu": 1917.79
+        "mes": "07",
+        "reverteu": 2712.83
       },
       {
         "mes": "04",
         "reverteu": 1538.78
+      },
+      {
+        "mes": "11",
+        "reverteu": 1719.16
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 5720,
     "0": [
       {
-        "mes": "06",
-        "reverteu": 8375.38
+        "mes": "05",
+        "reverteu": 6632.93
+      },
+      {
+        "mes": "02",
+        "reverteu": 8220.11
       },
       {
         "mes": "03",
         "reverteu": 8953.79
       },
       {
-        "mes": "05",
-        "reverteu": 6632.93
-      },
-      {
-        "mes": "08",
-        "reverteu": 9555.95
-      },
-      {
         "mes": "11",
         "reverteu": 8155.08
+      },
+      {
+        "mes": "06",
+        "reverteu": 8375.38
+      },
+      {
+        "mes": "12",
+        "reverteu": 7593.02
       },
       {
         "mes": "10",
@@ -1506,154 +1510,158 @@
         "reverteu": 9414.57
       },
       {
-        "mes": "04",
-        "reverteu": 6091.34
-      },
-      {
-        "mes": "02",
-        "reverteu": 8220.11
-      },
-      {
         "mes": "07",
         "reverteu": 8628.26
       },
       {
         "mes": "01",
-        "reverteu": 993.8
+        "reverteu": 1279.73
       },
       {
-        "mes": "12",
-        "reverteu": 7593.02
+        "mes": "04",
+        "reverteu": 6091.34
+      },
+      {
+        "mes": "08",
+        "reverteu": 9555.95
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 5878,
     "0": [
       {
+        "mes": "02",
+        "reverteu": 2182.67
+      },
+      {
         "mes": "12",
         "reverteu": 1.02
-      },
-      {
-        "mes": "03",
-        "reverteu": 2030.04
-      },
-      {
-        "mes": "07",
-        "reverteu": 1835.44
-      },
-      {
-        "mes": "09",
-        "reverteu": 1281.24
-      },
-      {
-        "mes": "05",
-        "reverteu": 3068.62
-      },
-      {
-        "mes": "04",
-        "reverteu": 2350.39
-      },
-      {
-        "mes": "11",
-        "reverteu": 2838.68
-      },
-      {
-        "mes": "06",
-        "reverteu": 1048.34
       },
       {
         "mes": "10",
         "reverteu": 9966.28
       },
       {
-        "mes": "02",
-        "reverteu": 2182.67
+        "mes": "06",
+        "reverteu": 1048.34
+      },
+      {
+        "mes": "11",
+        "reverteu": 2838.68
+      },
+      {
+        "mes": "03",
+        "reverteu": 2030.04
       },
       {
         "mes": "08",
         "reverteu": 1865.97
+      },
+      {
+        "mes": "01",
+        "reverteu": 2317.69
+      },
+      {
+        "mes": "04",
+        "reverteu": 2350.39
+      },
+      {
+        "mes": "07",
+        "reverteu": 1835.44
+      },
+      {
+        "mes": "05",
+        "reverteu": 3068.62
+      },
+      {
+        "mes": "09",
+        "reverteu": 1281.24
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 6149,
     "0": [
       {
-        "mes": "04",
-        "reverteu": 5067.0
-      },
-      {
-        "mes": "08",
-        "reverteu": 5866.42
-      },
-      {
-        "mes": "06",
-        "reverteu": 4869.3
+        "mes": "03",
+        "reverteu": 7351.75
       },
       {
         "mes": "10",
         "reverteu": 7153.55
       },
       {
-        "mes": "09",
-        "reverteu": 7556.72
-      },
-      {
-        "mes": "05",
-        "reverteu": 6704.62
-      },
-      {
-        "mes": "07",
-        "reverteu": 6424.17
-      },
-      {
         "mes": "12",
         "reverteu": 4597.51
-      },
-      {
-        "mes": "03",
-        "reverteu": 7351.75
-      },
-      {
-        "mes": "11",
-        "reverteu": 5822.83
       },
       {
         "mes": "02",
         "reverteu": 4039.25
       },
       {
+        "mes": "09",
+        "reverteu": 7556.72
+      },
+      {
+        "mes": "07",
+        "reverteu": 6424.17
+      },
+      {
+        "mes": "04",
+        "reverteu": 5067.0
+      },
+      {
+        "mes": "11",
+        "reverteu": 5822.83
+      },
+      {
+        "mes": "06",
+        "reverteu": 4869.3
+      },
+      {
         "mes": "01",
-        "reverteu": 1971.59
+        "reverteu": 2088.42
+      },
+      {
+        "mes": "08",
+        "reverteu": 5866.42
+      },
+      {
+        "mes": "05",
+        "reverteu": 6704.62
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 6335,
     "0": [
+      {
+        "mes": "12",
+        "reverteu": 3963.89
+      },
+      {
+        "mes": "10",
+        "reverteu": 7210.75
+      },
       {
         "mes": "03",
         "reverteu": 4346.34
       },
       {
-        "mes": "11",
-        "reverteu": 4873.0
-      },
-      {
-        "mes": "08",
-        "reverteu": 4027.44
-      },
-      {
         "mes": "01",
-        "reverteu": 1007.04
+        "reverteu": 1194.39
       },
       {
         "mes": "06",
         "reverteu": 4270.42
+      },
+      {
+        "mes": "11",
+        "reverteu": 4873.0
       },
       {
         "mes": "04",
@@ -1664,20 +1672,16 @@
         "reverteu": 4650.25
       },
       {
-        "mes": "05",
-        "reverteu": 2795.65
-      },
-      {
-        "mes": "10",
-        "reverteu": 7210.75
-      },
-      {
         "mes": "02",
         "reverteu": 4986.07
       },
       {
-        "mes": "12",
-        "reverteu": 3963.89
+        "mes": "08",
+        "reverteu": 4027.44
+      },
+      {
+        "mes": "05",
+        "reverteu": 2795.65
       },
       {
         "mes": "09",
@@ -1686,61 +1690,61 @@
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 7080,
     "0": [
       {
-        "mes": "02",
-        "reverteu": 6816.49
+        "mes": "10",
+        "reverteu": 7429.18
       },
       {
         "mes": "07",
         "reverteu": 6559.75
       },
       {
-        "mes": "09",
-        "reverteu": 5174.62
-      },
-      {
-        "mes": "06",
-        "reverteu": 5936.04
-      },
-      {
-        "mes": "03",
-        "reverteu": 7949.76
-      },
-      {
-        "mes": "10",
-        "reverteu": 7429.18
-      },
-      {
         "mes": "04",
         "reverteu": 5530.96
-      },
-      {
-        "mes": "11",
-        "reverteu": 6201.96
       },
       {
         "mes": "12",
         "reverteu": 5434.41
       },
       {
+        "mes": "05",
+        "reverteu": 5212.85
+      },
+      {
+        "mes": "11",
+        "reverteu": 6201.96
+      },
+      {
         "mes": "08",
         "reverteu": 5770.26
       },
       {
-        "mes": "01",
-        "reverteu": 955.42
+        "mes": "02",
+        "reverteu": 6816.49
       },
       {
-        "mes": "05",
-        "reverteu": 5212.85
+        "mes": "06",
+        "reverteu": 5936.04
+      },
+      {
+        "mes": "09",
+        "reverteu": 5174.62
+      },
+      {
+        "mes": "01",
+        "reverteu": 1147.91
+      },
+      {
+        "mes": "03",
+        "reverteu": 7949.76
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 7170,
     "0": [
       {
@@ -1748,20 +1752,16 @@
         "reverteu": 87.0
       },
       {
-        "mes": "03",
-        "reverteu": 14.51
-      },
-      {
         "mes": "11",
         "reverteu": 189.8
       },
       {
-        "mes": "10",
-        "reverteu": 576.74
+        "mes": "08",
+        "reverteu": 137.61
       },
       {
-        "mes": "09",
-        "reverteu": 204.48
+        "mes": "10",
+        "reverteu": 576.74
       },
       {
         "mes": "05",
@@ -1770,6 +1770,10 @@
       {
         "mes": "06",
         "reverteu": 28.5
+      },
+      {
+        "mes": "03",
+        "reverteu": 14.51
       },
       {
         "mes": "02",
@@ -1784,80 +1788,84 @@
         "reverteu": 8.16
       },
       {
-        "mes": "12",
-        "reverteu": 7.78
+        "mes": "09",
+        "reverteu": 204.48
       },
       {
-        "mes": "08",
-        "reverteu": 137.61
+        "mes": "12",
+        "reverteu": 7.78
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 7714,
     "0": [
       {
-        "mes": "07",
-        "reverteu": 5194.57
+        "mes": "11",
+        "reverteu": 4621.23
       },
       {
         "mes": "06",
         "reverteu": 4671.66
       },
       {
+        "mes": "05",
+        "reverteu": 6302.1
+      },
+      {
         "mes": "02",
         "reverteu": 7917.66
       },
       {
-        "mes": "04",
-        "reverteu": 4571.85
-      },
-      {
-        "mes": "10",
-        "reverteu": 6692.33
-      },
-      {
-        "mes": "01",
-        "reverteu": 1312.44
-      },
-      {
-        "mes": "12",
-        "reverteu": 4259.91
-      },
-      {
-        "mes": "05",
-        "reverteu": 6302.1
+        "mes": "07",
+        "reverteu": 5194.57
       },
       {
         "mes": "03",
         "reverteu": 4153.3
       },
       {
-        "mes": "11",
-        "reverteu": 4621.23
+        "mes": "01",
+        "reverteu": 1697.82
       },
       {
         "mes": "08",
         "reverteu": 5454.22
       },
       {
+        "mes": "10",
+        "reverteu": 6692.33
+      },
+      {
         "mes": "09",
         "reverteu": 5284.85
+      },
+      {
+        "mes": "12",
+        "reverteu": 4259.91
+      },
+      {
+        "mes": "04",
+        "reverteu": 4571.85
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 7846,
     "0": [
       {
-        "mes": "07",
-        "reverteu": 4386.07
-      },
-      {
         "mes": "12",
         "reverteu": 4954.66
+      },
+      {
+        "mes": "09",
+        "reverteu": 3699.33
+      },
+      {
+        "mes": "01",
+        "reverteu": 691.09
       },
       {
         "mes": "08",
@@ -1868,204 +1876,204 @@
         "reverteu": 5520.24
       },
       {
-        "mes": "09",
-        "reverteu": 3699.33
-      },
-      {
         "mes": "11",
         "reverteu": 4532.33
       },
       {
-        "mes": "01",
-        "reverteu": 478.18
+        "mes": "07",
+        "reverteu": 4386.07
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 7943,
     "0": [
       {
-        "mes": "10",
-        "reverteu": 9048.96
-      },
-      {
-        "mes": "01",
-        "reverteu": 281.51
-      },
-      {
-        "mes": "12",
-        "reverteu": 6899.9
-      },
-      {
-        "mes": "06",
-        "reverteu": 7840.05
+        "mes": "03",
+        "reverteu": 10878.7
       },
       {
         "mes": "07",
         "reverteu": 8413.85
       },
       {
-        "mes": "04",
-        "reverteu": 6705.44
+        "mes": "06",
+        "reverteu": 7840.05
       },
       {
-        "mes": "05",
-        "reverteu": 9629.92
+        "mes": "08",
+        "reverteu": 7756.36
       },
       {
-        "mes": "03",
-        "reverteu": 10878.7
-      },
-      {
-        "mes": "11",
-        "reverteu": 8179.76
+        "mes": "12",
+        "reverteu": 6899.9
       },
       {
         "mes": "02",
         "reverteu": 8974.35
       },
       {
-        "mes": "09",
-        "reverteu": 7867.29
+        "mes": "04",
+        "reverteu": 6705.44
       },
       {
-        "mes": "08",
-        "reverteu": 7756.36
+        "mes": "11",
+        "reverteu": 8179.76
+      },
+      {
+        "mes": "05",
+        "reverteu": 9629.92
+      },
+      {
+        "mes": "01",
+        "reverteu": 641.4
+      },
+      {
+        "mes": "10",
+        "reverteu": 9048.96
+      },
+      {
+        "mes": "09",
+        "reverteu": 7867.29
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 8109,
     "0": [
       {
-        "mes": "01",
-        "reverteu": 4837.39
-      },
-      {
-        "mes": "02",
-        "reverteu": 12657.97
-      },
-      {
-        "mes": "09",
-        "reverteu": 10319.5
+        "mes": "08",
+        "reverteu": 13086.26
       },
       {
         "mes": "10",
         "reverteu": 18183.64
       },
       {
-        "mes": "03",
-        "reverteu": 21965.7
-      },
-      {
-        "mes": "08",
-        "reverteu": 13086.26
+        "mes": "07",
+        "reverteu": 13121.56
       },
       {
         "mes": "04",
         "reverteu": 8288.22
       },
       {
-        "mes": "05",
-        "reverteu": 11029.99
+        "mes": "01",
+        "reverteu": 5291.96
       },
       {
-        "mes": "12",
-        "reverteu": 14110.74
+        "mes": "09",
+        "reverteu": 10319.5
       },
       {
         "mes": "06",
         "reverteu": 12910.74
       },
       {
+        "mes": "03",
+        "reverteu": 21965.7
+      },
+      {
+        "mes": "12",
+        "reverteu": 14110.74
+      },
+      {
+        "mes": "02",
+        "reverteu": 12657.97
+      },
+      {
         "mes": "11",
         "reverteu": 11120.43
       },
       {
-        "mes": "07",
-        "reverteu": 13121.56
+        "mes": "05",
+        "reverteu": 11029.99
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 8354,
     "0": [
       {
-        "mes": "12",
-        "reverteu": 4036.14
-      },
-      {
-        "mes": "11",
-        "reverteu": 3737.74
-      },
-      {
-        "mes": "04",
-        "reverteu": 3069.0
+        "mes": "05",
+        "reverteu": 3325.27
       },
       {
         "mes": "02",
         "reverteu": 4092.87
       },
       {
-        "mes": "10",
-        "reverteu": 4805.0
+        "mes": "12",
+        "reverteu": 4036.14
+      },
+      {
+        "mes": "01",
+        "reverteu": 804.19
       },
       {
         "mes": "06",
         "reverteu": 2749.58
       },
       {
-        "mes": "01",
-        "reverteu": 633.95
+        "mes": "04",
+        "reverteu": 3069.0
       },
       {
         "mes": "09",
         "reverteu": 3437.06
       },
       {
-        "mes": "05",
-        "reverteu": 3325.27
+        "mes": "11",
+        "reverteu": 3737.74
       },
       {
-        "mes": "08",
-        "reverteu": 2009.26
+        "mes": "03",
+        "reverteu": 5008.89
       },
       {
         "mes": "07",
         "reverteu": 3357.39
       },
       {
-        "mes": "03",
-        "reverteu": 5008.89
+        "mes": "10",
+        "reverteu": 4805.0
+      },
+      {
+        "mes": "08",
+        "reverteu": 2009.26
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 8800,
     "0": [
       {
-        "mes": "12",
-        "reverteu": 2653.49
-      },
-      {
-        "mes": "08",
-        "reverteu": 2595.15
-      },
-      {
         "mes": "04",
         "reverteu": 2753.58
+      },
+      {
+        "mes": "07",
+        "reverteu": 3038.48
+      },
+      {
+        "mes": "01",
+        "reverteu": 466.88
+      },
+      {
+        "mes": "09",
+        "reverteu": 2257.08
       },
       {
         "mes": "05",
         "reverteu": 2882.8
       },
       {
-        "mes": "07",
-        "reverteu": 3038.48
+        "mes": "08",
+        "reverteu": 2595.15
       },
       {
         "mes": "10",
@@ -2076,66 +2084,30 @@
         "reverteu": 3336.29
       },
       {
-        "mes": "01",
-        "reverteu": 371.36
-      },
-      {
-        "mes": "06",
-        "reverteu": 2779.7
-      },
-      {
         "mes": "11",
         "reverteu": 2587.99
       },
       {
-        "mes": "09",
-        "reverteu": 2257.08
-      },
-      {
         "mes": "02",
         "reverteu": 2390.42
+      },
+      {
+        "mes": "12",
+        "reverteu": 2653.49
+      },
+      {
+        "mes": "06",
+        "reverteu": 2779.7
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 8990,
     "0": [
       {
-        "mes": "01",
-        "reverteu": 608.8
-      },
-      {
-        "mes": "07",
-        "reverteu": 5133.21
-      },
-      {
-        "mes": "05",
-        "reverteu": 4682.17
-      },
-      {
-        "mes": "09",
-        "reverteu": 4010.33
-      },
-      {
         "mes": "10",
         "reverteu": 6806.53
-      },
-      {
-        "mes": "03",
-        "reverteu": 6326.95
-      },
-      {
-        "mes": "08",
-        "reverteu": 4062.3
-      },
-      {
-        "mes": "04",
-        "reverteu": 1878.97
-      },
-      {
-        "mes": "11",
-        "reverteu": 3529.55
       },
       {
         "mes": "12",
@@ -2146,101 +2118,101 @@
         "reverteu": 5037.04
       },
       {
+        "mes": "05",
+        "reverteu": 4682.17
+      },
+      {
+        "mes": "08",
+        "reverteu": 4062.3
+      },
+      {
         "mes": "02",
         "reverteu": 5641.91
+      },
+      {
+        "mes": "11",
+        "reverteu": 3529.55
+      },
+      {
+        "mes": "07",
+        "reverteu": 5133.21
+      },
+      {
+        "mes": "01",
+        "reverteu": 806.49
+      },
+      {
+        "mes": "09",
+        "reverteu": 4010.33
+      },
+      {
+        "mes": "03",
+        "reverteu": 6326.95
+      },
+      {
+        "mes": "04",
+        "reverteu": 1878.97
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 9300,
     "0": [
       {
-        "mes": "10",
-        "reverteu": 5161.41
-      },
-      {
-        "mes": "11",
-        "reverteu": 3587.47
-      },
-      {
-        "mes": "12",
-        "reverteu": 3844.3
-      },
-      {
-        "mes": "02",
-        "reverteu": 3715.74
-      },
-      {
-        "mes": "09",
-        "reverteu": 4137.06
+        "mes": "01",
+        "reverteu": 980.82
       },
       {
         "mes": "07",
         "reverteu": 4438.04
       },
       {
+        "mes": "04",
+        "reverteu": 4417.86
+      },
+      {
+        "mes": "02",
+        "reverteu": 3715.74
+      },
+      {
+        "mes": "12",
+        "reverteu": 3844.3
+      },
+      {
+        "mes": "10",
+        "reverteu": 5161.41
+      },
+      {
         "mes": "05",
         "reverteu": 4878.75
       },
       {
-        "mes": "03",
-        "reverteu": 6119.4
-      },
-      {
-        "mes": "01",
-        "reverteu": 806.12
-      },
-      {
-        "mes": "06",
-        "reverteu": 3929.05
+        "mes": "11",
+        "reverteu": 3587.47
       },
       {
         "mes": "08",
         "reverteu": 5349.28
       },
       {
-        "mes": "04",
-        "reverteu": 4417.86
+        "mes": "03",
+        "reverteu": 6119.4
+      },
+      {
+        "mes": "06",
+        "reverteu": 3929.05
+      },
+      {
+        "mes": "09",
+        "reverteu": 4137.06
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 9539,
     "0": [
-      {
-        "mes": "12",
-        "reverteu": 8082.59
-      },
-      {
-        "mes": "02",
-        "reverteu": 6618.09
-      },
-      {
-        "mes": "04",
-        "reverteu": 5161.74
-      },
-      {
-        "mes": "06",
-        "reverteu": 6103.99
-      },
-      {
-        "mes": "08",
-        "reverteu": 7806.03
-      },
-      {
-        "mes": "07",
-        "reverteu": 7628.79
-      },
-      {
-        "mes": "10",
-        "reverteu": 11855.21
-      },
-      {
-        "mes": "09",
-        "reverteu": 6927.5
-      },
       {
         "mes": "05",
         "reverteu": 5896.37
@@ -2250,31 +2222,51 @@
         "reverteu": 7406.96
       },
       {
+        "mes": "12",
+        "reverteu": 8082.59
+      },
+      {
+        "mes": "09",
+        "reverteu": 6927.5
+      },
+      {
+        "mes": "06",
+        "reverteu": 6103.99
+      },
+      {
+        "mes": "10",
+        "reverteu": 11855.21
+      },
+      {
         "mes": "03",
         "reverteu": 11465.12
       },
       {
         "mes": "01",
-        "reverteu": 1251.83
+        "reverteu": 1419.41
+      },
+      {
+        "mes": "08",
+        "reverteu": 7806.03
+      },
+      {
+        "mes": "04",
+        "reverteu": 5161.74
+      },
+      {
+        "mes": "07",
+        "reverteu": 7628.79
+      },
+      {
+        "mes": "02",
+        "reverteu": 6618.09
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 10162,
     "0": [
-      {
-        "mes": "01",
-        "reverteu": 703.13
-      },
-      {
-        "mes": "10",
-        "reverteu": 4434.75
-      },
-      {
-        "mes": "04",
-        "reverteu": 4353.88
-      },
       {
         "mes": "09",
         "reverteu": 4450.84
@@ -2282,6 +2274,22 @@
       {
         "mes": "03",
         "reverteu": 7071.78
+      },
+      {
+        "mes": "02",
+        "reverteu": 5266.24
+      },
+      {
+        "mes": "11",
+        "reverteu": 4579.3
+      },
+      {
+        "mes": "10",
+        "reverteu": 4434.75
+      },
+      {
+        "mes": "01",
+        "reverteu": 718.68
       },
       {
         "mes": "12",
@@ -2292,8 +2300,8 @@
         "reverteu": 5401.9
       },
       {
-        "mes": "11",
-        "reverteu": 4579.3
+        "mes": "04",
+        "reverteu": 4353.88
       },
       {
         "mes": "06",
@@ -2304,26 +2312,46 @@
         "reverteu": 6745.66
       },
       {
-        "mes": "02",
-        "reverteu": 5266.24
-      },
-      {
         "mes": "08",
         "reverteu": 4126.62
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 10413,
     "0": [
+      {
+        "mes": "03",
+        "reverteu": 4641.77
+      },
+      {
+        "mes": "06",
+        "reverteu": 2371.36
+      },
       {
         "mes": "05",
         "reverteu": 2363.68
       },
       {
-        "mes": "03",
-        "reverteu": 4641.77
+        "mes": "04",
+        "reverteu": 3067.62
+      },
+      {
+        "mes": "12",
+        "reverteu": 2106.92
+      },
+      {
+        "mes": "01",
+        "reverteu": 878.19
+      },
+      {
+        "mes": "02",
+        "reverteu": 3356.44
+      },
+      {
+        "mes": "11",
+        "reverteu": 2509.38
       },
       {
         "mes": "09",
@@ -2334,136 +2362,96 @@
         "reverteu": 4431.67
       },
       {
-        "mes": "08",
-        "reverteu": 2276.03
-      },
-      {
-        "mes": "02",
-        "reverteu": 3356.44
-      },
-      {
         "mes": "07",
         "reverteu": 3381.89
       },
       {
-        "mes": "12",
-        "reverteu": 2106.92
-      },
-      {
-        "mes": "06",
-        "reverteu": 2371.36
-      },
-      {
-        "mes": "01",
-        "reverteu": 778.56
-      },
-      {
-        "mes": "04",
-        "reverteu": 3067.62
-      },
-      {
-        "mes": "11",
-        "reverteu": 2509.38
+        "mes": "08",
+        "reverteu": 2276.03
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 10456,
     "0": [
       {
-        "mes": "08",
-        "reverteu": 5892.04
-      },
-      {
-        "mes": "06",
-        "reverteu": 5715.61
+        "mes": "12",
+        "reverteu": 5942.26
       },
       {
         "mes": "03",
         "reverteu": 6977.15
       },
       {
-        "mes": "02",
-        "reverteu": 7072.7
-      },
-      {
-        "mes": "11",
-        "reverteu": 6222.73
-      },
-      {
-        "mes": "04",
-        "reverteu": 4906.7
-      },
-      {
         "mes": "05",
         "reverteu": 6670.49
       },
       {
-        "mes": "12",
-        "reverteu": 5942.26
+        "mes": "08",
+        "reverteu": 5892.04
+      },
+      {
+        "mes": "02",
+        "reverteu": 7072.7
+      },
+      {
+        "mes": "09",
+        "reverteu": 5238.25
       },
       {
         "mes": "10",
         "reverteu": 9176.03
       },
       {
+        "mes": "04",
+        "reverteu": 4906.7
+      },
+      {
+        "mes": "01",
+        "reverteu": 1142.68
+      },
+      {
+        "mes": "11",
+        "reverteu": 6222.73
+      },
+      {
         "mes": "07",
         "reverteu": 6754.46
       },
       {
-        "mes": "01",
-        "reverteu": 842.94
-      },
-      {
-        "mes": "09",
-        "reverteu": 5238.25
+        "mes": "06",
+        "reverteu": 5715.61
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 11525,
     "0": [
       {
+        "mes": "01",
+        "reverteu": 1556.03
+      },
+      {
+        "mes": "07",
+        "reverteu": 6466.12
+      },
+      {
         "mes": "05",
         "reverteu": 6617.22
-      },
-      {
-        "mes": "09",
-        "reverteu": 7962.34
-      },
-      {
-        "mes": "11",
-        "reverteu": 6368.19
-      },
-      {
-        "mes": "04",
-        "reverteu": 6361.2
-      },
-      {
-        "mes": "06",
-        "reverteu": 6650.53
       },
       {
         "mes": "12",
         "reverteu": 7082.13
       },
       {
-        "mes": "01",
-        "reverteu": 1371.05
+        "mes": "06",
+        "reverteu": 6650.53
       },
       {
-        "mes": "08",
-        "reverteu": 6799.16
-      },
-      {
-        "mes": "03",
-        "reverteu": 12525.81
-      },
-      {
-        "mes": "07",
-        "reverteu": 6466.12
+        "mes": "11",
+        "reverteu": 6368.19
       },
       {
         "mes": "02",
@@ -2472,52 +2460,44 @@
       {
         "mes": "10",
         "reverteu": 11138.77
+      },
+      {
+        "mes": "08",
+        "reverteu": 6799.16
+      },
+      {
+        "mes": "09",
+        "reverteu": 7962.34
+      },
+      {
+        "mes": "03",
+        "reverteu": 12525.81
+      },
+      {
+        "mes": "04",
+        "reverteu": 6361.2
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 11827,
     "0": [
-      {
-        "mes": "08",
-        "reverteu": 9438.76
-      },
       {
         "mes": "07",
         "reverteu": 11065.0
       },
       {
-        "mes": "12",
-        "reverteu": 9168.81
-      },
-      {
-        "mes": "06",
-        "reverteu": 8952.68
+        "mes": "08",
+        "reverteu": 9438.76
       },
       {
         "mes": "05",
         "reverteu": 18006.09
       },
       {
-        "mes": "01",
-        "reverteu": 1535.64
-      },
-      {
-        "mes": "04",
-        "reverteu": 9882.87
-      },
-      {
-        "mes": "02",
-        "reverteu": 9806.61
-      },
-      {
-        "mes": "10",
-        "reverteu": 12183.42
-      },
-      {
-        "mes": "03",
-        "reverteu": 13451.07
+        "mes": "12",
+        "reverteu": 9168.81
       },
       {
         "mes": "11",
@@ -2526,56 +2506,80 @@
       {
         "mes": "09",
         "reverteu": 9887.72
+      },
+      {
+        "mes": "06",
+        "reverteu": 8952.68
+      },
+      {
+        "mes": "03",
+        "reverteu": 13451.07
+      },
+      {
+        "mes": "10",
+        "reverteu": 12183.42
+      },
+      {
+        "mes": "04",
+        "reverteu": 9882.87
+      },
+      {
+        "mes": "01",
+        "reverteu": 1856.61
+      },
+      {
+        "mes": "02",
+        "reverteu": 9806.61
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 11967,
     "0": [
       {
-        "mes": "06",
-        "reverteu": 1928.49
-      },
-      {
-        "mes": "10",
-        "reverteu": 3202.48
-      },
-      {
-        "mes": "03",
-        "reverteu": 3267.08
-      },
-      {
-        "mes": "02",
-        "reverteu": 2575.54
-      },
-      {
-        "mes": "12",
-        "reverteu": 1529.79
-      },
-      {
-        "mes": "11",
-        "reverteu": 2334.78
-      },
-      {
         "mes": "09",
         "reverteu": 2312.91
-      },
-      {
-        "mes": "08",
-        "reverteu": 1919.4
       },
       {
         "mes": "07",
         "reverteu": 2435.31
       },
       {
-        "mes": "05",
-        "reverteu": 3020.76
+        "mes": "02",
+        "reverteu": 2575.54
+      },
+      {
+        "mes": "08",
+        "reverteu": 1919.4
+      },
+      {
+        "mes": "12",
+        "reverteu": 1529.79
       },
       {
         "mes": "01",
-        "reverteu": 513.33
+        "reverteu": 618.33
+      },
+      {
+        "mes": "10",
+        "reverteu": 3202.48
+      },
+      {
+        "mes": "11",
+        "reverteu": 2334.78
+      },
+      {
+        "mes": "03",
+        "reverteu": 3267.08
+      },
+      {
+        "mes": "06",
+        "reverteu": 1928.49
+      },
+      {
+        "mes": "05",
+        "reverteu": 3020.76
       },
       {
         "mes": "04",
@@ -2584,7 +2588,7 @@
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 12041,
     "0": [
       {
@@ -2592,8 +2596,36 @@
         "reverteu": 2919.97
       },
       {
+        "mes": "11",
+        "reverteu": 4148.89
+      },
+      {
+        "mes": "06",
+        "reverteu": 3503.36
+      },
+      {
+        "mes": "07",
+        "reverteu": 4370.21
+      },
+      {
         "mes": "04",
         "reverteu": 2076.6
+      },
+      {
+        "mes": "10",
+        "reverteu": 5055.78
+      },
+      {
+        "mes": "03",
+        "reverteu": 4702.34
+      },
+      {
+        "mes": "02",
+        "reverteu": 3688.69
+      },
+      {
+        "mes": "08",
+        "reverteu": 3968.49
       },
       {
         "mes": "12",
@@ -2601,44 +2633,16 @@
       },
       {
         "mes": "01",
-        "reverteu": 174.23
-      },
-      {
-        "mes": "10",
-        "reverteu": 5055.78
-      },
-      {
-        "mes": "11",
-        "reverteu": 4148.89
-      },
-      {
-        "mes": "02",
-        "reverteu": 3688.69
-      },
-      {
-        "mes": "03",
-        "reverteu": 4702.34
-      },
-      {
-        "mes": "07",
-        "reverteu": 4370.21
-      },
-      {
-        "mes": "06",
-        "reverteu": 3503.36
+        "reverteu": 339.45
       },
       {
         "mes": "09",
         "reverteu": 3304.1
-      },
-      {
-        "mes": "08",
-        "reverteu": 3968.49
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 12130,
     "0": [
       {
@@ -2646,58 +2650,86 @@
         "reverteu": 2924.25
       },
       {
-        "mes": "08",
-        "reverteu": 2925.61
-      },
-      {
-        "mes": "03",
-        "reverteu": 2967.17
-      },
-      {
-        "mes": "01",
-        "reverteu": 851.26
-      },
-      {
-        "mes": "06",
-        "reverteu": 2774.82
-      },
-      {
-        "mes": "02",
-        "reverteu": 2148.71
-      },
-      {
-        "mes": "12",
-        "reverteu": 2571.48
-      },
-      {
         "mes": "09",
         "reverteu": 2760.54
-      },
-      {
-        "mes": "07",
-        "reverteu": 3206.25
       },
       {
         "mes": "05",
         "reverteu": 3030.63
       },
       {
+        "mes": "06",
+        "reverteu": 2774.82
+      },
+      {
         "mes": "10",
         "reverteu": 3660.64
       },
       {
+        "mes": "12",
+        "reverteu": 2571.48
+      },
+      {
+        "mes": "01",
+        "reverteu": 931.12
+      },
+      {
+        "mes": "02",
+        "reverteu": 2148.71
+      },
+      {
+        "mes": "07",
+        "reverteu": 3206.25
+      },
+      {
+        "mes": "08",
+        "reverteu": 2925.61
+      },
+      {
         "mes": "11",
         "reverteu": 2711.11
+      },
+      {
+        "mes": "03",
+        "reverteu": 2967.17
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 13226,
     "0": [
       {
         "mes": "06",
         "reverteu": 11180.1
+      },
+      {
+        "mes": "11",
+        "reverteu": 8509.9
+      },
+      {
+        "mes": "10",
+        "reverteu": 11039.41
+      },
+      {
+        "mes": "02",
+        "reverteu": 8969.33
+      },
+      {
+        "mes": "01",
+        "reverteu": 1167.05
+      },
+      {
+        "mes": "07",
+        "reverteu": 9591.92
+      },
+      {
+        "mes": "09",
+        "reverteu": 8963.27
+      },
+      {
+        "mes": "12",
+        "reverteu": 8663.83
       },
       {
         "mes": "03",
@@ -2708,209 +2740,193 @@
         "reverteu": 12078.01
       },
       {
-        "mes": "10",
-        "reverteu": 11039.41
-      },
-      {
-        "mes": "12",
-        "reverteu": 8663.83
-      },
-      {
-        "mes": "08",
-        "reverteu": 9552.38
-      },
-      {
-        "mes": "02",
-        "reverteu": 8969.33
-      },
-      {
-        "mes": "09",
-        "reverteu": 8963.27
-      },
-      {
-        "mes": "01",
-        "reverteu": 903.7
-      },
-      {
         "mes": "04",
         "reverteu": 7746.07
       },
       {
-        "mes": "07",
-        "reverteu": 9591.92
-      },
-      {
-        "mes": "11",
-        "reverteu": 8509.9
+        "mes": "08",
+        "reverteu": 9552.38
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 13234,
     "0": [
       {
-        "mes": "12",
-        "reverteu": 6684.67
-      },
-      {
         "mes": "07",
         "reverteu": 5677.11
-      },
-      {
-        "mes": "10",
-        "reverteu": 8281.83
-      },
-      {
-        "mes": "05",
-        "reverteu": 4704.26
-      },
-      {
-        "mes": "09",
-        "reverteu": 5641.32
-      },
-      {
-        "mes": "03",
-        "reverteu": 9847.57
-      },
-      {
-        "mes": "04",
-        "reverteu": 4509.88
       },
       {
         "mes": "02",
         "reverteu": 5877.11
       },
       {
-        "mes": "08",
-        "reverteu": 6387.7
-      },
-      {
         "mes": "11",
         "reverteu": 5173.63
+      },
+      {
+        "mes": "04",
+        "reverteu": 4509.88
+      },
+      {
+        "mes": "01",
+        "reverteu": 1295.29
+      },
+      {
+        "mes": "05",
+        "reverteu": 4704.26
+      },
+      {
+        "mes": "12",
+        "reverteu": 6684.67
+      },
+      {
+        "mes": "09",
+        "reverteu": 5641.32
+      },
+      {
+        "mes": "10",
+        "reverteu": 8281.83
       },
       {
         "mes": "06",
         "reverteu": 4947.65
       },
       {
-        "mes": "01",
-        "reverteu": 1060.9
+        "mes": "08",
+        "reverteu": 6387.7
+      },
+      {
+        "mes": "03",
+        "reverteu": 9847.57
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 13650,
     "0": [
       {
-        "mes": "06",
-        "reverteu": 1057.73
-      },
-      {
-        "mes": "02",
-        "reverteu": 2056.39
-      },
-      {
-        "mes": "12",
-        "reverteu": 2135.17
-      },
-      {
-        "mes": "07",
-        "reverteu": 2160.99
+        "mes": "03",
+        "reverteu": 4977.55
       },
       {
         "mes": "05",
         "reverteu": 3698.54
       },
       {
+        "mes": "01",
+        "reverteu": 407.22
+      },
+      {
+        "mes": "07",
+        "reverteu": 2160.99
+      },
+      {
+        "mes": "12",
+        "reverteu": 2135.17
+      },
+      {
         "mes": "04",
         "reverteu": 1938.79
-      },
-      {
-        "mes": "01",
-        "reverteu": 399.27
-      },
-      {
-        "mes": "09",
-        "reverteu": 2210.49
-      },
-      {
-        "mes": "03",
-        "reverteu": 4977.55
       },
       {
         "mes": "11",
         "reverteu": 2669.07
       },
       {
-        "mes": "10",
-        "reverteu": 3247.21
+        "mes": "02",
+        "reverteu": 2056.39
+      },
+      {
+        "mes": "06",
+        "reverteu": 1057.73
       },
       {
         "mes": "08",
         "reverteu": 2022.57
+      },
+      {
+        "mes": "09",
+        "reverteu": 2210.49
+      },
+      {
+        "mes": "10",
+        "reverteu": 3247.21
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 14087,
     "0": [
-      {
-        "mes": "04",
-        "reverteu": 6121.22
-      },
-      {
-        "mes": "12",
-        "reverteu": 5354.21
-      },
-      {
-        "mes": "10",
-        "reverteu": 9034.23
-      },
-      {
-        "mes": "08",
-        "reverteu": 5834.1
-      },
       {
         "mes": "02",
         "reverteu": 5140.56
       },
       {
-        "mes": "03",
-        "reverteu": 7252.99
+        "mes": "01",
+        "reverteu": 2235.75
+      },
+      {
+        "mes": "04",
+        "reverteu": 6121.22
       },
       {
         "mes": "06",
         "reverteu": 6518.1
       },
       {
-        "mes": "01",
-        "reverteu": 2009.3
+        "mes": "03",
+        "reverteu": 7252.99
       },
       {
-        "mes": "07",
-        "reverteu": 7449.05
+        "mes": "10",
+        "reverteu": 9034.23
+      },
+      {
+        "mes": "05",
+        "reverteu": 6486.28
       },
       {
         "mes": "09",
         "reverteu": 5447.74
       },
       {
+        "mes": "12",
+        "reverteu": 5354.21
+      },
+      {
         "mes": "11",
         "reverteu": 4804.95
       },
       {
-        "mes": "05",
-        "reverteu": 6486.28
+        "mes": "08",
+        "reverteu": 5834.1
+      },
+      {
+        "mes": "07",
+        "reverteu": 7449.05
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 14702,
     "0": [
+      {
+        "mes": "01",
+        "reverteu": 501.51
+      },
+      {
+        "mes": "09",
+        "reverteu": 1729.14
+      },
+      {
+        "mes": "11",
+        "reverteu": 2059.06
+      },
       {
         "mes": "12",
         "reverteu": 1914.59
@@ -2920,104 +2936,88 @@
         "reverteu": 1726.77
       },
       {
-        "mes": "10",
-        "reverteu": 2224.01
-      },
-      {
         "mes": "08",
         "reverteu": 1860.96
       },
       {
-        "mes": "01",
-        "reverteu": 230.84
-      },
-      {
-        "mes": "09",
-        "reverteu": 1729.14
-      },
-      {
-        "mes": "11",
-        "reverteu": 2059.06
+        "mes": "10",
+        "reverteu": 2224.01
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 15121,
     "0": [
       {
-        "mes": "04",
-        "reverteu": 4840.08
-      },
-      {
-        "mes": "08",
-        "reverteu": 6112.22
-      },
-      {
-        "mes": "05",
-        "reverteu": 5911.48
-      },
-      {
-        "mes": "09",
-        "reverteu": 6445.31
-      },
-      {
-        "mes": "12",
-        "reverteu": 6219.31
-      },
-      {
-        "mes": "03",
-        "reverteu": 8646.87
-      },
-      {
-        "mes": "10",
-        "reverteu": 9620.18
-      },
-      {
-        "mes": "02",
-        "reverteu": 6814.68
-      },
-      {
-        "mes": "06",
-        "reverteu": 7000.85
+        "mes": "07",
+        "reverteu": 6835.32
       },
       {
         "mes": "11",
         "reverteu": 6818.83
       },
       {
-        "mes": "07",
-        "reverteu": 6835.32
+        "mes": "09",
+        "reverteu": 6445.31
+      },
+      {
+        "mes": "08",
+        "reverteu": 6112.22
+      },
+      {
+        "mes": "04",
+        "reverteu": 4840.08
+      },
+      {
+        "mes": "12",
+        "reverteu": 6219.31
+      },
+      {
+        "mes": "05",
+        "reverteu": 5911.48
+      },
+      {
+        "mes": "10",
+        "reverteu": 9620.18
       },
       {
         "mes": "01",
-        "reverteu": 2198.21
+        "reverteu": 2294.74
+      },
+      {
+        "mes": "06",
+        "reverteu": 7000.85
+      },
+      {
+        "mes": "02",
+        "reverteu": 6814.68
+      },
+      {
+        "mes": "03",
+        "reverteu": 8646.87
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 15245,
     "0": [
       {
-        "mes": "04",
-        "reverteu": 2012.1
+        "mes": "07",
+        "reverteu": 2850.82
       },
       {
-        "mes": "02",
-        "reverteu": 3659.85
+        "mes": "12",
+        "reverteu": 1398.41
+      },
+      {
+        "mes": "05",
+        "reverteu": 3081.68
       },
       {
         "mes": "08",
         "reverteu": 1960.37
-      },
-      {
-        "mes": "11",
-        "reverteu": 2997.67
-      },
-      {
-        "mes": "09",
-        "reverteu": 3521.06
       },
       {
         "mes": "10",
@@ -3025,99 +3025,115 @@
       },
       {
         "mes": "01",
-        "reverteu": 1684.3
+        "reverteu": 1765.3
       },
       {
         "mes": "06",
         "reverteu": 2331.38
       },
       {
-        "mes": "05",
-        "reverteu": 3081.68
+        "mes": "02",
+        "reverteu": 3659.85
       },
       {
-        "mes": "12",
-        "reverteu": 1398.41
+        "mes": "11",
+        "reverteu": 2997.67
       },
       {
         "mes": "03",
         "reverteu": 3750.82
       },
       {
-        "mes": "07",
-        "reverteu": 2850.82
+        "mes": "09",
+        "reverteu": 3521.06
+      },
+      {
+        "mes": "04",
+        "reverteu": 2012.1
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 15385,
     "0": [
       {
-        "mes": "10",
-        "reverteu": 6112.4
-      },
-      {
-        "mes": "07",
-        "reverteu": 4962.36
-      },
-      {
-        "mes": "01",
-        "reverteu": 681.52
-      },
-      {
-        "mes": "03",
-        "reverteu": 7162.43
-      },
-      {
         "mes": "08",
         "reverteu": 4501.24
-      },
-      {
-        "mes": "11",
-        "reverteu": 4697.58
-      },
-      {
-        "mes": "12",
-        "reverteu": 4730.43
-      },
-      {
-        "mes": "09",
-        "reverteu": 4093.82
-      },
-      {
-        "mes": "04",
-        "reverteu": 4234.02
-      },
-      {
-        "mes": "06",
-        "reverteu": 4133.73
       },
       {
         "mes": "05",
         "reverteu": 6072.5
       },
       {
+        "mes": "12",
+        "reverteu": 4730.43
+      },
+      {
+        "mes": "07",
+        "reverteu": 4962.36
+      },
+      {
+        "mes": "10",
+        "reverteu": 6112.4
+      },
+      {
         "mes": "02",
         "reverteu": 4818.52
+      },
+      {
+        "mes": "11",
+        "reverteu": 4697.58
+      },
+      {
+        "mes": "06",
+        "reverteu": 4133.73
+      },
+      {
+        "mes": "03",
+        "reverteu": 7162.43
+      },
+      {
+        "mes": "04",
+        "reverteu": 4234.02
+      },
+      {
+        "mes": "01",
+        "reverteu": 892.1
+      },
+      {
+        "mes": "09",
+        "reverteu": 4093.82
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 16497,
     "0": [
+      {
+        "mes": "04",
+        "reverteu": 2790.27
+      },
+      {
+        "mes": "06",
+        "reverteu": 4076.71
+      },
       {
         "mes": "10",
         "reverteu": 8579.53
       },
       {
-        "mes": "03",
-        "reverteu": 9606.87
+        "mes": "07",
+        "reverteu": 5179.37
       },
       {
-        "mes": "04",
-        "reverteu": 2790.27
+        "mes": "02",
+        "reverteu": 4441.07
+      },
+      {
+        "mes": "09",
+        "reverteu": 4190.53
       },
       {
         "mes": "12",
@@ -3128,104 +3144,108 @@
         "reverteu": 4136.5
       },
       {
-        "mes": "05",
-        "reverteu": 4417.13
-      },
-      {
-        "mes": "01",
-        "reverteu": 2262.85
-      },
-      {
-        "mes": "02",
-        "reverteu": 4441.07
-      },
-      {
-        "mes": "07",
-        "reverteu": 5179.37
-      },
-      {
-        "mes": "09",
-        "reverteu": 4190.53
-      },
-      {
-        "mes": "06",
-        "reverteu": 4076.71
+        "mes": "03",
+        "reverteu": 9606.87
       },
       {
         "mes": "08",
         "reverteu": 4474.81
+      },
+      {
+        "mes": "01",
+        "reverteu": 2542.42
+      },
+      {
+        "mes": "05",
+        "reverteu": 4417.13
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 16624,
     "0": [
       {
-        "mes": "03",
-        "reverteu": 13531.59
-      },
-      {
-        "mes": "07",
-        "reverteu": 11192.73
-      },
-      {
-        "mes": "09",
-        "reverteu": 12223.41
-      },
-      {
-        "mes": "01",
-        "reverteu": 1697.9
-      },
-      {
-        "mes": "05",
-        "reverteu": 9478.16
+        "mes": "06",
+        "reverteu": 7339.23
       },
       {
         "mes": "08",
         "reverteu": 10081.23
       },
       {
-        "mes": "11",
-        "reverteu": 9913.5
+        "mes": "09",
+        "reverteu": 12223.41
       },
       {
-        "mes": "12",
-        "reverteu": 9572.12
+        "mes": "05",
+        "reverteu": 9478.16
+      },
+      {
+        "mes": "07",
+        "reverteu": 11192.73
+      },
+      {
+        "mes": "03",
+        "reverteu": 13531.59
       },
       {
         "mes": "04",
         "reverteu": 6808.73
       },
       {
-        "mes": "02",
-        "reverteu": 11447.12
-      },
-      {
-        "mes": "06",
-        "reverteu": 7339.23
+        "mes": "12",
+        "reverteu": 9572.12
       },
       {
         "mes": "10",
         "reverteu": 14454.98
+      },
+      {
+        "mes": "01",
+        "reverteu": 1913.15
+      },
+      {
+        "mes": "11",
+        "reverteu": 9913.5
+      },
+      {
+        "mes": "02",
+        "reverteu": 11447.12
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 16632,
     "0": [
       {
-        "mes": "03",
-        "reverteu": 10054.61
+        "mes": "08",
+        "reverteu": 10142.87
       },
       {
-        "mes": "04",
-        "reverteu": 7298.08
+        "mes": "07",
+        "reverteu": 8864.25
       },
       {
         "mes": "09",
         "reverteu": 8596.7
+      },
+      {
+        "mes": "05",
+        "reverteu": 9921.0
+      },
+      {
+        "mes": "11",
+        "reverteu": 9286.01
+      },
+      {
+        "mes": "06",
+        "reverteu": 7926.76
+      },
+      {
+        "mes": "04",
+        "reverteu": 7298.08
       },
       {
         "mes": "02",
@@ -3236,28 +3256,12 @@
         "reverteu": 13667.61
       },
       {
-        "mes": "06",
-        "reverteu": 7926.76
-      },
-      {
-        "mes": "05",
-        "reverteu": 9921.0
-      },
-      {
-        "mes": "07",
-        "reverteu": 8864.25
-      },
-      {
-        "mes": "08",
-        "reverteu": 10142.87
+        "mes": "03",
+        "reverteu": 10054.61
       },
       {
         "mes": "01",
-        "reverteu": 1106.12
-      },
-      {
-        "mes": "11",
-        "reverteu": 9286.01
+        "reverteu": 1462.32
       },
       {
         "mes": "12",
@@ -3266,144 +3270,120 @@
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 16675,
     "0": [
       {
+        "mes": "12",
+        "reverteu": 2683.66
+      },
+      {
         "mes": "10",
         "reverteu": 3273.18
-      },
-      {
-        "mes": "06",
-        "reverteu": 2041.74
-      },
-      {
-        "mes": "11",
-        "reverteu": 2990.42
-      },
-      {
-        "mes": "09",
-        "reverteu": 1855.37
-      },
-      {
-        "mes": "03",
-        "reverteu": 2201.0
-      },
-      {
-        "mes": "02",
-        "reverteu": 1323.21
-      },
-      {
-        "mes": "04",
-        "reverteu": 1865.04
-      },
-      {
-        "mes": "05",
-        "reverteu": 1911.92
-      },
-      {
-        "mes": "07",
-        "reverteu": 2441.8
       },
       {
         "mes": "08",
         "reverteu": 1286.68
       },
       {
-        "mes": "01",
-        "reverteu": 375.12
+        "mes": "04",
+        "reverteu": 1865.04
       },
       {
-        "mes": "12",
-        "reverteu": 2683.66
+        "mes": "09",
+        "reverteu": 1855.37
+      },
+      {
+        "mes": "02",
+        "reverteu": 1323.21
+      },
+      {
+        "mes": "05",
+        "reverteu": 1911.92
+      },
+      {
+        "mes": "06",
+        "reverteu": 2041.74
+      },
+      {
+        "mes": "07",
+        "reverteu": 2441.8
+      },
+      {
+        "mes": "11",
+        "reverteu": 2990.42
+      },
+      {
+        "mes": "01",
+        "reverteu": 495.17
+      },
+      {
+        "mes": "03",
+        "reverteu": 2201.0
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 16829,
     "0": [
-      {
-        "mes": "06",
-        "reverteu": 3585.47
-      },
-      {
-        "mes": "07",
-        "reverteu": 4364.14
-      },
-      {
-        "mes": "11",
-        "reverteu": 3686.29
-      },
       {
         "mes": "04",
         "reverteu": 3254.34
       },
       {
-        "mes": "02",
-        "reverteu": 4372.99
-      },
-      {
-        "mes": "09",
-        "reverteu": 4190.09
+        "mes": "01",
+        "reverteu": 1190.72
       },
       {
         "mes": "12",
         "reverteu": 2807.98
       },
       {
+        "mes": "07",
+        "reverteu": 4364.14
+      },
+      {
         "mes": "10",
         "reverteu": 6566.63
       },
       {
-        "mes": "01",
-        "reverteu": 1110.81
+        "mes": "08",
+        "reverteu": 3802.68
+      },
+      {
+        "mes": "02",
+        "reverteu": 4372.99
+      },
+      {
+        "mes": "06",
+        "reverteu": 3585.47
       },
       {
         "mes": "03",
         "reverteu": 4992.23
       },
       {
-        "mes": "05",
-        "reverteu": 2642.92
+        "mes": "09",
+        "reverteu": 4190.09
       },
       {
-        "mes": "08",
-        "reverteu": 3802.68
+        "mes": "11",
+        "reverteu": 3686.29
+      },
+      {
+        "mes": "05",
+        "reverteu": 2642.92
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 17132,
     "0": [
       {
-        "mes": "07",
-        "reverteu": 7480.23
-      },
-      {
-        "mes": "06",
-        "reverteu": 5755.55
-      },
-      {
-        "mes": "11",
-        "reverteu": 6130.82
-      },
-      {
         "mes": "12",
         "reverteu": 6005.2
-      },
-      {
-        "mes": "10",
-        "reverteu": 10139.86
-      },
-      {
-        "mes": "04",
-        "reverteu": 6715.68
-      },
-      {
-        "mes": "03",
-        "reverteu": 12469.57
       },
       {
         "mes": "09",
@@ -3414,38 +3394,62 @@
         "reverteu": 8059.69
       },
       {
-        "mes": "08",
-        "reverteu": 6398.56
+        "mes": "01",
+        "reverteu": 1529.63
       },
       {
-        "mes": "01",
-        "reverteu": 1225.23
+        "mes": "10",
+        "reverteu": 10139.86
+      },
+      {
+        "mes": "03",
+        "reverteu": 12469.57
+      },
+      {
+        "mes": "06",
+        "reverteu": 5755.55
       },
       {
         "mes": "05",
         "reverteu": 6400.88
+      },
+      {
+        "mes": "04",
+        "reverteu": 6715.68
+      },
+      {
+        "mes": "11",
+        "reverteu": 6130.82
+      },
+      {
+        "mes": "08",
+        "reverteu": 6398.56
+      },
+      {
+        "mes": "07",
+        "reverteu": 7480.23
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 18066,
     "0": [
       {
-        "mes": "05",
-        "reverteu": 6701.54
-      },
-      {
         "mes": "12",
         "reverteu": 4539.75
+      },
+      {
+        "mes": "04",
+        "reverteu": 4778.33
       },
       {
         "mes": "08",
         "reverteu": 6926.59
       },
       {
-        "mes": "03",
-        "reverteu": 7315.05
+        "mes": "10",
+        "reverteu": 7630.41
       },
       {
         "mes": "11",
@@ -3456,54 +3460,50 @@
         "reverteu": 7686.93
       },
       {
-        "mes": "10",
-        "reverteu": 7630.41
+        "mes": "05",
+        "reverteu": 6701.54
+      },
+      {
+        "mes": "01",
+        "reverteu": 1016.15
+      },
+      {
+        "mes": "03",
+        "reverteu": 7315.05
       },
       {
         "mes": "06",
         "reverteu": 4633.65
       },
       {
-        "mes": "09",
-        "reverteu": 5986.65
-      },
-      {
-        "mes": "01",
-        "reverteu": 905.32
-      },
-      {
-        "mes": "04",
-        "reverteu": 4778.33
-      },
-      {
         "mes": "02",
         "reverteu": 6753.14
+      },
+      {
+        "mes": "09",
+        "reverteu": 5986.65
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 18309,
     "0": [
       {
-        "mes": "12",
-        "reverteu": 2231.95
+        "mes": "08",
+        "reverteu": 1978.86
       },
       {
         "mes": "11",
         "reverteu": 2302.7
       },
       {
-        "mes": "08",
-        "reverteu": 1978.86
+        "mes": "07",
+        "reverteu": 1841.82
       },
       {
         "mes": "10",
         "reverteu": 3193.48
-      },
-      {
-        "mes": "07",
-        "reverteu": 1841.82
       },
       {
         "mes": "09",
@@ -3511,38 +3511,18 @@
       },
       {
         "mes": "01",
-        "reverteu": 364.79
+        "reverteu": 428.44
+      },
+      {
+        "mes": "12",
+        "reverteu": 2231.95
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 19143,
     "0": [
-      {
-        "mes": "10",
-        "reverteu": 9451.69
-      },
-      {
-        "mes": "07",
-        "reverteu": 9477.97
-      },
-      {
-        "mes": "02",
-        "reverteu": 7028.01
-      },
-      {
-        "mes": "03",
-        "reverteu": 8612.46
-      },
-      {
-        "mes": "08",
-        "reverteu": 5718.01
-      },
-      {
-        "mes": "12",
-        "reverteu": 6304.3
-      },
       {
         "mes": "05",
         "reverteu": 5645.6
@@ -3552,46 +3532,58 @@
         "reverteu": 5379.37
       },
       {
-        "mes": "06",
-        "reverteu": 5017.91
+        "mes": "08",
+        "reverteu": 5718.01
+      },
+      {
+        "mes": "11",
+        "reverteu": 6835.95
+      },
+      {
+        "mes": "01",
+        "reverteu": 1701.79
+      },
+      {
+        "mes": "12",
+        "reverteu": 6304.3
       },
       {
         "mes": "09",
         "reverteu": 6993.69
       },
       {
-        "mes": "01",
-        "reverteu": 1398.37
+        "mes": "10",
+        "reverteu": 9451.69
       },
       {
-        "mes": "11",
-        "reverteu": 6835.95
+        "mes": "03",
+        "reverteu": 8612.46
+      },
+      {
+        "mes": "06",
+        "reverteu": 5017.91
+      },
+      {
+        "mes": "07",
+        "reverteu": 9477.97
+      },
+      {
+        "mes": "02",
+        "reverteu": 7028.01
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 19348,
     "0": [
-      {
-        "mes": "04",
-        "reverteu": 4291.81
-      },
-      {
-        "mes": "05",
-        "reverteu": 4366.11
-      },
-      {
-        "mes": "08",
-        "reverteu": 3345.47
-      },
       {
         "mes": "10",
         "reverteu": 6892.47
       },
       {
-        "mes": "02",
-        "reverteu": 4788.32
+        "mes": "05",
+        "reverteu": 4366.11
       },
       {
         "mes": "07",
@@ -3606,35 +3598,39 @@
         "reverteu": 5985.1
       },
       {
-        "mes": "11",
-        "reverteu": 4941.1
+        "mes": "06",
+        "reverteu": 3471.54
       },
       {
-        "mes": "01",
-        "reverteu": 421.78
+        "mes": "08",
+        "reverteu": 3345.47
       },
       {
         "mes": "03",
         "reverteu": 8217.7
       },
       {
-        "mes": "06",
-        "reverteu": 3471.54
+        "mes": "02",
+        "reverteu": 4788.32
+      },
+      {
+        "mes": "01",
+        "reverteu": 861.48
+      },
+      {
+        "mes": "04",
+        "reverteu": 4291.81
+      },
+      {
+        "mes": "11",
+        "reverteu": 4941.1
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 19615,
     "0": [
-      {
-        "mes": "03",
-        "reverteu": 5031.91
-      },
-      {
-        "mes": "07",
-        "reverteu": 4562.41
-      },
       {
         "mes": "05",
         "reverteu": 4251.81
@@ -3644,104 +3640,120 @@
         "reverteu": 5714.44
       },
       {
+        "mes": "02",
+        "reverteu": 4653.05
+      },
+      {
         "mes": "11",
         "reverteu": 4629.0
+      },
+      {
+        "mes": "03",
+        "reverteu": 5031.91
+      },
+      {
+        "mes": "07",
+        "reverteu": 4562.41
       },
       {
         "mes": "04",
         "reverteu": 3130.38
       },
       {
-        "mes": "06",
-        "reverteu": 3852.18
+        "mes": "09",
+        "reverteu": 4206.9
       },
       {
         "mes": "08",
         "reverteu": 4042.13
       },
       {
-        "mes": "02",
-        "reverteu": 4653.05
+        "mes": "01",
+        "reverteu": 864.46
       },
       {
-        "mes": "09",
-        "reverteu": 4206.9
+        "mes": "06",
+        "reverteu": 3852.18
       },
       {
         "mes": "12",
         "reverteu": 4135.28
-      },
-      {
-        "mes": "01",
-        "reverteu": 686.36
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 19844,
     "0": [
       {
-        "mes": "12",
-        "reverteu": 6746.29
+        "mes": "01",
+        "reverteu": 854.72
       },
       {
         "mes": "08",
         "reverteu": 4631.57
       },
       {
-        "mes": "03",
-        "reverteu": 6285.33
-      },
-      {
         "mes": "06",
         "reverteu": 4394.99
       },
       {
-        "mes": "02",
-        "reverteu": 2398.25
+        "mes": "12",
+        "reverteu": 6746.29
       },
       {
-        "mes": "10",
-        "reverteu": 8439.36
-      },
-      {
-        "mes": "07",
-        "reverteu": 3728.68
-      },
-      {
-        "mes": "09",
-        "reverteu": 5956.83
+        "mes": "05",
+        "reverteu": 5172.07
       },
       {
         "mes": "04",
         "reverteu": 5939.38
       },
       {
+        "mes": "10",
+        "reverteu": 8439.36
+      },
+      {
+        "mes": "09",
+        "reverteu": 5956.83
+      },
+      {
+        "mes": "02",
+        "reverteu": 2398.25
+      },
+      {
+        "mes": "07",
+        "reverteu": 3728.68
+      },
+      {
+        "mes": "03",
+        "reverteu": 6285.33
+      },
+      {
         "mes": "11",
         "reverteu": 7117.8
-      },
-      {
-        "mes": "01",
-        "reverteu": 731.11
-      },
-      {
-        "mes": "05",
-        "reverteu": 5172.07
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 20630,
     "0": [
       {
-        "mes": "02",
-        "reverteu": 5727.27
+        "mes": "01",
+        "reverteu": 3525.28
+      },
+      {
+        "mes": "10",
+        "reverteu": 4984.69
       },
       {
         "mes": "12",
         "reverteu": 3167.39
+      },
+      {
+        "mes": "06",
+        "reverteu": 3300.34
       },
       {
         "mes": "04",
@@ -3752,54 +3764,58 @@
         "reverteu": 3675.9
       },
       {
-        "mes": "01",
-        "reverteu": 2987.7
-      },
-      {
-        "mes": "11",
-        "reverteu": 3951.24
-      },
-      {
         "mes": "09",
         "reverteu": 3634.46
-      },
-      {
-        "mes": "05",
-        "reverteu": 5505.38
-      },
-      {
-        "mes": "06",
-        "reverteu": 3300.34
-      },
-      {
-        "mes": "03",
-        "reverteu": 8130.31
       },
       {
         "mes": "08",
         "reverteu": 3867.93
       },
       {
-        "mes": "10",
-        "reverteu": 4984.69
+        "mes": "11",
+        "reverteu": 3951.24
+      },
+      {
+        "mes": "05",
+        "reverteu": 5505.38
+      },
+      {
+        "mes": "03",
+        "reverteu": 8130.31
+      },
+      {
+        "mes": "02",
+        "reverteu": 5727.27
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 21083,
     "0": [
+      {
+        "mes": "12",
+        "reverteu": 4065.52
+      },
+      {
+        "mes": "04",
+        "reverteu": 5702.88
+      },
       {
         "mes": "10",
         "reverteu": 9240.41
       },
       {
-        "mes": "05",
-        "reverteu": 3622.29
+        "mes": "02",
+        "reverteu": 7373.0
       },
       {
-        "mes": "04",
-        "reverteu": 5702.88
+        "mes": "07",
+        "reverteu": 4979.73
+      },
+      {
+        "mes": "05",
+        "reverteu": 3622.29
       },
       {
         "mes": "06",
@@ -3810,12 +3826,12 @@
         "reverteu": 4940.94
       },
       {
-        "mes": "07",
-        "reverteu": 4979.73
+        "mes": "01",
+        "reverteu": 943.9
       },
       {
-        "mes": "01",
-        "reverteu": 792.76
+        "mes": "03",
+        "reverteu": 10142.34
       },
       {
         "mes": "11",
@@ -3824,66 +3840,58 @@
       {
         "mes": "09",
         "reverteu": 5758.21
-      },
-      {
-        "mes": "12",
-        "reverteu": 4065.52
-      },
-      {
-        "mes": "02",
-        "reverteu": 7373.0
-      },
-      {
-        "mes": "03",
-        "reverteu": 10142.34
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 21296,
     "0": [
       {
-        "mes": "12",
-        "reverteu": 1758.57
+        "mes": "06",
+        "reverteu": 1878.33
       },
       {
         "mes": "09",
         "reverteu": 2677.87
       },
       {
-        "mes": "08",
-        "reverteu": 1878.92
-      },
-      {
-        "mes": "10",
-        "reverteu": 2267.75
-      },
-      {
-        "mes": "06",
-        "reverteu": 1878.33
+        "mes": "01",
+        "reverteu": 557.99
       },
       {
         "mes": "07",
         "reverteu": 1622.89
       },
       {
-        "mes": "01",
-        "reverteu": 526.29
-      },
-      {
         "mes": "11",
         "reverteu": 1910.89
+      },
+      {
+        "mes": "12",
+        "reverteu": 1758.57
+      },
+      {
+        "mes": "10",
+        "reverteu": 2267.75
+      },
+      {
+        "mes": "08",
+        "reverteu": 1878.92
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 21393,
     "0": [
       {
-        "mes": "08",
-        "reverteu": 6329.3
+        "mes": "04",
+        "reverteu": 5739.87
+      },
+      {
+        "mes": "10",
+        "reverteu": 11407.48
       },
       {
         "mes": "06",
@@ -3898,154 +3906,170 @@
         "reverteu": 6684.36
       },
       {
+        "mes": "03",
+        "reverteu": 8964.14
+      },
+      {
         "mes": "05",
         "reverteu": 8325.97
       },
       {
-        "mes": "01",
-        "reverteu": 1604.17
-      },
-      {
-        "mes": "04",
-        "reverteu": 5739.87
+        "mes": "07",
+        "reverteu": 7150.21
       },
       {
         "mes": "12",
         "reverteu": 5676.32
       },
       {
-        "mes": "03",
-        "reverteu": 8964.14
-      },
-      {
-        "mes": "10",
-        "reverteu": 11407.48
+        "mes": "08",
+        "reverteu": 6329.3
       },
       {
         "mes": "02",
         "reverteu": 9145.28
       },
       {
-        "mes": "07",
-        "reverteu": 7150.21
+        "mes": "01",
+        "reverteu": 2002.11
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 22152,
     "0": [
       {
-        "mes": "09",
-        "reverteu": 3225.77
-      },
-      {
-        "mes": "08",
-        "reverteu": 2366.37
-      },
-      {
-        "mes": "07",
-        "reverteu": 2949.66
-      },
-      {
-        "mes": "02",
-        "reverteu": 2777.66
+        "mes": "01",
+        "reverteu": 906.89
       },
       {
         "mes": "06",
         "reverteu": 3432.3
       },
       {
-        "mes": "11",
-        "reverteu": 2323.55
+        "mes": "10",
+        "reverteu": 3895.39
       },
       {
-        "mes": "03",
-        "reverteu": 3471.41
-      },
-      {
-        "mes": "05",
-        "reverteu": 2734.67
+        "mes": "09",
+        "reverteu": 3225.77
       },
       {
         "mes": "12",
         "reverteu": 2527.6
       },
       {
-        "mes": "01",
-        "reverteu": 795.74
+        "mes": "05",
+        "reverteu": 2734.67
+      },
+      {
+        "mes": "07",
+        "reverteu": 2949.66
+      },
+      {
+        "mes": "03",
+        "reverteu": 3471.41
+      },
+      {
+        "mes": "11",
+        "reverteu": 2323.55
+      },
+      {
+        "mes": "02",
+        "reverteu": 2777.66
+      },
+      {
+        "mes": "08",
+        "reverteu": 2366.37
       },
       {
         "mes": "04",
         "reverteu": 2475.06
-      },
-      {
-        "mes": "10",
-        "reverteu": 3895.39
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 22322,
     "0": [
       {
-        "mes": "06",
-        "reverteu": 4168.98
-      },
-      {
-        "mes": "07",
-        "reverteu": 5525.72
-      },
-      {
-        "mes": "01",
-        "reverteu": 2416.6
-      },
-      {
-        "mes": "02",
-        "reverteu": 4855.97
+        "mes": "03",
+        "reverteu": 7927.73
       },
       {
         "mes": "04",
         "reverteu": 5652.81
       },
       {
-        "mes": "08",
-        "reverteu": 7656.02
-      },
-      {
-        "mes": "09",
-        "reverteu": 3823.65
+        "mes": "12",
+        "reverteu": 3366.79
       },
       {
         "mes": "05",
         "reverteu": 5156.21
       },
       {
-        "mes": "11",
-        "reverteu": 4012.3
+        "mes": "09",
+        "reverteu": 3823.65
       },
       {
-        "mes": "12",
-        "reverteu": 3366.79
+        "mes": "07",
+        "reverteu": 5525.72
       },
       {
         "mes": "10",
         "reverteu": 5976.89
       },
       {
-        "mes": "03",
-        "reverteu": 7927.73
+        "mes": "08",
+        "reverteu": 7656.02
+      },
+      {
+        "mes": "06",
+        "reverteu": 4168.98
+      },
+      {
+        "mes": "11",
+        "reverteu": 4012.3
+      },
+      {
+        "mes": "02",
+        "reverteu": 4855.97
+      },
+      {
+        "mes": "01",
+        "reverteu": 2622.44
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 22470,
     "0": [
       {
+        "mes": "08",
+        "reverteu": 7709.22
+      },
+      {
         "mes": "05",
         "reverteu": 6613.75
+      },
+      {
+        "mes": "06",
+        "reverteu": 9181.12
+      },
+      {
+        "mes": "11",
+        "reverteu": 7660.8
+      },
+      {
+        "mes": "04",
+        "reverteu": 6365.64
+      },
+      {
+        "mes": "07",
+        "reverteu": 8404.64
       },
       {
         "mes": "09",
@@ -4053,39 +4077,19 @@
       },
       {
         "mes": "01",
-        "reverteu": 511.17
-      },
-      {
-        "mes": "11",
-        "reverteu": 7660.8
-      },
-      {
-        "mes": "06",
-        "reverteu": 9181.12
-      },
-      {
-        "mes": "07",
-        "reverteu": 8404.64
+        "reverteu": 763.97
       },
       {
         "mes": "10",
         "reverteu": 10888.28
       },
       {
-        "mes": "08",
-        "reverteu": 7709.22
-      },
-      {
-        "mes": "12",
-        "reverteu": 6739.36
-      },
-      {
         "mes": "03",
         "reverteu": 9761.68
       },
       {
-        "mes": "04",
-        "reverteu": 6365.64
+        "mes": "12",
+        "reverteu": 6739.36
       },
       {
         "mes": "02",
@@ -4094,175 +4098,171 @@
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 22616,
     "0": [
-      {
-        "mes": "11",
-        "reverteu": 7554.69
-      },
-      {
-        "mes": "04",
-        "reverteu": 7847.94
-      },
-      {
-        "mes": "05",
-        "reverteu": 8673.95
-      },
       {
         "mes": "06",
         "reverteu": 9068.16
       },
       {
-        "mes": "02",
-        "reverteu": 7226.84
+        "mes": "11",
+        "reverteu": 7554.69
       },
       {
-        "mes": "07",
-        "reverteu": 9422.92
-      },
-      {
-        "mes": "10",
-        "reverteu": 10725.33
-      },
-      {
-        "mes": "01",
-        "reverteu": 1081.37
+        "mes": "03",
+        "reverteu": 12116.03
       },
       {
         "mes": "09",
         "reverteu": 7726.64
       },
       {
-        "mes": "12",
-        "reverteu": 6604.12
+        "mes": "10",
+        "reverteu": 10725.33
       },
       {
         "mes": "08",
         "reverteu": 8487.0
       },
       {
-        "mes": "03",
-        "reverteu": 12116.03
+        "mes": "01",
+        "reverteu": 1398.98
+      },
+      {
+        "mes": "02",
+        "reverteu": 7226.84
+      },
+      {
+        "mes": "04",
+        "reverteu": 7847.94
+      },
+      {
+        "mes": "12",
+        "reverteu": 6604.12
+      },
+      {
+        "mes": "05",
+        "reverteu": 8673.95
+      },
+      {
+        "mes": "07",
+        "reverteu": 9422.92
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 22675,
     "0": [
       {
-        "mes": "10",
-        "reverteu": 4007.97
-      },
-      {
         "mes": "12",
         "reverteu": 2581.38
-      },
-      {
-        "mes": "01",
-        "reverteu": 1254.57
-      },
-      {
-        "mes": "02",
-        "reverteu": 2545.07
       },
       {
         "mes": "03",
         "reverteu": 5298.73
       },
       {
-        "mes": "09",
-        "reverteu": 3162.48
-      },
-      {
-        "mes": "04",
-        "reverteu": 2706.83
-      },
-      {
-        "mes": "05",
-        "reverteu": 2986.82
-      },
-      {
-        "mes": "07",
-        "reverteu": 2952.54
-      },
-      {
-        "mes": "06",
-        "reverteu": 3117.05
+        "mes": "02",
+        "reverteu": 2545.07
       },
       {
         "mes": "08",
         "reverteu": 3264.47
       },
       {
+        "mes": "06",
+        "reverteu": 3117.05
+      },
+      {
+        "mes": "05",
+        "reverteu": 2986.82
+      },
+      {
+        "mes": "09",
+        "reverteu": 3162.48
+      },
+      {
         "mes": "11",
         "reverteu": 3653.83
+      },
+      {
+        "mes": "07",
+        "reverteu": 2952.54
+      },
+      {
+        "mes": "10",
+        "reverteu": 4007.97
+      },
+      {
+        "mes": "04",
+        "reverteu": 2706.83
+      },
+      {
+        "mes": "01",
+        "reverteu": 1406.89
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 22896,
     "0": [
       {
-        "mes": "09",
-        "reverteu": 5381.61
-      },
-      {
-        "mes": "08",
-        "reverteu": 3331.69
-      },
-      {
-        "mes": "11",
-        "reverteu": 4375.16
-      },
-      {
-        "mes": "10",
-        "reverteu": 7821.95
-      },
-      {
         "mes": "03",
         "reverteu": 6288.91
-      },
-      {
-        "mes": "05",
-        "reverteu": 4174.9
-      },
-      {
-        "mes": "06",
-        "reverteu": 3543.06
-      },
-      {
-        "mes": "01",
-        "reverteu": 1534.56
-      },
-      {
-        "mes": "12",
-        "reverteu": 4394.81
-      },
-      {
-        "mes": "02",
-        "reverteu": 4261.64
       },
       {
         "mes": "04",
         "reverteu": 4325.54
       },
       {
+        "mes": "12",
+        "reverteu": 4394.81
+      },
+      {
         "mes": "07",
         "reverteu": 5644.76
+      },
+      {
+        "mes": "10",
+        "reverteu": 7821.95
+      },
+      {
+        "mes": "02",
+        "reverteu": 4261.64
+      },
+      {
+        "mes": "08",
+        "reverteu": 3331.69
+      },
+      {
+        "mes": "01",
+        "reverteu": 1744.48
+      },
+      {
+        "mes": "05",
+        "reverteu": 4174.9
+      },
+      {
+        "mes": "09",
+        "reverteu": 5381.61
+      },
+      {
+        "mes": "11",
+        "reverteu": 4375.16
+      },
+      {
+        "mes": "06",
+        "reverteu": 3543.06
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 23329,
     "0": [
-      {
-        "mes": "01",
-        "reverteu": 129.22
-      },
       {
         "mes": "09",
         "reverteu": 1827.74
@@ -4272,12 +4272,12 @@
         "reverteu": 1596.77
       },
       {
-        "mes": "07",
-        "reverteu": 1545.55
-      },
-      {
         "mes": "10",
         "reverteu": 2829.06
+      },
+      {
+        "mes": "01",
+        "reverteu": 173.23
       },
       {
         "mes": "11",
@@ -4286,48 +4286,40 @@
       {
         "mes": "12",
         "reverteu": 1687.86
+      },
+      {
+        "mes": "07",
+        "reverteu": 1545.55
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 23647,
     "0": [
       {
-        "mes": "08",
-        "reverteu": 4114.08
-      },
-      {
-        "mes": "02",
-        "reverteu": 5296.1
-      },
-      {
-        "mes": "07",
-        "reverteu": 4859.36
-      },
-      {
         "mes": "05",
         "reverteu": 6864.3
-      },
-      {
-        "mes": "10",
-        "reverteu": 6431.16
-      },
-      {
-        "mes": "12",
-        "reverteu": 3716.18
-      },
-      {
-        "mes": "01",
-        "reverteu": 494.23
       },
       {
         "mes": "04",
         "reverteu": 4283.22
       },
       {
-        "mes": "11",
-        "reverteu": 5091.46
+        "mes": "09",
+        "reverteu": 4428.12
+      },
+      {
+        "mes": "02",
+        "reverteu": 5296.1
+      },
+      {
+        "mes": "08",
+        "reverteu": 4114.08
+      },
+      {
+        "mes": "07",
+        "reverteu": 4859.36
       },
       {
         "mes": "06",
@@ -4338,26 +4330,42 @@
         "reverteu": 7496.87
       },
       {
-        "mes": "09",
-        "reverteu": 4428.12
+        "mes": "11",
+        "reverteu": 5091.46
+      },
+      {
+        "mes": "12",
+        "reverteu": 3716.18
+      },
+      {
+        "mes": "10",
+        "reverteu": 6431.16
+      },
+      {
+        "mes": "01",
+        "reverteu": 699.71
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 23710,
     "0": [
       {
-        "mes": "08",
-        "reverteu": 5995.7
+        "mes": "03",
+        "reverteu": 7432.31
       },
       {
-        "mes": "10",
-        "reverteu": 8964.89
+        "mes": "12",
+        "reverteu": 4635.8
       },
       {
-        "mes": "07",
-        "reverteu": 6094.7
+        "mes": "11",
+        "reverteu": 5597.83
+      },
+      {
+        "mes": "09",
+        "reverteu": 5103.32
       },
       {
         "mes": "02",
@@ -4368,37 +4376,33 @@
         "reverteu": 5086.28
       },
       {
+        "mes": "01",
+        "reverteu": 1554.18
+      },
+      {
         "mes": "04",
         "reverteu": 5823.23
       },
       {
-        "mes": "03",
-        "reverteu": 7432.31
+        "mes": "08",
+        "reverteu": 5995.7
+      },
+      {
+        "mes": "10",
+        "reverteu": 8964.89
       },
       {
         "mes": "05",
         "reverteu": 4940.75
       },
       {
-        "mes": "12",
-        "reverteu": 4635.8
-      },
-      {
-        "mes": "09",
-        "reverteu": 5103.32
-      },
-      {
-        "mes": "01",
-        "reverteu": 1333.13
-      },
-      {
-        "mes": "11",
-        "reverteu": 5597.83
+        "mes": "07",
+        "reverteu": 6094.7
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 23825,
     "0": [
       {
@@ -4406,107 +4410,107 @@
         "reverteu": 5151.42
       },
       {
-        "mes": "03",
-        "reverteu": 7824.51
-      },
-      {
-        "mes": "12",
-        "reverteu": 3994.49
-      },
-      {
         "mes": "04",
         "reverteu": 2942.11
-      },
-      {
-        "mes": "05",
-        "reverteu": 7597.92
-      },
-      {
-        "mes": "10",
-        "reverteu": 5616.74
       },
       {
         "mes": "08",
         "reverteu": 3943.88
       },
       {
+        "mes": "10",
+        "reverteu": 5616.74
+      },
+      {
+        "mes": "01",
+        "reverteu": 1519.76
+      },
+      {
         "mes": "06",
         "reverteu": 4118.2
+      },
+      {
+        "mes": "12",
+        "reverteu": 3994.49
+      },
+      {
+        "mes": "03",
+        "reverteu": 7824.51
       },
       {
         "mes": "11",
         "reverteu": 6069.76
       },
       {
+        "mes": "09",
+        "reverteu": 5968.93
+      },
+      {
         "mes": "02",
         "reverteu": 4231.35
       },
       {
-        "mes": "01",
-        "reverteu": 1404.31
-      },
-      {
-        "mes": "09",
-        "reverteu": 5968.93
+        "mes": "05",
+        "reverteu": 7597.92
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 23884,
     "0": [
-      {
-        "mes": "11",
-        "reverteu": 7526.29
-      },
-      {
-        "mes": "12",
-        "reverteu": 6483.78
-      },
       {
         "mes": "10",
         "reverteu": 11604.04
       },
       {
-        "mes": "07",
-        "reverteu": 8007.56
+        "mes": "11",
+        "reverteu": 7526.29
       },
       {
         "mes": "03",
         "reverteu": 7612.68
       },
       {
-        "mes": "05",
-        "reverteu": 7390.64
-      },
-      {
-        "mes": "02",
-        "reverteu": 6299.83
-      },
-      {
-        "mes": "06",
-        "reverteu": 7929.74
+        "mes": "08",
+        "reverteu": 7200.08
       },
       {
         "mes": "01",
-        "reverteu": 1197.49
-      },
-      {
-        "mes": "09",
-        "reverteu": 7823.55
+        "reverteu": 1514.79
       },
       {
         "mes": "04",
         "reverteu": 7052.97
       },
       {
-        "mes": "08",
-        "reverteu": 7200.08
+        "mes": "05",
+        "reverteu": 7390.64
+      },
+      {
+        "mes": "09",
+        "reverteu": 7823.55
+      },
+      {
+        "mes": "02",
+        "reverteu": 6299.83
+      },
+      {
+        "mes": "12",
+        "reverteu": 6483.78
+      },
+      {
+        "mes": "07",
+        "reverteu": 8007.56
+      },
+      {
+        "mes": "06",
+        "reverteu": 7929.74
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 24104,
     "0": [
       {
@@ -4518,49 +4522,49 @@
         "reverteu": 3783.74
       },
       {
-        "mes": "08",
-        "reverteu": 3974.23
+        "mes": "10",
+        "reverteu": 5129.84
       },
       {
         "mes": "02",
         "reverteu": 3924.66
       },
       {
-        "mes": "05",
-        "reverteu": 2819.43
-      },
-      {
         "mes": "03",
         "reverteu": 4714.25
       },
       {
-        "mes": "12",
-        "reverteu": 4625.39
-      },
-      {
-        "mes": "07",
-        "reverteu": 5017.61
-      },
-      {
-        "mes": "10",
-        "reverteu": 5129.84
-      },
-      {
-        "mes": "01",
-        "reverteu": 1099.44
+        "mes": "09",
+        "reverteu": 3732.33
       },
       {
         "mes": "11",
         "reverteu": 4419.27
       },
       {
-        "mes": "09",
-        "reverteu": 3732.33
+        "mes": "01",
+        "reverteu": 1201.97
+      },
+      {
+        "mes": "07",
+        "reverteu": 5017.61
+      },
+      {
+        "mes": "12",
+        "reverteu": 4625.39
+      },
+      {
+        "mes": "05",
+        "reverteu": 2819.43
+      },
+      {
+        "mes": "08",
+        "reverteu": 3974.23
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 24414,
     "0": [
       {
@@ -4568,55 +4572,63 @@
         "reverteu": 2581.35
       },
       {
-        "mes": "11",
-        "reverteu": 1544.43
+        "mes": "09",
+        "reverteu": 2985.8
       },
       {
         "mes": "02",
         "reverteu": 3649.78
       },
       {
-        "mes": "12",
-        "reverteu": 2463.61
+        "mes": "06",
+        "reverteu": 2431.37
+      },
+      {
+        "mes": "11",
+        "reverteu": 1544.43
       },
       {
         "mes": "05",
         "reverteu": 2872.31
       },
       {
-        "mes": "04",
-        "reverteu": 3064.57
-      },
-      {
         "mes": "08",
         "reverteu": 2780.37
-      },
-      {
-        "mes": "10",
-        "reverteu": 2923.76
-      },
-      {
-        "mes": "09",
-        "reverteu": 2985.8
       },
       {
         "mes": "03",
         "reverteu": 3395.29
       },
       {
-        "mes": "06",
-        "reverteu": 2431.37
+        "mes": "01",
+        "reverteu": 246.47
       },
       {
-        "mes": "01",
-        "reverteu": 235.26
+        "mes": "04",
+        "reverteu": 3064.57
+      },
+      {
+        "mes": "10",
+        "reverteu": 2923.76
+      },
+      {
+        "mes": "12",
+        "reverteu": 2463.61
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 24422,
     "0": [
+      {
+        "mes": "07",
+        "reverteu": 17839.49
+      },
+      {
+        "mes": "11",
+        "reverteu": 14861.8899999999
+      },
       {
         "mes": "06",
         "reverteu": 15773.73
@@ -4626,24 +4638,8 @@
         "reverteu": 9882.62
       },
       {
-        "mes": "02",
-        "reverteu": 16952.14
-      },
-      {
-        "mes": "09",
-        "reverteu": 13533.93
-      },
-      {
-        "mes": "03",
-        "reverteu": 14637.75
-      },
-      {
-        "mes": "10",
-        "reverteu": 19356.89
-      },
-      {
-        "mes": "11",
-        "reverteu": 14861.89
+        "mes": "01",
+        "reverteu": 3182.01
       },
       {
         "mes": "05",
@@ -4658,100 +4654,108 @@
         "reverteu": 13668.94
       },
       {
-        "mes": "07",
-        "reverteu": 17839.49
+        "mes": "10",
+        "reverteu": 19356.89
       },
       {
-        "mes": "01",
-        "reverteu": 2444.2
+        "mes": "09",
+        "reverteu": 13533.93
+      },
+      {
+        "mes": "02",
+        "reverteu": 16952.14
+      },
+      {
+        "mes": "03",
+        "reverteu": 14637.75
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 24430,
     "0": [
       {
-        "mes": "11",
-        "reverteu": 8069.2
-      },
-      {
         "mes": "09",
         "reverteu": 7096.64
-      },
-      {
-        "mes": "10",
-        "reverteu": 9911.12
-      },
-      {
-        "mes": "06",
-        "reverteu": 8259.61
-      },
-      {
-        "mes": "01",
-        "reverteu": 1732.63
-      },
-      {
-        "mes": "05",
-        "reverteu": 11524.56
       },
       {
         "mes": "04",
         "reverteu": 6277.14
       },
       {
-        "mes": "07",
-        "reverteu": 8222.13
+        "mes": "10",
+        "reverteu": 9911.12
       },
       {
-        "mes": "12",
-        "reverteu": 5177.14
+        "mes": "11",
+        "reverteu": 8069.2
+      },
+      {
+        "mes": "01",
+        "reverteu": 2182.39
+      },
+      {
+        "mes": "08",
+        "reverteu": 7639.47
       },
       {
         "mes": "03",
         "reverteu": 10019.96
       },
       {
+        "mes": "05",
+        "reverteu": 11524.56
+      },
+      {
+        "mes": "07",
+        "reverteu": 8222.13
+      },
+      {
+        "mes": "06",
+        "reverteu": 8259.61
+      },
+      {
         "mes": "02",
         "reverteu": 7927.25
       },
       {
-        "mes": "08",
-        "reverteu": 7639.47
+        "mes": "12",
+        "reverteu": 5177.14
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 24813,
     "0": [
-      {
-        "mes": "01",
-        "reverteu": 1298.33
-      },
-      {
-        "mes": "09",
-        "reverteu": 2947.62
-      },
       {
         "mes": "11",
         "reverteu": 2593.69
       },
       {
-        "mes": "12",
-        "reverteu": 2632.84
-      },
-      {
-        "mes": "03",
-        "reverteu": 5632.17
+        "mes": "06",
+        "reverteu": 3295.23
       },
       {
         "mes": "02",
         "reverteu": 3507.36
       },
       {
+        "mes": "09",
+        "reverteu": 2947.62
+      },
+      {
         "mes": "08",
         "reverteu": 2042.29
+      },
+      {
+        "mes": "01",
+        "reverteu": 1465.41
+      },
+      {
+        "mes": "05",
+        "reverteu": 2950.0
       },
       {
         "mes": "07",
@@ -4766,26 +4770,22 @@
         "reverteu": 3705.4
       },
       {
-        "mes": "06",
-        "reverteu": 3295.23
+        "mes": "03",
+        "reverteu": 5632.17
       },
       {
-        "mes": "05",
-        "reverteu": 2950.0
+        "mes": "12",
+        "reverteu": 2632.84
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 24821,
     "0": [
       {
-        "mes": "03",
-        "reverteu": 8043.56
-      },
-      {
-        "mes": "07",
-        "reverteu": 6825.57
+        "mes": "02",
+        "reverteu": 6259.92
       },
       {
         "mes": "09",
@@ -4796,186 +4796,178 @@
         "reverteu": 6328.63
       },
       {
-        "mes": "01",
-        "reverteu": 1511.94
-      },
-      {
-        "mes": "10",
-        "reverteu": 7834.83
-      },
-      {
-        "mes": "02",
-        "reverteu": 6259.92
-      },
-      {
-        "mes": "05",
-        "reverteu": 5399.25
-      },
-      {
-        "mes": "12",
-        "reverteu": 5797.67
+        "mes": "06",
+        "reverteu": 5579.43
       },
       {
         "mes": "08",
         "reverteu": 5973.45
       },
       {
+        "mes": "03",
+        "reverteu": 8043.56
+      },
+      {
+        "mes": "07",
+        "reverteu": 6825.57
+      },
+      {
+        "mes": "12",
+        "reverteu": 5797.67
+      },
+      {
+        "mes": "10",
+        "reverteu": 7834.83
+      },
+      {
         "mes": "04",
         "reverteu": 5208.14
       },
       {
-        "mes": "06",
-        "reverteu": 5579.43
+        "mes": "05",
+        "reverteu": 5399.25
+      },
+      {
+        "mes": "01",
+        "reverteu": 1844.93
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 25526,
     "0": [
       {
-        "mes": "03",
-        "reverteu": 6028.67
-      },
-      {
-        "mes": "11",
-        "reverteu": 5787.51
-      },
-      {
-        "mes": "07",
-        "reverteu": 5557.24
-      },
-      {
-        "mes": "05",
-        "reverteu": 5687.54
-      },
-      {
-        "mes": "01",
-        "reverteu": 389.2
-      },
-      {
-        "mes": "06",
-        "reverteu": 4465.77
-      },
-      {
-        "mes": "08",
-        "reverteu": 2995.29
-      },
-      {
-        "mes": "02",
-        "reverteu": 6300.6
-      },
-      {
-        "mes": "12",
-        "reverteu": 3797.9
+        "mes": "04",
+        "reverteu": 4819.92
       },
       {
         "mes": "10",
         "reverteu": 7508.76
       },
       {
-        "mes": "04",
-        "reverteu": 4819.92
+        "mes": "07",
+        "reverteu": 5557.24
       },
       {
         "mes": "09",
         "reverteu": 4836.74
+      },
+      {
+        "mes": "03",
+        "reverteu": 6028.67
+      },
+      {
+        "mes": "02",
+        "reverteu": 6300.6
+      },
+      {
+        "mes": "05",
+        "reverteu": 5687.54
+      },
+      {
+        "mes": "08",
+        "reverteu": 2995.29
+      },
+      {
+        "mes": "06",
+        "reverteu": 4465.77
+      },
+      {
+        "mes": "12",
+        "reverteu": 3797.9
+      },
+      {
+        "mes": "01",
+        "reverteu": 540.99
+      },
+      {
+        "mes": "11",
+        "reverteu": 5787.51
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 25631,
     "0": [
       {
-        "mes": "04",
-        "reverteu": 3327.56
-      },
-      {
-        "mes": "02",
-        "reverteu": 6455.86
-      },
-      {
-        "mes": "01",
-        "reverteu": 1672.73
-      },
-      {
-        "mes": "08",
-        "reverteu": 2789.03
-      },
-      {
-        "mes": "03",
-        "reverteu": 6885.4
-      },
-      {
-        "mes": "11",
-        "reverteu": 4503.18
+        "mes": "09",
+        "reverteu": 3221.46
       },
       {
         "mes": "05",
         "reverteu": 6139.62
       },
       {
-        "mes": "09",
-        "reverteu": 3221.46
+        "mes": "06",
+        "reverteu": 4018.96
       },
       {
-        "mes": "10",
-        "reverteu": 3367.04
+        "mes": "08",
+        "reverteu": 2789.03
+      },
+      {
+        "mes": "07",
+        "reverteu": 5735.75
+      },
+      {
+        "mes": "02",
+        "reverteu": 6455.86
+      },
+      {
+        "mes": "04",
+        "reverteu": 3327.56
+      },
+      {
+        "mes": "11",
+        "reverteu": 4503.18
+      },
+      {
+        "mes": "01",
+        "reverteu": 1866.55
       },
       {
         "mes": "12",
         "reverteu": 4364.02
       },
       {
-        "mes": "06",
-        "reverteu": 4018.96
+        "mes": "03",
+        "reverteu": 6885.4
       },
       {
-        "mes": "07",
-        "reverteu": 5735.75
+        "mes": "10",
+        "reverteu": 3367.04
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 25747,
     "0": [
       {
-        "mes": "06",
-        "reverteu": 4769.09
+        "mes": "09",
+        "reverteu": 7699.63
       },
       {
-        "mes": "01",
-        "reverteu": 1516.26
+        "mes": "08",
+        "reverteu": 7352.97
       },
       {
         "mes": "07",
         "reverteu": 7932.43
       },
       {
-        "mes": "09",
-        "reverteu": 7699.63
-      },
-      {
         "mes": "12",
         "reverteu": 6164.86
-      },
-      {
-        "mes": "10",
-        "reverteu": 11029.66
       },
       {
         "mes": "02",
         "reverteu": 7818.22
       },
       {
-        "mes": "05",
-        "reverteu": 9847.37
-      },
-      {
-        "mes": "08",
-        "reverteu": 7352.97
+        "mes": "10",
+        "reverteu": 11029.66
       },
       {
         "mes": "04",
@@ -4986,13 +4978,25 @@
         "reverteu": 7521.09
       },
       {
+        "mes": "06",
+        "reverteu": 4769.09
+      },
+      {
+        "mes": "01",
+        "reverteu": 1781.31
+      },
+      {
         "mes": "03",
         "reverteu": 9768.46
+      },
+      {
+        "mes": "05",
+        "reverteu": 9847.37
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 26026,
     "0": [
       {
@@ -5000,8 +5004,20 @@
         "reverteu": 4336.96
       },
       {
+        "mes": "05",
+        "reverteu": 4272.73
+      },
+      {
         "mes": "01",
-        "reverteu": 824.46
+        "reverteu": 872.65
+      },
+      {
+        "mes": "02",
+        "reverteu": 5523.78
+      },
+      {
+        "mes": "06",
+        "reverteu": 4510.73
       },
       {
         "mes": "09",
@@ -5012,32 +5028,20 @@
         "reverteu": 5005.41
       },
       {
-        "mes": "11",
-        "reverteu": 4512.1
-      },
-      {
-        "mes": "06",
-        "reverteu": 4510.73
-      },
-      {
-        "mes": "07",
-        "reverteu": 5783.25
-      },
-      {
-        "mes": "05",
-        "reverteu": 4272.73
-      },
-      {
         "mes": "10",
         "reverteu": 6407.08
       },
       {
-        "mes": "02",
-        "reverteu": 5523.78
+        "mes": "11",
+        "reverteu": 4512.1
       },
       {
         "mes": "03",
         "reverteu": 5728.24
+      },
+      {
+        "mes": "07",
+        "reverteu": 5783.25
       },
       {
         "mes": "08",
@@ -5046,24 +5050,16 @@
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 26662,
     "0": [
-      {
-        "mes": "05",
-        "reverteu": 8652.55
-      },
       {
         "mes": "12",
         "reverteu": 6024.38
       },
       {
-        "mes": "08",
-        "reverteu": 5182.26
-      },
-      {
-        "mes": "07",
-        "reverteu": 5396.54
+        "mes": "02",
+        "reverteu": 6894.69
       },
       {
         "mes": "10",
@@ -5074,290 +5070,274 @@
         "reverteu": 6220.43
       },
       {
+        "mes": "07",
+        "reverteu": 5396.54
+      },
+      {
+        "mes": "08",
+        "reverteu": 5182.26
+      },
+      {
+        "mes": "05",
+        "reverteu": 8652.55
+      },
+      {
         "mes": "03",
-        "reverteu": 14031.88
+        "reverteu": 14031.8800000001
+      },
+      {
+        "mes": "11",
+        "reverteu": 7928.73
+      },
+      {
+        "mes": "01",
+        "reverteu": 118.63
       },
       {
         "mes": "09",
         "reverteu": 4896.07
       },
       {
-        "mes": "01",
-        "reverteu": 95.76
-      },
-      {
-        "mes": "02",
-        "reverteu": 6894.69
-      },
-      {
         "mes": "04",
         "reverteu": 8693.02
-      },
-      {
-        "mes": "11",
-        "reverteu": 7928.73
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 26670,
     "0": [
       {
-        "mes": "07",
-        "reverteu": 6948.58
+        "mes": "05",
+        "reverteu": 8057.38
+      },
+      {
+        "mes": "09",
+        "reverteu": 7673.69
       },
       {
         "mes": "12",
         "reverteu": 6440.95
       },
       {
-        "mes": "04",
-        "reverteu": 5766.48
-      },
-      {
-        "mes": "05",
-        "reverteu": 8057.38
-      },
-      {
         "mes": "10",
         "reverteu": 9256.95
-      },
-      {
-        "mes": "02",
-        "reverteu": 7393.98
       },
       {
         "mes": "06",
         "reverteu": 6893.45
       },
       {
-        "mes": "01",
-        "reverteu": 1283.57
-      },
-      {
-        "mes": "03",
-        "reverteu": 10774.41
+        "mes": "02",
+        "reverteu": 7393.98
       },
       {
         "mes": "08",
         "reverteu": 6855.76
       },
       {
+        "mes": "07",
+        "reverteu": 6948.58
+      },
+      {
         "mes": "11",
         "reverteu": 7358.6
       },
       {
-        "mes": "09",
-        "reverteu": 7673.69
+        "mes": "01",
+        "reverteu": 1607.51
+      },
+      {
+        "mes": "04",
+        "reverteu": 5766.48
+      },
+      {
+        "mes": "03",
+        "reverteu": 10774.41
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 26778,
     "0": [
       {
-        "mes": "11",
-        "reverteu": 2978.36
-      },
-      {
-        "mes": "08",
-        "reverteu": 2093.08
+        "mes": "01",
+        "reverteu": 785.32
       },
       {
         "mes": "10",
         "reverteu": 3285.85
       },
       {
-        "mes": "03",
-        "reverteu": 4334.5
-      },
-      {
-        "mes": "05",
-        "reverteu": 4258.88
-      },
-      {
         "mes": "02",
         "reverteu": 3036.7
       },
       {
-        "mes": "09",
-        "reverteu": 2039.29
+        "mes": "03",
+        "reverteu": 4334.5
       },
       {
-        "mes": "04",
-        "reverteu": 2558.6
-      },
-      {
-        "mes": "07",
-        "reverteu": 3510.38
+        "mes": "11",
+        "reverteu": 2978.36
       },
       {
         "mes": "12",
         "reverteu": 2447.0
       },
       {
-        "mes": "01",
-        "reverteu": 712.75
+        "mes": "05",
+        "reverteu": 4258.88
+      },
+      {
+        "mes": "07",
+        "reverteu": 3510.38
+      },
+      {
+        "mes": "09",
+        "reverteu": 2039.29
       },
       {
         "mes": "06",
         "reverteu": 2615.26
+      },
+      {
+        "mes": "04",
+        "reverteu": 2558.6
+      },
+      {
+        "mes": "08",
+        "reverteu": 2093.08
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 26824,
     "0": [
       {
-        "mes": "05",
-        "reverteu": 10477.77
+        "mes": "10",
+        "reverteu": 7436.41
       },
       {
-        "mes": "03",
-        "reverteu": 8223.22
-      },
-      {
-        "mes": "11",
-        "reverteu": 5330.24
-      },
-      {
-        "mes": "08",
-        "reverteu": 5168.11
+        "mes": "06",
+        "reverteu": 4017.1
       },
       {
         "mes": "09",
         "reverteu": 5312.04
       },
       {
-        "mes": "07",
-        "reverteu": 6567.43
+        "mes": "05",
+        "reverteu": 10477.77
       },
       {
-        "mes": "02",
-        "reverteu": 3358.25
+        "mes": "11",
+        "reverteu": 5330.24
       },
       {
-        "mes": "04",
-        "reverteu": 5748.09
+        "mes": "01",
+        "reverteu": 945.29
       },
       {
-        "mes": "10",
-        "reverteu": 7436.41
+        "mes": "08",
+        "reverteu": 5168.11
       },
       {
         "mes": "12",
         "reverteu": 5575.06
       },
       {
-        "mes": "01",
-        "reverteu": 824.65
+        "mes": "03",
+        "reverteu": 8223.22
       },
       {
-        "mes": "06",
-        "reverteu": 4017.1
+        "mes": "04",
+        "reverteu": 5748.09
+      },
+      {
+        "mes": "02",
+        "reverteu": 3358.25
+      },
+      {
+        "mes": "07",
+        "reverteu": 6567.43
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 26999,
     "0": [
       {
-        "mes": "07",
-        "reverteu": 5124.26
-      },
-      {
-        "mes": "05",
-        "reverteu": 7733.07
-      },
-      {
-        "mes": "11",
-        "reverteu": 6112.7
-      },
-      {
-        "mes": "12",
-        "reverteu": 9722.09
-      },
-      {
-        "mes": "09",
-        "reverteu": 1670.27
-      },
-      {
-        "mes": "01",
-        "reverteu": 347.63
+        "mes": "02",
+        "reverteu": 5665.24
       },
       {
         "mes": "06",
         "reverteu": 3679.66
       },
       {
-        "mes": "02",
-        "reverteu": 5665.24
-      },
-      {
-        "mes": "08",
-        "reverteu": 7941.03
-      },
-      {
-        "mes": "03",
-        "reverteu": 6976.91
+        "mes": "07",
+        "reverteu": 5124.26
       },
       {
         "mes": "10",
         "reverteu": 9358.79
       },
       {
+        "mes": "01",
+        "reverteu": 402.53
+      },
+      {
+        "mes": "09",
+        "reverteu": 1670.27
+      },
+      {
+        "mes": "05",
+        "reverteu": 7733.07
+      },
+      {
+        "mes": "03",
+        "reverteu": 6976.91
+      },
+      {
+        "mes": "12",
+        "reverteu": 9722.09
+      },
+      {
         "mes": "04",
         "reverteu": 7743.68
+      },
+      {
+        "mes": "11",
+        "reverteu": 6112.7
+      },
+      {
+        "mes": "08",
+        "reverteu": 7941.03
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 27006,
     "0": [
-      {
-        "mes": "12",
-        "reverteu": 3592.95
-      },
-      {
-        "mes": "02",
-        "reverteu": 6801.51
-      },
-      {
-        "mes": "07",
-        "reverteu": 5403.39
-      },
       {
         "mes": "03",
         "reverteu": 8825.73
       },
       {
-        "mes": "06",
-        "reverteu": 4620.65
-      },
-      {
-        "mes": "04",
-        "reverteu": 4446.17
-      },
-      {
-        "mes": "09",
-        "reverteu": 4342.18
+        "mes": "12",
+        "reverteu": 3592.95
       },
       {
         "mes": "08",
         "reverteu": 4802.01
       },
       {
-        "mes": "01",
-        "reverteu": 1785.52
-      },
-      {
-        "mes": "11",
-        "reverteu": 4655.09
+        "mes": "02",
+        "reverteu": 6801.51
       },
       {
         "mes": "10",
@@ -5366,44 +5346,68 @@
       {
         "mes": "05",
         "reverteu": 6439.7
+      },
+      {
+        "mes": "04",
+        "reverteu": 4446.17
+      },
+      {
+        "mes": "06",
+        "reverteu": 4620.65
+      },
+      {
+        "mes": "09",
+        "reverteu": 4342.18
+      },
+      {
+        "mes": "07",
+        "reverteu": 5403.39
+      },
+      {
+        "mes": "01",
+        "reverteu": 1914.83
+      },
+      {
+        "mes": "11",
+        "reverteu": 4655.09
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 27073,
     "0": [
       {
-        "mes": "05",
-        "reverteu": 10388.92
+        "mes": "01",
+        "reverteu": 2778.06
       },
       {
         "mes": "02",
         "reverteu": 10717.62
       },
       {
-        "mes": "07",
-        "reverteu": 10853.65
-      },
-      {
-        "mes": "06",
-        "reverteu": 10625.68
-      },
-      {
-        "mes": "01",
-        "reverteu": 2554.33
-      },
-      {
-        "mes": "12",
-        "reverteu": 8783.75
+        "mes": "05",
+        "reverteu": 10388.92
       },
       {
         "mes": "04",
         "reverteu": 10252.38
       },
       {
-        "mes": "10",
-        "reverteu": 14017.29
+        "mes": "12",
+        "reverteu": 8783.75
+      },
+      {
+        "mes": "11",
+        "reverteu": 11390.13
+      },
+      {
+        "mes": "06",
+        "reverteu": 10625.68
+      },
+      {
+        "mes": "08",
+        "reverteu": 10739.37
       },
       {
         "mes": "09",
@@ -5414,38 +5418,22 @@
         "reverteu": 15017.05
       },
       {
-        "mes": "08",
-        "reverteu": 10739.37
+        "mes": "10",
+        "reverteu": 14017.29
       },
       {
-        "mes": "11",
-        "reverteu": 11390.13
+        "mes": "07",
+        "reverteu": 10853.65
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 27111,
     "0": [
       {
-        "mes": "01",
-        "reverteu": 2436.84
-      },
-      {
         "mes": "04",
         "reverteu": 4022.41
-      },
-      {
-        "mes": "12",
-        "reverteu": 4682.82
-      },
-      {
-        "mes": "02",
-        "reverteu": 5548.55
-      },
-      {
-        "mes": "03",
-        "reverteu": 11543.87
       },
       {
         "mes": "08",
@@ -5456,14 +5444,6 @@
         "reverteu": 5720.83
       },
       {
-        "mes": "10",
-        "reverteu": 7817.31
-      },
-      {
-        "mes": "11",
-        "reverteu": 5259.97
-      },
-      {
         "mes": "05",
         "reverteu": 5140.44
       },
@@ -5472,80 +5452,96 @@
         "reverteu": 6232.98
       },
       {
+        "mes": "02",
+        "reverteu": 5548.55
+      },
+      {
+        "mes": "12",
+        "reverteu": 4682.82
+      },
+      {
+        "mes": "10",
+        "reverteu": 7817.31
+      },
+      {
+        "mes": "03",
+        "reverteu": 11543.87
+      },
+      {
+        "mes": "11",
+        "reverteu": 5259.97
+      },
+      {
+        "mes": "01",
+        "reverteu": 2653.36
+      },
+      {
         "mes": "06",
         "reverteu": 5183.18
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 27170,
     "0": [
       {
-        "mes": "11",
-        "reverteu": 6690.03
-      },
-      {
-        "mes": "01",
-        "reverteu": 1152.29
-      },
-      {
-        "mes": "08",
-        "reverteu": 6013.49
-      },
-      {
         "mes": "12",
         "reverteu": 2297.25
-      },
-      {
-        "mes": "02",
-        "reverteu": 6518.47
-      },
-      {
-        "mes": "10",
-        "reverteu": 7180.98
-      },
-      {
-        "mes": "07",
-        "reverteu": 6062.4
-      },
-      {
-        "mes": "06",
-        "reverteu": 6635.38
-      },
-      {
-        "mes": "04",
-        "reverteu": 6314.23
       },
       {
         "mes": "03",
         "reverteu": 7689.38
       },
       {
+        "mes": "06",
+        "reverteu": 6635.38
+      },
+      {
+        "mes": "08",
+        "reverteu": 6013.49
+      },
+      {
+        "mes": "10",
+        "reverteu": 7180.98
+      },
+      {
         "mes": "05",
         "reverteu": 6849.31
       },
       {
+        "mes": "01",
+        "reverteu": 1298.05
+      },
+      {
+        "mes": "11",
+        "reverteu": 6690.03
+      },
+      {
         "mes": "09",
         "reverteu": 5294.32
+      },
+      {
+        "mes": "04",
+        "reverteu": 6314.23
+      },
+      {
+        "mes": "02",
+        "reverteu": 6518.47
+      },
+      {
+        "mes": "07",
+        "reverteu": 6062.4
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 27219,
     "0": [
       {
-        "mes": "07",
-        "reverteu": 11029.45
-      },
-      {
-        "mes": "10",
-        "reverteu": 14531.2900000001
-      },
-      {
-        "mes": "09",
-        "reverteu": 9232.69
+        "mes": "12",
+        "reverteu": 9541.42
       },
       {
         "mes": "08",
@@ -5556,70 +5552,50 @@
         "reverteu": 10085.2
       },
       {
+        "mes": "07",
+        "reverteu": 11029.45
+      },
+      {
         "mes": "05",
         "reverteu": 9046.06
       },
       {
-        "mes": "12",
-        "reverteu": 9541.42
+        "mes": "10",
+        "reverteu": 14531.2900000001
       },
       {
-        "mes": "03",
-        "reverteu": 13923.36
+        "mes": "01",
+        "reverteu": 2758.2
       },
       {
         "mes": "06",
         "reverteu": 8474.72
       },
       {
-        "mes": "01",
-        "reverteu": 2032.67
+        "mes": "02",
+        "reverteu": 10551.48
       },
       {
         "mes": "11",
         "reverteu": 12337.72
       },
       {
-        "mes": "02",
-        "reverteu": 10551.48
+        "mes": "09",
+        "reverteu": 9232.69
+      },
+      {
+        "mes": "03",
+        "reverteu": 13923.36
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 27480,
     "0": [
       {
         "mes": "08",
         "reverteu": 3035.62
-      },
-      {
-        "mes": "03",
-        "reverteu": 4366.03
-      },
-      {
-        "mes": "11",
-        "reverteu": 4076.72
-      },
-      {
-        "mes": "09",
-        "reverteu": 1720.26
-      },
-      {
-        "mes": "05",
-        "reverteu": 3486.33
-      },
-      {
-        "mes": "10",
-        "reverteu": 4507.99
-      },
-      {
-        "mes": "12",
-        "reverteu": 2161.18
-      },
-      {
-        "mes": "02",
-        "reverteu": 1747.41
       },
       {
         "mes": "07",
@@ -5630,34 +5606,62 @@
         "reverteu": 2952.03
       },
       {
+        "mes": "12",
+        "reverteu": 2161.18
+      },
+      {
+        "mes": "11",
+        "reverteu": 4076.72
+      },
+      {
+        "mes": "03",
+        "reverteu": 4366.03
+      },
+      {
+        "mes": "09",
+        "reverteu": 1720.26
+      },
+      {
         "mes": "06",
         "reverteu": 1978.23
       },
       {
+        "mes": "10",
+        "reverteu": 4507.99
+      },
+      {
+        "mes": "02",
+        "reverteu": 1747.41
+      },
+      {
         "mes": "01",
-        "reverteu": 874.56
+        "reverteu": 981.17
+      },
+      {
+        "mes": "05",
+        "reverteu": 3486.33
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 33901,
     "0": [
       {
-        "mes": "06",
-        "reverteu": 5182.49
+        "mes": "12",
+        "reverteu": 6817.78
       },
       {
-        "mes": "10",
-        "reverteu": 11534.87
+        "mes": "01",
+        "reverteu": 1933.23
+      },
+      {
+        "mes": "08",
+        "reverteu": 5571.29
       },
       {
         "mes": "03",
         "reverteu": 11002.74
-      },
-      {
-        "mes": "05",
-        "reverteu": 8547.52
       },
       {
         "mes": "11",
@@ -5668,78 +5672,78 @@
         "reverteu": 6343.6
       },
       {
+        "mes": "10",
+        "reverteu": 11534.87
+      },
+      {
         "mes": "09",
         "reverteu": 6068.19
       },
       {
-        "mes": "02",
-        "reverteu": 7398.93
-      },
-      {
-        "mes": "12",
-        "reverteu": 6817.78
+        "mes": "05",
+        "reverteu": 8547.52
       },
       {
         "mes": "07",
         "reverteu": 6234.31
       },
       {
-        "mes": "01",
-        "reverteu": 1694.15
+        "mes": "02",
+        "reverteu": 7398.93
       },
       {
-        "mes": "08",
-        "reverteu": 5571.29
+        "mes": "06",
+        "reverteu": 5182.49
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 34100,
     "0": [
       {
-        "mes": "11",
-        "reverteu": 7688.51
-      },
-      {
-        "mes": "05",
-        "reverteu": 7072.94
-      },
-      {
-        "mes": "10",
-        "reverteu": 12640.91
+        "mes": "02",
+        "reverteu": 9535.8
       },
       {
         "mes": "07",
         "reverteu": 9716.25
       },
       {
-        "mes": "03",
-        "reverteu": 10726.57
-      },
-      {
-        "mes": "01",
-        "reverteu": 2007.9
-      },
-      {
-        "mes": "04",
-        "reverteu": 7565.25
-      },
-      {
-        "mes": "02",
-        "reverteu": 9535.8
-      },
-      {
-        "mes": "08",
-        "reverteu": 6722.37
+        "mes": "05",
+        "reverteu": 7072.94
       },
       {
         "mes": "06",
         "reverteu": 7931.25
       },
       {
+        "mes": "08",
+        "reverteu": 6722.37
+      },
+      {
         "mes": "12",
         "reverteu": 7199.85
+      },
+      {
+        "mes": "01",
+        "reverteu": 2700.26
+      },
+      {
+        "mes": "03",
+        "reverteu": 10726.57
+      },
+      {
+        "mes": "10",
+        "reverteu": 12640.91
+      },
+      {
+        "mes": "11",
+        "reverteu": 7688.51
+      },
+      {
+        "mes": "04",
+        "reverteu": 7565.25
       },
       {
         "mes": "09",
@@ -5748,13 +5752,9 @@
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 34134,
     "0": [
-      {
-        "mes": "01",
-        "reverteu": 937.48
-      },
       {
         "mes": "02",
         "reverteu": 4208.34
@@ -5764,16 +5764,12 @@
         "reverteu": 3954.81
       },
       {
-        "mes": "03",
-        "reverteu": 6558.82
+        "mes": "08",
+        "reverteu": 4127.44
       },
       {
         "mes": "06",
         "reverteu": 4263.37
-      },
-      {
-        "mes": "04",
-        "reverteu": 3790.57
       },
       {
         "mes": "11",
@@ -5784,25 +5780,33 @@
         "reverteu": 3090.05
       },
       {
-        "mes": "10",
-        "reverteu": 6198.47
+        "mes": "01",
+        "reverteu": 989.26
       },
       {
         "mes": "07",
         "reverteu": 4486.06
       },
       {
-        "mes": "08",
-        "reverteu": 4127.44
+        "mes": "04",
+        "reverteu": 3790.57
+      },
+      {
+        "mes": "10",
+        "reverteu": 6198.47
       },
       {
         "mes": "09",
         "reverteu": 3208.98
+      },
+      {
+        "mes": "03",
+        "reverteu": 6558.82
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 34150,
     "0": [
       {
@@ -5810,82 +5814,90 @@
         "reverteu": 8840.89
       },
       {
-        "mes": "10",
-        "reverteu": 10265.03
-      },
-      {
-        "mes": "09",
-        "reverteu": 9187.84
-      },
-      {
-        "mes": "03",
-        "reverteu": 13180.97
-      },
-      {
-        "mes": "07",
-        "reverteu": 8850.56
-      },
-      {
         "mes": "11",
         "reverteu": 7193.32
       },
       {
-        "mes": "08",
-        "reverteu": 8179.06
-      },
-      {
-        "mes": "01",
-        "reverteu": 1308.77
-      },
-      {
-        "mes": "06",
-        "reverteu": 8891.43
+        "mes": "12",
+        "reverteu": 7121.26
       },
       {
         "mes": "04",
         "reverteu": 6228.53
       },
       {
+        "mes": "07",
+        "reverteu": 8850.56
+      },
+      {
+        "mes": "01",
+        "reverteu": 1545.54
+      },
+      {
+        "mes": "10",
+        "reverteu": 10265.03
+      },
+      {
         "mes": "02",
         "reverteu": 6931.73
       },
       {
-        "mes": "12",
-        "reverteu": 7121.26
+        "mes": "03",
+        "reverteu": 13180.97
+      },
+      {
+        "mes": "06",
+        "reverteu": 8891.43
+      },
+      {
+        "mes": "09",
+        "reverteu": 9187.84
+      },
+      {
+        "mes": "08",
+        "reverteu": 8179.06
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 34916,
     "0": [
+      {
+        "mes": "03",
+        "reverteu": 6067.54
+      },
+      {
+        "mes": "07",
+        "reverteu": 4610.65
+      },
       {
         "mes": "12",
         "reverteu": 3718.07
       },
       {
-        "mes": "06",
-        "reverteu": 3974.12
+        "mes": "08",
+        "reverteu": 3178.5
       },
       {
-        "mes": "11",
-        "reverteu": 5040.66
+        "mes": "01",
+        "reverteu": 415.63
       },
       {
         "mes": "04",
         "reverteu": 3960.2
       },
       {
-        "mes": "03",
-        "reverteu": 6067.54
-      },
-      {
-        "mes": "10",
-        "reverteu": 6028.64
+        "mes": "11",
+        "reverteu": 5040.66
       },
       {
         "mes": "02",
         "reverteu": 3836.23
+      },
+      {
+        "mes": "06",
+        "reverteu": 3974.12
       },
       {
         "mes": "05",
@@ -5896,42 +5908,26 @@
         "reverteu": 4485.17
       },
       {
-        "mes": "01",
-        "reverteu": 342.84
-      },
-      {
-        "mes": "08",
-        "reverteu": 3178.5
-      },
-      {
-        "mes": "07",
-        "reverteu": 4610.65
+        "mes": "10",
+        "reverteu": 6028.64
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 35254,
     "0": [
       {
-        "mes": "01",
-        "reverteu": 528.25
-      },
-      {
-        "mes": "02",
-        "reverteu": 6586.65
+        "mes": "08",
+        "reverteu": 5453.51
       },
       {
         "mes": "09",
         "reverteu": 6557.19
       },
       {
-        "mes": "04",
-        "reverteu": 4816.58
-      },
-      {
-        "mes": "06",
-        "reverteu": 7431.65
+        "mes": "07",
+        "reverteu": 7600.23
       },
       {
         "mes": "10",
@@ -5942,67 +5938,39 @@
         "reverteu": 6434.0
       },
       {
-        "mes": "08",
-        "reverteu": 5453.51
+        "mes": "05",
+        "reverteu": 9713.81
+      },
+      {
+        "mes": "06",
+        "reverteu": 7431.65
       },
       {
         "mes": "11",
         "reverteu": 5601.99
       },
       {
-        "mes": "05",
-        "reverteu": 9713.81
-      },
-      {
         "mes": "03",
         "reverteu": 9567.41
       },
       {
-        "mes": "07",
-        "reverteu": 7600.23
+        "mes": "04",
+        "reverteu": 4816.58
+      },
+      {
+        "mes": "02",
+        "reverteu": 6586.65
+      },
+      {
+        "mes": "01",
+        "reverteu": 1055.47
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 35491,
     "0": [
-      {
-        "mes": "09",
-        "reverteu": 1338.89
-      },
-      {
-        "mes": "08",
-        "reverteu": 1174.31
-      },
-      {
-        "mes": "05",
-        "reverteu": 1337.11
-      },
-      {
-        "mes": "07",
-        "reverteu": 1232.48
-      },
-      {
-        "mes": "06",
-        "reverteu": 1426.12
-      },
-      {
-        "mes": "11",
-        "reverteu": 1081.08
-      },
-      {
-        "mes": "02",
-        "reverteu": 1254.72
-      },
-      {
-        "mes": "01",
-        "reverteu": 55.9
-      },
-      {
-        "mes": "10",
-        "reverteu": 1365.27
-      },
       {
         "mes": "03",
         "reverteu": 1623.11
@@ -6014,40 +5982,76 @@
       {
         "mes": "12",
         "reverteu": 1030.42
+      },
+      {
+        "mes": "07",
+        "reverteu": 1232.48
+      },
+      {
+        "mes": "09",
+        "reverteu": 1338.89
+      },
+      {
+        "mes": "01",
+        "reverteu": 109.04
+      },
+      {
+        "mes": "06",
+        "reverteu": 1426.12
+      },
+      {
+        "mes": "11",
+        "reverteu": 1081.08
+      },
+      {
+        "mes": "08",
+        "reverteu": 1174.31
+      },
+      {
+        "mes": "10",
+        "reverteu": 1365.27
+      },
+      {
+        "mes": "05",
+        "reverteu": 1337.11
+      },
+      {
+        "mes": "02",
+        "reverteu": 1254.72
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 35785,
     "0": [
       {
+        "mes": "10",
+        "reverteu": 5051.21
+      },
+      {
+        "mes": "02",
+        "reverteu": 3374.51
+      },
+      {
         "mes": "07",
         "reverteu": 3920.17
-      },
-      {
-        "mes": "11",
-        "reverteu": 4185.7
-      },
-      {
-        "mes": "01",
-        "reverteu": 662.68
-      },
-      {
-        "mes": "12",
-        "reverteu": 3467.55
       },
       {
         "mes": "05",
         "reverteu": 5449.23
       },
       {
-        "mes": "03",
-        "reverteu": 4951.55
+        "mes": "01",
+        "reverteu": 872.28
       },
       {
-        "mes": "10",
-        "reverteu": 5051.21
+        "mes": "12",
+        "reverteu": 3467.55
+      },
+      {
+        "mes": "03",
+        "reverteu": 4951.55
       },
       {
         "mes": "06",
@@ -6062,66 +6066,66 @@
         "reverteu": 3668.41
       },
       {
-        "mes": "09",
-        "reverteu": 3564.49
+        "mes": "11",
+        "reverteu": 4185.7
       },
       {
-        "mes": "02",
-        "reverteu": 3374.51
+        "mes": "09",
+        "reverteu": 3564.49
       }
     ]
   },
   {
-    "data": "20210106",
+    "data": "20210107",
     "cod_anf": 35858,
     "0": [
       {
-        "mes": "08",
-        "reverteu": 2875.22
-      },
-      {
-        "mes": "04",
-        "reverteu": 2836.45
-      },
-      {
-        "mes": "06",
-        "reverteu": 2506.51
-      },
-      {
-        "mes": "10",
-        "reverteu": 4023.11
-      },
-      {
-        "mes": "12",
-        "reverteu": 2840.86
+        "mes": "05",
+        "reverteu": 2425.48
       },
       {
         "mes": "03",
         "reverteu": 3662.9
       },
       {
-        "mes": "05",
-        "reverteu": 2425.48
-      },
-      {
-        "mes": "09",
-        "reverteu": 2906.89
-      },
-      {
-        "mes": "02",
-        "reverteu": 2954.47
+        "mes": "11",
+        "reverteu": 2953.95
       },
       {
         "mes": "07",
         "reverteu": 2923.92
       },
       {
-        "mes": "01",
-        "reverteu": 440.17
+        "mes": "08",
+        "reverteu": 2875.22
       },
       {
-        "mes": "11",
-        "reverteu": 2953.95
+        "mes": "01",
+        "reverteu": 517.83
+      },
+      {
+        "mes": "02",
+        "reverteu": 2954.47
+      },
+      {
+        "mes": "12",
+        "reverteu": 2840.86
+      },
+      {
+        "mes": "10",
+        "reverteu": 4023.11
+      },
+      {
+        "mes": "04",
+        "reverteu": 2836.45
+      },
+      {
+        "mes": "09",
+        "reverteu": 2906.89
+      },
+      {
+        "mes": "06",
+        "reverteu": 2506.51
       }
     ]
   }
