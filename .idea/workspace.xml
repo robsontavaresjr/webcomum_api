@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a8d10147-f0f6-4cbe-a55f-332abcf2c8ed" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/cardex_plata.csv" beforeDir="false" afterPath="$PROJECT_DIR$/static/cardex_plata.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/cardex_tri.csv" beforeDir="false" afterPath="$PROJECT_DIR$/static/cardex_tri.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -236,9 +234,10 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1416" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="1176" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14322917" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.171875" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -250,7 +249,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32912722" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32912722" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.3900383" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.47793427" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
