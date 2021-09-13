@@ -10,7 +10,7 @@ def get_companies():
     return json.dumps(companies)
 
 
-@api.route('/', methods=['GET'])
+@api.route('/kuanto_kusta_aa.xml', methods=['GET'])
 def sitemap():
     return send_from_directory(api.static_folder, 'kuanto_kusta.xml')
 
